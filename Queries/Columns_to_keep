@@ -1,0 +1,13 @@
+Select * from import_matches_a;
+
+Select a.match_date,a.year,a.country,a.city,b.Stadium,b.Attendance as "attendance", a.stage,
+b."Home Team Name" as "home_name",b."Home Team Initials" as "home_init", 
+b."Away Team Name" as "away_name", b."Away Team Initials" as "away_init",
+b."Half-time Home Goals" as "home_score_45", b."Half-time Away Goals" as "away_score_45", 
+b."Home Team Goals" as "home_score_final", b."Away Team Goals" as "away_score_final", 
+b."Winning Team" as "winner", b.MatchID as "matchID", b.RoundID as "roundID" from  import_matches_a a
+join import_matches_b b on ((a.match_date=b."Match Date") AND 
+						   ((a.home_team=b."Home Team Name") OR 
+							(a.home_team=b."Away Team Name") OR 
+							(a.away_team=b."Home Team Name") OR 
+							(a.away_team=b."Away Team Name")));

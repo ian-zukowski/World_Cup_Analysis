@@ -1,0 +1,8 @@
+select a.year, count(a.year) from import_matches_a a
+join import_matches_b b on ((a.match_date=b."Match Date") AND 
+						   ((a.home_team=b."Home Team Name") OR 
+							(a.home_team=b."Away Team Name") OR 
+							(a.away_team=b."Home Team Name") OR 
+							(a.away_team=b."Away Team Name")))
+group by a.year
+order by a.year;

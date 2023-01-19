@@ -1,0 +1,853 @@
+"match_date","year","country","city","stadium","attendance","stage","home_name","home_init","away_name","away_init","home_score_45","away_score_45","home_score_final","away_score_final","winner","matchID","roundID"
+"1930-07-13",1930,"Uruguay","Montevideo","Pocitos",4444,"Group 1","France","FRA","Mexico","MEX",3,0,4,1,"France",1096,201
+"1930-07-13",1930,"Uruguay","Montevideo","Parque Central",18346,"Group 4","United States","USA","Belgium","BEL",2,0,3,0,"USA",1090,201
+"1930-07-14",1930,"Uruguay","Montevideo","Parque Central",24059,"Group 2","Yugoslavia","YUG","Brazil","BRA",2,0,2,1,"Yugoslavia",1093,201
+"1930-07-14",1930,"Uruguay","Montevideo","Pocitos",2549,"Group 3","Romania","ROU","Peru","PER",1,0,3,1,"Romania",1098,201
+"1930-07-15",1930,"Uruguay","Montevideo","Parque Central",23409,"Group 1","Argentina","ARG","France","FRA",0,0,1,0,"Argentina",1085,201
+"1930-07-16",1930,"Uruguay","Montevideo","Parque Central",9249,"Group 1","Chile","CHI","Mexico","MEX",1,0,3,0,"Chile",1095,201
+"1930-07-17",1930,"Uruguay","Montevideo","Parque Central",18306,"Group 2","Yugoslavia","YUG","Bolivia","BOL",0,0,4,0,"Yugoslavia",1092,201
+"1930-07-17",1930,"Uruguay","Montevideo","Parque Central",18306,"Group 4","United States","USA","Paraguay","PAR",2,0,3,0,"USA",1097,201
+"1930-07-18",1930,"Uruguay","Montevideo","Estadio Centenario",57735,"Group 3","Uruguay","URU","Peru","PER",0,0,1,0,"Uruguay",1099,201
+"1930-07-19",1930,"Uruguay","Montevideo","Estadio Centenario",2000,"Group 1","Chile","CHI","France","FRA",0,0,1,0,"Chile",1094,201
+"1930-07-19",1930,"Uruguay","Montevideo","Estadio Centenario",42100,"Group 1","Argentina","ARG","Mexico","MEX",3,1,6,3,"Argentina",1086,201
+"1930-07-20",1930,"Uruguay","Montevideo","Estadio Centenario",25466,"Group 2","Brazil","BRA","Bolivia","BOL",1,0,4,0,"Brazil",1091,201
+"1930-07-20",1930,"Uruguay","Montevideo","Estadio Centenario",12000,"Group 4","Paraguay","PAR","Belgium","BEL",1,0,1,0,"Paraguay",1089,201
+"1930-07-21",1930,"Uruguay","Montevideo","Estadio Centenario",70022,"Group 3","Uruguay","URU","Romania","ROU",4,0,4,0,"Uruguay",1100,201
+"1930-07-22",1930,"Uruguay","Montevideo","Estadio Centenario",41459,"Group 1","Argentina","ARG","Chile","CHI",2,1,3,1,"Argentina",1084,201
+"1930-07-26",1930,"Uruguay","Montevideo","Estadio Centenario",72886,"Semifinals","Argentina","ARG","United States","USA",1,0,6,1,"Argentina",1088,202
+"1930-07-27",1930,"Uruguay","Montevideo","Estadio Centenario",79867,"Semifinals","Uruguay","URU","FR Yugoslavia","YUG",3,1,6,1,"Uruguay",1101,202
+"1930-07-30",1930,"Uruguay","Montevideo","Estadio Centenario",68346,"Final","Uruguay","URU","Argentina","ARG",1,2,4,2,"Uruguay",1087,405
+"1934-05-27",1934,"Italy","Turin","Stadio Benito Mussolini",16000,"Round of 16","Austria","AUT","France","FRA",0,0,3,2,"Austria",1104,204
+"1934-05-27",1934,"Italy","Naples","Giorgio Ascarelli",9000,"Round of 16","Hungary","HUN","Egypt","EGY",2,2,4,2,"Hungary",1119,204
+"1934-05-27",1934,"Italy","Milan","San Siro",33000,"Round of 16","Switzerland","SUI","Netherlands","NED",2,1,3,2,"Switzerland",1133,204
+"1934-05-27",1934,"Italy","Bologna","Littorale",14000,"Round of 16","Sweden","SWE","Argentina","ARG",1,1,3,2,"Sweden",1102,204
+"1934-05-27",1934,"Italy","Florence","Giovanni Berta",8000,"Round of 16","Germany","GER","Belgium","BEL",1,2,5,2,"Germany",1108,204
+"1934-05-27",1934,"Italy","Genoa","Luigi Ferraris",21000,"Round of 16","Spain","ESP","Brazil","BRA",3,0,3,1,"Spain",1111,204
+"1934-05-27",1934,"Italy","Rome","Nazionale PNF",25000,"Round of 16","Italy","ITA","United States","USA",3,0,7,1,"Italy",1135,204
+"1934-05-27",1934,"Italy","Trieste","Littorio",9000,"Round of 16","Czechoslovakia","TCH","Romania","ROU",0,1,2,1,"Czechoslovakia",1141,204
+"1934-05-31",1934,"Italy","Turin","Stadio Benito Mussolini",12000,"Quarterfinals","Czechoslovakia","TCH","Switzerland","SUI",1,1,3,2,"Czechoslovakia",1143,418
+"1934-05-31",1934,"Italy","Milan","San Siro",3000,"Quarterfinals","Germany","GER","Sweden","SWE",0,0,2,1,"Germany",1129,418
+"1934-05-31",1934,"Italy","Florence","Giovanni Berta",35000,"Quarterfinals","Italy","ITA","Spain","ESP",0,0,1,1,"Draw: Italy",1122,418
+"1934-05-31",1934,"Italy","Bologna","Littorale",23000,"Quarterfinals","Austria","AUT","Hungary","HUN",1,0,2,1,"Austria",1106,418
+"1934-06-01",1934,"Italy","Florence","Giovanni Berta",43000,"Quarterfinals","Italy","ITA","Spain","ESP",1,0,1,0,"Italy",1123,418
+"1934-06-03",1934,"Italy","Milan","San Siro",35000,"Semifinals","Italy","ITA","Austria","AUT",1,0,1,0,"Italy",1107,3492
+"1934-06-03",1934,"Italy","Rome","Nazionale PNF",15000,"Semifinals","Czechoslovakia","TCH","Germany","GER",1,0,3,1,"Czechoslovakia",1130,3492
+"1934-06-07",1934,"Italy","Naples","Giorgio Ascarelli",7000,"Third place","Germany","GER","Austria","AUT",3,1,3,2,"Germany",1105,3491
+"1934-06-10",1934,"Italy","Rome","Nazionale PNF",55000,"Final","Italy","ITA","Czechoslovakia","TCH",0,0,2,1,"Italy",1134,3490
+"1938-06-04",1938,"France","Paris","Parc des Princes",27152,"Round of 16","Switzerland","SUI","Germany","GER",0,0,1,1,"Draw: Switzerland",1165,206
+"1938-06-05",1938,"France","Reims","Velodrome Municipale",9000,"Round of 16","Hungary","HUN","Dutch West Indies","INH",4,0,6,0,"Hungary",1173,206
+"1938-06-05",1938,"France","Colombes","Stade Olympique",30454,"Round of 16","France","FRA","Belgium","BEL",2,1,3,1,"France",1146,206
+"1938-06-05",1938,"France","Toulouse","Stade Municipal",7000,"Round of 16","Cuba","CUB","Romania","ROU",0,0,3,3,"Draw: Cuba",1156,206
+"1938-06-05",1938,"France","Marseille","Stade V�lodrome",19000,"Round of 16","Italy","ITA","Norway","NOR",0,0,2,1,"Italy",1179,206
+"1938-06-05",1938,"France","Strasbourg","Stade de la Meinau",13452,"Round of 16","Brazil","BRA","Poland","POL",0,0,6,5,"Brazil",1150,206
+"1938-06-05",1938,"France","Le Havre","Cavee Verte",11000,"Round of 16","Czechoslovakia","TCH","Netherlands","NED",0,0,3,0,"Czechoslovakia",1172,206
+"1938-06-09",1938,"France","Toulouse","Stade Municipal",8000,"Round of 16","Cuba","CUB","Romania","ROU",0,1,2,1,"Cuba",1157,206
+"1938-06-09",1938,"France","Paris","Parc des Princes",20025,"Round of 16","Switzerland","SUI","Germany","GER",1,2,4,2,"Switzerland",1166,206
+"1938-06-12",1938,"France","Bordeaux","Stade du Parc Lescure",22021,"Quarterfinals","Brazil","BRA","Czechoslovakia","TCH",0,0,1,1,"Draw: Brazil",1152,429
+"1938-06-12",1938,"France","Lille","Victor Boucquey",15000,"Quarterfinals","Hungary","HUN","Switzerland","SUI",1,0,2,0,"Hungary",1175,429
+"1938-06-12",1938,"France","Antibes","Fort Carree",7000,"Quarterfinals","Sweden","SWE","Cuba","CUB",4,0,8,0,"Sweden",1158,429
+"1938-06-12",1938,"France","Colombes","Stade Olympique",58455,"Quarterfinals","Italy","ITA","France","FRA",1,1,3,1,"Italy",1164,429
+"1938-06-14",1938,"France","Bordeaux","Stade du Parc Lescure",18141,"Quarterfinals","Brazil","BRA","Czechoslovakia","TCH",0,1,2,1,"Brazil",1153,429
+"1938-06-16",1938,"France","Paris","Parc des Princes",20000,"Semifinals","Hungary","HUN","Sweden","SWE",3,1,5,1,"Hungary",1176,3489
+"1938-06-16",1938,"France","Marseille","Stade V�lodrome",33000,"Semifinals","Italy","ITA","Brazil","BRA",0,0,2,1,"Italy",1149,3489
+"1938-06-19",1938,"France","Bordeaux","Stade du Parc Lescure",12000,"Third place","Brazil","BRA","Sweden","SWE",1,2,4,2,"Brazil",1151,3488
+"1938-06-19",1938,"France","Colombes","Stade Olympique",45000,"Final","Italy","ITA","Hungary","HUN",3,1,4,2,"Italy",1174,3487
+"1950-06-24",1950,"Brazil","Rio de Janeiro","Maracan� - Est�dio Jornalista M�rio Filho",81649,"Group 1","Brazil","BRA","Mexico","MEX",1,0,4,0,"Brazil",1187,208
+"1950-06-25",1950,"Brazil","Rio de Janeiro","Maracan� - Est�dio Jornalista M�rio Filho",29703,"Group 2","England","ENG","Chile","CHI",1,0,2,0,"England",1192,208
+"1950-06-25",1950,"Brazil","Curitiba","Durival de Brito",9511,"Group 2","Spain","ESP","United States","USA",0,1,3,1,"Spain",1208,208
+"1950-06-25",1950,"Brazil","São Paulo","Pacaembu",36502,"Group 3","Sweden","SWE","Italy","ITA",2,1,3,2,"Sweden",1219,208
+"1950-06-25",1950,"Brazil","Belo Horizonte","Independencia",7336,"Group 1","Yugoslavia","YUG","Switzerland","SUI",0,0,3,0,"Yugoslavia",1230,208
+"1950-06-28",1950,"Brazil","São Paulo","Pacaembu",42032,"Group 1","Brazil","BRA","Switzerland","SUI",2,1,2,2,"Draw: Brazil",1188,208
+"1950-06-28",1950,"Brazil","Porto Alegre","Eucaliptos",11078,"Group 1","Yugoslavia","YUG","Mexico","MEX",2,0,4,1,"Yugoslavia",1225,208
+"1950-06-29",1950,"Brazil","Rio de Janeiro","Maracan� - Est�dio Jornalista M�rio Filho",19790,"Group 2","Spain","ESP","Chile","CHI",2,0,2,0,"Spain",1193,208
+"1950-06-29",1950,"Brazil","Curitiba","Durival de Brito",7903,"Group 3","Sweden","SWE","Paraguay","PAR",2,1,2,2,"Draw: Sweden",1228,208
+"1950-06-29",1950,"Brazil","Belo Horizonte","Independencia",10151,"Group 2","United States","USA","England","ENG",1,0,1,0,"USA",1202,208
+"1950-07-01",1950,"Brazil","Rio de Janeiro","Maracan� - Est�dio Jornalista M�rio Filho",142429,"Group 1","Brazil","BRA","FR Yugoslavia","YUG",1,0,2,0,"Brazil",1191,208
+"1950-07-02",1950,"Brazil","Rio de Janeiro","Maracan� - Est�dio Jornalista M�rio Filho",74462,"Group 2","Spain","ESP","England","ENG",0,0,1,0,"Spain",1199,208
+"1950-07-02",1950,"Brazil","São Paulo","Pacaembu",25811,"Group 3","Italy","ITA","Paraguay","PAR",1,0,2,0,"Italy",1218,208
+"1950-07-02",1950,"Brazil","Belo Horizonte","Independencia",5284,"Group 4","Uruguay","URU","Bolivia","BOL",4,0,8,0,"Uruguay",1185,208
+"1950-07-02",1950,"Brazil","Porto Alegre","Eucaliptos",3580,"Group 1","Switzerland","SUI","Mexico","MEX",2,0,2,1,"Switzerland",1222,208
+"1950-07-02",1950,"Brazil","Recife","Ilha do Retiro",8501,"Group 2","Chile","CHI","United States","USA",2,0,5,2,"Chile",1194,208
+"1950-07-09",1950,"Brazil","São Paulo","Pacaembu",44802,"Final Round","Uruguay","URU","Spain","ESP",1,2,2,2,"Draw: Uruguay",1207,209
+"1950-07-09",1950,"Brazil","Rio de Janeiro","Maracan� - Est�dio Jornalista M�rio Filho",138886,"Final Round","Brazil","BRA","Sweden","SWE",3,0,7,1,"Brazil",1189,209
+"1950-07-13",1950,"Brazil","Rio de Janeiro","Maracan� - Est�dio Jornalista M�rio Filho",152772,"Final Round","Brazil","BRA","Spain","ESP",3,0,6,1,"Brazil",1186,209
+"1950-07-13",1950,"Brazil","São Paulo","Pacaembu",7987,"Final Round","Uruguay","URU","Sweden","SWE",1,2,3,2,"Uruguay",1231,209
+"1950-07-16",1950,"Brazil","São Paulo","Pacaembu",11227,"Final Round","Sweden","SWE","Spain","ESP",2,0,3,1,"Sweden",1206,209
+"1950-07-16",1950,"Brazil","Rio de Janeiro","Maracan� - Est�dio Jornalista M�rio Filho",173850,"Final Round","Uruguay","URU","Brazil","BRA",0,0,2,1,"Uruguay",1190,209
+"1954-06-16",1954,"Switzerland","Berne","Wankdorf Stadium",20500,"Group 3","Uruguay","URU","Czechoslovakia","TCH",0,0,2,0,"Uruguay",1315,211
+"1954-06-16",1954,"Switzerland","Zürich","Hardturm",25000,"Group 3","Austria","AUT","Scotland","SCO",1,0,1,0,"Austria",1236,211
+"1954-06-16",1954,"Switzerland","Geneva","Charmilles",13470,"Group 1","Brazil","BRA","Mexico","MEX",4,0,5,0,"Brazil",1249,211
+"1954-06-16",1954,"Switzerland","Lausanne","La Pontaise",16000,"Group 1","Yugoslavia","YUG","France","FRA",1,0,1,0,"Yugoslavia",1276,211
+"1954-06-17",1954,"Switzerland","Berne","Wankdorf Stadium",28000,"Group 2","West Germany","FRG","Turkey","TUR",1,1,4,1,"Germany FR",1283,211
+"1954-06-17",1954,"Switzerland","Zürich","Hardturm",13000,"Group 2","Hungary","HUN","South Korea","KOR",4,0,9,0,"Hungary",1294,211
+"1954-06-17",1954,"Switzerland","Basel","St. Jakob",14000,"Group 4","England","ENG","Belgium","BEL",0,0,4,4,"Draw: England",1240,211
+"1954-06-17",1954,"Switzerland","Lausanne","La Pontaise",43000,"Group 4","Switzerland","SUI","Italy","ITA",1,1,2,1,"Switzerland",1300,211
+"1954-06-19",1954,"Switzerland","Basel","St. Jakob",34000,"Group 3","Uruguay","URU","Scotland","SCO",2,0,7,0,"Uruguay",1313,211
+"1954-06-19",1954,"Switzerland","Zürich","Hardturm",26000,"Group 3","Austria","AUT","Czechoslovakia","TCH",4,0,5,0,"Austria",1238,211
+"1954-06-19",1954,"Switzerland","Geneva","Charmilles",19000,"Group 1","France","FRA","Mexico","MEX",1,0,3,2,"France",1275,211
+"1954-06-19",1954,"Switzerland","Lausanne","La Pontaise",24637,"Group 1","Brazil","BRA","FR Yugoslavia","YUG",0,0,1,1,"Draw: Brazil",1252,211
+"1954-06-20",1954,"Switzerland","Basel","St. Jakob",56000,"Group 2","Hungary","HUN","West Germany","FRG",3,1,8,3,"Hungary",1277,211
+"1954-06-20",1954,"Switzerland","Geneva","Charmilles",4000,"Group 2","Turkey","TUR","South Korea","KOR",4,0,7,0,"Turkey",1304,211
+"1954-06-20",1954,"Switzerland","Berne","Wankdorf Stadium",43500,"Group 4","England","ENG","Switzerland","SUI",1,0,2,0,"England",1263,211
+"1954-06-20",1954,"Switzerland","Lugano","Comunale di Cornaredo",24000,"Group 4","Italy","ITA","Belgium","BEL",1,0,4,1,"Italy",1243,211
+"1954-06-23",1954,"Switzerland","Zürich","Hardturm",17000,"Group 2","West Germany","FRG","Turkey","TUR",3,1,7,2,"Germany FR",1284,211
+"1954-06-23",1954,"Switzerland","Basel","St. Jakob",30000,"Group 4","Switzerland","SUI","Italy","ITA",1,0,4,1,"Switzerland",1301,211
+"1954-06-26",1954,"Switzerland","Basel","St. Jakob",28000,"Quarterfinals","Uruguay","URU","England","ENG",2,1,4,2,"Uruguay",1264,212
+"1954-06-26",1954,"Switzerland","Lausanne","La Pontaise",35000,"Quarterfinals","Austria","AUT","Switzerland","SUI",5,4,7,5,"Austria",1237,212
+"1954-06-27",1954,"Switzerland","Geneva","Charmilles",17000,"Quarterfinals","West Germany","FRG","FR Yugoslavia","YUG",1,0,2,0,"Germany FR",1285,212
+"1954-06-27",1954,"Switzerland","Berne","Wankdorf Stadium",40000,"Quarterfinals","Hungary","HUN","Brazil","BRA",2,1,4,2,"Hungary",1248,212
+"1954-06-30",1954,"Switzerland","Basel","St. Jakob",58000,"Semifinals","West Germany","FRG","Austria","AUT",1,0,6,1,"Germany FR",1233,462
+"1954-06-30",1954,"Switzerland","Lausanne","La Pontaise",45000,"Semifinals","Hungary","HUN","Uruguay","URU",0,0,4,2,"Hungary",1295,462
+"1954-07-03",1954,"Switzerland","Zürich","Hardturm",32000,"Third place","Austria","AUT","Uruguay","URU",1,1,3,1,"Austria",1239,3485
+"1954-07-04",1954,"Switzerland","Berne","Wankdorf Stadium",62500,"Final","West Germany","FRG","Hungary","HUN",2,2,3,2,"Germany FR",1278,3484
+"1958-06-08",1958,"Sweden","Solna","Rasunda Stadium",34107,"Group 3","Sweden","SWE","Mexico","MEX",1,0,3,0,"Sweden",1415,220
+"1958-06-08",1958,"Sweden","Gothenburg","Nya Ullevi",49348,"Group 4","Soviet Union","URS","England","ENG",1,0,2,2,"Draw: Soviet Union",1372,220
+"1958-06-08",1958,"Sweden","Malmö","Malmo Stadion",31156,"Group 1","Argentina","ARG","West Germany","FRG",1,2,1,3,"Germany FR",1323,220
+"1958-06-08",1958,"Sweden","Sandviken","Jarnvallen",15343,"Group 3","Hungary","HUN","Wales","WAL",1,1,1,1,"Draw: Hungary",1407,220
+"1958-06-08",1958,"Sweden","Norrköping","Idrottsparken",16518,"Group 2","France","FRA","Paraguay","PAR",2,2,7,3,"France",1386,220
+"1958-06-08",1958,"Sweden","Västerås","Arosvallen",9591,"Group 2","Yugoslavia","YUG","Scotland","SCO",1,0,1,1,"Draw: Yugoslavia",1434,220
+"1958-06-08",1958,"Sweden","Uddevalla","Rimnersvallen",17788,"Group 4","Brazil","BRA","Austria","AUT",1,0,3,0,"Brazil",1326,220
+"1958-06-08",1958,"Sweden","Halmstad","Orjans Vall",10647,"Group 1","Northern Ireland","NIR","Czechoslovakia","TCH",1,0,1,0,"Northern Ireland",1421,220
+"1958-06-11",1958,"Sweden","Gothenburg","Nya Ullevi",40895,"Group 4","Brazil","BRA","England","ENG",0,0,0,0,"Draw: Brazil",1339,220
+"1958-06-11",1958,"Sweden","Solna","Rasunda Stadium",15150,"Group 3","Mexico","MEX","Wales","WAL",0,1,1,1,"Draw: Mexico",1418,220
+"1958-06-11",1958,"Sweden","Norrköping","Idrottsparken",11665,"Group 2","Paraguay","PAR","Scotland","SCO",2,1,3,2,"Paraguay",1423,220
+"1958-06-11",1958,"Sweden","Västerås","Arosvallen",12217,"Group 2","Yugoslavia","YUG","France","FRA",1,1,3,2,"Yugoslavia",1388,220
+"1958-06-11",1958,"Sweden","Borås","Ryavallen",21239,"Group 4","Soviet Union","URS","Austria","AUT",1,0,2,0,"Soviet Union",1332,220
+"1958-06-11",1958,"Sweden","Helsingborg","Olympia Stadium",25000,"Group 1","West Germany","FRG","Czechoslovakia","TCH",0,2,2,2,"Draw: Germany FR",1391,220
+"1958-06-11",1958,"Sweden","Halmstad","Orjans Vall",14174,"Group 1","Argentina","ARG","Northern Ireland","NIR",1,1,3,1,"Argentina",1324,220
+"1958-06-12",1958,"Sweden","Solna","Rasunda Stadium",38850,"Group 3","Sweden","SWE","Hungary","HUN",1,0,2,1,"Sweden",1406,220
+"1958-06-15",1958,"Sweden","Solna","Rasunda Stadium",30287,"Group 3","Sweden","SWE","Wales","WAL",0,0,0,0,"Draw: Sweden",1438,220
+"1958-06-15",1958,"Sweden","Gothenburg","Nya Ullevi",50928,"Group 4","Brazil","BRA","Soviet Union","URS",1,0,2,0,"Brazil",1344,220
+"1958-06-15",1958,"Sweden","Malmö","Malmo Stadion",21990,"Group 1","West Germany","FRG","Northern Ireland","NIR",1,1,2,2,"Draw: Germany FR",1389,220
+"1958-06-15",1958,"Sweden","Sandviken","Jarnvallen",13300,"Group 3","Hungary","HUN","Mexico","MEX",1,0,4,0,"Hungary",1403,220
+"1958-06-15",1958,"Sweden","Eskilstuna","Tunavallen",13103,"Group 2","Paraguay","PAR","FR Yugoslavia","YUG",1,2,3,3,"Draw: Paraguay",1426,220
+"1958-06-15",1958,"Sweden","Örebro","Eyravallen",13554,"Group 2","France","FRA","Scotland","SCO",2,0,2,1,"France",1387,220
+"1958-06-15",1958,"Sweden","Borås","Ryavallen",15872,"Group 4","England","ENG","Austria","AUT",0,1,2,2,"Draw: England",1327,220
+"1958-06-15",1958,"Sweden","Helsingborg","Olympia Stadium",16418,"Group 1","Czechoslovakia","TCH","Argentina","ARG",3,0,6,1,"Czechoslovakia",1325,220
+"1958-06-17",1958,"Sweden","Gothenburg","Nya Ullevi",23182,"Group 4","Soviet Union","URS","England","ENG",0,0,1,0,"Soviet Union",1373,220
+"1958-06-17",1958,"Sweden","Malmö","Malmo Stadion",6196,"Group 1","Northern Ireland","NIR","Czechoslovakia","TCH",0,0,2,1,"Northern Ireland",1422,220
+"1958-06-17",1958,"Sweden","Solna","Rasunda Stadium",2823,"Group 3","Wales","WAL","Hungary","HUN",0,1,2,1,"Wales",1408,220
+"1958-06-19",1958,"Sweden","Gothenburg","Nya Ullevi",25923,"Quarterfinals","Brazil","BRA","Wales","WAL",0,0,1,0,"Brazil",1345,221
+"1958-06-19",1958,"Sweden","Malmö","Malmo Stadion",20055,"Quarterfinals","West Germany","FRG","FR Yugoslavia","YUG",1,0,1,0,"Germany FR",1392,221
+"1958-06-19",1958,"Sweden","Solna","Rasunda Stadium",31900,"Quarterfinals","Sweden","SWE","Soviet Union","URS",0,0,2,0,"Sweden",1437,221
+"1958-06-19",1958,"Sweden","Norrköping","Idrottsparken",11800,"Quarterfinals","France","FRA","Northern Ireland","NIR",1,0,4,0,"France",1385,221
+"1958-06-24",1958,"Sweden","Gothenburg","Nya Ullevi",49471,"Semifinals","Sweden","SWE","West Germany","FRG",1,1,3,1,"Sweden",1390,488
+"1958-06-24",1958,"Sweden","Solna","Rasunda Stadium",27100,"Semifinals","Brazil","BRA","France","FRA",2,1,5,2,"Brazil",1340,488
+"1958-06-28",1958,"Sweden","Gothenburg","Nya Ullevi",32483,"Third place","France","FRA","West Germany","FRG",3,1,6,3,"France",1382,3483
+"1958-06-29",1958,"Sweden","Solna","Rasunda Stadium",49737,"Final","Brazil","BRA","Sweden","SWE",2,1,5,2,"Brazil",1343,3482
+"1962-05-30",1962,"Chile","Arica","Carlos Dittborn",7908,"Group 1","Uruguay","URU","Colombia","COL",0,1,2,1,"Uruguay",1479,231
+"1962-05-30",1962,"Chile","Viña del Mar","Estadio Sausalito",10484,"Group 3","Brazil","BRA","Mexico","MEX",0,0,2,0,"Brazil",1461,231
+"1962-05-30",1962,"Chile","Rancagua","Estadio El Teniente-Codelco",7134,"Group 4","Argentina","ARG","Bulgaria","BUL",1,0,1,0,"Argentina",1447,231
+"1962-05-30",1962,"Chile","Santiago","Nacional",65006,"Group 2","Chile","CHI","Switzerland","SUI",1,1,3,1,"Chile",1473,231
+"1962-05-31",1962,"Chile","Arica","Carlos Dittborn",9622,"Group 1","Soviet Union","URS","FR Yugoslavia","YUG",0,0,2,0,"Soviet Union",1563,231
+"1962-05-31",1962,"Chile","Viña del Mar","Estadio Sausalito",12700,"Group 3","Czechoslovakia","TCH","Spain","ESP",0,0,1,0,"Czechoslovakia",1498,231
+"1962-05-31",1962,"Chile","Rancagua","Estadio El Teniente-Codelco",7938,"Group 4","Hungary","HUN","England","ENG",1,0,2,1,"Hungary",1490,231
+"1962-05-31",1962,"Chile","Santiago","Nacional",65440,"Group 2","West Germany","FRG","Italy","ITA",0,0,0,0,"Draw: Germany FR",1507,231
+"1962-06-02",1962,"Chile","Arica","Carlos Dittborn",8829,"Group 1","Yugoslavia","YUG","Uruguay","URU",2,1,3,1,"Yugoslavia",1564,231
+"1962-06-02",1962,"Chile","Viña del Mar","Estadio Sausalito",14903,"Group 3","Brazil","BRA","Czechoslovakia","TCH",0,0,0,0,"Draw: Brazil",1462,231
+"1962-06-02",1962,"Chile","Rancagua","Estadio El Teniente-Codelco",9794,"Group 4","England","ENG","Argentina","ARG",2,0,3,1,"England",1450,231
+"1962-06-02",1962,"Chile","Santiago","Nacional",66057,"Group 2","Chile","CHI","Italy","ITA",0,0,2,0,"Chile",1472,231
+"1962-06-03",1962,"Chile","Arica","Carlos Dittborn",8040,"Group 1","Soviet Union","URS","Colombia","COL",3,1,4,4,"Draw: Soviet Union",1478,231
+"1962-06-03",1962,"Chile","Viña del Mar","Estadio Sausalito",11875,"Group 3","Spain","ESP","Mexico","MEX",0,0,1,0,"Spain",1497,231
+"1962-06-03",1962,"Chile","Rancagua","Estadio El Teniente-Codelco",7442,"Group 4","Hungary","HUN","Bulgaria","BUL",4,0,6,1,"Hungary",1470,231
+"1962-06-03",1962,"Chile","Santiago","Nacional",64922,"Group 2","West Germany","FRG","Switzerland","SUI",1,0,2,1,"Germany FR",1510,231
+"1962-06-06",1962,"Chile","Arica","Carlos Dittborn",9973,"Group 1","Soviet Union","URS","Uruguay","URU",1,0,2,1,"Soviet Union",1562,231
+"1962-06-06",1962,"Chile","Viña del Mar","Estadio Sausalito",18715,"Group 3","Brazil","BRA","Spain","ESP",0,1,2,1,"Brazil",1460,231
+"1962-06-06",1962,"Chile","Rancagua","Estadio El Teniente-Codelco",7945,"Group 4","Hungary","HUN","Argentina","ARG",0,0,0,0,"Draw: Hungary",1451,231
+"1962-06-06",1962,"Chile","Santiago","Nacional",67224,"Group 2","West Germany","FRG","Chile","CHI",1,0,2,0,"Germany FR",1471,231
+"1962-06-07",1962,"Chile","Arica","Carlos Dittborn",7167,"Group 1","Yugoslavia","YUG","Colombia","COL",2,0,5,0,"Yugoslavia",1480,231
+"1962-06-07",1962,"Chile","Viña del Mar","Estadio Sausalito",10648,"Group 3","Mexico","MEX","Czechoslovakia","TCH",2,1,3,1,"Mexico",1544,231
+"1962-06-07",1962,"Chile","Rancagua","Estadio El Teniente-Codelco",5700,"Group 4","England","ENG","Bulgaria","BUL",0,0,0,0,"Draw: England",1464,231
+"1962-06-07",1962,"Chile","Santiago","Nacional",59828,"Group 2","Italy","ITA","Switzerland","SUI",1,0,3,0,"Italy",1532,231
+"1962-06-10",1962,"Chile","Arica","Carlos Dittborn",17268,"Quarterfinals","Chile","CHI","Soviet Union","URS",2,1,2,1,"Chile",1474,232
+"1962-06-10",1962,"Chile","Viña del Mar","Estadio Sausalito",17736,"Quarterfinals","Brazil","BRA","England","ENG",1,1,3,1,"Brazil",1459,232
+"1962-06-10",1962,"Chile","Rancagua","Estadio El Teniente-Codelco",11690,"Quarterfinals","Czechoslovakia","TCH","Hungary","HUN",1,0,1,0,"Czechoslovakia",1525,232
+"1962-06-10",1962,"Chile","Santiago","Nacional",63324,"Quarterfinals","Yugoslavia","YUG","West Germany","FRG",0,0,1,0,"Yugoslavia",1511,232
+"1962-06-13",1962,"Chile","Viña del Mar","Estadio Sausalito",5890,"Semifinals","Czechoslovakia","TCH","FR Yugoslavia","YUG",0,0,3,1,"Czechoslovakia",1559,514
+"1962-06-13",1962,"Chile","Santiago","Nacional",76594,"Semifinals","Brazil","BRA","Chile","CHI",2,1,4,2,"Brazil",1458,514
+"1962-06-16",1962,"Chile","Santiago","Nacional",66697,"Third place","Chile","CHI","FR Yugoslavia","YUG",0,0,1,0,"Chile",1475,3481
+"1962-06-17",1962,"Chile","Santiago","Nacional",68679,"Final","Brazil","BRA","Czechoslovakia","TCH",1,1,3,1,"Brazil",1463,3480
+"1966-07-11",1966,"England","London","Wembley Stadium",87148,"Group 1","England","ENG","Uruguay","URU",0,0,0,0,"Draw: England",1636,238
+"1966-07-12",1966,"England","Sheffield","Hillsborough",36127,"Group 2","West Germany","FRG","Switzerland","SUI",3,0,5,0,"Germany FR",1656,238
+"1966-07-12",1966,"England","Liverpool","Goodison Park",47308,"Group 3","Brazil","BRA","Bulgaria","BUL",1,0,2,0,"Brazil",1596,238
+"1966-07-12",1966,"England","Middlesbrough","Ayresome Park",23006,"Group 4","Soviet Union","URS","North Korea","PRK",2,0,3,0,"Soviet Union",1710,238
+"1966-07-13",1966,"England","London","Wembley Stadium",69237,"Group 1","France","FRA","Mexico","MEX",0,0,1,1,"Draw: France",1650,238
+"1966-07-13",1966,"England","Manchester","Old Trafford Stadium",29886,"Group 3","Portugal","POR","Hungary","HUN",1,0,3,1,"Portugal",1675,238
+"1966-07-13",1966,"England","Birmingham","Villa Park",42738,"Group 2","Argentina","ARG","Spain","ESP",0,0,2,1,"Argentina",1578,238
+"1966-07-13",1966,"England","Sunderland","Roker Park Ground",27199,"Group 4","Italy","ITA","Chile","CHI",1,0,2,0,"Italy",1608,238
+"1966-07-15",1966,"England","London","White City",45662,"Group 1","Uruguay","URU","France","FRA",2,1,2,1,"Uruguay",1653,238
+"1966-07-15",1966,"England","Sheffield","Hillsborough",32028,"Group 2","Spain","ESP","Switzerland","SUI",0,1,2,1,"Spain",1641,238
+"1966-07-15",1966,"England","Liverpool","Goodison Park",51387,"Group 3","Hungary","HUN","Brazil","BRA",1,1,3,1,"Hungary",1597,238
+"1966-07-15",1966,"England","Middlesbrough","Ayresome Park",13792,"Group 4","North Korea","PRK","Chile","CHI",0,1,1,1,"Draw: Korea DPR",1609,238
+"1966-07-16",1966,"England","Manchester","Old Trafford Stadium",25438,"Group 3","Portugal","POR","Bulgaria","BUL",2,0,3,0,"Portugal",1602,238
+"1966-07-16",1966,"England","Birmingham","Villa Park",46587,"Group 2","West Germany","FRG","Argentina","ARG",0,0,0,0,"Draw: Germany FR",1579,238
+"1966-07-16",1966,"England","Sunderland","Roker Park Ground",27793,"Group 4","Soviet Union","URS","Italy","ITA",0,0,1,0,"Soviet Union",1682,238
+"1966-07-16",1966,"England","London","Wembley Stadium",92570,"Group 1","England","ENG","Mexico","MEX",1,0,2,0,"England",1634,238
+"1966-07-19",1966,"England","London","Wembley Stadium",61112,"Group 1","Uruguay","URU","Mexico","MEX",0,0,0,0,"Draw: Uruguay",1689,238
+"1966-07-19",1966,"England","Sheffield","Hillsborough",32127,"Group 2","Argentina","ARG","Switzerland","SUI",0,0,2,0,"Argentina",1582,238
+"1966-07-19",1966,"England","Liverpool","Goodison Park",58479,"Group 3","Portugal","POR","Brazil","BRA",2,0,3,1,"Portugal",1598,238
+"1966-07-19",1966,"England","Middlesbrough","Ayresome Park",17829,"Group 4","North Korea","PRK","Italy","ITA",1,0,1,0,"Korea DPR",1679,238
+"1966-07-20",1966,"England","London","Wembley Stadium",98270,"Group 1","England","ENG","France","FRA",1,0,2,0,"England",1632,238
+"1966-07-20",1966,"England","Manchester","Old Trafford Stadium",24129,"Group 3","Hungary","HUN","Bulgaria","BUL",2,1,3,1,"Hungary",1599,238
+"1966-07-20",1966,"England","Birmingham","Villa Park",42187,"Group 2","West Germany","FRG","Spain","ESP",1,1,2,1,"Germany FR",1637,238
+"1966-07-20",1966,"England","Sunderland","Roker Park Ground",16027,"Group 4","Soviet Union","URS","Chile","CHI",1,1,2,1,"Soviet Union",1610,238
+"1966-07-23",1966,"England","London","Wembley Stadium",90584,"Quarterfinals","England","ENG","Argentina","ARG",0,0,1,0,"England",1577,239
+"1966-07-23",1966,"England","Sheffield","Hillsborough",40007,"Quarterfinals","West Germany","FRG","Uruguay","URU",1,0,4,0,"Germany FR",1660,239
+"1966-07-23",1966,"England","Sunderland","Roker Park Ground",26844,"Quarterfinals","Soviet Union","URS","Hungary","HUN",1,0,2,1,"Soviet Union",1676,239
+"1966-07-23",1966,"England","Liverpool","Goodison Park",40248,"Quarterfinals","Portugal","POR","North Korea","PRK",2,3,5,3,"Portugal",1702,239
+"1966-07-25",1966,"England","Liverpool","Goodison Park",38273,"Semifinals","West Germany","FRG","Soviet Union","URS",1,0,2,1,"Germany FR",1659,536
+"1966-07-26",1966,"England","London","Wembley Stadium",94493,"Semifinals","England","ENG","Portugal","POR",1,0,2,1,"England",1635,536
+"1966-07-28",1966,"England","London","Wembley Stadium",87696,"Third place","Portugal","POR","Soviet Union","URS",1,1,2,1,"Portugal",1709,3479
+"1966-07-30",1966,"England","London","Wembley Stadium",96924,"Final","England","ENG","West Germany","FRG",0,0,4,2,"England",1633,3478
+"1970-05-31",1970,"Mexico","Mexico City","Estadio Azteca",107160,"Group 1","Mexico","MEX","Soviet Union","URS",0,0,0,0,"Draw: Mexico",1902,250
+"1970-06-02",1970,"Mexico","Puebla","Cuauhtemoc",20654,"Group 2","Uruguay","URU","Israel","ISR",1,0,2,0,"Uruguay",1881,250
+"1970-06-02",1970,"Mexico","León","Nou Camp - Estadio Le�n",13765,"Group 4","Peru","PER","Bulgaria","BUL",0,1,3,2,"Peru",1780,250
+"1970-06-02",1970,"Mexico","Guadalajara","Jalisco",50560,"Group 3","England","ENG","Romania","ROU",0,0,1,0,"England",1812,250
+"1970-06-03",1970,"Mexico","Toluca","Luis Dosal",13433,"Group 2","Italy","ITA","Sweden","SWE",1,0,1,0,"Italy",1883,250
+"1970-06-03",1970,"Mexico","León","Nou Camp - Estadio Le�n",12942,"Group 4","West Germany","FRG","Morocco","MAR",0,1,2,1,"Germany FR",1839,250
+"1970-06-03",1970,"Mexico","Guadalajara","Jalisco",52897,"Group 3","Brazil","BRA","Czechoslovakia","TCH",1,1,4,1,"Brazil",1770,250
+"1970-06-03",1970,"Mexico","Mexico City","Estadio Azteca",92205,"Group 1","Belgium","BEL","El Salvador","SLV",1,0,3,0,"Belgium",1747,250
+"1970-06-06",1970,"Mexico","Puebla","Cuauhtemoc",29968,"Group 2","Uruguay","URU","Italy","ITA",0,0,0,0,"Draw: Uruguay",1884,250
+"1970-06-06",1970,"Mexico","León","Nou Camp - Estadio Le�n",13537,"Group 4","Peru","PER","Morocco","MAR",0,0,3,0,"Peru",1893,250
+"1970-06-06",1970,"Mexico","Guadalajara","Jalisco",56818,"Group 3","Romania","ROU","Czechoslovakia","TCH",0,1,2,1,"Romania",1919,250
+"1970-06-06",1970,"Mexico","Mexico City","Estadio Azteca",95261,"Group 1","Soviet Union","URS","Belgium","BEL",1,0,4,1,"Soviet Union",1753,250
+"1970-06-07",1970,"Mexico","Toluca","Luis Dosal",9624,"Group 2","Sweden","SWE","Israel","ISR",0,0,1,1,"Draw: Sweden",1880,250
+"1970-06-07",1970,"Mexico","León","Nou Camp - Estadio Le�n",12710,"Group 4","West Germany","FRG","Bulgaria","BUL",2,1,5,2,"Germany FR",1774,250
+"1970-06-07",1970,"Mexico","Guadalajara","Jalisco",66843,"Group 3","Brazil","BRA","England","ENG",0,0,1,0,"Brazil",1764,250
+"1970-06-07",1970,"Mexico","Mexico City","Estadio Azteca",103058,"Group 1","Mexico","MEX","El Salvador","SLV",1,0,4,0,"Mexico",1820,250
+"1970-06-10",1970,"Mexico","Puebla","Cuauhtemoc",18163,"Group 2","Sweden","SWE","Uruguay","URU",0,0,1,0,"Sweden",1922,250
+"1970-06-10",1970,"Mexico","León","Nou Camp - Estadio Le�n",17875,"Group 4","West Germany","FRG","Peru","PER",3,1,3,1,"Germany FR",1840,250
+"1970-06-10",1970,"Mexico","Guadalajara","Jalisco",50804,"Group 3","Brazil","BRA","Romania","ROU",2,1,3,2,"Brazil",1769,250
+"1970-06-10",1970,"Mexico","Mexico City","Estadio Azteca",89979,"Group 1","Soviet Union","URS","El Salvador","SLV",0,0,2,0,"Soviet Union",1823,250
+"1970-06-11",1970,"Mexico","Toluca","Luis Dosal",9890,"Group 2","Italy","ITA","Israel","ISR",0,0,0,0,"Draw: Italy",1877,250
+"1970-06-11",1970,"Mexico","León","Nou Camp - Estadio Le�n",12299,"Group 4","Bulgaria","BUL","Morocco","MAR",1,0,1,1,"Draw: Bulgaria",1779,250
+"1970-06-11",1970,"Mexico","Guadalajara","Jalisco",49292,"Group 3","England","ENG","Czechoslovakia","TCH",0,0,1,0,"England",1813,250
+"1970-06-11",1970,"Mexico","Mexico City","Estadio Azteca",108192,"Group 1","Mexico","MEX","Belgium","BEL",1,0,1,0,"Mexico",1752,250
+"1970-06-14",1970,"Mexico","Toluca","Luis Dosal",26851,"Quarterfinals","Italy","ITA","Mexico","MEX",1,1,4,1,"Italy",1882,251
+"1970-06-14",1970,"Mexico","León","Nou Camp - Estadio Le�n",23357,"Quarterfinals","West Germany","FRG","England","ENG",0,0,3,2,"Germany FR",1811,251
+"1970-06-14",1970,"Mexico","Guadalajara","Jalisco",54233,"Quarterfinals","Brazil","BRA","Peru","PER",2,1,4,2,"Brazil",1768,251
+"1970-06-14",1970,"Mexico","Mexico City","Estadio Azteca",26085,"Quarterfinals","Uruguay","URU","Soviet Union","URS",0,0,1,0,"Uruguay",1925,251
+"1970-06-17",1970,"Mexico","Guadalajara","Jalisco",51261,"Semifinals","Brazil","BRA","Uruguay","URU",1,1,3,1,"Brazil",1771,569
+"1970-06-17",1970,"Mexico","Mexico City","Estadio Azteca",102444,"Semifinals","Italy","ITA","West Germany","FRG",0,0,4,3,"Italy",1838,569
+"1970-06-20",1970,"Mexico","Mexico City","Estadio Azteca",104403,"Third place","West Germany","FRG","Uruguay","URU",1,0,1,0,"Germany FR",1843,3477
+"1970-06-21",1970,"Mexico","Mexico City","Estadio Azteca",107412,"Final","Brazil","BRA","Italy","ITA",1,1,4,1,"Brazil",1765,3476
+"1974-06-13",1974,"Germany","Frankfurt am Main","Waldstadion",62000,"Group 2","Brazil","BRA","FR Yugoslavia","YUG",0,0,0,0,"Draw: Brazil",1986,262
+"1974-06-14",1974,"Germany","Berlin","Olympiastadion",81100,"Group 1","West Germany","FRG","Chile","CHI",1,0,1,0,"Germany FR",2003,262
+"1974-06-14",1974,"Germany","Hamburg","Volksparkstadion",17000,"Group 1","East Germany","GDR","Australia","AUS",0,0,2,0,"German DR",1955,262
+"1974-06-14",1974,"Germany","Dortmund","Westfalenstadion",27000,"Group 2","Zaire","ZAI","Scotland","SCO",0,2,0,2,"Scotland",2176,262
+"1974-06-15",1974,"Germany","Hanover","Niedersachsenstadion",55100,"Group 3","Uruguay","URU","Netherlands","NED",0,1,0,2,"Netherlands",2098,262
+"1974-06-15",1974,"Germany","Düsseldorf","Rheinstadion",23800,"Group 3","Sweden","SWE","Bulgaria","BUL",0,0,0,0,"Draw: Sweden",1995,262
+"1974-06-15",1974,"Germany","Munich","Olympiastadion",53000,"Group 4","Italy","ITA","Haiti","HAI",0,0,3,1,"Italy",2083,262
+"1974-06-15",1974,"Germany","Stuttgart","Neckarstadion",32700,"Group 4","Poland","POL","Argentina","ARG",2,0,3,2,"Poland",1952,262
+"1974-06-18",1974,"Germany","Hamburg","Volksparkstadion",53300,"Group 1","Australia","AUS","West Germany","FRG",0,2,0,3,"Germany FR",1954,262
+"1974-06-18",1974,"Germany","Frankfurt am Main","Waldstadion",62000,"Group 2","Scotland","SCO","Brazil","BRA",0,0,0,0,"Draw: Scotland",1985,262
+"1974-06-18",1974,"Germany","Berlin","Olympiastadion",28300,"Group 1","Chile","CHI","East Germany","GDR",0,0,1,1,"Draw: Chile",2004,262
+"1974-06-18",1974,"Germany","Gelsenkirchen","Parkstadion",31700,"Group 2","Yugoslavia","YUG","Zaire","ZAI",6,0,9,0,"Yugoslavia",2186,262
+"1974-06-19",1974,"Germany","Dortmund","Westfalenstadion",53700,"Group 3","Netherlands","NED","Sweden","SWE",0,0,0,0,"Draw: Netherlands",2097,262
+"1974-06-19",1974,"Germany","Hanover","Niedersachsenstadion",13400,"Group 3","Bulgaria","BUL","Uruguay","URU",0,0,1,1,"Draw: Bulgaria",1996,262
+"1974-06-19",1974,"Germany","Munich","Olympiastadion",25300,"Group 4","Haiti","HAI","Poland","POL",0,5,0,7,"Poland",2085,262
+"1974-06-19",1974,"Germany","Stuttgart","Neckarstadion",70100,"Group 4","Argentina","ARG","Italy","ITA",1,1,1,1,"Draw: Argentina",1949,262
+"1974-06-22",1974,"Germany","Frankfurt am Main","Waldstadion",56000,"Group 2","Scotland","SCO","FR Yugoslavia","YUG",0,0,1,1,"Draw: Scotland",2175,262
+"1974-06-22",1974,"Germany","Berlin","Olympiastadion",17400,"Group 1","Australia","AUS","Chile","CHI",0,0,0,0,"Draw: Australia",1953,262
+"1974-06-22",1974,"Germany","Gelsenkirchen","Parkstadion",36200,"Group 2","Zaire","ZAI","Brazil","BRA",0,1,0,3,"Brazil",1987,262
+"1974-06-22",1974,"Germany","Hamburg","Volksparkstadion",60200,"Group 1","East Germany","GDR","West Germany","FRG",0,0,1,0,"German DR",2062,262
+"1974-06-23",1974,"Germany","Dortmund","Westfalenstadion",53300,"Group 3","Bulgaria","BUL","Netherlands","NED",0,2,1,4,"Netherlands",1990,262
+"1974-06-23",1974,"Germany","Munich","Olympiastadion",25900,"Group 4","Argentina","ARG","Haiti","HAI",2,0,4,1,"Argentina",1947,262
+"1974-06-23",1974,"Germany","Düsseldorf","Rheinstadion",28300,"Group 3","Sweden","SWE","Uruguay","URU",0,0,3,0,"Sweden",2181,262
+"1974-06-23",1974,"Germany","Stuttgart","Neckarstadion",70100,"Group 4","Poland","POL","Italy","ITA",2,0,2,1,"Poland",2129,262
+"1974-06-26",1974,"Germany","Düsseldorf","Rheinstadion",67385,"Group B","Yugoslavia","YUG","West Germany","FRG",0,1,0,2,"Germany FR",2066,263
+"1974-06-26",1974,"Germany","Hanover","Niedersachsenstadion",59863,"Group A","Brazil","BRA","East Germany","GDR",0,0,1,0,"Brazil",1982,263
+"1974-06-26",1974,"Germany","Gelsenkirchen","Parkstadion",56548,"Group A","Netherlands","NED","Argentina","ARG",2,0,4,0,"Netherlands",1948,263
+"1974-06-26",1974,"Germany","Stuttgart","Neckarstadion",44955,"Group B","Sweden","SWE","Poland","POL",0,1,0,1,"Poland",2167,263
+"1974-06-30",1974,"Germany","Hanover","Niedersachsenstadion",39400,"Group A","Argentina","ARG","Brazil","BRA",1,1,1,2,"Brazil",1945,263
+"1974-06-30",1974,"Germany","Frankfurt am Main","Waldstadion",58000,"Group B","Poland","POL","FR Yugoslavia","YUG",1,1,2,1,"Poland",2170,263
+"1974-06-30",1974,"Germany","Gelsenkirchen","Parkstadion",68348,"Group A","East Germany","GDR","Netherlands","NED",0,1,0,2,"Netherlands",2067,263
+"1974-06-30",1974,"Germany","Düsseldorf","Rheinstadion",67800,"Group B","West Germany","FRG","Sweden","SWE",0,1,4,2,"Germany FR",2065,263
+"1974-07-03",1974,"Germany","Frankfurt am Main","Waldstadion",62000,"Group B","Poland","POL","West Germany","FRG",0,0,0,1,"Germany FR",2064,263
+"1974-07-03",1974,"Germany","Dortmund","Westfalenstadion",53700,"Group A","Netherlands","NED","Brazil","BRA",0,0,2,0,"Netherlands",1983,263
+"1974-07-03",1974,"Germany","Gelsenkirchen","Parkstadion",54254,"Group A","Argentina","ARG","East Germany","GDR",1,1,1,1,"Draw: Argentina",1946,263
+"1974-07-03",1974,"Germany","Düsseldorf","Rheinstadion",41300,"Group B","Sweden","SWE","FR Yugoslavia","YUG",1,1,2,1,"Sweden",2182,263
+"1974-07-06",1974,"Germany","Munich","Olympiastadion",77100,"Third place","Brazil","BRA","Poland","POL",0,0,0,1,"Poland",1984,264
+"1974-07-07",1974,"Germany","Munich","Olympiastadion",78200,"Final","Netherlands","NED","West Germany","FRG",1,2,1,2,"Germany FR",2063,605
+"1978-06-01",1978,"Argentina","Buenos Aires","El Monumental - Estadio Monumental Antonio Vespuci",67579,"Group 2","West Germany","FRG","Poland","POL",0,0,0,0,"Draw: Germany FR",2351,278
+"1978-06-02",1978,"Argentina","Mar del Plata","Estadio Jos� Mar�a Minella",42373,"Group 1","Italy","ITA","France","FRA",1,1,2,1,"Italy",2347,278
+"1978-06-02",1978,"Argentina","Rosario","Arroyito - Estadio Dr. Lisandro de la Torre",17396,"Group 2","Tunisia","TUN","Mexico","MEX",0,1,3,1,"Tunisia",2433,278
+"1978-06-02",1978,"Argentina","Buenos Aires","El Monumental - Estadio Monumental Antonio Vespuci",71615,"Group 1","Argentina","ARG","Hungary","HUN",1,1,2,1,"Argentina",2199,278
+"1978-06-03",1978,"Argentina","Mar del Plata","Estadio Jos� Mar�a Minella",32569,"Group 3","Sweden","SWE","Brazil","BRA",1,1,1,1,"Draw: Sweden",2253,278
+"1978-06-03",1978,"Argentina","Buenos Aires","Jose Amalfitani",40841,"Group 3","Austria","AUT","Spain","ESP",1,1,2,1,"Austria",2216,278
+"1978-06-03",1978,"Argentina","Córdoba","Estadio Ol�mpico Chateau Carreras",37927,"Group 4","Peru","PER","Scotland","SCO",1,1,3,1,"Peru",2451,278
+"1978-06-03",1978,"Argentina","Mendoza","San Martin",33431,"Group 4","Netherlands","NED","Iran","IRN",1,0,3,0,"Netherlands",2388,278
+"1982-06-24",1982,"Spain","Oviedo","Carlos Tartiere",16000,"Group 2","Algeria","ALG","Chile","CHI",3,0,3,2,"Algeria",740,293
+"1978-06-06",1978,"Argentina","Mar del Plata","Estadio Jos� Mar�a Minella",26533,"Group 1","Italy","ITA","Hungary","HUN",2,0,3,1,"Italy",2396,278
+"1978-06-06",1978,"Argentina","Rosario","Arroyito - Estadio Dr. Lisandro de la Torre",9624,"Group 2","Poland","POL","Tunisia","TUN",1,0,1,0,"Poland",2454,278
+"1978-06-06",1978,"Argentina","Córdoba","Estadio Ol�mpico Chateau Carreras",35258,"Group 2","West Germany","FRG","Mexico","MEX",4,0,6,0,"Germany FR",2350,278
+"1978-06-06",1978,"Argentina","Buenos Aires","El Monumental - Estadio Monumental Antonio Vespuci",71666,"Group 1","Argentina","ARG","France","FRA",1,0,2,1,"Argentina",2197,278
+"1978-06-07",1978,"Argentina","Mar del Plata","Estadio Jos� Mar�a Minella",34771,"Group 3","Brazil","BRA","Spain","ESP",0,0,0,0,"Draw: Brazil",2246,278
+"1978-06-07",1978,"Argentina","Buenos Aires","Jose Amalfitani",41424,"Group 3","Austria","AUT","Sweden","SWE",1,0,1,0,"Austria",2224,278
+"1978-06-07",1978,"Argentina","Córdoba","Estadio Ol�mpico Chateau Carreras",7938,"Group 4","Scotland","SCO","Iran","IRN",1,0,1,1,"Draw: Scotland",2408,278
+"1978-06-07",1978,"Argentina","Mendoza","San Martin",28125,"Group 4","Netherlands","NED","Peru","PER",0,0,0,0,"Draw: Netherlands",2394,278
+"1978-06-10",1978,"Argentina","Mar del Plata","Estadio Jos� Mar�a Minella",23127,"Group 1","France","FRA","Hungary","HUN",3,1,3,1,"France",2344,278
+"1978-06-10",1978,"Argentina","Rosario","Arroyito - Estadio Dr. Lisandro de la Torre",22651,"Group 2","Poland","POL","Mexico","MEX",1,0,3,1,"Poland",2431,278
+"1978-06-10",1978,"Argentina","Córdoba","Estadio Ol�mpico Chateau Carreras",30667,"Group 2","West Germany","FRG","Tunisia","TUN",0,0,0,0,"Draw: Germany FR",2352,278
+"1978-06-10",1978,"Argentina","Buenos Aires","El Monumental - Estadio Monumental Antonio Vespuci",71712,"Group 1","Italy","ITA","Argentina","ARG",0,0,1,0,"Italy",2200,278
+"1978-06-11",1978,"Argentina","Mar del Plata","Estadio Jos� Mar�a Minella",35221,"Group 3","Brazil","BRA","Austria","AUT",1,0,1,0,"Brazil",2215,278
+"1978-06-11",1978,"Argentina","Buenos Aires","Jose Amalfitani",42132,"Group 3","Spain","ESP","Sweden","SWE",0,0,1,0,"Spain",2337,278
+"1978-06-11",1978,"Argentina","Córdoba","Estadio Ol�mpico Chateau Carreras",21262,"Group 4","Peru","PER","Iran","IRN",3,1,4,1,"Peru",2405,278
+"1978-06-11",1978,"Argentina","Mendoza","San Martin",35130,"Group 4","Scotland","SCO","Netherlands","NED",1,1,3,2,"Scotland",2395,278
+"1978-06-14",1978,"Argentina","Buenos Aires","El Monumental - Estadio Monumental Antonio Vespuci",67547,"Group A","West Germany","FRG","Italy","ITA",0,0,0,0,"Draw: Germany FR",2349,279
+"1978-06-14",1978,"Argentina","Córdoba","Estadio Ol�mpico Chateau Carreras",25050,"Group A","Netherlands","NED","Austria","AUT",3,0,5,1,"Netherlands",2220,279
+"1978-06-14",1978,"Argentina","Mendoza","San Martin",31278,"Group B","Brazil","BRA","Peru","PER",2,0,3,0,"Brazil",2251,279
+"1978-06-14",1978,"Argentina","Rosario","Arroyito - Estadio Dr. Lisandro de la Torre",37091,"Group B","Argentina","ARG","Poland","POL",1,0,2,0,"Argentina",2202,279
+"1978-06-18",1978,"Argentina","Mendoza","San Martin",35288,"Group B","Poland","POL","Peru","PER",0,0,1,0,"Poland",2450,279
+"1978-06-18",1978,"Argentina","Buenos Aires","El Monumental - Estadio Monumental Antonio Vespuci",66695,"Group A","Italy","ITA","Austria","AUT",1,0,1,0,"Italy",2221,279
+"1978-06-18",1978,"Argentina","Córdoba","Estadio Ol�mpico Chateau Carreras",40750,"Group A","West Germany","FRG","Netherlands","NED",1,1,2,2,"Draw: Germany FR",2348,279
+"1978-06-18",1978,"Argentina","Rosario","Arroyito - Estadio Dr. Lisandro de la Torre",37326,"Group B","Argentina","ARG","Brazil","BRA",0,0,0,0,"Draw: Argentina",2196,279
+"1978-06-21",1978,"Argentina","Buenos Aires","El Monumental - Estadio Monumental Antonio Vespuci",67433,"Group A","Netherlands","NED","Italy","ITA",0,1,2,1,"Netherlands",2391,279
+"1978-06-21",1978,"Argentina","Córdoba","Estadio Ol�mpico Chateau Carreras",38318,"Group A","Austria","AUT","West Germany","FRG",0,1,3,2,"Austria",2217,279
+"1978-06-21",1978,"Argentina","Mendoza","San Martin",39586,"Group B","Brazil","BRA","Poland","POL",1,1,3,1,"Brazil",2252,279
+"1978-06-21",1978,"Argentina","Rosario","Arroyito - Estadio Dr. Lisandro de la Torre",37315,"Group B","Argentina","ARG","Peru","PER",2,0,6,0,"Argentina",2201,279
+"1978-06-24",1978,"Argentina","Buenos Aires","El Monumental - Estadio Monumental Antonio Vespuci",69659,"Third place","Brazil","BRA","Italy","ITA",0,1,2,1,"Brazil",2247,280
+"1978-06-25",1978,"Argentina","Buenos Aires","El Monumental - Estadio Monumental Antonio Vespuci",71483,"Final","Argentina","ARG","Netherlands","NED",0,0,3,1,"Argentina",2198,639
+"1982-06-13",1982,"Spain","Barcelona","Camp Nou",95000,"Group 3","Argentina","ARG","Belgium","BEL",0,0,0,1,"Belgium",749,293
+"1982-06-14",1982,"Spain","Vigo","Estadio Municipal de Bala�dos",33000,"Group 1","Italy","ITA","Poland","POL",0,0,0,0,"Draw: Italy",995,293
+"1982-06-14",1982,"Spain","Seville","Ramon Sanchez Pizjuan",68000,"Group 6","Brazil","BRA","Soviet Union","URS",0,1,2,1,"Brazil",791,293
+"1982-06-15",1982,"Spain","La Coruña","Riazor",11000,"Group 1","Peru","PER","Cameroon","CMR",0,0,0,0,"Draw: Peru",833,293
+"1982-06-15",1982,"Spain","Elche","Nuevo Estadio",23000,"Group 3","Hungary","HUN","El Salvador","SLV",3,0,10,1,"Hungary",896,293
+"1982-06-15",1982,"Spain","Málaga","La Rosaleda",36000,"Group 6","Scotland","SCO","New Zealand","NZL",3,0,5,2,"Scotland",1051,293
+"1982-06-16",1982,"Spain","Gijón","El Molinon",42000,"Group 2","West Germany","FRG","Algeria","ALG",0,0,1,2,"Algeria",741,293
+"1982-06-16",1982,"Spain","Bilbao","San Mames",44172,"Group 4","England","ENG","France","FRA",1,1,3,1,"England",878,293
+"1982-06-16",1982,"Spain","Valencia","Luis Casanova",49562,"Group 5","Spain","ESP","Honduras","HON",0,1,1,1,"Draw: Spain",901,293
+"1982-06-17",1982,"Spain","Oviedo","Carlos Tartiere",22500,"Group 2","Chile","CHI","Austria","AUT",0,1,0,1,"Austria",764,293
+"1982-06-17",1982,"Spain","Valladolid","Jose Zorrilla",25000,"Group 4","Czechoslovakia","TCH","Kuwait","KUW",1,0,1,1,"Draw: Czechoslovakia",1012,293
+"1982-06-17",1982,"Spain","Zaragoza","La Romareda",25000,"Group 5","Yugoslavia","YUG","Northern Ireland","NIR",0,0,0,0,"Draw: Yugoslavia",1044,293
+"1982-06-18",1982,"Spain","Vigo","Estadio Municipal de Bala�dos",25000,"Group 1","Italy","ITA","Peru","PER",1,0,1,1,"Draw: Italy",994,293
+"1982-06-18",1982,"Spain","Alicante","Jose Rico Perez",32093,"Group 3","Argentina","ARG","Hungary","HUN",2,0,4,1,"Argentina",752,293
+"1982-06-18",1982,"Spain","Seville","Benito Villamarin",47379,"Group 6","Brazil","BRA","Scotland","SCO",1,1,4,1,"Brazil",790,293
+"1982-06-19",1982,"Spain","La Coruña","Riazor",19000,"Group 1","Poland","POL","Cameroon","CMR",0,0,0,0,"Draw: Poland",834,293
+"1982-06-19",1982,"Spain","Elche","Nuevo Estadio",15000,"Group 3","Belgium","BEL","El Salvador","SLV",1,0,1,0,"Belgium",774,293
+"1982-06-19",1982,"Spain","Málaga","La Rosaleda",19000,"Group 6","Soviet Union","URS","New Zealand","NZL",1,0,3,0,"Soviet Union",1054,293
+"1982-06-20",1982,"Spain","Gijón","El Molinon",42000,"Group 2","West Germany","FRG","Chile","CHI",1,0,4,1,"Germany FR",813,293
+"1982-06-20",1982,"Spain","Bilbao","San Mames",41123,"Group 4","England","ENG","Czechoslovakia","TCH",0,0,2,0,"England",889,293
+"1982-06-20",1982,"Spain","Valencia","Luis Casanova",48000,"Group 5","Spain","ESP","FR Yugoslavia","YUG",1,1,2,1,"Spain",903,293
+"1982-06-21",1982,"Spain","Oviedo","Carlos Tartiere",22000,"Group 2","Algeria","ALG","Austria","AUT",0,0,0,2,"Austria",739,293
+"1982-06-21",1982,"Spain","Valladolid","Jose Zorrilla",30043,"Group 4","France","FRA","Kuwait","KUW",2,0,4,1,"France",919,293
+"1982-06-21",1982,"Spain","Zaragoza","La Romareda",15000,"Group 5","Honduras","HON","Northern Ireland","NIR",0,1,1,1,"Draw: Honduras",959,293
+"1982-06-22",1982,"Spain","La Coruña","Riazor",25000,"Group 1","Poland","POL","Peru","PER",0,0,5,1,"Poland",1055,293
+"1982-06-22",1982,"Spain","Elche","Nuevo Estadio",37000,"Group 3","Belgium","BEL","Hungary","HUN",0,1,1,1,"Draw: Belgium",779,293
+"1982-06-22",1982,"Spain","Málaga","La Rosaleda",45000,"Group 6","Soviet Union","URS","Scotland","SCO",0,1,2,2,"Draw: Soviet Union",1071,293
+"1982-06-23",1982,"Spain","Vigo","Estadio Municipal de Bala�dos",20000,"Group 1","Italy","ITA","Cameroon","CMR",0,0,1,1,"Draw: Italy",828,293
+"1982-06-23",1982,"Spain","Alicante","Jose Rico Perez",32500,"Group 3","Argentina","ARG","El Salvador","SLV",1,0,2,0,"Argentina",751,293
+"1982-06-23",1982,"Spain","Seville","Benito Villamarin",43000,"Group 6","Brazil","BRA","New Zealand","NZL",2,0,4,0,"Brazil",789,293
+"1982-06-24",1982,"Spain","Valladolid","Jose Zorrilla",28000,"Group 4","France","FRA","Czechoslovakia","TCH",0,0,1,1,"Draw: France",922,293
+"1982-06-24",1982,"Spain","Zaragoza","La Romareda",25000,"Group 5","Honduras","HON","FR Yugoslavia","YUG",0,0,0,1,"Yugoslavia",962,293
+"1982-06-25",1982,"Spain","Gijón","El Molinon",41000,"Group 2","West Germany","FRG","Austria","AUT",1,0,1,0,"Germany FR",770,293
+"1982-06-25",1982,"Spain","Bilbao","San Mames",39700,"Group 4","England","ENG","Kuwait","KUW",1,0,1,0,"England",882,293
+"1982-06-25",1982,"Spain","Valencia","Luis Casanova",49562,"Group 5","Northern Ireland","NIR","Spain","ESP",0,0,1,0,"Northern Ireland",902,293
+"1982-06-28",1982,"Spain","Madrid","Vicente Calderon",37000,"Group D","Austria","AUT","France","FRA",0,1,0,1,"France",767,294
+"1982-06-28",1982,"Spain","Barcelona","Camp Nou",65000,"Group A","Poland","POL","Belgium","BEL",2,0,3,0,"Poland",782,294
+"1982-06-29",1982,"Spain","Barcelona","Sarria",43000,"Group C","Italy","ITA","Argentina","ARG",0,0,2,1,"Italy",753,294
+"1982-06-29",1982,"Spain","Madrid","Santiago Bernabeu",75000,"Group B","West Germany","FRG","England","ENG",0,0,0,0,"Draw: Germany FR",879,294
+"1982-07-01",1982,"Spain","Madrid","Vicente Calderon",20000,"Group D","Austria","AUT","Northern Ireland","NIR",0,1,2,2,"Draw: Austria",771,294
+"1982-07-01",1982,"Spain","Barcelona","Camp Nou",45000,"Group A","Belgium","BEL","Soviet Union","URS",0,0,0,1,"Soviet Union",783,294
+"1982-07-02",1982,"Spain","Barcelona","Sarria",44000,"Group C","Argentina","ARG","Brazil","BRA",0,1,1,3,"Brazil",750,294
+"1982-07-02",1982,"Spain","Madrid","Santiago Bernabeu",90089,"Group B","West Germany","FRG","Spain","ESP",0,0,2,1,"Germany FR",900,294
+"1982-07-04",1982,"Spain","Madrid","Vicente Calderon",37000,"Group D","France","FRA","Northern Ireland","NIR",1,0,4,1,"France",920,294
+"1982-07-04",1982,"Spain","Barcelona","Camp Nou",65000,"Group A","Poland","POL","Soviet Union","URS",0,0,0,0,"Draw: Poland",1058,294
+"1982-07-05",1982,"Spain","Barcelona","Sarria",44000,"Group C","Italy","ITA","Brazil","BRA",2,1,3,2,"Italy",788,294
+"1982-07-05",1982,"Spain","Madrid","Santiago Bernabeu",75000,"Group B","Spain","ESP","England","ENG",0,0,0,0,"Draw: Spain",877,294
+"1982-07-08",1982,"Spain","Barcelona","Camp Nou",50000,"Semifinals","Poland","POL","Italy","ITA",0,1,0,2,"Italy",996,295
+"1982-07-08",1982,"Spain","Seville","Ramon Sanchez Pizjuan",70000,"Semifinals","West Germany","FRG","France","FRA",0,0,3,3,"Draw: Germany FR",914,295
+"1982-07-10",1982,"Spain","Alicante","Jose Rico Perez",28000,"Third place","Poland","POL","France","FRA",2,1,3,2,"Poland",921,676
+"1982-07-11",1982,"Spain","Madrid","Santiago Bernabeu",90000,"Final","Italy","ITA","West Germany","FRG",0,0,3,1,"Italy",923,3475
+"1986-05-31",1986,"Mexico","Mexico City","Estadio Azteca",96000,"Group A","Bulgaria","BUL","Italy","ITA",0,1,1,1,"Draw: Bulgaria",459,308
+"1986-06-01",1986,"Mexico","León","Nou Camp - Estadio Le�n",65500,"Group C","Canada","CAN","France","FRA",0,0,0,1,"France",468,308
+"1986-06-01",1986,"Mexico","Guadalajara","Jalisco",35748,"Group D","Spain","ESP","Brazil","BRA",0,0,0,1,"Brazil",439,308
+"1986-06-02",1986,"Mexico","Irapuato","Estadio Irapuato",16500,"Group C","Soviet Union","URS","Hungary","HUN",3,0,6,0,"Soviet Union",610,308
+"1986-06-02",1986,"Mexico","Mexico City","Estadio Ol�mpico Universitario",60000,"Group A","Argentina","ARG","South Korea","KOR",2,0,3,1,"Argentina",395,308
+"1986-06-02",1986,"Mexico","Monterrey","Estadio Universitario",19900,"Group F","Morocco","MAR","Poland","POL",0,0,0,0,"Draw: Morocco",674,308
+"1986-06-03",1986,"Mexico","Guadalajara","Tres de Marzo",22000,"Group D","Algeria","ALG","Northern Ireland","NIR",0,1,1,1,"Draw: Algeria",379,308
+"1986-06-03",1986,"Mexico","Mexico City","Estadio Azteca",110000,"Group B","Belgium","BEL","Mexico","MEX",1,2,1,2,"Mexico",428,308
+"1986-06-03",1986,"Mexico","Monterrey","Tecnologico",23000,"Group F","Portugal","POR","England","ENG",0,0,1,0,"Portugal",538,308
+"1986-06-04",1986,"Mexico","Toluca","Bombonera - Estadio Nemesio Diez",24000,"Group B","Paraguay","PAR","Iraq","IRQ",1,0,1,0,"Paraguay",628,308
+"1986-06-04",1986,"Mexico","Nezahualcóyotl","Neza",18000,"Group E","Scotland","SCO","Denmark","DEN",0,0,0,1,"Denmark",517,308
+"1986-06-04",1986,"Mexico","Querétaro","Estadio Corregidora",30500,"Group E","Uruguay","URU","West Germany","FRG",1,0,1,1,"Draw: Uruguay",585,308
+"1986-06-05",1986,"Mexico","Puebla","Cuauhtemoc",32000,"Group A","Italy","ITA","Argentina","ARG",1,1,1,1,"Draw: Italy",394,308
+"1986-06-05",1986,"Mexico","León","Nou Camp - Estadio Le�n",36540,"Group C","France","FRA","Soviet Union","URS",0,0,1,1,"Draw: France",571,308
+"1986-06-05",1986,"Mexico","Mexico City","Estadio Ol�mpico Universitario",45000,"Group A","South Korea","KOR","Bulgaria","BUL",0,1,1,1,"Draw: Korea Republic",460,308
+"1986-06-06",1986,"Mexico","Irapuato","Estadio Irapuato",13800,"Group C","Hungary","HUN","Canada","CAN",1,0,2,0,"Hungary",475,308
+"1986-06-06",1986,"Mexico","Guadalajara","Jalisco",48000,"Group D","Brazil","BRA","Algeria","ALG",0,0,1,0,"Brazil",377,308
+"1986-06-06",1986,"Mexico","Monterrey","Tecnologico",20200,"Group F","England","ENG","Morocco","MAR",0,0,0,0,"Draw: England",533,308
+"1986-06-07",1986,"Mexico","Guadalajara","Tres de Marzo",28000,"Group D","Northern Ireland","NIR","Spain","ESP",0,2,1,2,"Spain",551,308
+"1986-06-07",1986,"Mexico","Mexico City","Estadio Azteca",114600,"Group B","Mexico","MEX","Paraguay","PAR",1,0,1,1,"Draw: Mexico",680,308
+"1986-06-07",1986,"Mexico","Monterrey","Estadio Universitario",19915,"Group F","Poland","POL","Portugal","POR",0,0,1,0,"Poland",701,308
+"1986-06-08",1986,"Mexico","Toluca","Bombonera - Estadio Nemesio Diez",20000,"Group B","Iraq","IRQ","Belgium","BEL",0,2,1,2,"Belgium",427,308
+"1986-06-08",1986,"Mexico","Nezahualcóyotl","Neza",26500,"Group E","Denmark","DEN","Uruguay","URU",2,1,6,1,"Denmark",522,308
+"1986-06-08",1986,"Mexico","Querétaro","Estadio Corregidora",30000,"Group E","West Germany","FRG","Scotland","SCO",1,1,2,1,"Germany FR",580,308
+"1986-06-09",1986,"Mexico","León","Nou Camp - Estadio Le�n",31420,"Group C","Hungary","HUN","France","FRA",0,1,0,3,"France",567,308
+"1986-06-09",1986,"Mexico","Irapuato","Estadio Irapuato",14200,"Group C","Soviet Union","URS","Canada","CAN",0,0,2,0,"Soviet Union",476,308
+"1986-06-10",1986,"Mexico","Puebla","Cuauhtemoc",20000,"Group A","South Korea","KOR","Italy","ITA",0,1,2,3,"Italy",643,308
+"1986-06-10",1986,"Mexico","Mexico City","Estadio Ol�mpico Universitario",65000,"Group A","Argentina","ARG","Bulgaria","BUL",1,0,2,0,"Argentina",389,308
+"1986-06-11",1986,"Mexico","Toluca","Bombonera - Estadio Nemesio Diez",16000,"Group B","Paraguay","PAR","Belgium","BEL",0,1,2,2,"Draw: Paraguay",429,308
+"1986-06-11",1986,"Mexico","Mexico City","Estadio Azteca",103763,"Group B","Iraq","IRQ","Mexico","MEX",0,0,0,1,"Mexico",627,308
+"1986-06-11",1986,"Mexico","Guadalajara","Tres de Marzo",28000,"Group F","Portugal","POR","Morocco","MAR",0,2,1,3,"Morocco",675,308
+"1986-06-11",1986,"Mexico","Monterrey","Tecnologico",22700,"Group F","England","ENG","Poland","POL",3,0,3,0,"England",537,308
+"1986-06-12",1986,"Mexico","Guadalajara","Jalisco",51000,"Group D","Northern Ireland","NIR","Brazil","BRA",0,2,0,3,"Brazil",441,308
+"1986-06-12",1986,"Mexico","Monterrey","Tecnologico",23980,"Group D","Algeria","ALG","Spain","ESP",0,1,0,3,"Spain",378,308
+"1986-06-13",1986,"Mexico","Nezahualcóyotl","Neza",20000,"Group E","Scotland","SCO","Uruguay","URU",0,0,0,0,"Draw: Scotland",712,308
+"1986-06-13",1986,"Mexico","Querétaro","Estadio Corregidora",36000,"Group E","Denmark","DEN","West Germany","FRG",1,0,2,0,"Denmark",512,308
+"1986-06-15",1986,"Mexico","León","Nou Camp - Estadio Le�n",32277,"Round of 16","Soviet Union","URS","Belgium","BEL",0,0,3,4,"Belgium",432,309
+"1986-06-15",1986,"Mexico","Mexico City","Estadio Azteca",114580,"Round of 16","Mexico","MEX","Bulgaria","BUL",1,0,2,0,"Mexico",463,309
+"1986-06-16",1986,"Mexico","Puebla","Cuauhtemoc",26000,"Round of 16","Argentina","ARG","Uruguay","URU",1,0,1,0,"Argentina",398,309
+"1986-06-16",1986,"Mexico","Guadalajara","Jalisco",45000,"Round of 16","Brazil","BRA","Poland","POL",1,0,4,0,"Brazil",444,309
+"1986-06-17",1986,"Mexico","Mexico City","Estadio Ol�mpico Universitario",70000,"Round of 16","Italy","ITA","France","FRA",0,1,0,2,"France",568,309
+"1986-06-17",1986,"Mexico","Monterrey","Estadio Universitario",19800,"Round of 16","Morocco","MAR","West Germany","FRG",0,0,0,1,"Germany FR",574,309
+"1986-06-18",1986,"Mexico","Mexico City","Estadio Azteca",98728,"Round of 16","England","ENG","Paraguay","PAR",1,0,3,0,"England",536,309
+"1986-06-18",1986,"Mexico","Querétaro","Estadio Corregidora",38500,"Round of 16","Denmark","DEN","Spain","ESP",1,1,1,5,"Spain",511,309
+"1986-06-21",1986,"Mexico","Guadalajara","Jalisco",65000,"Quarterfinals","Brazil","BRA","France","FRA",0,0,1,1,"Draw: Brazil",440,714
+"1986-06-21",1986,"Mexico","Monterrey","Estadio Universitario",41700,"Quarterfinals","West Germany","FRG","Mexico","MEX",0,0,0,0,"Draw: Germany FR",575,714
+"1986-06-22",1986,"Mexico","Puebla","Cuauhtemoc",45000,"Quarterfinals","Spain","ESP","Belgium","BEL",0,0,1,1,"Draw: Spain",421,714
+"1986-06-22",1986,"Mexico","Mexico City","Estadio Azteca",114580,"Quarterfinals","Argentina","ARG","England","ENG",0,0,2,1,"Argentina",392,714
+"1986-06-25",1986,"Mexico","Guadalajara","Jalisco",45000,"Semifinals","France","FRA","West Germany","FRG",0,1,0,2,"Germany FR",564,3469
+"1986-06-25",1986,"Mexico","Mexico City","Estadio Azteca",114500,"Semifinals","Argentina","ARG","Belgium","BEL",0,0,2,0,"Argentina",388,3469
+"1986-06-28",1986,"Mexico","Puebla","Cuauhtemoc",21000,"Third place","France","FRA","Belgium","BEL",0,0,4,2,"France",422,3468
+"1986-06-29",1986,"Mexico","Mexico City","Estadio Azteca",114600,"Final","Argentina","ARG","West Germany","FRG",1,0,3,2,"Argentina",393,3467
+"1990-06-08",1990,"Italy","Milan","Giuseppe Meazza",73780,"Group B","Argentina","ARG","Cameroon","CMR",0,0,0,1,"Cameroon",26,322
+"1990-06-09",1990,"Italy","Bari","Stadio San Nicola",42907,"Group B","Soviet Union","URS","Romania","ROU",0,1,0,2,"Romania",342,322
+"1990-06-09",1990,"Italy","Bologna","Renato Dall Ara",30791,"Group D","United Arab Emirates","UAE","Colombia","COL",0,0,0,2,"Colombia",119,322
+"1990-06-09",1990,"Italy","Rome","Stadio Olimpico",73303,"Group A","Italy","ITA","Austria","AUT",0,0,1,0,"Italy",42,322
+"1990-06-10",1990,"Italy","Florence","Comunale",33266,"Group A","United States","USA","Czechoslovakia","TCH",0,2,1,5,"Czechoslovakia",355,322
+"1990-06-10",1990,"Italy","Turin","Stadio delle Alpi",62628,"Group C","Brazil","BRA","Sweden","SWE",1,0,2,1,"Brazil",75,322
+"1990-06-10",1990,"Italy","Milan","Giuseppe Meazza",74765,"Group D","West Germany","FRG","FR Yugoslavia","YUG",2,0,4,1,"Germany FR",201,322
+"1990-06-11",1990,"Italy","Genoa","Luigi Ferraris",30867,"Group C","Costa Rica","CRC","Scotland","SCO",0,0,1,0,"Costa Rica",127,322
+"1990-06-11",1990,"Italy","Cagliari","Sant Elia",35238,"Group F","England","ENG","Republic of Ireland","IRL",1,0,1,1,"Draw: England",161,322
+"1990-06-12",1990,"Italy","Verona","Marc Antonio Bentegodi",32790,"Group E","Belgium","BEL","South Korea","KOR",0,0,2,0,"Belgium",57,322
+"1990-06-12",1990,"Italy","Palermo","Della Favorita",33288,"Group F","Netherlands","NED","Egypt","EGY",0,0,1,1,"Draw: Netherlands",151,322
+"1990-06-13",1990,"Italy","Udine","Dacia Arena",35713,"Group E","Uruguay","URU","Spain","ESP",0,0,0,0,"Draw: Uruguay",180,322
+"1990-06-13",1990,"Italy","Naples","San Paolo",55759,"Group B","Argentina","ARG","Soviet Union","URS",1,0,2,0,"Argentina",30,322
+"1990-06-14",1990,"Italy","Bari","Stadio San Nicola",38687,"Group B","Cameroon","CMR","Romania","ROU",0,0,2,1,"Cameroon",108,322
+"1990-06-14",1990,"Italy","Bologna","Renato Dall Ara",32257,"Group D","Yugoslavia","YUG","Colombia","COL",0,0,1,0,"Yugoslavia",120,322
+"1990-06-14",1990,"Italy","Rome","Stadio Olimpico",73423,"Group A","Italy","ITA","United States","USA",1,0,1,0,"Italy",265,322
+"1990-06-15",1990,"Italy","Florence","Comunale",38962,"Group A","Austria","AUT","Czechoslovakia","TCH",0,1,0,1,"Czechoslovakia",43,322
+"1990-06-15",1990,"Italy","Milan","Giuseppe Meazza",71169,"Group D","West Germany","FRG","United Arab Emirates","UAE",2,0,5,1,"Germany FR",198,322
+"1990-06-16",1990,"Italy","Turin","Stadio delle Alpi",58007,"Group C","Brazil","BRA","Costa Rica","CRC",1,0,1,0,"Brazil",73,322
+"1990-06-16",1990,"Italy","Genoa","Luigi Ferraris",31823,"Group C","Sweden","SWE","Scotland","SCO",0,1,1,2,"Scotland",348,322
+"1990-06-16",1990,"Italy","Cagliari","Sant Elia",35267,"Group F","England","ENG","Netherlands","NED",0,0,0,0,"Draw: England",160,322
+"1990-06-17",1990,"Italy","Palermo","Della Favorita",33288,"Group F","Republic of Ireland","IRL","Egypt","EGY",0,0,0,0,"Draw: rn>Republic of Ireland",152,322
+"1990-06-17",1990,"Italy","Udine","Dacia Arena",32733,"Group E","South Korea","KOR","Spain","ESP",1,1,1,3,"Spain",175,322
+"1990-06-17",1990,"Italy","Verona","Marc Antonio Bentegodi",33759,"Group E","Belgium","BEL","Uruguay","URU",2,0,3,1,"Belgium",66,322
+"1990-06-18",1990,"Italy","Naples","San Paolo",52733,"Group B","Argentina","ARG","Romania","ROU",0,0,1,1,"Draw: Argentina",29,322
+"1990-06-18",1990,"Italy","Bari","Stadio San Nicola",37307,"Group B","Cameroon","CMR","Soviet Union","URS",0,2,0,4,"Soviet Union",111,322
+"1990-06-19",1990,"Italy","Milan","Giuseppe Meazza",72510,"Group D","West Germany","FRG","Colombia","COL",0,0,1,1,"Draw: Germany FR",114,322
+"1990-06-19",1990,"Italy","Bologna","Renato Dall Ara",27833,"Group D","Yugoslavia","YUG","United Arab Emirates","UAE",2,1,4,1,"Yugoslavia",364,322
+"1990-06-19",1990,"Italy","Rome","Stadio Olimpico",73303,"Group A","Italy","ITA","Czechoslovakia","TCH",1,0,2,0,"Italy",263,322
+"1990-06-19",1990,"Italy","Florence","Comunale",34857,"Group A","Austria","AUT","United States","USA",0,0,2,1,"Austria",48,322
+"1990-06-20",1990,"Italy","Turin","Stadio delle Alpi",62502,"Group C","Brazil","BRA","Scotland","SCO",0,0,1,0,"Brazil",74,322
+"1990-06-20",1990,"Italy","Genoa","Luigi Ferraris",30223,"Group C","Sweden","SWE","Costa Rica","CRC",1,0,1,2,"Costa Rica",128,322
+"1990-06-21",1990,"Italy","Udine","Friuli",29039,"Group E","South Korea","KOR","Uruguay","URU",0,0,0,1,"Uruguay",290,322
+"1990-06-21",1990,"Italy","Verona","Marc Antonio Bentegodi",35950,"Group E","Belgium","BEL","Spain","ESP",1,2,1,2,"Spain",56,322
+"1990-06-21",1990,"Italy","Palermo","Della Favorita",33288,"Group F","Republic of Ireland","IRL","Netherlands","NED",0,1,1,1,"Draw: rn>Republic of Ireland",228,322
+"1990-06-21",1990,"Italy","Cagliari","Sant Elia",34959,"Group F","England","ENG","Egypt","EGY",0,0,1,0,"England",150,322
+"1990-06-23",1990,"Italy","Naples","San Paolo",50026,"Round of 16","Cameroon","CMR","Colombia","COL",0,0,2,1,"Cameroon",102,323
+"1990-06-23",1990,"Italy","Bari","Stadio San Nicola",47673,"Round of 16","Czechoslovakia","TCH","Costa Rica","CRC",1,0,4,1,"Czechoslovakia",129,323
+"1990-06-24",1990,"Italy","Turin","Stadio delle Alpi",61381,"Round of 16","Brazil","BRA","Argentina","ARG",0,0,0,1,"Argentina",25,323
+"1990-06-24",1990,"Italy","Milan","Giuseppe Meazza",74559,"Round of 16","West Germany","FRG","Netherlands","NED",0,0,2,1,"Germany FR",196,323
+"1990-06-25",1990,"Italy","Genoa","Luigi Ferraris",31818,"Round of 16","Republic of Ireland","IRL","Romania","ROU",0,0,0,0,"Draw: rn>Republic of Ireland",248,323
+"1990-06-25",1990,"Italy","Rome","Stadio Olimpico",73303,"Round of 16","Italy","ITA","Uruguay","URU",0,0,2,0,"Italy",264,323
+"1990-06-26",1990,"Italy","Verona","Marc Antonio Bentegodi",35500,"Round of 16","Spain","ESP","FR Yugoslavia","YUG",0,0,1,2,"Yugoslavia",181,323
+"1990-06-26",1990,"Italy","Bologna","Renato Dall Ara",34520,"Round of 16","England","ENG","Belgium","BEL",0,0,1,0,"England",55,323
+"1990-06-30",1990,"Italy","Florence","Comunale",38971,"Quarterfinals","Yugoslavia","YUG","Argentina","ARG",0,0,0,0,"Draw: Yugoslavia",31,751
+"1990-06-30",1990,"Italy","Rome","Stadio Olimpico",73303,"Quarterfinals","Italy","ITA","Republic of Ireland","IRL",1,0,1,0,"Italy",243,751
+"1990-07-01",1990,"Italy","Milan","Giuseppe Meazza",73347,"Quarterfinals","West Germany","FRG","Czechoslovakia","TCH",1,0,1,0,"Germany FR",197,751
+"1990-07-01",1990,"Italy","Naples","San Paolo",55205,"Quarterfinals","England","ENG","Cameroon","CMR",0,0,3,2,"England",103,751
+"1990-07-03",1990,"Italy","Naples","San Paolo",59978,"Semifinals","Italy","ITA","Argentina","ARG",0,0,1,1,"Draw: Italy",28,3464
+"1990-07-04",1990,"Italy","Turin","Stadio delle Alpi",62628,"Semifinals","West Germany","FRG","England","ENG",0,0,1,1,"Draw: Germany FR",159,3464
+"1990-07-07",1990,"Italy","Bari","Stadio San Nicola",51426,"Third place","Italy","ITA","England","ENG",0,0,2,1,"Italy",162,3463
+"1990-07-08",1990,"Italy","Rome","Stadio Olimpico",73603,"Final","West Germany","FRG","Argentina","ARG",0,0,1,0,"Germany FR",27,3462
+"1994-06-17",1994,"United States","Dallas","Cotton Bowl",56247,"Group C","Spain","ESP","South Korea","KOR",0,0,2,2,"Draw: Spain",3050,337
+"1994-06-17",1994,"United States","Chicago","Soldier Field",63117,"Group C","Germany","GER","Bolivia","BOL",0,0,1,0,"Germany",3049,337
+"1994-06-18",1994,"United States","Pontiac","Pontiac Silverdome",73425,"Group A","United States","USA","Switzerland","SUI",1,1,1,1,"Draw: USA",3051,337
+"1994-06-18",1994,"United States","East Rutherford","Giants Stadium",75338,"Group E","Italy","ITA","Republic of Ireland","IRL",0,1,0,1,"rn>Republic of Ireland",3052,337
+"1994-06-18",1994,"United States","Pasadena","Rose Bowl",91856,"Group A","Colombia","COL","Romania","ROU",1,2,1,3,"Romania",3053,337
+"1994-06-19",1994,"United States","Orlando","Citrus Bowl",61219,"Group F","Belgium","BEL","Morocco","MAR",1,0,1,0,"Belgium",3054,337
+"1994-06-19",1994,"United States","Washington","RFK Stadium",52395,"Group E","Norway","NOR","Mexico","MEX",0,0,1,0,"Norway",3055,337
+"1994-06-19",1994,"United States","Pasadena","Rose Bowl",93194,"Group B","Cameroon","CMR","Sweden","SWE",1,1,2,2,"Draw: Cameroon",3056,337
+"1994-06-20",1994,"United States","Washington","RFK Stadium",50535,"Group F","Netherlands","NED","Saudi Arabia","KSA",0,1,2,1,"Netherlands",3058,337
+"1994-06-20",1994,"United States","Palo Alto","Stanford Stadium",81061,"Group B","Brazil","BRA","Russia","RUS",1,0,2,0,"Brazil",3057,337
+"1994-06-21",1994,"United States","Foxborough","Foxboro Stadium",54456,"Group D","Argentina","ARG","Greece","GRE",2,0,4,0,"Argentina",3059,337
+"1994-06-21",1994,"United States","Dallas","Cotton Bowl",44132,"Group D","Nigeria","NGA","Bulgaria","BUL",2,0,3,0,"Nigeria",3061,337
+"1994-06-21",1994,"United States","Chicago","Soldier Field",63113,"Group C","Germany","GER","Spain","ESP",0,1,1,1,"Draw: Germany",3060,337
+"1994-06-22",1994,"United States","Pontiac","Pontiac Silverdome",61428,"Group A","Romania","ROU","Switzerland","SUI",1,1,1,4,"Switzerland",3062,337
+"1994-06-22",1994,"United States","Pasadena","Rose Bowl",93869," Group A","United States","USA","Colombia","COL",1,0,2,1,"USA",3063,337
+"1994-06-23",1994,"United States","East Rutherford","Giants Stadium",74624,"Group E","Italy","ITA","Norway","NOR",0,0,1,0,"Italy",3064,337
+"1994-06-23",1994,"United States","Foxborough","Foxboro Stadium",54453,"Group C","South Korea","KOR","Bolivia","BOL",0,0,0,0,"Draw: Korea Republic",3065,337
+"1994-06-24",1994,"United States","Orlando","Citrus Bowl",60790,"Group E","Mexico","MEX","Republic of Ireland","IRL",1,0,2,1,"Mexico",3066,337
+"1994-06-24",1994,"United States","Pontiac","Pontiac Silverdome",71528,"Group B","Sweden","SWE","Russia","RUS",1,1,3,1,"Sweden",3068,337
+"1994-06-24",1994,"United States","Palo Alto","Stanford Stadium",83401,"Group B","Brazil","BRA","Cameroon","CMR",1,0,3,0,"Brazil",3067,337
+"1994-06-25",1994,"United States","Orlando","Citrus Bowl",62387,"Group F","Belgium","BEL","Netherlands","NED",0,0,1,0,"Belgium",3069,337
+"1994-06-25",1994,"United States","East Rutherford","Giants Stadium",76322,"Group F","Saudi Arabia","KSA","Morocco","MAR",2,1,2,1,"Saudi Arabia",3070,337
+"1994-06-25",1994,"United States","Foxborough","Foxboro Stadium",54453,"Group D","Argentina","ARG","Nigeria","NGA",2,1,2,1,"Argentina",3071,337
+"1994-06-26",1994,"United States","Chicago","Soldier Field",63160,"Group D","Bulgaria","BUL","Greece","GRE",1,0,4,0,"Bulgaria",3072,337
+"1994-06-26",1994,"United States","Pasadena","Rose Bowl",93869,"Group A","United States","USA","Romania","ROU",0,1,0,1,"Romania",3073,337
+"1994-06-26",1994,"United States","Palo Alto","Stanford Stadium",83401,"Group A","Switzerland","SUI","Colombia","COL",0,1,0,2,"Colombia",3074,337
+"1994-06-27",1994,"United States","Dallas","Cotton Bowl",63998,"Group C","Germany","GER","South Korea","KOR",3,0,3,2,"Germany",3076,337
+"1994-06-27",1994,"United States","Chicago","Soldier Field",63089,"Group C","Bolivia","BOL","Spain","ESP",0,1,1,3,"Spain",3075,337
+"1994-06-28",1994,"United States","East Rutherford","Giants Stadium",72404,"Group E","Republic of Ireland","IRL","Norway","NOR",0,0,0,0,"Draw: rn>Republic of Ireland",3077,337
+"1994-06-28",1994,"United States","Pontiac","Pontiac Silverdome",77217,"Group B","Brazil","BRA","Sweden","SWE",0,1,1,1,"Draw: Brazil",3080,337
+"1994-06-28",1994,"United States","Washington","RFK Stadium",52535,"Group E","Italy","ITA","Mexico","MEX",0,0,1,1,"Draw: Italy",3078,337
+"1994-06-28",1994,"United States","Palo Alto","Stanford Stadium",74914,"Group B","Russia","RUS","Cameroon","CMR",3,0,6,1,"Russia",3079,337
+"1994-06-29",1994,"United States","Orlando","Citrus Bowl",60578,"Group F","Morocco","MAR","Netherlands","NED",0,1,1,2,"Netherlands",3081,337
+"1994-06-29",1994,"United States","Washington","RFK Stadium",52959,"Group F","Belgium","BEL","Saudi Arabia","KSA",0,1,0,1,"Saudi Arabia",3082,337
+"1994-06-30",1994,"United States","Foxborough","Foxboro Stadium",53001,"Group D","Greece","GRE","Nigeria","NGA",0,1,0,2,"Nigeria",3083,337
+"1994-06-30",1994,"United States","Dallas","Cotton Bowl",63998,"Group D","Argentina","ARG","Bulgaria","BUL",0,0,0,2,"Bulgaria",3084,337
+"1994-07-02",1994,"United States","Chicago","Soldier Field",60246,"Round of 16","Germany","GER","Belgium","BEL",3,1,3,2,"Germany",3085,338
+"1994-07-02",1994,"United States","Washington","RFK Stadium",53121,"Round of 16","Spain","ESP","Switzerland","SUI",1,0,3,0,"Spain",3086,338
+"1994-07-03",1994,"United States","Dallas","Cotton Bowl",60277,"Round of 16","Saudi Arabia","KSA","Sweden","SWE",0,1,1,3,"Sweden",3087,338
+"1994-07-03",1994,"United States","Pasadena","Rose Bowl",90469,"Round of 16","Romania","ROU","Argentina","ARG",2,1,3,2,"Romania",3088,338
+"1994-07-04",1994,"United States","Orlando","Citrus Bowl",61355,"Round of 16","Netherlands","NED","Republic of Ireland","IRL",2,0,2,0,"Netherlands",3089,338
+"1994-07-04",1994,"United States","Palo Alto","Stanford Stadium",84147,"Round of 16","Brazil","BRA","United States","USA",0,0,1,0,"Brazil",3090,338
+"1994-07-05",1994,"United States","Foxborough","Foxboro Stadium",54367,"Round of 16","Nigeria","NGA","Italy","ITA",0,0,1,2,"Italy",3091,338
+"1994-07-05",1994,"United States","East Rutherford","Giants Stadium",71030,"Round of 16","Mexico","MEX","Bulgaria","BUL",0,0,1,1,"Draw: Mexico",3092,338
+"1994-07-09",1994,"United States","Foxborough","Foxboro Stadium",53400,"Quarterfinals","Italy","ITA","Spain","ESP",1,0,2,1,"Italy",3097,796
+"1994-07-09",1994,"United States","Dallas","Cotton Bowl",63500,"Quarterfinals","Netherlands","NED","Brazil","BRA",0,0,2,3,"Brazil",3098,796
+"1994-07-10",1994,"United States","East Rutherford","Giants Stadium",72000,"Quarterfinals","Bulgaria","BUL","Germany","GER",0,0,2,1,"Bulgaria",3096,796
+"1994-07-10",1994,"United States","Palo Alto","Stanford Stadium",83500,"Quarterfinals","Romania","ROU","Sweden","SWE",0,0,2,2,"Draw: Romania",3095,796
+"1994-07-13",1994,"United States","East Rutherford","Giants Stadium",74110,"Semifinals","Bulgaria","BUL","Italy","ITA",1,2,1,2,"Italy",3100,3461
+"1994-07-13",1994,"United States","Pasadena","Rose Bowl",91856,"Semifinals","Sweden","SWE","Brazil","BRA",0,0,0,1,"Brazil",3099,3461
+"1994-07-16",1994,"United States","Pasadena","Rose Bowl",91500,"Third place","Sweden","SWE","Bulgaria","BUL",4,0,4,0,"Sweden",3103,3460
+"1994-07-17",1994,"United States","Pasadena","Rose Bowl",94194,"Final","Brazil","BRA","Italy","ITA",0,0,0,0,"Draw: Brazil",3104,3459
+"1998-06-10",1998,"France","Saint-Denis","Stade de France",80000,"Group A","Brazil","BRA","Scotland","SCO",1,1,2,1,"Brazil",4000,1014
+"1998-06-10",1998,"France","Montpellier","La Mosson",29800,"Group A","Morocco","MAR","Norway","NOR",1,1,2,2,"Draw: Morocco",8725,1014
+"1998-06-11",1998,"France","Bordeaux","Stade du Parc Lescure",31800,"Group B","Italy","ITA","Chile","CHI",1,1,2,2,"Draw: Italy",8726,1014
+"1998-06-11",1998,"France","Toulouse","Stade Municipal",33500,"Group B","Cameroon","CMR","Austria","AUT",0,0,1,1,"Draw: Cameroon",8727,1014
+"1998-06-12",1998,"France","Montpellier","La Mosson",29800,"Group D","Paraguay","PAR","Bulgaria","BUL",0,0,0,0,"Draw: Paraguay",8728,1014
+"1998-06-12",1998,"France","Lens","Stade Felix Bollaert",38100,"Group C","Saudi Arabia","KSA","Denmark","DEN",0,0,0,1,"Denmark",8729,1014
+"1998-06-12",1998,"France","Marseille","Stade V�lodrome",55000,"Group C","France","FRA","South Africa","RSA",1,0,3,0,"France",8730,1014
+"1998-06-13",1998,"France","Nantes","La Beaujoire",35500,"Group D","Spain","ESP","Nigeria","NGA",1,1,2,3,"Nigeria",8731,1014
+"1998-06-13",1998,"France","Lyon","Stade de Gerland",39100,"Group E","South Korea","KOR","Mexico","MEX",1,0,1,3,"Mexico",8732,1014
+"1998-06-13",1998,"France","Saint-Denis","Stade de France",77000,"Group E","Netherlands","NED","Belgium","BEL",0,0,0,0,"Draw: Netherlands",8733,1014
+"1998-06-14",1998,"France","Toulouse","Stade Municipal",33500,"Group H","Argentina","ARG","Japan","JPN",1,0,1,0,"Argentina",8734,1014
+"1998-06-14",1998,"France","Saint-Étienne","Stade Geoffroy Guichard",30600,"Group F","Yugoslavia","YUG","Iran","IRN",0,0,1,0,"Yugoslavia",8735,1014
+"1998-06-14",1998,"France","Lens","Stade Felix Bollaert",38100,"Group H","Jamaica","JAM","Croatia","CRO",1,1,1,3,"Croatia",8736,1014
+"1998-06-15",1998,"France","Marseille","Stade V�lodrome",55000,"Group G","England","ENG","Tunisia","TUN",1,0,2,0,"England",8740,1014
+"1998-06-15",1998,"France","Lyon","Stade de Gerland",39100,"Group G","Romania","ROU","Colombia","COL",1,0,1,0,"Romania",8739,1014
+"1998-06-15",1998,"France","Paris","Parc des Princes",45500,"Group F","Germany","GER","United States","USA",1,0,2,0,"Germany",8738,1014
+"1998-06-16",1998,"France","Bordeaux","Stade du Parc Lescure",31800,"Group A","Scotland","SCO","Norway","NOR",0,0,1,1,"Draw: Scotland",8741,1014
+"1998-06-16",1998,"France","Nantes","La Beaujoire",35500,"Group A","Brazil","BRA","Morocco","MAR",2,0,3,0,"Brazil",8742,1014
+"1998-06-17",1998,"France","Saint-Étienne","Stade Geoffroy Guichard",30600,"Group B","Chile","CHI","Austria","AUT",0,0,1,1,"Draw: Chile",8743,1014
+"1998-06-17",1998,"France","Montpellier","La Mosson",29800,"Group B","Italy","ITA","Cameroon","CMR",1,0,3,0,"Italy",8744,1014
+"1998-06-18",1998,"France","Toulouse","Stade Municipal",33500,"Group C","South Africa","RSA","Denmark","DEN",0,1,1,1,"Draw: South Africa",8746,1014
+"1998-06-18",1998,"France","Saint-Denis","Stade de France",80000,"Group C","France","FRA","Saudi Arabia","KSA",1,0,4,0,"France",8745,1014
+"1998-06-19",1998,"France","Paris","Parc des Princes",45500,"Group D","Nigeria","NGA","Bulgaria","BUL",1,0,1,0,"Nigeria",8747,1014
+"1998-06-19",1998,"France","Saint-Étienne","Stade Geoffroy Guichard",30600,"Group D","Spain","ESP","Paraguay","PAR",0,0,0,0,"Draw: Spain",8748,1014
+"1998-06-20",1998,"France","Nantes","La Beaujoire",35500,"Group H","Japan","JPN","Croatia","CRO",0,0,0,1,"Croatia",8751,1014
+"1998-06-20",1998,"France","Bordeaux","Stade du Parc Lescure",31800,"Group E","Belgium","BEL","Mexico","MEX",1,0,2,2,"Draw: Belgium",8750,1014
+"1998-06-20",1998,"France","Marseille","Stade V�lodrome",55000,"Group E","Netherlands","NED","South Korea","KOR",2,0,5,0,"Netherlands",8749,1014
+"1998-06-21",1998,"France","Lens","Stade Felix Bollaert",38100,"Group F","Germany","GER","FR Yugoslavia","YUG",0,1,2,2,"Draw: Germany",8753,1014
+"1998-06-21",1998,"France","Paris","Parc des Princes",45500,"Group H","Argentina","ARG","Jamaica","JAM",1,0,5,0,"Argentina",8752,1014
+"1998-06-21",1998,"France","Lyon","Stade de Gerland",39100,"Group F","United States","USA","Iran","IRN",0,1,1,2,"Iran",8754,1014
+"1998-06-22",1998,"France","Montpellier","La Mosson",29800,"Group G","Colombia","COL","Tunisia","TUN",0,0,1,0,"Colombia",8755,1014
+"1998-06-22",1998,"France","Toulouse","Stade Municipal",33500,"Group G","Romania","ROU","England","ENG",0,0,2,1,"Romania",8756,1014
+"1998-06-23",1998,"France","Saint-Denis","Stade de France",80000,"Group B","Italy","ITA","Austria","AUT",0,0,2,1,"Italy",8757,1014
+"1998-06-23",1998,"France","Nantes","La Beaujoire",35500,"Group B","Chile","CHI","Cameroon","CMR",1,0,1,1,"Draw: Chile",8760,1014
+"1998-06-23",1998,"France","Saint-Étienne","Stade Geoffroy Guichard",30600,"Group A","Scotland","SCO","Morocco","MAR",0,1,0,3,"Morocco",8758,1014
+"1998-06-23",1998,"France","Marseille","Stade V�lodrome",55000,"Group A","Brazil","BRA","Norway","NOR",0,0,1,2,"Norway",8759,1014
+"1998-06-24",1998,"France","Lyon","Stade de Gerland",39100,"Group C","France","FRA","Denmark","DEN",1,1,2,1,"France",8762,1014
+"1998-06-24",1998,"France","Bordeaux","Stade du Parc Lescure",31800,"Group C","South Africa","RSA","Saudi Arabia","KSA",1,1,2,2,"Draw: South Africa",8764,1014
+"1998-06-24",1998,"France","Lens","Stade Felix Bollaert",38100,"Group D","Spain","ESP","Bulgaria","BUL",2,0,6,1,"Spain",8761,1014
+"1998-06-24",1998,"France","Toulouse","Stade Municipal",33500,"Group D","Nigeria","NGA","Paraguay","PAR",1,1,1,3,"Paraguay",8763,1014
+"1998-06-25",1998,"France","Paris","Parc des Princes",45500,"Group E","Belgium","BEL","South Korea","KOR",1,0,1,1,"Draw: Belgium",8765,1014
+"1998-06-25",1998,"France","Saint-Étienne","Stade Geoffroy Guichard",30600,"Group E","Netherlands","NED","Mexico","MEX",2,0,2,2,"Draw: Netherlands",8766,1014
+"1998-06-25",1998,"France","Montpellier","La Mosson",29800,"Group F","Germany","GER","Iran","IRN",0,0,2,0,"Germany",8767,1014
+"1998-06-25",1998,"France","Nantes","La Beaujoire",35500,"Group F","United States","USA","FR Yugoslavia","YUG",0,1,0,1,"Yugoslavia",8768,1014
+"1998-06-26",1998,"France","Lyon","Stade de Gerland",39100,"Group H","Japan","JPN","Jamaica","JAM",0,1,1,2,"Jamaica",8771,1014
+"1998-06-26",1998,"France","Bordeaux","Stade du Parc Lescure",31800,"Group H","Argentina","ARG","Croatia","CRO",1,0,1,0,"Argentina",8772,1014
+"1998-06-26",1998,"France","Saint-Denis","Stade de France",77000,"Group G","Romania","ROU","Tunisia","TUN",0,1,1,1,"Draw: Romania",8769,1014
+"1998-06-26",1998,"France","Lens","Stade Felix Bollaert",38100,"Group G","Colombia","COL","England","ENG",0,2,0,2,"England",8770,1014
+"1998-06-27",1998,"France","Marseille","Stade V�lodrome",55000,"Round of 16","Italy","ITA","Norway","NOR",1,0,1,0,"Italy",8774,1024
+"1998-06-27",1998,"France","Paris","Parc des Princes",45500,"Round of 16","Brazil","BRA","Chile","CHI",3,0,4,1,"Brazil",8773,1024
+"1998-06-28",1998,"France","Lens","Stade Felix Bollaert",31800,"Round of 16","France","FRA","Paraguay","PAR",0,0,1,0,"France",8776,1024
+"1998-06-28",1998,"France","Saint-Denis","Stade de France",77000,"Round of 16","Nigeria","NGA","Denmark","DEN",0,2,1,4,"Denmark",8775,1024
+"1998-06-29",1998,"France","Montpellier","La Mosson",29800,"Round of 16","Germany","GER","Mexico","MEX",0,0,2,1,"Germany",8777,1024
+"1998-06-29",1998,"France","Toulouse","Stade Municipal",33500,"Round of 16","Netherlands","NED","FR Yugoslavia","YUG",1,0,2,1,"Netherlands",8778,1024
+"1998-06-30",1998,"France","Bordeaux","Stade du Parc Lescure",31800,"Round of 16","Romania","ROU","Croatia","CRO",0,1,0,1,"Croatia",8780,1024
+"1998-06-30",1998,"France","Saint-Étienne","Stade Geoffroy Guichard",30600,"Round of 16","Argentina","ARG","England","ENG",0,0,2,2,"Draw: Argentina",8779,1024
+"1998-07-03",1998,"France","Saint-Denis","Stade de France",77000,"Quarterfinals","Italy","ITA","France","FRA",0,0,0,0,"Draw: Italy",8781,1025
+"1998-07-03",1998,"France","Nantes","La Beaujoire",35500,"Quarterfinals","Brazil","BRA","Denmark","DEN",2,1,3,2,"Brazil",8782,1025
+"1998-07-04",1998,"France","Marseille","Stade V�lodrome",55000,"Quarterfinals","Netherlands","NED","Argentina","ARG",1,1,2,1,"Netherlands",8784,1025
+"1998-07-04",1998,"France","Lyon","Stade de Gerland",39100,"Quarterfinals","Germany","GER","Croatia","CRO",0,1,0,3,"Croatia",8783,1025
+"1998-07-07",1998,"France","Marseille","Stade V�lodrome",54000,"Semifinals","Brazil","BRA","Netherlands","NED",0,0,1,1,"Draw: Brazil",8785,1026
+"1998-07-08",1998,"France","Saint-Denis","Stade de France",76000,"Semifinals","France","FRA","Croatia","CRO",0,0,2,1,"France",8786,1026
+"1998-07-11",1998,"France","Paris","Parc des Princes",45500,"Third place","Netherlands","NED","Croatia","CRO",1,2,1,2,"Croatia",8787,1028
+"1998-07-12",1998,"France","Saint-Denis","Stade de France",80000,"Final","Brazil","BRA","France","FRA",0,2,0,3,"France",8788,1027
+"2002-05-31",2002,"South Korea","Seoul","Seoul World Cup Stadium",62561,"Group A","France","FRA","Senegal","SEN",0,1,0,1,"Senegal",43950001,43950100
+"2002-06-01",2002,"South Korea","Ulsan","Munsu Football Stadium",30157,"Group A","Uruguay","URU","Denmark","DEN",0,1,1,2,"Denmark",43950003,43950100
+"2002-06-01",2002,"Japan","Niigata","Niigata Stadium Big Swan",33679,"Group E","Republic of Ireland","IRL","Cameroon","CMR",0,1,1,1,"Draw: rn>Republic of Ireland",43950002,43950100
+"2002-06-01",2002,"Japan","Sapporo","Sapporo Dome",32218,"Group E","Germany","GER","Saudi Arabia","KSA",4,0,8,0,"Germany",43950004,43950100
+"2002-06-02",2002,"Japan","Kashima","Kashima Stadium",34050,"Group F","Argentina","ARG","Nigeria","NGA",0,0,1,0,"Argentina",43950007,43950100
+"2002-06-02",2002,"South Korea","Busan","Busan Asiad Main Stadium",25186,"Group B","Paraguay","PAR","South Africa","RSA",1,0,2,2,"Draw: Paraguay",43950006,43950100
+"2002-06-02",2002,"Japan","Saitama","Saitama Stadium 2002",52721,"Group F","England","ENG","Sweden","SWE",1,0,1,1,"Draw: England",43950005,43950100
+"2002-06-02",2002,"South Korea","Gwangju","Gwangju World Cup Stadium",28598,"Group B","Spain","ESP","Slovenia","SVN",1,0,3,1,"Spain",43950008,43950100
+"2002-06-03",2002,"South Korea","Ulsan","Munsu Football Stadium",33842,"Group C","Brazil","BRA","Turkey","TUR",0,1,2,1,"Brazil",43950010,43950100
+"2002-06-03",2002,"Japan","Sapporo","Sapporo Dome",31081,"Group G","Italy","ITA","Ecuador","ECU",2,0,2,0,"Italy",43950011,43950100
+"2002-06-03",2002,"Japan","Niigata","Niigata Stadium Big Swan",32239,"Group G","Croatia","CRO","Mexico","MEX",0,0,0,1,"Mexico",43950009,43950100
+"2002-06-04",2002,"South Korea","Gwangju","Gwangju World Cup Stadium",27217,"Group C","China PR","CHN","Costa Rica","CRC",0,0,0,2,"Costa Rica",43950012,43950100
+"2002-06-04",2002,"Japan","Saitama","Saitama Stadium 2002",55256,"Group H","Japan","JPN","Belgium","BEL",0,0,2,2,"Draw: Japan",43950013,43950100
+"2002-06-04",2002,"South Korea","Busan","Busan Asiad Main Stadium",48760,"Group D","South Korea","KOR","Poland","POL",1,0,2,0,"Korea Republic",43950014,43950100
+"2002-06-05",2002,"Japan","Kobe","Kobe Wing Stadium",30957,"Group H","Russia","RUS","Tunisia","TUN",0,0,2,0,"Russia",43950015,43950100
+"2002-06-05",2002,"South Korea","Suwon","Suwon World Cup Stadium",37306,"Group D","United States","USA","Portugal","POR",3,1,3,2,"USA",43950016,43950100
+"2002-06-05",2002,"Japan","Kashima","Kashima Stadium",35854,"Group E","Germany","GER","Republic of Ireland","IRL",1,0,1,1,"Draw: Germany",43950017,43950100
+"2002-06-06",2002,"South Korea","Daegu","Daegu World Cup Stadium",43500,"Group A","Denmark","DEN","Senegal","SEN",1,0,1,1,"Draw: Denmark",43950020,43950100
+"2002-06-06",2002,"Japan","Saitama","Saitama Stadium 2002",52328,"Group E","Cameroon","CMR","Saudi Arabia","KSA",0,0,1,0,"Cameroon",43950019,43950100
+"2002-06-06",2002,"South Korea","Busan","Busan Asiad Main Stadium",38289,"Group A","France","FRA","Uruguay","URU",0,0,0,0,"Draw: France",43950018,43950100
+"2002-06-07",2002,"Japan","Kobe","Kobe Wing Stadium",36194,"Group F","Sweden","SWE","Nigeria","NGA",1,1,2,1,"Sweden",43950021,43950100
+"2002-06-07",2002,"Japan","Sapporo","Sapporo Dome",35927,"Group F","Argentina","ARG","England","ENG",0,1,0,1,"England",43950023,43950100
+"2002-06-07",2002,"South Korea","Jeonju","Jeonju World Cup Stadium",24000,"Group B","Spain","ESP","Paraguay","PAR",0,1,3,1,"Spain",43950022,43950100
+"2002-06-08",2002,"South Korea","Daegu","Daegu World Cup Stadium",47226,"Group B","South Africa","RSA","Slovenia","SVN",1,0,1,0,"South Africa",43950024,43950100
+"2002-06-08",2002,"South Korea","Seogwipo","Jeju World Cup Stadium",36750,"Group C","Brazil","BRA","China PR","CHN",3,0,4,0,"Brazil",43950026,43950100
+"2002-06-08",2002,"Japan","Kashima","Kashima Stadium",36472,"Group G","Italy","ITA","Croatia","CRO",0,0,1,2,"Croatia",43950025,43950100
+"2002-06-09",2002,"South Korea","Incheon","Incheon Football Stadium",42299,"Group C","Costa Rica","CRC","Turkey","TUR",0,0,1,1,"Draw: Costa Rica",43950028,43950100
+"2002-06-09",2002,"Japan","Yokohama","International Stadium Yokohama",66108,"Group H","Japan","JPN","Russia","RUS",0,0,1,0,"Japan",43950029,43950100
+"2002-06-09",2002,"Japan","Rifu","Miyagi Stadium",45610,"Group G","Mexico","MEX","Ecuador","ECU",1,1,2,1,"Mexico",43950027,43950100
+"2002-06-10",2002,"South Korea","Daegu","Daegu World Cup Stadium",60778,"Group D","South Korea","KOR","United States","USA",0,1,1,1,"Draw: Korea Republic",43950030,43950100
+"2002-06-10",2002,"South Korea","Jeonju","Jeonju World Cup Stadium",31000,"Group D","Portugal","POR","Poland","POL",1,0,4,0,"Portugal",43950032,43950100
+"2002-06-10",2002,"Japan","Ōita","Oita Stadium Big Eye",39700,"Group H","Tunisia","TUN","Belgium","BEL",1,1,1,1,"Draw: Tunisia",43950031,43950100
+"2002-06-11",2002,"South Korea","Incheon","Incheon Football Stadium",48100,"Group A","Denmark","DEN","France","FRA",1,0,2,0,"Denmark",43950033,43950100
+"2002-06-11",2002,"South Korea","Suwon","Suwon World Cup Stadium",33681,"Group A","Senegal","SEN","Uruguay","URU",3,0,3,3,"Draw: Senegal",43950034,43950100
+"2006-06-19",2006,"Germany","Stuttgart","Gottlieb-Daimler-Stadion",52000,"Group H","Spain","ESP","Tunisia","TUN",0,1,3,1,"Spain",97410031,97410100
+"2002-06-11",2002,"Japan","Yokohama","International Stadium Yokohama",65320,"Group E","Saudi Arabia","KSA","Republic of Ireland","IRL",0,1,0,3,"rn>Republic of Ireland",43950036,43950100
+"2002-06-11",2002,"Japan","Fukuroi","Shizuoka Stadium Ecopa",47085,"Group E","Cameroon","CMR","Germany","GER",0,0,0,2,"Germany",43950035,43950100
+"2002-06-12",2002,"Japan","Rifu","Miyagi Stadium",45777,"Group F","Sweden","SWE","Argentina","ARG",0,0,1,1,"Draw: Sweden",43950037,43950100
+"2002-06-12",2002,"Japan","Osaka","Osaka Nagai Stadium",44864,"Group F","Nigeria","NGA","England","ENG",0,0,0,0,"Draw: Nigeria",43950038,43950100
+"2002-06-12",2002,"South Korea","Seogwipo","Jeju World Cup Stadium",30176,"Group B","Slovenia","SVN","Paraguay","PAR",1,0,1,3,"Paraguay",43950040,43950100
+"2002-06-12",2002,"South Korea","Daejeon","Daejeon World Cup Stadium",31024,"Group B","South Africa","RSA","Spain","ESP",1,2,2,3,"Spain",43950039,43950100
+"2002-06-13",2002,"South Korea","Suwon","Suwon World Cup Stadium",38524,"Group C","Costa Rica","CRC","Brazil","BRA",1,3,2,5,"Brazil",43950041,43950100
+"2002-06-13",2002,"South Korea","Seoul","Seoul World Cup Stadium",43605,"Group C","Turkey","TUR","China PR","CHN",2,0,3,0,"Turkey",43950042,43950100
+"2002-06-13",2002,"Japan","Yokohama","International Stadium Yokohama",65862,"Group G","Ecuador","ECU","Croatia","CRO",0,0,1,0,"Ecuador",43950044,43950100
+"2002-06-13",2002,"Japan","Ōita","Oita Stadium Big Eye",39291,"Group G","Mexico","MEX","Italy","ITA",1,0,1,1,"Draw: Mexico",43950043,43950100
+"2002-06-14",2002,"Japan","Osaka","Osaka Nagai Stadium",45213,"Group H","Tunisia","TUN","Japan","JPN",0,0,0,2,"Japan",43950045,43950100
+"2002-06-14",2002,"South Korea","Incheon","Incheon Football Stadium",50239,"Group D","Portugal","POR","South Korea","KOR",0,0,0,1,"Korea Republic",43950047,43950100
+"2002-06-14",2002,"South Korea","Daejeon","Daejeon World Cup Stadium",26482,"Group D","Poland","POL","United States","USA",2,0,3,1,"Poland",43950048,43950100
+"2002-06-14",2002,"Japan","Fukuroi","Shizuoka Stadium Ecopa",46640,"Group H","Belgium","BEL","Russia","RUS",1,0,3,2,"Belgium",43950046,43950100
+"2002-06-15",2002,"Japan","Niigata","Niigata Stadium Big Swan",40582,"Round of 16","Denmark","DEN","England","ENG",0,3,0,3,"England",43950050,43950200
+"2002-06-15",2002,"South Korea","Seogwipo","Jeju World Cup Stadium",25176,"Round of 16","Germany","GER","Paraguay","PAR",0,0,1,0,"Germany",43950049,43950200
+"2002-06-16",2002,"South Korea","Suwon","Suwon World Cup Stadium",38926,"Round of 16","Spain","ESP","Republic of Ireland","IRL",0,0,1,1,"Draw: Spain",43950052,43950200
+"2002-06-16",2002,"Japan","Ōita","Oita Stadium Big Eye",39747,"Round of 16","Sweden","SWE","Senegal","SEN",0,0,1,2,"Senegal",43950051,43950200
+"2002-06-17",2002,"Japan","Kobe","Kobe Wing Stadium",40440,"Round of 16","Brazil","BRA","Belgium","BEL",0,0,2,0,"Brazil",43950054,43950200
+"2002-06-17",2002,"South Korea","Jeonju","Jeonju World Cup Stadium",36380,"Round of 16","Mexico","MEX","United States","USA",0,1,0,2,"USA",43950053,43950200
+"2002-06-18",2002,"Japan","Rifu","Miyagi Stadium",45666,"Round of 16","Japan","JPN","Turkey","TUR",0,1,0,1,"Turkey",43950055,43950200
+"2002-06-18",2002,"South Korea","Daejeon","Daejeon World Cup Stadium",38588,"Round of 16","South Korea","KOR","Italy","ITA",0,0,2,1,"Korea Republic",43950056,43950200
+"2002-06-21",2002,"Japan","Fukuroi","Shizuoka Stadium Ecopa",47436,"Quarterfinals","England","ENG","Brazil","BRA",1,1,1,2,"Brazil",43950057,43950300
+"2002-06-21",2002,"South Korea","Ulsan","Munsu Football Stadium",37337,"Quarterfinals","Germany","GER","United States","USA",1,0,1,0,"Germany",43950058,43950300
+"2002-06-22",2002,"Japan","Osaka","Osaka Nagai Stadium",44233,"Quarterfinals","Senegal","SEN","Turkey","TUR",0,0,0,1,"Turkey",43950060,43950300
+"2002-06-22",2002,"South Korea","Gwangju","Gwangju World Cup Stadium",42114,"Quarterfinals","Spain","ESP","South Korea","KOR",0,0,0,0,"Draw: Spain",43950059,43950300
+"2002-06-25",2002,"South Korea","Seoul","Seoul World Cup Stadium",65256,"Semifinals","Germany","GER","South Korea","KOR",0,0,1,0,"Germany",43950061,43950400
+"2002-06-26",2002,"Japan","Saitama","Saitama Stadium 2002",61058,"Semifinals","Brazil","BRA","Turkey","TUR",0,0,1,0,"Brazil",43950062,43950400
+"2002-06-29",2002,"South Korea","Daegu","Daegu World Cup Stadium",63483,"Third place","South Korea","KOR","Turkey","TUR",1,3,2,3,"Turkey",43950063,43950500
+"2002-06-30",2002,"Japan","Yokohama","International Stadium Yokohama",69029,"Final","Germany","GER","Brazil","BRA",0,0,0,2,"Brazil",43950064,43950600
+"2006-06-09",2006,"Germany","Munich","FIFA World Cup Stadium, Munich",66000,"Group A","Germany","GER","Costa Rica","CRC",2,1,4,2,"Germany",97410001,97410100
+"2006-06-09",2006,"Germany","Gelsenkirchen","FIFA World Cup Stadium, Gelsenkirchen",52000,"Group A","Poland","POL","Ecuador","ECU",0,1,0,2,"Ecuador",97410002,97410100
+"2006-06-10",2006,"Germany","Frankfurt am Main","FIFA World Cup Stadium, Frankfurt",48000,"Group B","England","ENG","Paraguay","PAR",1,0,1,0,"England",97410003,97410100
+"2006-06-10",2006,"Germany","Dortmund","FIFA World Cup Stadium, Dortmund",62959,"Group B","Trinidad and Tobago","TRI","Sweden","SWE",0,0,0,0,"Draw: rn>Trinidad and Tobago",97410004,97410100
+"2006-06-10",2006,"Germany","Hamburg","FIFA World Cup Stadium, Hamburg",49480,"Group C","Argentina","ARG","Cote d'Ivoire","CIV",2,0,2,1,"Argentina",97410005,97410100
+"2006-06-11",2006,"Germany","Leipzig","Zentralstadion",43000,"Group C","Serbia","SCG","Netherlands","NED",0,1,0,1,"Netherlands",97410006,97410100
+"2006-06-11",2006,"Germany","Nuremberg","Franken-Stadion",41000,"Group D","Mexico","MEX","Iran","IRN",1,1,3,1,"Mexico",97410007,97410100
+"2006-06-11",2006,"Germany","Cologne","FIFA World Cup Stadium, Cologne",45000,"Group D","Angola","ANG","Portugal","POR",0,1,0,1,"Portugal",97410008,97410100
+"2006-06-12",2006,"Germany","Kaiserslautern","Fritz-Walter-Stadion",46000,"Group F","Australia","AUS","Japan","JPN",0,1,3,1,"Australia",97410012,97410100
+"2006-06-12",2006,"Germany","Gelsenkirchen","FIFA World Cup Stadium, Gelsenkirchen",52000,"Group E","United States","USA","Czech Republic","CZE",0,2,0,3,"Czech Republic",97410010,97410100
+"2006-06-12",2006,"Germany","Hanover","FIFA World Cup Stadium, Hanover",43000,"Group E","Italy","ITA","Ghana","GHA",1,0,2,0,"Italy",97410009,97410100
+"2006-06-13",2006,"Germany","Frankfurt am Main","FIFA World Cup Stadium, Frankfurt",48000,"Group G","South Korea","KOR","Togo","TOG",0,1,2,1,"Korea Republic",97410014,97410100
+"2006-06-13",2006,"Germany","Stuttgart","Gottlieb-Daimler-Stadion",52000,"Group G","France","FRA","Switzerland","SUI",0,0,0,0,"Draw: France",97410013,97410100
+"2006-06-13",2006,"Germany","Berlin","Olympiastadion",72000,"Group F","Brazil","BRA","Croatia","CRO",1,0,1,0,"Brazil",97410011,97410100
+"2006-06-14",2006,"Germany","Leipzig","Zentralstadion",43000,"Group H","Spain","ESP","Ukraine","UKR",2,0,4,0,"Spain",97410015,97410100
+"2006-06-14",2006,"Germany","Munich","FIFA World Cup Stadium, Munich",66000,"Group H","Tunisia","TUN","Saudi Arabia","KSA",1,0,2,2,"Draw: Tunisia",97410016,97410100
+"2006-06-14",2006,"Germany","Dortmund","FIFA World Cup Stadium, Dortmund",65000,"Group A","Germany","GER","Poland","POL",0,0,1,0,"Germany",97410017,97410100
+"2006-06-15",2006,"Germany","Hamburg","FIFA World Cup Stadium, Hamburg",50000,"Group A","Ecuador","ECU","Costa Rica","CRC",1,0,3,0,"Ecuador",97410018,97410100
+"2006-06-15",2006,"Germany","Nuremberg","Franken-Stadion",41000,"Group B","England","ENG","Trinidad and Tobago","TRI",0,0,2,0,"England",97410019,97410100
+"2006-06-15",2006,"Germany","Berlin","Olympiastadion",72000,"Group B","Sweden","SWE","Paraguay","PAR",0,0,1,0,"Sweden",97410020,97410100
+"2006-06-16",2006,"Germany","Gelsenkirchen","FIFA World Cup Stadium, Gelsenkirchen",52000,"Group C","Argentina","ARG","Serbia","SCG",3,0,6,0,"Argentina",97410021,97410100
+"2006-06-16",2006,"Germany","Stuttgart","Gottlieb-Daimler-Stadion",52000,"Group C","Netherlands","NED","Cote d'Ivoire","CIV",2,1,2,1,"Netherlands",97410022,97410100
+"2006-06-16",2006,"Germany","Hanover","FIFA World Cup Stadium, Hanover",43000,"Group D","Mexico","MEX","Angola","ANG",0,0,0,0,"Draw: Mexico",97410023,97410100
+"2006-06-17",2006,"Germany","Frankfurt am Main","FIFA World Cup Stadium, Frankfurt",48000,"Group D","Portugal","POR","Iran","IRN",0,0,2,0,"Portugal",97410024,97410100
+"2006-06-17",2006,"Germany","Cologne","FIFA World Cup Stadium, Cologne",45000,"Group E","Czech Republic","CZE","Ghana","GHA",0,1,0,2,"Ghana",97410026,97410100
+"2006-06-17",2006,"Germany","Kaiserslautern","Fritz-Walter-Stadion",46000,"Group E","Italy","ITA","United States","USA",1,1,1,1,"Draw: Italy",97410025,97410100
+"2006-06-18",2006,"Germany","Nuremberg","Franken-Stadion",41000,"Group F","Japan","JPN","Croatia","CRO",0,0,0,0,"Draw: Japan",97410028,97410100
+"2006-06-18",2006,"Germany","Munich","FIFA World Cup Stadium, Munich",66000,"Group F","Brazil","BRA","Australia","AUS",0,0,2,0,"Brazil",97410027,97410100
+"2006-06-18",2006,"Germany","Leipzig","Zentralstadion",43000,"Group G","France","FRA","South Korea","KOR",1,0,1,1,"Draw: France",97410029,97410100
+"2006-06-19",2006,"Germany","Dortmund","FIFA World Cup Stadium, Dortmund",65000,"Group G","Togo","TOG","Switzerland","SUI",0,1,0,2,"Switzerland",97410030,97410100
+"2006-06-19",2006,"Germany","Hamburg","FIFA World Cup Stadium, Hamburg",50000,"Group H","Saudi Arabia","KSA","Ukraine","UKR",0,2,0,4,"Ukraine",97410032,97410100
+"2006-06-20",2006,"Germany","Berlin","Olympiastadion",72000,"Group A","Ecuador","ECU","Germany","GER",0,2,0,3,"Germany",97410033,97410100
+"2006-06-20",2006,"Germany","Hanover","FIFA World Cup Stadium, Hanover",43000,"Group A","Costa Rica","CRC","Poland","POL",1,1,1,2,"Poland",97410034,97410100
+"2006-06-20",2006,"Germany","Cologne","FIFA World Cup Stadium, Cologne",45000,"Group B","Sweden","SWE","England","ENG",0,1,2,2,"Draw: Sweden",97410035,97410100
+"2006-06-20",2006,"Germany","Kaiserslautern","Fritz-Walter-Stadion",46000,"Group B","Paraguay","PAR","Trinidad and Tobago","TRI",1,0,2,0,"Paraguay",97410036,97410100
+"2006-06-21",2006,"Germany","Leipzig","Zentralstadion",38000,"Group D","Iran","IRN","Angola","ANG",0,0,1,1,"Draw: Iran",97410040,97410100
+"2006-06-21",2006,"Germany","Gelsenkirchen","FIFA World Cup Stadium, Gelsenkirchen",52000,"Group D","Portugal","POR","Mexico","MEX",2,1,2,1,"Portugal",97410039,97410100
+"2006-06-21",2006,"Germany","Frankfurt am Main","FIFA World Cup Stadium, Frankfurt",48000,"Group C","Netherlands","NED","Argentina","ARG",0,0,0,0,"Draw: Netherlands",97410037,97410100
+"2006-06-21",2006,"Germany","Munich","FIFA World Cup Stadium, Munich",66000,"Group C","Cote d'Ivoire","CIV","Serbia","SCG",1,2,3,2,"C�te d'Ivoire",97410038,97410100
+"2006-06-22",2006,"Germany","Hamburg","FIFA World Cup Stadium, Hamburg",50000,"Group E","Czech Republic","CZE","Italy","ITA",0,1,0,2,"Italy",97410041,97410100
+"2006-06-22",2006,"Germany","Nuremberg","Franken-Stadion",41000,"Group E","Ghana","GHA","United States","USA",2,1,2,1,"Ghana",97410042,97410100
+"2006-06-22",2006,"Germany","Dortmund","FIFA World Cup Stadium, Dortmund",65000,"Group F","Japan","JPN","Brazil","BRA",1,1,1,4,"Brazil",97410043,97410100
+"2006-06-22",2006,"Germany","Stuttgart","Gottlieb-Daimler-Stadion",52000,"Group F","Croatia","CRO","Australia","AUS",1,1,2,2,"Draw: Croatia",97410044,97410100
+"2006-06-23",2006,"Germany","Berlin","Olympiastadion",72000,"Group G","Ukraine","UKR","Tunisia","TUN",0,0,1,0,"Ukraine",97410048,97410100
+"2006-06-23",2006,"Germany","Kaiserslautern","Fritz-Walter-Stadion",46000,"Group H","Saudi Arabia","KSA","Spain","ESP",0,1,0,1,"Spain",97410047,97410100
+"2006-06-23",2006,"Germany","Cologne","FIFA World Cup Stadium, Cologne",45000,"Group G","Togo","TOG","France","FRA",0,0,0,2,"France",97410045,97410100
+"2006-06-23",2006,"Germany","Hanover","FIFA World Cup Stadium, Hanover",43000,"Group H","Switzerland","SUI","South Korea","KOR",1,0,2,0,"Switzerland",97410046,97410100
+"2006-06-24",2006,"Germany","Munich","FIFA World Cup Stadium, Munich",66000,"Round of 16","Germany","GER","Sweden","SWE",2,0,2,0,"Germany",97410049,97410200
+"2006-06-24",2006,"Germany","Leipzig","Zentralstadion",43000,"Round of 16","Argentina","ARG","Mexico","MEX",0,0,2,1,"Argentina",97410050,97410200
+"2006-06-25",2006,"Germany","Stuttgart","Gottlieb-Daimler-Stadion",52000,"Round of 16","England","ENG","Ecuador","ECU",0,0,1,0,"England",97410051,97410200
+"2006-06-25",2006,"Germany","Nuremberg","Franken-Stadion",41000,"Round of 16","Portugal","POR","Netherlands","NED",1,0,1,0,"Portugal",97410052,97410200
+"2006-06-26",2006,"Germany","Kaiserslautern","Fritz-Walter-Stadion",46000,"Round of 16","Italy","ITA","Australia","AUS",0,0,1,0,"Italy",97410053,97410200
+"2006-06-26",2006,"Germany","Cologne","FIFA World Cup Stadium, Cologne",45000,"Round of 16","Switzerland","SUI","Ukraine","UKR",0,0,0,0,"Draw: Switzerland",97410054,97410200
+"2006-06-27",2006,"Germany","Dortmund","FIFA World Cup Stadium, Dortmund",65000,"Round of 16","Brazil","BRA","Ghana","GHA",2,0,3,0,"Brazil",97410055,97410200
+"2006-06-27",2006,"Germany","Hanover","FIFA World Cup Stadium, Hanover",43000,"Round of 16","Spain","ESP","France","FRA",1,1,1,3,"France",97410056,97410200
+"2006-06-30",2006,"Germany","Berlin","Olympiastadion",72000,"Quarterfinals","Germany","GER","Argentina","ARG",0,0,1,1,"Draw: Germany",97410057,97410300
+"2006-06-30",2006,"Germany","Hamburg","FIFA World Cup Stadium, Hamburg",50000,"Quarterfinals","Italy","ITA","Ukraine","UKR",1,0,3,0,"Italy",97410058,97410300
+"2006-07-01",2006,"Germany","Gelsenkirchen","FIFA World Cup Stadium, Gelsenkirchen",52000,"Quarterfinals","England","ENG","Portugal","POR",0,0,0,0,"Draw: England",97410059,97410300
+"2006-07-01",2006,"Germany","Frankfurt am Main","FIFA World Cup Stadium, Frankfurt",48000,"Quarterfinals","Brazil","BRA","France","FRA",0,0,0,1,"France",97410060,97410300
+"2006-07-04",2006,"Germany","Dortmund","FIFA World Cup Stadium, Dortmund",65000,"Semifinals","Germany","GER","Italy","ITA",0,0,0,2,"Italy",97410061,97410400
+"2006-07-05",2006,"Germany","Munich","FIFA World Cup Stadium, Munich",66000,"Semifinals","Portugal","POR","France","FRA",0,1,0,1,"France",97410062,97410400
+"2006-07-08",2006,"Germany","Stuttgart","Gottlieb-Daimler-Stadion",52000,"Third place","Germany","GER","Portugal","POR",0,0,3,1,"Germany",97410063,97410500
+"2006-07-09",2006,"Germany","Berlin","Olympiastadion",69000,"Final","Italy","ITA","France","FRA",0,0,1,1,"Draw: Italy",97410064,97410600
+"2010-06-11",2010,"South Africa","Johannesburg","Soccer City Stadium",84490,"Group A","South Africa","RSA","Mexico","MEX",0,0,1,1,"Draw: South Africa",300061454,249722
+"2010-06-11",2010,"South Africa","Cape Town","Cape Town Stadium",64100,"Group A","Uruguay","URU","France","FRA",0,0,0,0,"Draw: Uruguay",300061453,249722
+"2010-06-12",2010,"South Africa","Port Elizabeth","Port Elizabeth Stadium",31513,"Group B","South Korea","KOR","Greece","GRE",1,0,2,0,"Korea Republic",300061459,249722
+"2010-06-12",2010,"South Africa","Johannesburg","Ellis Park Stadium",55686,"Group B","Argentina","ARG","Nigeria","NGA",1,0,1,0,"Argentina",300061460,249722
+"2010-06-12",2010,"South Africa","Rustenburg","Royal Bafokeng Sports Palace",38646,"Group C","England","ENG","United States","USA",1,1,1,1,"Draw: England",300061466,249722
+"2010-06-13",2010,"South Africa","Polokwane","Peter Mokaba Stadium",30325,"Group C","Algeria","ALG","Slovenia","SVN",0,0,0,1,"Slovenia",300061465,249722
+"2010-06-13",2010,"South Africa","Pretoria","Loftus Versfeld Stadium",38833,"Group D","Serbia","SRB","Ghana","GHA",0,0,0,1,"Ghana",300061471,249722
+"2010-06-13",2010,"South Africa","Durban","Durban Stadium",62660,"Group D","Germany","GER","Australia","AUS",2,0,4,0,"Germany",300111116,249722
+"2010-06-14",2010,"South Africa","Johannesburg","Soccer City Stadium",83465,"Group E","Netherlands","NED","Denmark","DEN",0,0,2,0,"Netherlands",300061478,249722
+"2010-06-14",2010,"South Africa","Bloemfontein","Free State Stadium",30620,"Group E","Japan","JPN","Cameroon","CMR",1,0,1,0,"Japan",300061477,249722
+"2010-06-14",2010,"South Africa","Cape Town","Cape Town Stadium",62869,"Group F","Italy","ITA","Paraguay","PAR",0,1,1,1,"Draw: Italy",300061484,249722
+"2010-06-15",2010,"South Africa","Rustenburg","Royal Bafokeng Sports Palace",23871,"Group F","New Zealand","NZL","Slovakia","SVK",0,0,1,1,"Draw: New Zealand",300061483,249722
+"2010-06-15",2010,"South Africa","Port Elizabeth","Port Elizabeth Stadium",37034,"Group G","Cote d'Ivoire","CIV","Portugal","POR",0,0,0,0,"Draw: C�te d'Ivoire",300061489,249722
+"2010-06-15",2010,"South Africa","Johannesburg","Ellis Park Stadium",54331,"Group G","Brazil","BRA","North Korea","PRK",0,0,2,1,"Brazil",300061490,249722
+"2010-06-16",2010,"South Africa","Nelspruit","Mbombela Stadium",32664,"Group H","Honduras","HON","Chile","CHI",0,1,0,1,"Chile",300061495,249722
+"2010-06-16",2010,"South Africa","Durban","Durban Stadium",62453,"Group H","Spain","ESP","Switzerland","SUI",0,0,0,1,"Switzerland",300111112,249722
+"2010-06-16",2010,"South Africa","Pretoria","Loftus Versfeld Stadium",42658,"Group A","South Africa","RSA","Uruguay","URU",0,1,0,3,"Uruguay",300061452,249722
+"2010-06-17",2010,"South Africa","Johannesburg","Soccer City Stadium",82174,"Group B","Argentina","ARG","South Korea","KOR",2,1,4,1,"Argentina",300061458,249722
+"2010-06-17",2010,"South Africa","Bloemfontein","Free State Stadium",31593,"Group B","Greece","GRE","Nigeria","NGA",1,1,2,1,"Greece",300061457,249722
+"2010-06-17",2010,"South Africa","Polokwane","Peter Mokaba Stadium",35370,"Group A","France","FRA","Mexico","MEX",0,0,0,2,"Mexico",300061451,249722
+"2010-06-18",2010,"South Africa","Port Elizabeth","Port Elizabeth Stadium",38294,"Group D","Germany","GER","Serbia","SRB",0,1,0,1,"Serbia",300061470,249722
+"2010-06-18",2010,"South Africa","Johannesburg","Ellis Park Stadium",45573,"Group C","Slovenia","SVN","United States","USA",2,0,2,2,"Draw: Slovenia",300061463,249722
+"2010-06-18",2010,"South Africa","Cape Town","Cape Town Stadium",64100,"Group C","England","ENG","Algeria","ALG",0,0,0,0,"Draw: England",300061464,249722
+"2010-06-19",2010,"South Africa","Durban","Durban Stadium",62010,"Group E","Netherlands","NED","Japan","JPN",0,0,1,0,"Netherlands",300111117,249722
+"2010-06-19",2010,"South Africa","Rustenburg","Royal Bafokeng Sports Palace",34812,"Group D","Ghana","GHA","Australia","AUS",1,1,1,1,"Draw: Ghana",300061469,249722
+"2010-06-19",2010,"South Africa","Pretoria","Loftus Versfeld Stadium",38074,"Group E","Cameroon","CMR","Denmark","DEN",1,1,1,2,"Denmark",300061475,249722
+"2010-06-20",2010,"South Africa","Bloemfontein","Free State Stadium",26643,"Group F","Slovakia","SVK","Paraguay","PAR",0,1,0,2,"Paraguay",300061481,249722
+"2010-06-20",2010,"South Africa","Nelspruit","Mbombela Stadium",38229,"Group F","Italy","ITA","New Zealand","NZL",1,1,1,1,"Draw: Italy",300061482,249722
+"2010-06-20",2010,"South Africa","Johannesburg","Soccer City Stadium",84455,"Group G","Brazil","BRA","Cote d'Ivoire","CIV",1,0,3,1,"Brazil",300061488,249722
+"2010-06-21",2010,"South Africa","Cape Town","Cape Town Stadium",63644,"Group G","Portugal","POR","North Korea","PRK",1,0,7,0,"Portugal",300061487,249722
+"2010-06-21",2010,"South Africa","Port Elizabeth","Port Elizabeth Stadium",34872,"Group H","Chile","CHI","Switzerland","SUI",0,0,1,0,"Chile",300061493,249722
+"2010-06-21",2010,"South Africa","Johannesburg","Ellis Park Stadium",54386,"Group H","Spain","ESP","Honduras","HON",1,0,2,0,"Spain",300061494,249722
+"2010-06-22",2010,"South Africa","Rustenburg","Royal Bafokeng Sports Palace",33425,"Group A","Mexico","MEX","Uruguay","URU",0,1,0,1,"Uruguay",300061450,249722
+"2010-06-22",2010,"South Africa","Bloemfontein","Free State Stadium",39415,"Group A","France","FRA","South Africa","RSA",0,2,1,2,"South Africa",300061449,249722
+"2010-06-22",2010,"South Africa","Durban","Durban Stadium",61874,"Group B","Nigeria","NGA","South Korea","KOR",1,1,2,2,"Draw: Nigeria",300111115,249722
+"2010-06-22",2010,"South Africa","Polokwane","Peter Mokaba Stadium",38891,"Group B","Greece","GRE","Argentina","ARG",0,0,0,2,"Argentina",300061455,249722
+"2010-06-23",2010,"South Africa","Port Elizabeth","Port Elizabeth Stadium",36893,"Group C","Slovenia","SVN","England","ENG",0,1,0,1,"England",300061462,249722
+"2010-06-23",2010,"South Africa","Pretoria","Loftus Versfeld Stadium",35827,"Group C","United States","USA","Algeria","ALG",0,0,1,0,"USA",300061461,249722
+"2010-06-23",2010,"South Africa","Johannesburg","Soccer City Stadium",83391,"Group D","Ghana","GHA","Germany","GER",0,0,0,1,"Germany",300061468,249722
+"2010-06-23",2010,"South Africa","Nelspruit","Mbombela Stadium",37836,"Group D","Australia","AUS","Serbia","SRB",0,0,2,1,"Australia",300061467,249722
+"2010-06-24",2010,"South Africa","Johannesburg","Ellis Park Stadium",53412,"Group F","Slovakia","SVK","Italy","ITA",1,0,3,2,"Slovakia",300061480,249722
+"2010-06-24",2010,"South Africa","Polokwane","Peter Mokaba Stadium",34850,"Group F","Paraguay","PAR","New Zealand","NZL",0,0,0,0,"Draw: Paraguay",300061479,249722
+"2010-06-24",2010,"South Africa","Rustenburg","Royal Bafokeng Sports Palace",27967,"Group E","Denmark","DEN","Japan","JPN",0,2,1,3,"Japan",300061474,249722
+"2010-06-24",2010,"South Africa","Cape Town","Cape Town Stadium",63093,"Group E","Cameroon","CMR","Netherlands","NED",0,1,1,2,"Netherlands",300061473,249722
+"2010-06-25",2010,"South Africa","Durban","Durban Stadium",62712,"Group G","Portugal","POR","Brazil","BRA",0,0,0,0,"Draw: Portugal",300111111,249722
+"2010-06-25",2010,"South Africa","Nelspruit","Mbombela Stadium",34763,"Group G","North Korea","PRK","Cote d'Ivoire","CIV",0,2,0,3,"C�te d'Ivoire",300061486,249722
+"2010-06-25",2010,"South Africa","Pretoria","Loftus Versfeld Stadium",41958,"Group H","Chile","CHI","Spain","ESP",0,2,1,2,"Spain",300061491,249722
+"2010-06-25",2010,"South Africa","Bloemfontein","Free State Stadium",28042,"Group H","Switzerland","SUI","Honduras","HON",0,0,0,0,"Draw: Switzerland",300061492,249722
+"2010-06-26",2010,"South Africa","Port Elizabeth","Port Elizabeth Stadium",30597,"Round of 16","Uruguay","URU","South Korea","KOR",1,0,2,1,"Uruguay",300061504,249717
+"2010-06-26",2010,"South Africa","Rustenburg","Royal Bafokeng Sports Palace",34976,"Round of 16","United States","USA","Ghana","GHA",0,0,1,2,"Ghana",300061503,249717
+"2010-06-27",2010,"South Africa","Bloemfontein","Free State Stadium",40510,"Round of 16","Germany","GER","England","ENG",2,1,4,1,"Germany",300061501,249717
+"2010-06-27",2010,"South Africa","Johannesburg","Soccer City Stadium",84377,"Round of 16","Argentina","ARG","Mexico","MEX",2,0,3,1,"Argentina",300061502,249717
+"2010-06-28",2010,"South Africa","Durban","Durban Stadium",61962,"Round of 16","Netherlands","NED","Slovakia","SVK",1,0,2,1,"Netherlands",300111113,249717
+"2010-06-28",2010,"South Africa","Johannesburg","Ellis Park Stadium",54096,"Round of 16","Brazil","BRA","Chile","CHI",2,0,3,0,"Brazil",300061500,249717
+"2010-06-29",2010,"South Africa","Pretoria","Loftus Versfeld Stadium",36742,"Round of 16","Paraguay","PAR","Japan","JPN",0,0,0,0,"Draw: Paraguay",300061497,249717
+"2010-06-29",2010,"South Africa","Cape Town","Cape Town Stadium",62955,"Round of 16","Spain","ESP","Portugal","POR",0,0,1,0,"Spain",300061498,249717
+"2010-07-02",2010,"South Africa","Port Elizabeth","Port Elizabeth Stadium",40186,"Quarterfinals","Netherlands","NED","Brazil","BRA",0,1,2,1,"Netherlands",300061507,249718
+"2010-07-02",2010,"South Africa","Johannesburg","Soccer City Stadium",84017,"Quarterfinals","Uruguay","URU","Ghana","GHA",0,0,1,1,"Draw: Uruguay",300061508,249718
+"2010-07-03",2010,"South Africa","Cape Town","Cape Town Stadium",64100,"Quarterfinals","Argentina","ARG","Germany","GER",0,1,0,4,"Germany",300061505,249718
+"2010-07-03",2010,"South Africa","Johannesburg","Ellis Park Stadium",55359,"Quarterfinals","Paraguay","PAR","Spain","ESP",0,0,0,1,"Spain",300061506,249718
+"2010-07-06",2010,"South Africa","Cape Town","Cape Town Stadium",62479,"Semifinals","Uruguay","URU","Netherlands","NED",1,1,2,3,"Netherlands",300061512,249719
+"2010-07-07",2010,"South Africa","Durban","Durban Stadium",60960,"Semifinals","Germany","GER","Spain","ESP",0,0,0,1,"Spain",300111114,249719
+"2010-07-10",2010,"South Africa","Port Elizabeth","Port Elizabeth Stadium",36254,"Third place","Uruguay","URU","Germany","GER",1,1,2,3,"Germany",300061510,249720
+"2010-07-11",2010,"South Africa","Johannesburg","Soccer City Stadium",84490,"Final","Netherlands","NED","Spain","ESP",0,0,0,1,"Spain",300061509,249721
+"2014-06-12",2014,"Brazil","São Paulo","Arena de Sao Paulo",62103,"Group A","Brazil","BRA","Croatia","CRO",1,1,3,1,"Brazil",300186456,255931
+"2014-06-13",2014,"Brazil","Natal","Estadio das Dunas",39216,"Group A","Mexico","MEX","Cameroon","CMR",0,0,1,0,"Mexico",300186492,255931
+"2014-06-13",2014,"Brazil","Salvador","Arena Fonte Nova",48173,"Group B","Spain","ESP","Netherlands","NED",1,1,1,5,"Netherlands",300186510,255931
+"2014-06-13",2014,"Brazil","Cuiabá","Arena Pantanal",40275,"Group B","Chile","CHI","Australia","AUS",2,1,3,1,"Chile",300186473,255931
+"2014-06-14",2014,"Brazil","Belo Horizonte","Estadio Mineirao",57174,"Group C","Colombia","COL","Greece","GRE",1,0,3,0,"Colombia",300186471,255931
+"2014-06-14",2014,"Brazil","Fortaleza","Estadio Castelao",58679,"Group D","Uruguay","URU","Costa Rica","CRC",1,0,1,3,"Costa Rica",300186489,255931
+"2014-06-14",2014,"Brazil","Manaus","Arena Amazonia",39800,"Group D","England","ENG","Italy","ITA",1,1,1,2,"Italy",300186513,255931
+"2014-06-14",2014,"Brazil","Recife","Arena Pernambuco",40267,"Group C","Cote d'Ivoire","CIV","Japan","JPN",0,1,2,1,"C�te d'Ivoire",300186507,255931
+"2014-06-15",2014,"Brazil","Brasília","Estadio Nacional",68351,"Group E","Switzerland","SUI","Ecuador","ECU",0,1,2,1,"Switzerland",300186494,255931
+"2014-06-15",2014,"Brazil","Porto Alegre","Estadio Beira-Rio",43012,"Group E","France","FRA","Honduras","HON",1,0,3,0,"France",300186496,255931
+"2014-06-15",2014,"Brazil","Rio de Janeiro","Estadio do Maracana",74738,"Group F","Argentina","ARG","Bosnia and Herzegovina","BIH",1,0,2,1,"Argentina",300186477,255931
+"2014-06-16",2014,"Brazil","Salvador","Arena Fonte Nova",51081,"Group G","Germany","GER","Portugal","POR",3,0,4,0,"Germany",300186475,255931
+"2014-06-16",2014,"Brazil","Curitiba","Arena da Baixada",39081,"Group F","Iran","IRN","Nigeria","NGA",0,0,0,0,"Draw: IR Iran",300186505,255931
+"2014-06-16",2014,"Brazil","Natal","Estadio das Dunas",39760,"Group G","Ghana","GHA","United States","USA",0,1,1,2,"USA",300186512,255931
+"2014-06-17",2014,"Brazil","Belo Horizonte","Estadio Mineirao",56800,"Group H","Belgium","BEL","Algeria","ALG",0,1,2,1,"Belgium",300186479,255931
+"2014-06-17",2014,"Brazil","Fortaleza","Estadio Castelao",60342,"Group A","Brazil","BRA","Mexico","MEX",0,0,0,0,"Draw: Brazil",300186509,255931
+"2014-06-17",2014,"Brazil","Cuiabá","Arena Pantanal",37603,"Group H","Russia","RUS","South Korea","KOR",0,0,1,1,"Draw: Russia",300186499,255931
+"2014-06-18",2014,"Brazil","Curitiba","Estadio Beira-Rio",42877,"Group B","Australia","AUS","Netherlands","NED",1,1,2,3,"Netherlands",300186478,255931
+"2014-06-18",2014,"Brazil","Rio de Janeiro","Estadio do Maracana",74101,"Group B","Spain","ESP","Chile","CHI",0,2,0,2,"Chile",300186498,255931
+"2014-06-18",2014,"Brazil","Manaus","Arena Amazonia",39982,"Group A","Cameroon","CMR","Croatia","CRO",0,1,0,4,"Croatia",300186453,255931
+"2014-06-19",2014,"Brazil","Brasília","Estadio Nacional",68748,"Group C","Colombia","COL","Cote d'Ivoire","CIV",0,0,2,1,"Colombia",300186468,255931
+"2014-06-19",2014,"Brazil","São Paulo","Arena de Sao Paulo",62575,"Group D","Uruguay","URU","England","ENG",1,0,2,1,"Uruguay",300186486,255931
+"2014-06-19",2014,"Brazil","Natal","Estadio das Dunas",39485,"Group C","Japan","JPN","Greece","GRE",0,0,0,0,"Draw: Japan",300186454,255931
+"2014-06-20",2014,"Brazil","Recife","Arena Pernambuco",40285,"Group D","Italy","ITA","Costa Rica","CRC",0,1,0,1,"Costa Rica",300186500,255931
+"2014-06-20",2014,"Brazil","Salvador","Arena Fonte Nova",51003,"Group E","Switzerland","SUI","France","FRA",0,3,2,5,"France",300186514,255931
+"2014-06-20",2014,"Brazil","Curitiba","Arena da Baixada",39224,"Group E","Honduras","HON","Ecuador","ECU",1,1,1,2,"Ecuador",300186463,255931
+"2014-06-21",2014,"Brazil","Belo Horizonte","Estadio Mineirao",57698,"Group F","Argentina","ARG","Iran","IRN",0,0,1,0,"Argentina",300186466,255931
+"2014-06-21",2014,"Brazil","Fortaleza","Estadio Castelao",59621,"Group G","Germany","GER","Ghana","GHA",0,0,2,2,"Draw: Germany",300186493,255931
+"2014-06-21",2014,"Brazil","Cuiabá","Arena Pantanal",40499,"Group F","Nigeria","NGA","Bosnia and Herzegovina","BIH",1,0,1,0,"Nigeria",300186511,255931
+"2014-06-22",2014,"Brazil","Rio de Janeiro","Estadio do Maracana",73819,"Group H","Belgium","BEL","Russia","RUS",0,0,1,0,"Belgium",300186481,255931
+"2014-06-22",2014,"Brazil","Porto Alegre","Estadio Beira-Rio",42732,"Group H","South Korea","KOR","Algeria","ALG",0,3,2,4,"Algeria",300186495,255931
+"2014-06-22",2014,"Brazil","Manaus","Arena Amazonia",40123,"Group G","United States","USA","Portugal","POR",0,1,2,2,"Draw: USA",300186483,255931
+"2014-06-23",2014,"Brazil","Curitiba","Arena da Baixada",39375,"Group B","Australia","AUS","Spain","ESP",0,1,0,3,"Spain",300186467,255931
+"2014-06-23",2014,"Brazil","São Paulo","Arena de Sao Paulo",62996,"Group B","Netherlands","NED","Chile","CHI",0,0,2,0,"Netherlands",300186470,255931
+"2014-06-23",2014,"Brazil","Brasília","Estadio Nacional",69112,"Group A","Cameroon","CMR","Brazil","BRA",1,2,1,4,"Brazil",300186472,255931
+"2014-06-23",2014,"Brazil","Recife","Arena Pernambuco",41212,"Group A","Croatia","CRO","Mexico","MEX",0,0,1,3,"Mexico",300186452,255931
+"2014-06-24",2014,"Brazil","Natal","Estadio das Dunas",39706,"Group D","Italy","ITA","Uruguay","URU",0,0,0,1,"Uruguay",300186465,255931
+"2014-06-24",2014,"Brazil","Belo Horizonte","Estadio Mineirao",57823,"Group D","Costa Rica","CRC","England","ENG",0,0,0,0,"Draw: Costa Rica",300186484,255931
+"2014-06-24",2014,"Brazil","Cuiabá","Arena Pantanal",40340,"Group C","Japan","JPN","Colombia","COL",1,1,1,4,"Colombia",300186457,255931
+"2014-06-24",2014,"Brazil","Fortaleza","Estadio Castelao",59095,"Group C","Greece","GRE","Cote d'Ivoire","CIV",1,0,2,1,"Greece",300186455,255931
+"2014-06-25",2014,"Brazil","Porto Alegre","Estadio Beira-Rio",43285,"Group F","Nigeria","NGA","Argentina","ARG",1,2,2,3,"Argentina",300186458,255931
+"2014-06-25",2014,"Brazil","Salvador","Arena Fonte Nova",48011,"Group F","Bosnia and Herzegovina","BIH","Iran","IRN",1,0,3,1,"rn>Bosnia and Herzegovina",300186464,255931
+"2014-06-25",2014,"Brazil","Manaus","Arena Amazonia",40322,"Group E","Honduras","HON","Switzerland","SUI",0,2,0,3,"Switzerland",300186482,255931
+"2014-06-25",2014,"Brazil","Rio de Janeiro","Estadio do Maracana",73749,"Group E","Ecuador","ECU","France","FRA",0,0,0,0,"Draw: Ecuador",300186515,255931
+"2014-06-26",2014,"Brazil","Recife","Arena Pernambuco",41876,"Group G","United States","USA","Germany","GER",0,0,0,1,"Germany",300186469,255931
+"2014-06-26",2014,"Brazil","Brasília","Estadio Nacional",67540,"Group G","Portugal","POR","Ghana","GHA",1,0,2,1,"Portugal",300186476,255931
+"2014-06-26",2014,"Brazil","São Paulo","Arena de Sao Paulo",61397,"Group H","South Korea","KOR","Belgium","BEL",0,0,0,1,"Belgium",300186480,255931
+"2014-06-26",2014,"Brazil","Curitiba","Arena da Baixada",39311,"Group H","Algeria","ALG","Russia","RUS",0,1,1,1,"Draw: Algeria",300186506,255931
+"2014-06-28",2014,"Brazil","Belo Horizonte","Estadio Mineirao",57714,"Round of 16","Brazil","BRA","Chile","CHI",0,0,1,1,"Draw: Brazil",300186487,255951
+"2014-06-28",2014,"Brazil","Rio de Janeiro","Estadio do Maracana",73804,"Round of 16","Colombia","COL","Uruguay","URU",1,0,2,0,"Colombia",300186491,255951
+"2014-06-30",2014,"Brazil","Brasília","Estadio Nacional",67882,"Round of 16","France","FRA","Nigeria","NGA",0,0,2,0,"France",300186462,255951
+"2014-06-30",2014,"Brazil","Porto Alegre","Estadio Beira-Rio",NULL,"Round of 16","Germany","GER","Algeria","ALG",0,0,2,1,"Germany",300186460,255951
+"2014-07-04",2014,"Brazil","Fortaleza","Estadio Castelao",60342,"Quarterfinals","Brazil","BRA","Colombia","COL",1,0,2,1,"Brazil",300186461,255953
+"2014-07-04",2014,"Brazil","Rio de Janeiro","Estadio do Maracana",74240,"Quarterfinals","France","FRA","Germany","GER",0,1,0,1,"Germany",300186485,255953
+"2014-07-08",2014,"Brazil","Belo Horizonte","Estadio Mineirao",58141,"Semifinals","Brazil","BRA","Germany","GER",0,5,1,7,"Germany",300186474,255955
+"2014-07-12",2014,"Brazil","Brasília","Estadio Nacional",68034,"Third place","Brazil","BRA","Netherlands","NED",0,2,0,3,"Netherlands",300186502,255957
+"2014-07-13",2014,"Brazil","Rio de Janeiro","Estadio do Maracana",74738,"Final","Germany","GER","Argentina","ARG",0,0,1,0,"Germany",300186501,255959
+"2014-07-09",2014,"Brazil","São Paulo","Arena de Sao Paulo",63267,"Semifinals","Netherlands","NED","Argentina","ARG",0,0,0,0,"Draw: Netherlands",300186490,255955
+"2014-07-05",2014,"Brazil","Salvador","Arena Fonte Nova",51179,"Quarterfinals","Netherlands","NED","Costa Rica","CRC",0,0,0,0,"Draw: Netherlands",300186488,255953
+"2014-07-05",2014,"Brazil","Brasília","Estadio Nacional",68551,"Quarterfinals","Argentina","ARG","Belgium","BEL",1,0,1,0,"Argentina",300186504,255953
+"2014-06-29",2014,"Brazil","Fortaleza","Estadio Castelao",58817,"Round of 16","Netherlands","NED","Mexico","MEX",0,0,2,1,"Netherlands",300186508,255951
+"2014-06-29",2014,"Brazil","Recife","Arena Pernambuco",41242,"Round of 16","Costa Rica","CRC","Greece","GRE",0,0,1,1,"Draw: Costa Rica",300186459,255951
+"2014-07-01",2014,"Brazil","São Paulo","Arena de Sao Paulo",63255,"Round of 16","Argentina","ARG","Switzerland","SUI",0,0,1,0,"Argentina",300186503,255951
+"2014-07-01",2014,"Brazil","Salvador","Arena Fonte Nova",51227,"Round of 16","Belgium","BEL","United States","USA",0,0,2,1,"Belgium",300186497,255951
+"2014-06-28",2014,"Brazil","Belo Horizonte","Estadio Mineirao",57714,"Round of 16","Brazil","BRA","Chile","CHI",0,0,1,1,"Draw: Brazil",300186487,255951
+"2014-06-28",2014,"Brazil","Rio de Janeiro","Estadio do Maracana",73804,"Round of 16","Colombia","COL","Uruguay","URU",1,0,2,0,"Colombia",300186491,255951
+"2014-06-29",2014,"Brazil","Fortaleza","Estadio Castelao",58817,"Round of 16","Netherlands","NED","Mexico","MEX",0,0,2,1,"Netherlands",300186508,255951
+"2014-06-29",2014,"Brazil","Recife","Arena Pernambuco",41242,"Round of 16","Costa Rica","CRC","Greece","GRE",0,0,1,1,"Draw: Costa Rica",300186459,255951
+"2014-06-30",2014,"Brazil","Brasília","Estadio Nacional",67882,"Round of 16","France","FRA","Nigeria","NGA",0,0,2,0,"France",300186462,255951
+"2014-06-30",2014,"Brazil","Porto Alegre","Estadio Beira-Rio",NULL,"Round of 16","Germany","GER","Algeria","ALG",0,0,2,1,"Germany",300186460,255951
+"2014-07-01",2014,"Brazil","São Paulo","Arena de Sao Paulo",63255,"Round of 16","Argentina","ARG","Switzerland","SUI",0,0,1,0,"Argentina",300186503,255951
+"2014-07-01",2014,"Brazil","Salvador","Arena Fonte Nova",51227,"Round of 16","Belgium","BEL","United States","USA",0,0,2,1,"Belgium",300186497,255951
+"2014-07-04",2014,"Brazil","Rio de Janeiro","Estadio do Maracana",74240,"Quarterfinals","France","FRA","Germany","GER",0,1,0,1,"Germany",300186485,255953
+"2014-07-04",2014,"Brazil","Fortaleza","Estadio Castelao",60342,"Quarterfinals","Brazil","BRA","Colombia","COL",1,0,2,1,"Brazil",300186461,255953
+"2014-07-05",2014,"Brazil","Brasília","Estadio Nacional",68551,"Quarterfinals","Argentina","ARG","Belgium","BEL",1,0,1,0,"Argentina",300186504,255953
+"2014-07-05",2014,"Brazil","Salvador","Arena Fonte Nova",51179,"Quarterfinals","Netherlands","NED","Costa Rica","CRC",0,0,0,0,"Draw: Netherlands",300186488,255953
+"2014-07-08",2014,"Brazil","Belo Horizonte","Estadio Mineirao",58141,"Semifinals","Brazil","BRA","Germany","GER",0,5,1,7,"Germany",300186474,255955
+"2014-07-09",2014,"Brazil","São Paulo","Arena de Sao Paulo",63267,"Semifinals","Netherlands","NED","Argentina","ARG",0,0,0,0,"Draw: Netherlands",300186490,255955
+"2014-07-12",2014,"Brazil","Brasília","Estadio Nacional",68034,"Third place","Brazil","BRA","Netherlands","NED",0,2,0,3,"Netherlands",300186502,255957
+"2014-07-13",2014,"Brazil","Rio de Janeiro","Estadio do Maracana",74738,"Final","Germany","GER","Argentina","ARG",0,0,1,0,"Germany",300186501,255959
