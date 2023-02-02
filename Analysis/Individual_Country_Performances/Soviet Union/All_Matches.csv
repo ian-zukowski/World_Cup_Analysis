@@ -1,0 +1,32 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,102,1372,220,1958-06-08,1958,Sweden,Gothenburg,Nya Ullevi,49348.0,Groups,Soviet Union,URS,England,ENG,1,0,1,2,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
+1,113,1332,220,1958-06-11,1958,Sweden,Borås,Ryavallen,21239.0,Groups,Soviet Union,URS,Austria,AUT,1,0,1,0,2,0,Soviet Union,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+2,118,1344,220,1958-06-15,1958,Sweden,Gothenburg,Nya Ullevi,50928.0,Groups,Brazil,BRA,Soviet Union,URS,1,0,1,0,2,0,Brazil,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+3,125,1373,220,1958-06-17,1958,Sweden,Gothenburg,Nya Ullevi,23182.0,Groups,Soviet Union,URS,England,ENG,0,0,1,0,1,0,Soviet Union,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+4,130,1437,221,1958-06-19,1958,Sweden,Solna,Rasunda Stadium,31900.0,Quarterfinals,Sweden,SWE,Soviet Union,URS,0,0,2,0,2,0,Sweden,0.0,0.0,2.0,0.0,2.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+5,140,1563,231,1962-05-31,1962,Chile,Arica,Carlos Dittborn,9622.0,Groups,Soviet Union,URS,Yugoslavia,YUG,0,0,2,0,2,0,Soviet Union,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+6,148,1478,231,1962-06-03,1962,Chile,Arica,Carlos Dittborn,8040.0,Groups,Soviet Union,URS,Colombia,COL,3,1,1,3,4,4,Draw,,,,,,,Groups,Groups,1.0,1.0
+7,152,1562,231,1962-06-06,1962,Chile,Arica,Carlos Dittborn,9973.0,Groups,Soviet Union,URS,Uruguay,URU,1,0,1,1,2,1,Soviet Union,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+8,160,1474,232,1962-06-10,1962,Chile,Arica,Carlos Dittborn,17268.0,Quarterfinals,Chile,CHI,Soviet Union,URS,2,1,0,0,2,1,Chile,2.0,1.0,0.0,0.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
+9,171,1710,238,1966-07-12,1966,England,Middlesbrough,Ayresome Park,23006.0,Groups,Soviet Union,URS,North Korea,PRK,2,0,1,0,3,0,Soviet Union,2.0,0.0,1.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+10,182,1682,238,1966-07-16,1966,England,Sunderland,Roker Park Ground,27793.0,Groups,Soviet Union,URS,Italy,ITA,0,0,1,0,1,0,Soviet Union,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+11,191,1610,238,1966-07-20,1966,England,Sunderland,Roker Park Ground,16027.0,Groups,Soviet Union,URS,Chile,CHI,1,1,1,0,2,1,Soviet Union,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+12,194,1676,239,1966-07-23,1966,England,Sunderland,Roker Park Ground,26844.0,Quarterfinals,Soviet Union,URS,Hungary,HUN,1,0,1,1,2,1,Soviet Union,1.0,0.0,1.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
+13,196,1659,536,1966-07-25,1966,England,Liverpool,Goodison Park,38273.0,Semifinals,West Germany,FRG,Soviet Union,URS,1,0,1,1,2,1,West Germany,1.0,0.0,1.0,1.0,2.0,1.0,Semifinals,Semifinals,4.0,4.0
+14,198,1709,3479,1966-07-28,1966,England,London,Wembley Stadium,87696.0,Third place,Portugal,POR,Soviet Union,URS,1,1,1,0,2,1,Portugal,1.0,1.0,1.0,0.0,2.0,1.0,Third place,Third place,5.0,5.0
+15,200,1902,250,1970-05-31,1970,Mexico,Mexico City,Estadio Azteca,107160.0,Groups,Mexico,MEX,Soviet Union,URS,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+16,211,1753,250,1970-06-06,1970,Mexico,Mexico City,Estadio Azteca,95261.0,Groups,Soviet Union,URS,Belgium,BEL,1,0,3,1,4,1,Soviet Union,1.0,0.0,3.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0
+17,219,1823,250,1970-06-10,1970,Mexico,Mexico City,Estadio Azteca,89979.0,Groups,Soviet Union,URS,El Salvador,SLV,0,0,2,0,2,0,Soviet Union,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+18,227,1925,251,1970-06-14,1970,Mexico,Mexico City,Estadio Azteca,26085.0,Quarterfinals,Uruguay,URU,Soviet Union,URS,0,0,1,0,1,0,Uruguay,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+19,311,791,293,1982-06-14,1982,Spain,Seville,Ramon Sanchez Pizjuan,68000.0,Groups,Brazil,BRA,Soviet Union,URS,0,1,2,0,2,1,Brazil,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+20,326,1054,293,1982-06-19,1982,Spain,Málaga,La Rosaleda,19000.0,Groups,Soviet Union,URS,New Zealand,NZL,1,0,2,0,3,0,Soviet Union,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+21,335,1071,293,1982-06-22,1982,Spain,Málaga,La Rosaleda,45000.0,Groups,Soviet Union,URS,Scotland,SCO,0,1,2,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
+22,349,783,294,1982-07-01,1982,Spain,Barcelona,Camp Nou,45000.0,Round of 16,Belgium,BEL,Soviet Union,URS,0,0,0,1,0,1,Soviet Union,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
+23,353,1058,294,1982-07-04,1982,Spain,Barcelona,Camp Nou,65000.0,Round of 16,Poland,POL,Soviet Union,URS,0,0,0,0,0,0,Draw,,,,,,,Round of 16,Round of 16,2.0,2.0
+24,363,610,308,1986-06-02,1986,Mexico,Irapuato,Estadio Irapuato,16500.0,Groups,Soviet Union,URS,Hungary,HUN,3,0,3,0,6,0,Soviet Union,3.0,0.0,3.0,0.0,6.0,0.0,Groups,Groups,1.0,1.0
+25,373,571,308,1986-06-05,1986,Mexico,León,Nou Camp - Estadio León,36540.0,Groups,France,FRA,Soviet Union,URS,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+26,385,476,308,1986-06-09,1986,Mexico,Irapuato,Estadio Irapuato,14200.0,Groups,Soviet Union,URS,Canada,CAN,0,0,2,0,2,0,Soviet Union,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+27,396,432,309,1986-06-15,1986,Mexico,León,Nou Camp - Estadio León,32277.0,Round of 16,Soviet Union,URS,Belgium,BEL,0,0,3,4,3,4,Belgium,0.0,0.0,4.0,3.0,4.0,3.0,Round of 16,Round of 16,2.0,2.0
+28,413,342,322,1990-06-09,1990,Italy,Bari,Stadio San Nicola,42907.0,Groups,Soviet Union,URS,Romania,ROU,0,1,0,1,0,2,Romania,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+29,424,30,322,1990-06-13,1990,Italy,Naples,San Paolo,55759.0,Groups,Argentina,ARG,Soviet Union,URS,1,0,1,0,2,0,Argentina,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+30,437,111,322,1990-06-18,1990,Italy,Bari,Stadio San Nicola,37307.0,Groups,Cameroon,CMR,Soviet Union,URS,0,2,0,2,0,4,Soviet Union,2.0,0.0,2.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0

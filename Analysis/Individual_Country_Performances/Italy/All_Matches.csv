@@ -1,0 +1,84 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,24,1135,204,1934-05-27,1934,Italy,Rome,Nazionale PNF,25000.0,Groups,Italy,ITA,United States,USA,3,0,4,1,7,1,Italy,3.0,0.0,4.0,1.0,7.0,1.0,Groups,Groups,1.0,1.0
+1,28,1122,418,1934-05-31,1934,Italy,Florence,Giovanni Berta,35000.0,Quarterfinals,Italy,ITA,Spain,ESP,0,0,1,1,1,1,Draw,,,,,,,Quarterfinals,Quarterfinals,3.0,3.0
+2,30,1123,418,1934-06-01,1934,Italy,Florence,Giovanni Berta,43000.0,Quarterfinals,Italy,ITA,Spain,ESP,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+3,31,1107,3492,1934-06-03,1934,Italy,Milan,San Siro,35000.0,Semifinals,Italy,ITA,Austria,AUT,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Semifinals,Semifinals,4.0,4.0
+4,34,1134,3490,1934-06-10,1934,Italy,Rome,Nazionale PNF,55000.0,Finals,Italy,ITA,Czechoslovakia,TCH,0,0,2,1,2,1,Italy,0.0,0.0,2.0,1.0,2.0,1.0,Champion,Finals,7.0,6.0
+5,39,1179,206,1938-06-05,1938,France,Marseille,Stade Vélodrome,19000.0,Groups,Italy,ITA,Norway,NOR,0,0,2,1,2,1,Italy,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+6,47,1164,429,1938-06-12,1938,France,Colombes,Stade Olympique,58455.0,Quarterfinals,Italy,ITA,France,FRA,1,1,2,0,3,1,Italy,1.0,1.0,2.0,0.0,3.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
+7,50,1149,3489,1938-06-16,1938,France,Marseille,Stade Vélodrome,33000.0,Semifinals,Italy,ITA,Brazil,BRA,0,0,2,1,2,1,Italy,0.0,0.0,2.0,1.0,2.0,1.0,Semifinals,Semifinals,4.0,4.0
+8,52,1174,3487,1938-06-19,1938,France,Colombes,Stade Olympique,45000.0,Finals,Italy,ITA,Hungary,HUN,3,1,1,1,4,2,Italy,3.0,1.0,1.0,1.0,4.0,2.0,Champion,Finals,7.0,6.0
+9,56,1219,208,1950-06-25,1950,Brazil,São Paulo,Pacaembu,36502.0,Groups,Sweden,SWE,Italy,ITA,2,1,1,1,3,2,Sweden,2.0,1.0,1.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0
+10,65,1218,208,1950-07-02,1950,Brazil,São Paulo,Pacaembu,25811.0,Groups,Italy,ITA,Paraguay,PAR,1,0,1,0,2,0,Italy,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+11,82,1300,211,1954-06-17,1954,Switzerland,Lausanne,La Pontaise,43000.0,Groups,Switzerland,SUI,Italy,ITA,1,1,1,0,2,1,Switzerland,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+12,90,1243,211,1954-06-20,1954,Switzerland,Lugano,Comunale di Cornaredo,24000.0,Groups,Italy,ITA,Belgium,BEL,1,0,3,1,4,1,Italy,1.0,0.0,3.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0
+13,92,1301,211,1954-06-23,1954,Switzerland,Basel,St. Jakob,30000.0,Groups,Switzerland,SUI,Italy,ITA,1,0,3,1,4,1,Switzerland,1.0,0.0,3.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0
+14,143,1507,231,1962-05-31,1962,Chile,Santiago,Nacional,65440.0,Groups,West Germany,FRG,Italy,ITA,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+15,147,1472,231,1962-06-02,1962,Chile,Santiago,Nacional,66057.0,Groups,Chile,CHI,Italy,ITA,0,0,2,0,2,0,Chile,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+16,159,1532,231,1962-06-07,1962,Chile,Santiago,Nacional,59828.0,Groups,Italy,ITA,Switzerland,SUI,1,0,2,0,3,0,Italy,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+17,175,1608,238,1966-07-13,1966,England,Sunderland,Roker Park Ground,27199.0,Groups,Italy,ITA,Chile,CHI,1,0,1,0,2,0,Italy,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+18,182,1682,238,1966-07-16,1966,England,Sunderland,Roker Park Ground,27793.0,Groups,Soviet Union,URS,Italy,ITA,0,0,1,0,1,0,Soviet Union,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+19,187,1679,238,1966-07-19,1966,England,Middlesbrough,Ayresome Park,17829.0,Groups,North Korea,PRK,Italy,ITA,1,0,0,0,1,0,North Korea,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+20,204,1883,250,1970-06-03,1970,Mexico,Toluca,Luis Dosal,13433.0,Groups,Italy,ITA,Sweden,SWE,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+21,208,1884,250,1970-06-06,1970,Mexico,Puebla,Cuauhtemoc,29968.0,Groups,Uruguay,URU,Italy,ITA,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+22,220,1877,250,1970-06-11,1970,Mexico,Toluca,Luis Dosal,9890.0,Groups,Italy,ITA,Israel,ISR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+23,224,1882,251,1970-06-14,1970,Mexico,Toluca,Luis Dosal,26851.0,Quarterfinals,Italy,ITA,Mexico,MEX,1,1,3,0,4,1,Italy,1.0,1.0,3.0,0.0,4.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
+24,229,1838,569,1970-06-17,1970,Mexico,Mexico City,Estadio Azteca,102444.0,Semifinals,Italy,ITA,West Germany,FRG,0,0,4,3,4,3,Italy,0.0,0.0,4.0,3.0,4.0,3.0,Semifinals,Semifinals,4.0,4.0
+25,231,1765,3476,1970-06-21,1970,Mexico,Mexico City,Estadio Azteca,107412.0,Finals,Brazil,BRA,Italy,ITA,1,1,3,0,4,1,Brazil,1.0,1.0,3.0,0.0,4.0,1.0,Champion,Finals,7.0,6.0
+26,238,2083,262,1974-06-15,1974,Germany,Munich,Olympiastadion,53000.0,Groups,Italy,ITA,Haiti,HAI,0,0,3,1,3,1,Italy,0.0,0.0,3.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
+27,247,1949,262,1974-06-19,1974,Germany,Stuttgart,Neckarstadion,70100.0,Groups,Argentina,ARG,Italy,ITA,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+28,255,2129,262,1974-06-23,1974,Germany,Stuttgart,Neckarstadion,70100.0,Groups,Poland,POL,Italy,ITA,2,0,0,1,2,1,Poland,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+29,271,2347,278,1978-06-02,1978,Argentina,Mar del Plata,Estadio José María Minella,42373.0,Groups,Italy,ITA,France,FRA,1,1,1,0,2,1,Italy,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+30,279,2396,278,1978-06-06,1978,Argentina,Mar del Plata,Estadio José María Minella,26533.0,Groups,Italy,ITA,Hungary,HUN,2,0,1,1,3,1,Italy,2.0,0.0,1.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
+31,290,2200,278,1978-06-10,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,71712.0,Groups,Italy,ITA,Argentina,ARG,0,0,1,0,1,0,Italy,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+32,295,2349,279,1978-06-14,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,67547.0,Round of 16,West Germany,FRG,Italy,ITA,0,0,0,0,0,0,Draw,,,,,,,Round of 16,Round of 16,2.0,2.0
+33,300,2221,279,1978-06-18,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,66695.0,Round of 16,Italy,ITA,Austria,AUT,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
+34,303,2391,279,1978-06-21,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,67433.0,Round of 16,Netherlands,NED,Italy,ITA,0,1,2,0,2,1,Netherlands,0.0,1.0,2.0,0.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
+35,307,2247,280,1978-06-24,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,69659.0,Third place,Brazil,BRA,Italy,ITA,0,1,2,0,2,1,Brazil,0.0,1.0,2.0,0.0,2.0,1.0,Third place,Third place,5.0,5.0
+36,310,995,293,1982-06-14,1982,Spain,Vigo,Estadio Municipal de Balaídos,33000.0,Groups,Italy,ITA,Poland,POL,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+37,321,994,293,1982-06-18,1982,Spain,Vigo,Estadio Municipal de Balaídos,25000.0,Groups,Italy,ITA,Peru,PER,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+38,336,828,293,1982-06-23,1982,Spain,Vigo,Estadio Municipal de Balaídos,20000.0,Groups,Italy,ITA,Cameroon,CMR,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+39,346,753,294,1982-06-29,1982,Spain,Barcelona,Sarria,43000.0,Round of 16,Italy,ITA,Argentina,ARG,0,0,2,1,2,1,Italy,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
+40,354,788,294,1982-07-05,1982,Spain,Barcelona,Sarria,44000.0,Round of 16,Italy,ITA,Brazil,BRA,2,1,1,1,3,2,Italy,2.0,1.0,1.0,1.0,3.0,2.0,Round of 16,Round of 16,2.0,2.0
+41,356,996,295,1982-07-08,1982,Spain,Barcelona,Camp Nou,50000.0,Semifinals,Poland,POL,Italy,ITA,0,1,0,1,0,2,Italy,1.0,0.0,1.0,0.0,2.0,0.0,Semifinals,Semifinals,4.0,4.0
+42,359,923,3475,1982-07-11,1982,Spain,Madrid,Santiago Bernabeu,90000.0,Finals,Italy,ITA,West Germany,FRG,0,0,3,1,3,1,Italy,0.0,0.0,3.0,1.0,3.0,1.0,Champion,Finals,7.0,6.0
+43,360,459,308,1986-05-31,1986,Mexico,Mexico City,Estadio Azteca,96000.0,Groups,Bulgaria,BUL,Italy,ITA,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+44,372,394,308,1986-06-05,1986,Mexico,Puebla,Cuauhtemoc,32000.0,Groups,Italy,ITA,Argentina,ARG,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+45,386,643,308,1986-06-10,1986,Mexico,Puebla,Cuauhtemoc,20000.0,Groups,South Korea,KOR,Italy,ITA,0,1,2,2,2,3,Italy,1.0,0.0,2.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0
+46,400,568,309,1986-06-17,1986,Mexico,Mexico City,Estadio Olímpico Universitario,70000.0,Round of 16,Italy,ITA,France,FRA,0,1,0,1,0,2,France,1.0,0.0,1.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0
+47,415,42,322,1990-06-09,1990,Italy,Rome,Stadio Olimpico,73303.0,Groups,Italy,ITA,Austria,AUT,0,0,1,0,1,0,Italy,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+48,427,265,322,1990-06-14,1990,Italy,Rome,Stadio Olimpico,73423.0,Groups,Italy,ITA,United States,USA,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+49,440,263,322,1990-06-19,1990,Italy,Rome,Stadio Olimpico,73303.0,Groups,Italy,ITA,Czechoslovakia,TCH,1,0,1,0,2,0,Italy,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+50,453,264,323,1990-06-25,1990,Italy,Rome,Stadio Olimpico,73303.0,Round of 16,Italy,ITA,Uruguay,URU,0,0,2,0,2,0,Italy,0.0,0.0,2.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0
+51,457,243,751,1990-06-30,1990,Italy,Rome,Stadio Olimpico,73303.0,Quarterfinals,Italy,ITA,Republic of Ireland,IRL,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+52,460,28,3464,1990-07-03,1990,Italy,Naples,San Paolo,59978.0,Semifinals,Italy,ITA,Argentina,ARG,0,0,1,1,1,1,Argentina,0.0,0.0,1.0,1.0,1.0,1.0,Semifinals,Semifinals,4.0,4.0
+53,462,162,3463,1990-07-07,1990,Italy,Bari,Stadio San Nicola,51426.0,Third place,Italy,ITA,England,ENG,0,0,2,1,2,1,Italy,0.0,0.0,2.0,1.0,2.0,1.0,Third place,Third place,5.0,5.0
+54,467,3052,337,1994-06-18,1994,United States,East Rutherford,Giants Stadium,75338.0,Groups,Italy,ITA,Republic of Ireland,IRL,0,1,0,0,0,1,Republic of Ireland,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+55,479,3064,337,1994-06-23,1994,United States,East Rutherford,Giants Stadium,74624.0,Groups,Italy,ITA,Norway,NOR,0,0,1,0,1,0,Italy,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+56,494,3078,337,1994-06-28,1994,United States,Washington,RFK Stadium,52535.0,Groups,Italy,ITA,Mexico,MEX,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+57,506,3091,338,1994-07-05,1994,United States,Foxborough,Foxboro Stadium,54367.0,Round of 16,Nigeria,NGA,Italy,ITA,0,0,1,2,1,2,Italy,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
+58,508,3097,796,1994-07-09,1994,United States,Foxborough,Foxboro Stadium,53400.0,Quarterfinals,Italy,ITA,Spain,ESP,1,0,1,1,2,1,Italy,1.0,0.0,1.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
+59,512,3100,3461,1994-07-13,1994,United States,East Rutherford,Giants Stadium,74110.0,Semifinals,Bulgaria,BUL,Italy,ITA,1,2,0,0,1,2,Italy,2.0,1.0,0.0,0.0,2.0,1.0,Semifinals,Semifinals,4.0,4.0
+60,515,3104,3459,1994-07-17,1994,United States,Pasadena,Rose Bowl,94194.0,Finals,Brazil,BRA,Italy,ITA,0,0,0,0,0,0,Brazil,0.0,0.0,0.0,0.0,0.0,0.0,Champion,Finals,7.0,6.0
+61,518,8726,1014,1998-06-11,1998,France,Bordeaux,Stade du Parc Lescure,31800.0,Groups,Italy,ITA,Chile,CHI,1,1,1,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
+62,535,8744,1014,1998-06-17,1998,France,Montpellier,La Mosson,29800.0,Groups,Italy,ITA,Cameroon,CMR,1,0,2,0,3,0,Italy,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+63,548,8757,1014,1998-06-23,1998,France,Saint-Denis,Stade de France,80000.0,Groups,Italy,ITA,Austria,AUT,0,0,2,1,2,1,Italy,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+64,564,8774,1024,1998-06-27,1998,France,Marseille,Stade Vélodrome,55000.0,Round of 16,Italy,ITA,Norway,NOR,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
+65,572,8781,1025,1998-07-03,1998,France,Saint-Denis,Stade de France,77000.0,Quarterfinals,Italy,ITA,France,FRA,0,0,0,0,0,0,France,0.0,0.0,0.0,0.0,0.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+66,589,43950011,43950100,2002-06-03,2002,Japan,Sapporo,Sapporo Dome,31081.0,Groups,Italy,ITA,Ecuador,ECU,2,0,0,0,2,0,Italy,2.0,0.0,0.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+67,605,43950025,43950100,2002-06-08,2002,Japan,Kashima,Kashima Stadium,36472.0,Groups,Italy,ITA,Croatia,CRO,0,0,1,2,1,2,Croatia,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+68,624,43950043,43950100,2002-06-13,2002,Japan,Ōita,Oita Stadium Big Eye,39291.0,Groups,Mexico,MEX,Italy,ITA,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+69,636,43950056,43950200,2002-06-18,2002,South Korea,Daejeon,Daejeon World Cup Stadium,38588.0,Round of 16,South Korea,KOR,Italy,ITA,0,0,2,1,2,1,South Korea,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
+70,655,97410009,97410100,2006-06-12,2006,Germany,Hanover,"FIFA World Cup Stadium, Hanover",43000.0,Groups,Italy,ITA,Ghana,GHA,1,0,1,0,2,0,Italy,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+71,670,97410025,97410100,2006-06-17,2006,Germany,Kaiserslautern,Fritz-Walter-Stadion,46000.0,Groups,Italy,ITA,United States,USA,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+72,684,97410041,97410100,2006-06-22,2006,Germany,Hamburg,"FIFA World Cup Stadium, Hamburg",50000.0,Groups,Czech Republic,CZE,Italy,ITA,0,1,0,1,0,2,Italy,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+73,696,97410053,97410200,2006-06-26,2006,Germany,Kaiserslautern,Fritz-Walter-Stadion,46000.0,Round of 16,Italy,ITA,Australia,AUS,0,0,1,0,1,0,Italy,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
+74,701,97410058,97410300,2006-06-30,2006,Germany,Hamburg,"FIFA World Cup Stadium, Hamburg",50000.0,Quarterfinals,Italy,ITA,Ukraine,UKR,1,0,2,0,3,0,Italy,1.0,0.0,2.0,0.0,3.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+75,704,97410061,97410400,2006-07-04,2006,Germany,Dortmund,"FIFA World Cup Stadium, Dortmund",65000.0,Semifinals,Germany,GER,Italy,ITA,0,0,0,2,0,2,Italy,0.0,0.0,2.0,0.0,2.0,0.0,Semifinals,Semifinals,4.0,4.0
+76,707,97410064,97410600,2006-07-09,2006,Germany,Berlin,Olympiastadion,69000.0,Finals,Italy,ITA,France,FRA,0,0,1,1,1,1,Italy,0.0,0.0,1.0,1.0,1.0,1.0,Champion,Finals,7.0,6.0
+77,718,300061484,249722,2010-06-14,2010,South Africa,Cape Town,Cape Town Stadium,62869.0,Groups,Italy,ITA,Paraguay,PAR,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+78,735,300061482,249722,2010-06-20,2010,South Africa,Nelspruit,Mbombela Stadium,38229.0,Groups,Italy,ITA,New Zealand,NZL,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+79,748,300061480,249722,2010-06-24,2010,South Africa,Johannesburg,Ellis Park Stadium,53412.0,Groups,Slovakia,SVK,Italy,ITA,1,0,2,2,3,2,Slovakia,1.0,0.0,2.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0
+80,778,300186513,255931,2014-06-14,2014,Brazil,Manaus,Arena Amazonia,39800.0,Groups,England,ENG,Italy,ITA,1,1,0,1,1,2,Italy,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+81,795,300186500,255931,2014-06-20,2014,Brazil,Recife,Arena Pernambuco,40285.0,Groups,Italy,ITA,Costa Rica,CRC,0,1,0,0,0,1,Costa Rica,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+82,808,300186465,255931,2014-06-24,2014,Brazil,Natal,Estadio das Dunas,39706.0,Groups,Italy,ITA,Uruguay,URU,0,0,0,1,0,1,Uruguay,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0

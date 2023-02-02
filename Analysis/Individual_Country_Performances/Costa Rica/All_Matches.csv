@@ -1,0 +1,18 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,419,127,322,1990-06-11,1990,Italy,Genoa,Luigi Ferraris,30867.0,Groups,Costa Rica,CRC,Scotland,SCO,0,0,1,0,1,0,Costa Rica,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+1,430,73,322,1990-06-16,1990,Italy,Turin,Stadio delle Alpi,58007.0,Groups,Brazil,BRA,Costa Rica,CRC,1,0,0,0,1,0,Brazil,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+2,443,128,322,1990-06-20,1990,Italy,Genoa,Luigi Ferraris,30223.0,Groups,Sweden,SWE,Costa Rica,CRC,1,0,0,2,1,2,Costa Rica,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+3,449,129,323,1990-06-23,1990,Italy,Bari,Stadio San Nicola,47673.0,Round of 16,Czechoslovakia,TCH,Costa Rica,CRC,1,0,3,1,4,1,Czechoslovakia,1.0,0.0,3.0,1.0,4.0,1.0,Round of 16,Round of 16,2.0,2.0
+4,591,43950012,43950100,2002-06-04,2002,South Korea,Gwangju,Gwangju World Cup Stadium,27217.0,Groups,China PR,CHN,Costa Rica,CRC,0,0,0,2,0,2,Costa Rica,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+5,606,43950028,43950100,2002-06-09,2002,South Korea,Incheon,Incheon Football Stadium,42299.0,Groups,Costa Rica,CRC,Turkey,TUR,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+6,621,43950041,43950100,2002-06-13,2002,South Korea,Suwon,Suwon World Cup Stadium,38524.0,Groups,Costa Rica,CRC,Brazil,BRA,1,3,1,2,2,5,Brazil,3.0,1.0,2.0,1.0,5.0,2.0,Groups,Groups,1.0,1.0
+7,645,97410001,97410100,2006-06-09,2006,Germany,Munich,"FIFA World Cup Stadium, Munich",66000.0,Groups,Germany,GER,Costa Rica,CRC,2,1,2,1,4,2,Germany,2.0,1.0,2.0,1.0,4.0,2.0,Groups,Groups,1.0,1.0
+8,662,97410018,97410100,2006-06-15,2006,Germany,Hamburg,"FIFA World Cup Stadium, Hamburg",50000.0,Groups,Ecuador,ECU,Costa Rica,CRC,1,0,2,0,3,0,Ecuador,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+9,677,97410034,97410100,2006-06-20,2006,Germany,Hanover,"FIFA World Cup Stadium, Hanover",43000.0,Groups,Costa Rica,CRC,Poland,POL,1,1,0,1,1,2,Poland,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+10,777,300186489,255931,2014-06-14,2014,Brazil,Fortaleza,Estadio Castelao,58679.0,Groups,Uruguay,URU,Costa Rica,CRC,1,0,0,3,1,3,Costa Rica,0.0,1.0,3.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
+11,795,300186500,255931,2014-06-20,2014,Brazil,Recife,Arena Pernambuco,40285.0,Groups,Italy,ITA,Costa Rica,CRC,0,1,0,0,0,1,Costa Rica,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+12,809,300186484,255931,2014-06-24,2014,Brazil,Belo Horizonte,Estadio Mineirao,57823.0,Groups,Costa Rica,CRC,England,ENG,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+13,830,300186488,255953,2014-07-05,2014,Brazil,Salvador,Arena Fonte Nova,51179.0,Quarterfinals,Netherlands,NED,Costa Rica,CRC,0,0,0,0,0,0,Netherlands,0.0,0.0,0.0,0.0,0.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+14,833,300186459,255951,2014-06-29,2014,Brazil,Recife,Arena Pernambuco,41242.0,Round of 16,Costa Rica,CRC,Greece,GRE,0,0,1,1,1,1,Costa Rica,0.0,0.0,1.0,1.0,1.0,1.0,Round of 16,Round of 16,2.0,2.0
+15,839,300186459,255951,2014-06-29,2014,Brazil,Recife,Arena Pernambuco,41242.0,Round of 16,Costa Rica,CRC,Greece,GRE,0,0,1,1,1,1,Costa Rica,0.0,0.0,1.0,1.0,1.0,1.0,Round of 16,Round of 16,2.0,2.0
+16,847,300186488,255953,2014-07-05,2014,Brazil,Salvador,Arena Fonte Nova,51179.0,Quarterfinals,Netherlands,NED,Costa Rica,CRC,0,0,0,0,0,0,Netherlands,0.0,0.0,0.0,0.0,0.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0

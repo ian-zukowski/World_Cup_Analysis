@@ -1,0 +1,18 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,526,8734,1014,1998-06-14,1998,France,Toulouse,Stade Municipal,33500.0,Groups,Argentina,ARG,Japan,JPN,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+1,540,8751,1014,1998-06-20,1998,France,Nantes,La Beaujoire,35500.0,Groups,Japan,JPN,Croatia,CRO,0,0,0,1,0,1,Croatia,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+2,560,8771,1014,1998-06-26,1998,France,Lyon,Stade de Gerland,39100.0,Groups,Japan,JPN,Jamaica,JAM,0,1,1,1,1,2,Jamaica,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+3,592,43950013,43950100,2002-06-04,2002,Japan,Saitama,Saitama Stadium 2002,55256.0,Groups,Japan,JPN,Belgium,BEL,0,0,2,2,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
+4,607,43950029,43950100,2002-06-09,2002,Japan,Yokohama,International Stadium Yokohama,66108.0,Groups,Japan,JPN,Russia,RUS,0,0,1,0,1,0,Japan,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+5,625,43950045,43950100,2002-06-14,2002,Japan,Osaka,Osaka Nagai Stadium,45213.0,Groups,Tunisia,TUN,Japan,JPN,0,0,0,2,0,2,Japan,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+6,635,43950055,43950200,2002-06-18,2002,Japan,Rifu,Miyagi Stadium,45666.0,Round of 16,Japan,JPN,Turkey,TUR,0,1,0,0,0,1,Turkey,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
+7,653,97410012,97410100,2006-06-12,2006,Germany,Kaiserslautern,Fritz-Walter-Stadion,46000.0,Groups,Australia,AUS,Japan,JPN,0,1,3,0,3,1,Australia,0.0,1.0,3.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
+8,671,97410028,97410100,2006-06-18,2006,Germany,Nuremberg,Franken-Stadion,41000.0,Groups,Japan,JPN,Croatia,CRO,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+9,686,97410043,97410100,2006-06-22,2006,Germany,Dortmund,"FIFA World Cup Stadium, Dortmund",65000.0,Groups,Japan,JPN,Brazil,BRA,1,1,0,3,1,4,Brazil,1.0,1.0,3.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0
+10,717,300061477,249722,2010-06-14,2010,South Africa,Bloemfontein,Free State Stadium,30620.0,Groups,Japan,JPN,Cameroon,CMR,1,0,0,0,1,0,Japan,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+11,731,300111117,249722,2010-06-19,2010,South Africa,Durban,Durban Stadium,62010.0,Groups,Netherlands,NED,Japan,JPN,0,0,1,0,1,0,Netherlands,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+12,750,300061474,249722,2010-06-24,2010,South Africa,Rustenburg,Royal Bafokeng Sports Palace,27967.0,Groups,Denmark,DEN,Japan,JPN,0,2,1,1,1,3,Japan,2.0,0.0,1.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
+13,762,300061497,249717,2010-06-29,2010,South Africa,Pretoria,Loftus Versfeld Stadium,36742.0,Round of 16,Paraguay,PAR,Japan,JPN,0,0,0,0,0,0,Paraguay,0.0,0.0,0.0,0.0,0.0,0.0,Round of 16,Round of 16,2.0,2.0
+14,779,300186507,255931,2014-06-14,2014,Brazil,Recife,Arena Pernambuco,40267.0,Groups,Cote d'Ivoire,CIV,Japan,JPN,0,1,2,0,2,1,Cote d'Ivoire,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+15,794,300186454,255931,2014-06-19,2014,Brazil,Natal,Estadio das Dunas,39485.0,Groups,Japan,JPN,Greece,GRE,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+16,810,300186457,255931,2014-06-24,2014,Brazil,Cuiabá,Arena Pantanal,40340.0,Groups,Japan,JPN,Colombia,COL,1,1,0,3,1,4,Colombia,1.0,1.0,3.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0

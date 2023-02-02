@@ -1,0 +1,16 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,3,1098,201,1930-07-14,1930,Uruguay,Montevideo,Pocitos,2549.0,Groups,Romania,ROU,Peru,PER,1,0,2,1,3,1,Romania,1.0,0.0,2.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
+1,8,1099,201,1930-07-18,1930,Uruguay,Montevideo,Estadio Centenario,57735.0,Groups,Uruguay,URU,Peru,PER,0,0,1,0,1,0,Uruguay,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+2,202,1780,250,1970-06-02,1970,Mexico,León,Nou Camp - Estadio León,13765.0,Groups,Peru,PER,Bulgaria,BUL,0,1,3,1,3,2,Peru,0.0,1.0,3.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0
+3,209,1893,250,1970-06-06,1970,Mexico,León,Nou Camp - Estadio León,13537.0,Groups,Peru,PER,Morocco,MAR,0,0,3,0,3,0,Peru,0.0,0.0,3.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+4,217,1840,250,1970-06-10,1970,Mexico,León,Nou Camp - Estadio León,17875.0,Groups,West Germany,FRG,Peru,PER,3,1,0,0,3,1,West Germany,3.0,1.0,0.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
+5,226,1768,251,1970-06-14,1970,Mexico,Guadalajara,Jalisco,54233.0,Quarterfinals,Brazil,BRA,Peru,PER,2,1,2,1,4,2,Brazil,2.0,1.0,2.0,1.0,4.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0
+6,276,2451,278,1978-06-03,1978,Argentina,Córdoba,Estadio Olímpico Cordoba,37927.0,Groups,Peru,PER,Scotland,SCO,1,1,2,0,3,1,Peru,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
+7,286,2394,278,1978-06-07,1978,Argentina,Mendoza,San Martin,28125.0,Groups,Netherlands,NED,Peru,PER,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+8,293,2405,278,1978-06-11,1978,Argentina,Córdoba,Estadio Olímpico Cordoba,21262.0,Groups,Peru,PER,Iran,IRN,3,1,1,0,4,1,Peru,3.0,1.0,1.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0
+9,297,2251,279,1978-06-14,1978,Argentina,Mendoza,San Martin,31278.0,Round of 16,Brazil,BRA,Peru,PER,2,0,1,0,3,0,Brazil,2.0,0.0,1.0,0.0,3.0,0.0,Round of 16,Round of 16,2.0,2.0
+10,299,2450,279,1978-06-18,1978,Argentina,Mendoza,San Martin,35288.0,Round of 16,Poland,POL,Peru,PER,0,0,1,0,1,0,Poland,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
+11,306,2201,279,1978-06-21,1978,Argentina,Rosario,Arroyito - Estadio Dr. Lisandro de la Torre,37315.0,Round of 16,Argentina,ARG,Peru,PER,2,0,4,0,6,0,Argentina,2.0,0.0,4.0,0.0,6.0,0.0,Round of 16,Round of 16,2.0,2.0
+12,312,833,293,1982-06-15,1982,Spain,La Coruña,Riazor,11000.0,Groups,Peru,PER,Cameroon,CMR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+13,321,994,293,1982-06-18,1982,Spain,Vigo,Estadio Municipal de Balaídos,25000.0,Groups,Italy,ITA,Peru,PER,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+14,333,1055,293,1982-06-22,1982,Spain,La Coruña,Riazor,25000.0,Groups,Poland,POL,Peru,PER,0,0,5,1,5,1,Poland,0.0,0.0,5.0,1.0,5.0,1.0,Groups,Groups,1.0,1.0

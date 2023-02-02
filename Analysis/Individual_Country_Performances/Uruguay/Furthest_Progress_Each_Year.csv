@@ -1,0 +1,13 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Uruguay_result_value
+50,821,300186491,255951,2014-06-28,2014,Brazil,Rio de Janeiro,Estadio do Maracana,73804.0,Round of 16,Colombia,COL,Uruguay,URU,1,0,1,0,2,0,Colombia,1.0,0.0,1.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+46,770,300061510,249720,2010-07-10,2010,South Africa,Port Elizabeth,Port Elizabeth Stadium,36254.0,Third place,Uruguay,URU,Germany,GER,1,1,1,2,2,3,Germany,1.0,1.0,2.0,1.0,3.0,2.0,Third place,Third place,5.0,5.0,5.0
+37,581,43950003,43950100,2002-06-01,2002,South Korea,Ulsan,Munsu Football Stadium,30157.0,Groups,Uruguay,URU,Denmark,DEN,0,1,1,1,1,2,Denmark,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+36,453,264,323,1990-06-25,1990,Italy,Rome,Stadio Olimpico,73303.0,Round of 16,Italy,ITA,Uruguay,URU,0,0,2,0,2,0,Italy,0.0,0.0,2.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+32,398,398,309,1986-06-16,1986,Mexico,Puebla,Cuauhtemoc,26000.0,Round of 16,Argentina,ARG,Uruguay,URU,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+26,236,2098,262,1974-06-15,1974,Germany,Hanover,Niedersachsenstadion,55100.0,Groups,Uruguay,URU,Netherlands,NED,0,1,0,1,0,2,Netherlands,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+25,230,1843,3477,1970-06-20,1970,Mexico,Mexico City,Estadio Azteca,104403.0,Third place,West Germany,FRG,Uruguay,URU,1,0,0,0,1,0,West Germany,1.0,0.0,0.0,0.0,1.0,0.0,Third place,Third place,5.0,5.0,5.0
+19,193,1660,239,1966-07-23,1966,England,Sheffield,Hillsborough,40007.0,Quarterfinals,West Germany,FRG,Uruguay,URU,1,0,3,0,4,0,West Germany,1.0,0.0,3.0,0.0,4.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+13,136,1479,231,1962-05-30,1962,Chile,Arica,Carlos Dittborn,7908.0,Groups,Uruguay,URU,Colombia,COL,0,1,2,0,2,1,Uruguay,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+12,99,1239,3485,1954-07-03,1954,Switzerland,Zürich,Hardturm,32000.0,Third place,Austria,AUT,Uruguay,URU,1,1,2,0,3,1,Austria,1.0,1.0,2.0,0.0,3.0,1.0,Third place,Third place,5.0,5.0,5.0
+5,69,1207,209,1950-07-09,1950,Brazil,São Paulo,Pacaembu,44802.0,Finals,Uruguay,URU,Spain,ESP,1,2,1,0,2,2,Draw,,,,,,,Champion,Finals,7.0,6.0,7.0
+3,17,1087,405,1930-07-30,1930,Uruguay,Montevideo,Estadio Centenario,68346.0,Finals,Uruguay,URU,Argentina,ARG,1,2,3,0,4,2,Uruguay,1.0,2.0,3.0,0.0,4.0,2.0,Champion,Finals,7.0,6.0,7.0

@@ -1,0 +1,8 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Soviet Union_result_value
+28,413,342,322,1990-06-09,1990,Italy,Bari,Stadio San Nicola,42907.0,Groups,Soviet Union,URS,Romania,ROU,0,1,0,1,0,2,Romania,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+27,396,432,309,1986-06-15,1986,Mexico,León,Nou Camp - Estadio León,32277.0,Round of 16,Soviet Union,URS,Belgium,BEL,0,0,3,4,3,4,Belgium,0.0,0.0,4.0,3.0,4.0,3.0,Round of 16,Round of 16,2.0,2.0,2.0
+22,349,783,294,1982-07-01,1982,Spain,Barcelona,Camp Nou,45000.0,Round of 16,Belgium,BEL,Soviet Union,URS,0,0,0,1,0,1,Soviet Union,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+18,227,1925,251,1970-06-14,1970,Mexico,Mexico City,Estadio Azteca,26085.0,Quarterfinals,Uruguay,URU,Soviet Union,URS,0,0,1,0,1,0,Uruguay,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+14,198,1709,3479,1966-07-28,1966,England,London,Wembley Stadium,87696.0,Third place,Portugal,POR,Soviet Union,URS,1,1,1,0,2,1,Portugal,1.0,1.0,1.0,0.0,2.0,1.0,Third place,Third place,5.0,5.0,5.0
+8,160,1474,232,1962-06-10,1962,Chile,Arica,Carlos Dittborn,17268.0,Quarterfinals,Chile,CHI,Soviet Union,URS,2,1,0,0,2,1,Chile,2.0,1.0,0.0,0.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+4,130,1437,221,1958-06-19,1958,Sweden,Solna,Rasunda Stadium,31900.0,Quarterfinals,Sweden,SWE,Soviet Union,URS,0,0,2,0,2,0,Sweden,0.0,0.0,2.0,0.0,2.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0

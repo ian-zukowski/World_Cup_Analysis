@@ -1,0 +1,10 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Hungary_result_value
+29,363,610,308,1986-06-02,1986,Mexico,Irapuato,Estadio Irapuato,16500.0,Groups,Soviet Union,URS,Hungary,HUN,3,0,3,0,6,0,Soviet Union,3.0,0.0,3.0,0.0,6.0,0.0,Groups,Groups,1.0,1.0,1.0
+26,313,896,293,1982-06-15,1982,Spain,Elche,Nuevo Estadio,23000.0,Groups,Hungary,HUN,El Salvador,SLV,3,0,7,1,10,1,Hungary,3.0,0.0,7.0,1.0,10.0,1.0,Groups,Groups,1.0,1.0,1.0
+23,273,2199,278,1978-06-02,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,71615.0,Groups,Argentina,ARG,Hungary,HUN,1,1,1,0,2,1,Argentina,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+22,194,1676,239,1966-07-23,1966,England,Sunderland,Roker Park Ground,26844.0,Quarterfinals,Soviet Union,URS,Hungary,HUN,1,0,1,1,2,1,Soviet Union,1.0,0.0,1.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+18,162,1525,232,1962-06-10,1962,Chile,Rancagua,Estadio El Teniente-Codelco,11690.0,Quarterfinals,Czechoslovakia,TCH,Hungary,HUN,1,0,0,0,1,0,Czechoslovakia,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+11,104,1407,220,1958-06-08,1958,Sweden,Sandviken,Jarnvallen,15343.0,Groups,Hungary,HUN,Wales,WAL,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+10,100,1278,3484,1954-07-04,1954,Switzerland,Berne,Wankdorf Stadium,62500.0,Finals,West Germany,FRG,Hungary,HUN,2,2,1,0,3,2,West Germany,2.0,2.0,1.0,0.0,3.0,2.0,Champion,Finals,7.0,6.0,6.0
+5,52,1174,3487,1938-06-19,1938,France,Colombes,Stade Olympique,45000.0,Finals,Italy,ITA,Hungary,HUN,3,1,1,1,4,2,Italy,3.0,1.0,1.0,1.0,4.0,2.0,Champion,Finals,7.0,6.0,6.0
+1,29,1106,418,1934-05-31,1934,Italy,Bologna,Littorale,23000.0,Quarterfinals,Austria,AUT,Hungary,HUN,1,0,1,1,2,1,Austria,1.0,0.0,1.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0

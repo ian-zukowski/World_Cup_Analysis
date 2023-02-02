@@ -1,0 +1,55 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,0,1096,201,1930-07-13,1930,Uruguay,Montevideo,Pocitos,4444.0,Groups,France,FRA,Mexico,MEX,3,0,1,1,4,1,France,3.0,0.0,1.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0
+1,5,1095,201,1930-07-16,1930,Uruguay,Montevideo,Parque Central,9249.0,Groups,Chile,CHI,Mexico,MEX,1,0,2,0,3,0,Chile,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+2,10,1086,201,1930-07-19,1930,Uruguay,Montevideo,Estadio Centenario,42100.0,Groups,Argentina,ARG,Mexico,MEX,3,1,3,2,6,3,Argentina,3.0,1.0,3.0,2.0,6.0,3.0,Groups,Groups,1.0,1.0
+3,53,1187,208,1950-06-24,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,81649.0,Groups,Brazil,BRA,Mexico,MEX,1,0,3,0,4,0,Brazil,1.0,0.0,3.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
+4,59,1225,208,1950-06-28,1950,Brazil,Porto Alegre,Eucaliptos,11078.0,Groups,Yugoslavia,YUG,Mexico,MEX,2,0,2,1,4,1,Yugoslavia,2.0,0.0,2.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0
+5,67,1222,208,1950-07-02,1950,Brazil,Porto Alegre,Eucaliptos,3580.0,Groups,Switzerland,SUI,Mexico,MEX,2,0,0,1,2,1,Switzerland,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+6,77,1249,211,1954-06-16,1954,Switzerland,Geneva,Charmilles,13470.0,Groups,Brazil,BRA,Mexico,MEX,4,0,1,0,5,0,Brazil,4.0,0.0,1.0,0.0,5.0,0.0,Groups,Groups,1.0,1.0
+7,85,1275,211,1954-06-19,1954,Switzerland,Geneva,Charmilles,19000.0,Groups,France,FRA,Mexico,MEX,1,0,2,2,3,2,France,1.0,0.0,2.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0
+8,101,1415,220,1958-06-08,1958,Sweden,Solna,Rasunda Stadium,34107.0,Groups,Sweden,SWE,Mexico,MEX,1,0,2,0,3,0,Sweden,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+9,110,1418,220,1958-06-11,1958,Sweden,Solna,Rasunda Stadium,15150.0,Groups,Mexico,MEX,Wales,WAL,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+10,120,1403,220,1958-06-15,1958,Sweden,Sandviken,Jarnvallen,13300.0,Groups,Hungary,HUN,Mexico,MEX,1,0,3,0,4,0,Hungary,1.0,0.0,3.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
+11,137,1461,231,1962-05-30,1962,Chile,Viña del Mar,Estadio Sausalito,10484.0,Groups,Brazil,BRA,Mexico,MEX,0,0,2,0,2,0,Brazil,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+12,149,1497,231,1962-06-03,1962,Chile,Viña del Mar,Estadio Sausalito,11875.0,Groups,Spain,ESP,Mexico,MEX,0,0,1,0,1,0,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+13,157,1544,231,1962-06-07,1962,Chile,Viña del Mar,Estadio Sausalito,10648.0,Groups,Mexico,MEX,Czechoslovakia,TCH,2,1,1,0,3,1,Mexico,2.0,1.0,1.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
+14,172,1650,238,1966-07-13,1966,England,London,Wembley Stadium,69237.0,Groups,France,FRA,Mexico,MEX,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+15,183,1634,238,1966-07-16,1966,England,London,Wembley Stadium,92570.0,Groups,England,ENG,Mexico,MEX,1,0,1,0,2,0,England,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+16,184,1689,238,1966-07-19,1966,England,London,Wembley Stadium,61112.0,Groups,Uruguay,URU,Mexico,MEX,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+17,200,1902,250,1970-05-31,1970,Mexico,Mexico City,Estadio Azteca,107160.0,Groups,Mexico,MEX,Soviet Union,URS,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+18,215,1820,250,1970-06-07,1970,Mexico,Mexico City,Estadio Azteca,103058.0,Groups,Mexico,MEX,El Salvador,SLV,1,0,3,0,4,0,Mexico,1.0,0.0,3.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
+19,223,1752,250,1970-06-11,1970,Mexico,Mexico City,Estadio Azteca,108192.0,Groups,Mexico,MEX,Belgium,BEL,1,0,0,0,1,0,Mexico,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+20,224,1882,251,1970-06-14,1970,Mexico,Toluca,Luis Dosal,26851.0,Quarterfinals,Italy,ITA,Mexico,MEX,1,1,3,0,4,1,Italy,1.0,1.0,3.0,0.0,4.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
+21,272,2433,278,1978-06-02,1978,Argentina,Rosario,Arroyito - Estadio Dr. Lisandro de la Torre,17396.0,Groups,Tunisia,TUN,Mexico,MEX,0,1,3,0,3,1,Tunisia,0.0,1.0,3.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
+22,281,2350,278,1978-06-06,1978,Argentina,Córdoba,Estadio Olímpico Cordoba,35258.0,Groups,West Germany,FRG,Mexico,MEX,4,0,2,0,6,0,West Germany,4.0,0.0,2.0,0.0,6.0,0.0,Groups,Groups,1.0,1.0
+23,288,2431,278,1978-06-10,1978,Argentina,Rosario,Arroyito - Estadio Dr. Lisandro de la Torre,22651.0,Groups,Poland,POL,Mexico,MEX,1,0,2,1,3,1,Poland,1.0,0.0,2.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
+24,367,428,308,1986-06-03,1986,Mexico,Mexico City,Estadio Azteca,110000.0,Groups,Belgium,BEL,Mexico,MEX,1,2,0,0,1,2,Mexico,2.0,1.0,0.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+25,379,680,308,1986-06-07,1986,Mexico,Mexico City,Estadio Azteca,114600.0,Groups,Mexico,MEX,Paraguay,PAR,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+26,389,627,308,1986-06-11,1986,Mexico,Mexico City,Estadio Azteca,103763.0,Groups,Iraq,IRQ,Mexico,MEX,0,0,0,1,0,1,Mexico,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+27,397,463,309,1986-06-15,1986,Mexico,Mexico City,Estadio Azteca,114580.0,Round of 16,Mexico,MEX,Bulgaria,BUL,1,0,1,0,2,0,Mexico,1.0,0.0,1.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0
+28,405,575,714,1986-06-21,1986,Mexico,Monterrey,Estadio Universitario,41700.0,Quarterfinals,West Germany,FRG,Mexico,MEX,0,0,0,0,0,0,West Germany,0.0,0.0,0.0,0.0,0.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+29,470,3055,337,1994-06-19,1994,United States,Washington,RFK Stadium,52395.0,Groups,Norway,NOR,Mexico,MEX,0,0,1,0,1,0,Norway,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+30,481,3066,337,1994-06-24,1994,United States,Orlando,Citrus Bowl,60790.0,Groups,Mexico,MEX,Republic of Ireland,IRL,1,0,1,1,2,1,Mexico,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+31,494,3078,337,1994-06-28,1994,United States,Washington,RFK Stadium,52535.0,Groups,Italy,ITA,Mexico,MEX,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+32,507,3092,338,1994-07-05,1994,United States,East Rutherford,Giants Stadium,71030.0,Round of 16,Mexico,MEX,Bulgaria,BUL,0,0,1,1,1,1,Bulgaria,0.0,0.0,1.0,1.0,1.0,1.0,Round of 16,Round of 16,2.0,2.0
+33,524,8732,1014,1998-06-13,1998,France,Lyon,Stade de Gerland,39100.0,Groups,South Korea,KOR,Mexico,MEX,1,0,0,3,1,3,Mexico,0.0,1.0,3.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
+34,541,8750,1014,1998-06-20,1998,France,Bordeaux,Stade du Parc Lescure,31800.0,Groups,Belgium,BEL,Mexico,MEX,1,0,1,2,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
+35,557,8766,1014,1998-06-25,1998,France,Saint-Étienne,Stade Geoffroy Guichard,30600.0,Groups,Netherlands,NED,Mexico,MEX,2,0,0,2,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
+36,568,8777,1024,1998-06-29,1998,France,Montpellier,La Mosson,29800.0,Round of 16,Germany,GER,Mexico,MEX,0,0,2,1,2,1,Germany,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
+37,590,43950009,43950100,2002-06-03,2002,Japan,Niigata,Niigata Stadium Big Swan,32239.0,Groups,Croatia,CRO,Mexico,MEX,0,0,0,1,0,1,Mexico,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+38,608,43950027,43950100,2002-06-09,2002,Japan,Rifu,Miyagi Stadium,45610.0,Groups,Mexico,MEX,Ecuador,ECU,1,1,1,0,2,1,Mexico,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+39,624,43950043,43950100,2002-06-13,2002,Japan,Ōita,Oita Stadium Big Eye,39291.0,Groups,Mexico,MEX,Italy,ITA,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+40,634,43950053,43950200,2002-06-17,2002,South Korea,Jeonju,Jeonju World Cup Stadium,36380.0,Round of 16,Mexico,MEX,United States,USA,0,1,0,1,0,2,United States,1.0,0.0,1.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0
+41,651,97410007,97410100,2006-06-11,2006,Germany,Nuremberg,Franken-Stadion,41000.0,Groups,Mexico,MEX,Iran,IRN,1,1,2,0,3,1,Mexico,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
+42,667,97410023,97410100,2006-06-16,2006,Germany,Hanover,"FIFA World Cup Stadium, Hanover",43000.0,Groups,Mexico,MEX,Angola,ANG,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+43,681,97410039,97410100,2006-06-21,2006,Germany,Gelsenkirchen,"FIFA World Cup Stadium, Gelsenkirchen",52000.0,Groups,Portugal,POR,Mexico,MEX,2,1,0,0,2,1,Portugal,2.0,1.0,0.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+44,693,97410050,97410200,2006-06-24,2006,Germany,Leipzig,Zentralstadion,43000.0,Round of 16,Argentina,ARG,Mexico,MEX,0,0,2,1,2,1,Argentina,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
+45,708,300061454,249722,2010-06-11,2010,South Africa,Johannesburg,Soccer City Stadium,84490.0,Groups,South Africa,RSA,Mexico,MEX,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+46,727,300061451,249722,2010-06-17,2010,South Africa,Polokwane,Peter Mokaba Stadium,35370.0,Groups,France,FRA,Mexico,MEX,0,0,0,2,0,2,Mexico,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+47,740,300061450,249722,2010-06-22,2010,South Africa,Rustenburg,Royal Bafokeng Sports Palace,33425.0,Groups,Mexico,MEX,Uruguay,URU,0,1,0,0,0,1,Uruguay,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+48,759,300061502,249717,2010-06-27,2010,South Africa,Johannesburg,Soccer City Stadium,84377.0,Round of 16,Argentina,ARG,Mexico,MEX,2,0,1,1,3,1,Argentina,2.0,0.0,1.0,1.0,3.0,1.0,Round of 16,Round of 16,2.0,2.0
+49,773,300186492,255931,2014-06-13,2014,Brazil,Natal,Estadio das Dunas,39216.0,Groups,Mexico,MEX,Cameroon,CMR,0,0,1,0,1,0,Mexico,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+50,787,300186509,255931,2014-06-17,2014,Brazil,Fortaleza,Estadio Castelao,60342.0,Groups,Brazil,BRA,Mexico,MEX,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+51,807,300186452,255931,2014-06-23,2014,Brazil,Recife,Arena Pernambuco,41212.0,Groups,Croatia,CRO,Mexico,MEX,0,0,1,3,1,3,Mexico,0.0,0.0,3.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
+52,832,300186508,255951,2014-06-29,2014,Brazil,Fortaleza,Estadio Castelao,58817.0,Round of 16,Netherlands,NED,Mexico,MEX,0,0,2,1,2,1,Netherlands,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
+53,838,300186508,255951,2014-06-29,2014,Brazil,Fortaleza,Estadio Castelao,58817.0,Round of 16,Netherlands,NED,Mexico,MEX,0,0,2,1,2,1,Netherlands,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0

@@ -1,0 +1,6 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Colombia_result_value
+17,824,300186461,255953,2014-07-04,2014,Brazil,Fortaleza,Estadio Castelao,60342.0,Quarterfinals,Brazil,BRA,Colombia,COL,1,0,1,1,2,1,Brazil,1.0,0.0,1.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+10,530,8739,1014,1998-06-15,1998,France,Lyon,Stade de Gerland,39100.0,Groups,Romania,ROU,Colombia,COL,1,0,0,0,1,0,Romania,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+7,468,3053,337,1994-06-18,1994,United States,Pasadena,Rose Bowl,91856.0,Groups,Colombia,COL,Romania,ROU,1,2,0,1,1,3,Romania,2.0,1.0,1.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+6,448,102,323,1990-06-23,1990,Italy,Naples,San Paolo,50026.0,Round of 16,Cameroon,CMR,Colombia,COL,0,0,2,1,2,1,Cameroon,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+0,136,1479,231,1962-05-30,1962,Chile,Arica,Carlos Dittborn,7908.0,Groups,Uruguay,URU,Colombia,COL,0,1,2,0,2,1,Uruguay,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0

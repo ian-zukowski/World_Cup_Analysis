@@ -1,0 +1,38 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,2,1093,201,1930-07-14,1930,Uruguay,Montevideo,Parque Central,24059.0,Groups,Yugoslavia,YUG,Brazil,BRA,2,0,0,1,2,1,Yugoslavia,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+1,6,1092,201,1930-07-17,1930,Uruguay,Montevideo,Parque Central,18306.0,Groups,Yugoslavia,YUG,Bolivia,BOL,0,0,4,0,4,0,Yugoslavia,0.0,0.0,4.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
+2,16,1101,202,1930-07-27,1930,Uruguay,Montevideo,Estadio Centenario,79867.0,Semifinals,Uruguay,URU,Yugoslavia,YUG,3,1,3,0,6,1,Uruguay,3.0,1.0,3.0,0.0,6.0,1.0,Semifinals,Semifinals,4.0,4.0
+3,57,1230,208,1950-06-25,1950,Brazil,Belo Horizonte,Independencia,7336.0,Groups,Yugoslavia,YUG,Switzerland,SUI,0,0,3,0,3,0,Yugoslavia,0.0,0.0,3.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+4,59,1225,208,1950-06-28,1950,Brazil,Porto Alegre,Eucaliptos,11078.0,Groups,Yugoslavia,YUG,Mexico,MEX,2,0,2,1,4,1,Yugoslavia,2.0,0.0,2.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0
+5,63,1191,208,1950-07-01,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,142429.0,Groups,Brazil,BRA,Yugoslavia,YUG,1,0,1,0,2,0,Brazil,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+6,78,1276,211,1954-06-16,1954,Switzerland,Lausanne,La Pontaise,16000.0,Groups,Yugoslavia,YUG,France,FRA,1,0,0,0,1,0,Yugoslavia,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+7,86,1252,211,1954-06-19,1954,Switzerland,Lausanne,La Pontaise,24637.0,Groups,Brazil,BRA,Yugoslavia,YUG,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+8,95,1285,212,1954-06-27,1954,Switzerland,Geneva,Charmilles,17000.0,Quarterfinals,West Germany,FRG,Yugoslavia,YUG,1,0,1,0,2,0,West Germany,1.0,0.0,1.0,0.0,2.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+9,106,1434,220,1958-06-08,1958,Sweden,Västerås,Arosvallen,9591.0,Groups,Yugoslavia,YUG,Scotland,SCO,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+10,112,1388,220,1958-06-11,1958,Sweden,Västerås,Arosvallen,12217.0,Groups,Yugoslavia,YUG,France,FRA,1,1,2,1,3,2,Yugoslavia,1.0,1.0,2.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0
+11,121,1426,220,1958-06-15,1958,Sweden,Eskilstuna,Tunavallen,13103.0,Groups,Paraguay,PAR,Yugoslavia,YUG,1,2,2,1,3,3,Draw,,,,,,,Groups,Groups,1.0,1.0
+12,129,1392,221,1958-06-19,1958,Sweden,Malmö,Malmo Stadion,20055.0,Quarterfinals,West Germany,FRG,Yugoslavia,YUG,1,0,0,0,1,0,West Germany,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+13,140,1563,231,1962-05-31,1962,Chile,Arica,Carlos Dittborn,9622.0,Groups,Soviet Union,URS,Yugoslavia,YUG,0,0,2,0,2,0,Soviet Union,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+14,144,1564,231,1962-06-02,1962,Chile,Arica,Carlos Dittborn,8829.0,Groups,Yugoslavia,YUG,Uruguay,URU,2,1,1,0,3,1,Yugoslavia,2.0,1.0,1.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
+15,156,1480,231,1962-06-07,1962,Chile,Arica,Carlos Dittborn,7167.0,Groups,Yugoslavia,YUG,Colombia,COL,2,0,3,0,5,0,Yugoslavia,2.0,0.0,3.0,0.0,5.0,0.0,Groups,Groups,1.0,1.0
+16,163,1511,232,1962-06-10,1962,Chile,Santiago,Nacional,63324.0,Quarterfinals,Yugoslavia,YUG,West Germany,FRG,0,0,1,0,1,0,Yugoslavia,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+17,164,1559,514,1962-06-13,1962,Chile,Viña del Mar,Estadio Sausalito,5890.0,Semifinals,Czechoslovakia,TCH,Yugoslavia,YUG,0,0,3,1,3,1,Czechoslovakia,0.0,0.0,3.0,1.0,3.0,1.0,Semifinals,Semifinals,4.0,4.0
+18,166,1475,3481,1962-06-16,1962,Chile,Santiago,Nacional,66697.0,Third place,Chile,CHI,Yugoslavia,YUG,0,0,1,0,1,0,Chile,0.0,0.0,1.0,0.0,1.0,0.0,Third place,Third place,5.0,5.0
+19,232,1986,262,1974-06-13,1974,Germany,Frankfurt am Main,Waldstadion,62000.0,Groups,Brazil,BRA,Yugoslavia,YUG,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+20,243,2186,262,1974-06-18,1974,Germany,Gelsenkirchen,Parkstadion,31700.0,Groups,Yugoslavia,YUG,Zaire,ZAI,6,0,3,0,9,0,Yugoslavia,6.0,0.0,3.0,0.0,9.0,0.0,Groups,Groups,1.0,1.0
+21,248,2175,262,1974-06-22,1974,Germany,Frankfurt am Main,Waldstadion,56000.0,Groups,Scotland,SCO,Yugoslavia,YUG,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+22,256,2066,263,1974-06-26,1974,Germany,Düsseldorf,Rheinstadion,67385.0,Round of 16,Yugoslavia,YUG,West Germany,FRG,0,1,0,1,0,2,West Germany,1.0,0.0,1.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0
+23,261,2170,263,1974-06-30,1974,Germany,Frankfurt am Main,Waldstadion,58000.0,Round of 16,Poland,POL,Yugoslavia,YUG,1,1,1,0,2,1,Poland,1.0,1.0,1.0,0.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
+24,267,2182,263,1974-07-03,1974,Germany,Düsseldorf,Rheinstadion,41300.0,Round of 16,Sweden,SWE,Yugoslavia,YUG,1,1,1,0,2,1,Sweden,1.0,1.0,1.0,0.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
+25,320,1044,293,1982-06-17,1982,Spain,Zaragoza,La Romareda,25000.0,Groups,Yugoslavia,YUG,Northern Ireland,NIR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+26,329,903,293,1982-06-20,1982,Spain,Valencia,Luis Casanova,48000.0,Groups,Spain,ESP,Yugoslavia,YUG,1,1,1,0,2,1,Spain,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+27,340,962,293,1982-06-24,1982,Spain,Zaragoza,La Romareda,25000.0,Groups,Honduras,HON,Yugoslavia,YUG,0,0,0,1,0,1,Yugoslavia,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+28,418,201,322,1990-06-10,1990,Italy,Milan,Giuseppe Meazza,74765.0,Groups,West Germany,FRG,Yugoslavia,YUG,2,0,2,1,4,1,West Germany,2.0,0.0,2.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0
+29,426,120,322,1990-06-14,1990,Italy,Bologna,Renato Dall Ara,32257.0,Groups,Yugoslavia,YUG,Colombia,COL,0,0,1,0,1,0,Yugoslavia,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+30,439,364,322,1990-06-19,1990,Italy,Bologna,Renato Dall Ara,27833.0,Groups,Yugoslavia,YUG,United Arab Emirates,UAE,2,1,2,0,4,1,Yugoslavia,2.0,1.0,2.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0
+31,454,181,323,1990-06-26,1990,Italy,Verona,Marc Antonio Bentegodi,35500.0,Round of 16,Spain,ESP,Yugoslavia,YUG,0,0,1,2,1,2,Yugoslavia,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
+32,456,31,751,1990-06-30,1990,Italy,Florence,Comunale,38971.0,Quarterfinals,Yugoslavia,YUG,Argentina,ARG,0,0,0,0,0,0,Argentina,0.0,0.0,0.0,0.0,0.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+33,527,8735,1014,1998-06-14,1998,France,Saint-Étienne,Stade Geoffroy Guichard,30600.0,Groups,Yugoslavia,YUG,Iran,IRN,0,0,1,0,1,0,Yugoslavia,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+34,543,8753,1014,1998-06-21,1998,France,Lens,Stade Felix Bollaert,38100.0,Groups,Germany,GER,Yugoslavia,YUG,0,1,2,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
+35,559,8768,1014,1998-06-25,1998,France,Nantes,La Beaujoire,35500.0,Groups,United States,USA,Yugoslavia,YUG,0,1,0,0,0,1,Yugoslavia,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+36,569,8778,1024,1998-06-29,1998,France,Toulouse,Stade Municipal,33500.0,Round of 16,Netherlands,NED,Yugoslavia,YUG,1,0,1,1,2,1,Netherlands,1.0,0.0,1.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0

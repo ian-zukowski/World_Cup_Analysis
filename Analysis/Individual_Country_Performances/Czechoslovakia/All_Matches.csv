@@ -1,0 +1,31 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,25,1141,204,1934-05-27,1934,Italy,Trieste,Littorio,9000.0,Groups,Czechoslovakia,TCH,Romania,ROU,0,1,2,0,2,1,Czechoslovakia,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+1,26,1143,418,1934-05-31,1934,Italy,Turin,Stadio Benito Mussolini,12000.0,Quarterfinals,Czechoslovakia,TCH,Switzerland,SUI,1,1,2,1,3,2,Czechoslovakia,1.0,1.0,2.0,1.0,3.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0
+2,32,1130,3492,1934-06-03,1934,Italy,Rome,Nazionale PNF,15000.0,Semifinals,Czechoslovakia,TCH,Germany,GER,1,0,2,1,3,1,Czechoslovakia,1.0,0.0,2.0,1.0,3.0,1.0,Semifinals,Semifinals,4.0,4.0
+3,34,1134,3490,1934-06-10,1934,Italy,Rome,Nazionale PNF,55000.0,Finals,Italy,ITA,Czechoslovakia,TCH,0,0,2,1,2,1,Italy,0.0,0.0,2.0,1.0,2.0,1.0,Champion,Finals,7.0,6.0
+4,41,1172,206,1938-06-05,1938,France,Le Havre,Cavee Verte,11000.0,Groups,Czechoslovakia,TCH,Netherlands,NED,0,0,3,0,3,0,Czechoslovakia,0.0,0.0,3.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+5,44,1152,429,1938-06-12,1938,France,Bordeaux,Stade du Parc Lescure,22021.0,Quarterfinals,Brazil,BRA,Czechoslovakia,TCH,0,0,1,1,1,1,Draw,,,,,,,Quarterfinals,Quarterfinals,3.0,3.0
+6,48,1153,429,1938-06-14,1938,France,Bordeaux,Stade du Parc Lescure,18141.0,Quarterfinals,Brazil,BRA,Czechoslovakia,TCH,0,1,2,0,2,1,Brazil,0.0,1.0,2.0,0.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
+7,75,1315,211,1954-06-16,1954,Switzerland,Berne,Wankdorf Stadium,20500.0,Groups,Uruguay,URU,Czechoslovakia,TCH,0,0,2,0,2,0,Uruguay,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+8,84,1238,211,1954-06-19,1954,Switzerland,Zürich,Hardturm,26000.0,Groups,Austria,AUT,Czechoslovakia,TCH,4,0,1,0,5,0,Austria,4.0,0.0,1.0,0.0,5.0,0.0,Groups,Groups,1.0,1.0
+9,108,1421,220,1958-06-08,1958,Sweden,Halmstad,Orjans Vall,10647.0,Groups,Northern Ireland,NIR,Czechoslovakia,TCH,1,0,0,0,1,0,Northern Ireland,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+10,114,1391,220,1958-06-11,1958,Sweden,Helsingborg,Olympia Stadium,25000.0,Groups,West Germany,FRG,Czechoslovakia,TCH,0,2,2,0,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
+11,124,1325,220,1958-06-15,1958,Sweden,Helsingborg,Olympia Stadium,16418.0,Groups,Czechoslovakia,TCH,Argentina,ARG,3,0,3,1,6,1,Czechoslovakia,3.0,0.0,3.0,1.0,6.0,1.0,Groups,Groups,1.0,1.0
+12,126,1422,220,1958-06-17,1958,Sweden,Malmö,Malmo Stadion,6196.0,Groups,Northern Ireland,NIR,Czechoslovakia,TCH,0,0,2,1,2,1,Northern Ireland,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+13,141,1498,231,1962-05-31,1962,Chile,Viña del Mar,Estadio Sausalito,12700.0,Groups,Czechoslovakia,TCH,Spain,ESP,0,0,1,0,1,0,Czechoslovakia,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+14,145,1462,231,1962-06-02,1962,Chile,Viña del Mar,Estadio Sausalito,14903.0,Groups,Brazil,BRA,Czechoslovakia,TCH,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+15,157,1544,231,1962-06-07,1962,Chile,Viña del Mar,Estadio Sausalito,10648.0,Groups,Mexico,MEX,Czechoslovakia,TCH,2,1,1,0,3,1,Mexico,2.0,1.0,1.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
+16,162,1525,232,1962-06-10,1962,Chile,Rancagua,Estadio El Teniente-Codelco,11690.0,Quarterfinals,Czechoslovakia,TCH,Hungary,HUN,1,0,0,0,1,0,Czechoslovakia,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+17,164,1559,514,1962-06-13,1962,Chile,Viña del Mar,Estadio Sausalito,5890.0,Semifinals,Czechoslovakia,TCH,Yugoslavia,YUG,0,0,3,1,3,1,Czechoslovakia,0.0,0.0,3.0,1.0,3.0,1.0,Semifinals,Semifinals,4.0,4.0
+18,167,1463,3480,1962-06-17,1962,Chile,Santiago,Nacional,68679.0,Finals,Brazil,BRA,Czechoslovakia,TCH,1,1,2,0,3,1,Brazil,1.0,1.0,2.0,0.0,3.0,1.0,Champion,Finals,7.0,6.0
+19,206,1770,250,1970-06-03,1970,Mexico,Guadalajara,Jalisco,52897.0,Groups,Brazil,BRA,Czechoslovakia,TCH,1,1,3,0,4,1,Brazil,1.0,1.0,3.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0
+20,210,1919,250,1970-06-06,1970,Mexico,Guadalajara,Jalisco,56818.0,Groups,Romania,ROU,Czechoslovakia,TCH,0,1,2,0,2,1,Romania,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+21,222,1813,250,1970-06-11,1970,Mexico,Guadalajara,Jalisco,49292.0,Groups,England,ENG,Czechoslovakia,TCH,0,0,1,0,1,0,England,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+22,319,1012,293,1982-06-17,1982,Spain,Valladolid,Jose Zorrilla,25000.0,Groups,Czechoslovakia,TCH,Kuwait,KUW,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+23,328,889,293,1982-06-20,1982,Spain,Bilbao,San Mames,41123.0,Groups,England,ENG,Czechoslovakia,TCH,0,0,2,0,2,0,England,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+24,339,922,293,1982-06-24,1982,Spain,Valladolid,Jose Zorrilla,28000.0,Groups,France,FRA,Czechoslovakia,TCH,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+25,416,355,322,1990-06-10,1990,Italy,Florence,Comunale,33266.0,Groups,United States,USA,Czechoslovakia,TCH,0,2,1,3,1,5,Czechoslovakia,2.0,0.0,3.0,1.0,5.0,1.0,Groups,Groups,1.0,1.0
+26,428,43,322,1990-06-15,1990,Italy,Florence,Comunale,38962.0,Groups,Austria,AUT,Czechoslovakia,TCH,0,1,0,0,0,1,Czechoslovakia,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+27,440,263,322,1990-06-19,1990,Italy,Rome,Stadio Olimpico,73303.0,Groups,Italy,ITA,Czechoslovakia,TCH,1,0,1,0,2,0,Italy,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+28,449,129,323,1990-06-23,1990,Italy,Bari,Stadio San Nicola,47673.0,Round of 16,Czechoslovakia,TCH,Costa Rica,CRC,1,0,3,1,4,1,Czechoslovakia,1.0,0.0,3.0,1.0,4.0,1.0,Round of 16,Round of 16,2.0,2.0
+29,458,197,751,1990-07-01,1990,Italy,Milan,Giuseppe Meazza,73347.0,Quarterfinals,West Germany,FRG,Czechoslovakia,TCH,1,0,0,0,1,0,West Germany,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0

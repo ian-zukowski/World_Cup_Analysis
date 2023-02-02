@@ -1,0 +1,6 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,659,97410015,97410100,2006-06-14,2006,Germany,Leipzig,Zentralstadion,43000.0,Groups,Spain,ESP,Ukraine,UKR,2,0,2,0,4,0,Spain,2.0,0.0,2.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
+1,675,97410032,97410100,2006-06-19,2006,Germany,Hamburg,"FIFA World Cup Stadium, Hamburg",50000.0,Groups,Saudi Arabia,KSA,Ukraine,UKR,0,2,0,2,0,4,Ukraine,2.0,0.0,2.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
+2,688,97410048,97410100,2006-06-23,2006,Germany,Berlin,Olympiastadion,72000.0,Groups,Ukraine,UKR,Tunisia,TUN,0,0,1,0,1,0,Ukraine,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+3,697,97410054,97410200,2006-06-26,2006,Germany,Cologne,"FIFA World Cup Stadium, Cologne",45000.0,Round of 16,Switzerland,SUI,Ukraine,UKR,0,0,0,0,0,0,Ukraine,0.0,0.0,0.0,0.0,0.0,0.0,Round of 16,Round of 16,2.0,2.0
+4,701,97410058,97410300,2006-06-30,2006,Germany,Hamburg,"FIFA World Cup Stadium, Hamburg",50000.0,Quarterfinals,Italy,ITA,Ukraine,UKR,1,0,2,0,3,0,Italy,1.0,0.0,2.0,0.0,3.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0

@@ -1,0 +1,10 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,522,8730,1014,1998-06-12,1998,France,Marseille,Stade Vélodrome,55000.0,Groups,France,FRA,South Africa,RSA,1,0,2,0,3,0,France,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+1,536,8746,1014,1998-06-18,1998,France,Toulouse,Stade Municipal,33500.0,Groups,South Africa,RSA,Denmark,DEN,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+2,553,8764,1014,1998-06-24,1998,France,Bordeaux,Stade du Parc Lescure,31800.0,Groups,South Africa,RSA,Saudi Arabia,KSA,1,1,1,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
+3,585,43950006,43950100,2002-06-02,2002,South Korea,Busan,Busan Asiad Main Stadium,25186.0,Groups,Paraguay,PAR,South Africa,RSA,1,0,1,2,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
+4,603,43950024,43950100,2002-06-08,2002,South Korea,Daegu,Daegu World Cup Stadium,47226.0,Groups,South Africa,RSA,Slovenia,SVN,1,0,0,0,1,0,South Africa,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+5,620,43950039,43950100,2002-06-12,2002,South Korea,Daejeon,Daejeon World Cup Stadium,31024.0,Groups,South Africa,RSA,Spain,ESP,1,2,1,1,2,3,Spain,2.0,1.0,1.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0
+6,708,300061454,249722,2010-06-11,2010,South Africa,Johannesburg,Soccer City Stadium,84490.0,Groups,South Africa,RSA,Mexico,MEX,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+7,724,300061452,249722,2010-06-16,2010,South Africa,Pretoria,Loftus Versfeld Stadium,42658.0,Groups,South Africa,RSA,Uruguay,URU,0,1,0,2,0,3,Uruguay,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+8,741,300061449,249722,2010-06-22,2010,South Africa,Bloemfontein,Free State Stadium,39415.0,Groups,France,FRA,South Africa,RSA,0,2,1,0,1,2,South Africa,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0

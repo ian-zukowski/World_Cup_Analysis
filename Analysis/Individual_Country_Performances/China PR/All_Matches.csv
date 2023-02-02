@@ -1,0 +1,4 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,591,43950012,43950100,2002-06-04,2002,South Korea,Gwangju,Gwangju World Cup Stadium,27217.0,Groups,China PR,CHN,Costa Rica,CRC,0,0,0,2,0,2,Costa Rica,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+1,604,43950026,43950100,2002-06-08,2002,South Korea,Seogwipo,Jeju World Cup Stadium,36750.0,Groups,Brazil,BRA,China PR,CHN,3,0,1,0,4,0,Brazil,3.0,0.0,1.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
+2,622,43950042,43950100,2002-06-13,2002,South Korea,Seoul,Seoul World Cup Stadium,43605.0,Groups,Turkey,TUR,China PR,CHN,2,0,1,0,3,0,Turkey,2.0,0.0,1.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0

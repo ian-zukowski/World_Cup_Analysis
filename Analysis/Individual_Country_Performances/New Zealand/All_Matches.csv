@@ -1,0 +1,7 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,314,1051,293,1982-06-15,1982,Spain,Málaga,La Rosaleda,36000.0,Groups,Scotland,SCO,New Zealand,NZL,3,0,2,2,5,2,Scotland,3.0,0.0,2.0,2.0,5.0,2.0,Groups,Groups,1.0,1.0
+1,326,1054,293,1982-06-19,1982,Spain,Málaga,La Rosaleda,19000.0,Groups,Soviet Union,URS,New Zealand,NZL,1,0,2,0,3,0,Soviet Union,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+2,338,789,293,1982-06-23,1982,Spain,Seville,Benito Villamarin,43000.0,Groups,Brazil,BRA,New Zealand,NZL,2,0,2,0,4,0,Brazil,2.0,0.0,2.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
+3,719,300061483,249722,2010-06-15,2010,South Africa,Rustenburg,Royal Bafokeng Sports Palace,23871.0,Groups,New Zealand,NZL,Slovakia,SVK,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+4,735,300061482,249722,2010-06-20,2010,South Africa,Nelspruit,Mbombela Stadium,38229.0,Groups,Italy,ITA,New Zealand,NZL,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+5,749,300061479,249722,2010-06-24,2010,South Africa,Polokwane,Peter Mokaba Stadium,34850.0,Groups,Paraguay,PAR,New Zealand,NZL,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0

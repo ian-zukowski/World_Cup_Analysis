@@ -1,0 +1,8 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,171,1710,238,1966-07-12,1966,England,Middlesbrough,Ayresome Park,23006.0,Groups,Soviet Union,URS,North Korea,PRK,2,0,1,0,3,0,Soviet Union,2.0,0.0,1.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+1,179,1609,238,1966-07-15,1966,England,Middlesbrough,Ayresome Park,13792.0,Groups,North Korea,PRK,Chile,CHI,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+2,187,1679,238,1966-07-19,1966,England,Middlesbrough,Ayresome Park,17829.0,Groups,North Korea,PRK,Italy,ITA,1,0,0,0,1,0,North Korea,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+3,195,1702,239,1966-07-23,1966,England,Liverpool,Goodison Park,40248.0,Quarterfinals,Portugal,POR,North Korea,PRK,2,3,3,0,5,3,Portugal,2.0,3.0,3.0,0.0,5.0,3.0,Quarterfinals,Quarterfinals,3.0,3.0
+4,721,300061490,249722,2010-06-15,2010,South Africa,Johannesburg,Ellis Park Stadium,54331.0,Groups,Brazil,BRA,North Korea,PRK,0,0,2,1,2,1,Brazil,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+5,737,300061487,249722,2010-06-21,2010,South Africa,Cape Town,Cape Town Stadium,63644.0,Groups,Portugal,POR,North Korea,PRK,1,0,6,0,7,0,Portugal,1.0,0.0,6.0,0.0,7.0,0.0,Groups,Groups,1.0,1.0
+6,753,300061486,249722,2010-06-25,2010,South Africa,Nelspruit,Mbombela Stadium,34763.0,Groups,North Korea,PRK,Cote d'Ivoire,CIV,0,2,0,1,0,3,Cote d'Ivoire,2.0,0.0,1.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0

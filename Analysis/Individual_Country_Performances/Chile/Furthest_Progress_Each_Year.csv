@@ -1,0 +1,10 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Chile_result_value
+32,820,300186487,255951,2014-06-28,2014,Brazil,Belo Horizonte,Estadio Mineirao,57714.0,Round of 16,Brazil,BRA,Chile,CHI,0,0,1,1,1,1,Brazil,0.0,0.0,1.0,1.0,1.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+28,761,300061500,249717,2010-06-28,2010,South Africa,Johannesburg,Ellis Park Stadium,54096.0,Round of 16,Brazil,BRA,Chile,CHI,2,0,1,0,3,0,Brazil,2.0,0.0,1.0,0.0,3.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+24,565,8773,1024,1998-06-27,1998,France,Paris,Parc des Princes,45500.0,Round of 16,Brazil,BRA,Chile,CHI,3,0,1,1,4,1,Brazil,3.0,0.0,1.0,1.0,4.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+18,278,740,293,1982-06-24,1982,Spain,Oviedo,Carlos Tartiere,16000.0,Groups,Algeria,ALG,Chile,CHI,3,0,0,2,3,2,Algeria,3.0,0.0,0.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
+15,233,2003,262,1974-06-14,1974,Germany,Berlin,Olympiastadion,81100.0,Groups,West Germany,FRG,Chile,CHI,1,0,0,0,1,0,West Germany,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+12,175,1608,238,1966-07-13,1966,England,Sunderland,Roker Park Ground,27199.0,Groups,Italy,ITA,Chile,CHI,1,0,1,0,2,0,Italy,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+11,166,1475,3481,1962-06-16,1962,Chile,Santiago,Nacional,66697.0,Third place,Chile,CHI,Yugoslavia,YUG,0,0,1,0,1,0,Chile,0.0,0.0,1.0,0.0,1.0,0.0,Third place,Third place,5.0,5.0,5.0
+3,54,1192,208,1950-06-25,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,29703.0,Groups,England,ENG,Chile,CHI,1,0,1,0,2,0,England,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+0,5,1095,201,1930-07-16,1930,Uruguay,Montevideo,Parque Central,9249.0,Groups,Chile,CHI,Mexico,MEX,1,0,2,0,3,0,Chile,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0

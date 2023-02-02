@@ -1,0 +1,5 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Croatia_result_value
+13,772,300186456,255931,2014-06-12,2014,Brazil,São Paulo,Arena de Sao Paulo,62103.0,Groups,Brazil,BRA,Croatia,CRO,1,1,2,0,3,1,Brazil,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+10,658,97410011,97410100,2006-06-13,2006,Germany,Berlin,Olympiastadion,72000.0,Groups,Brazil,BRA,Croatia,CRO,1,0,0,0,1,0,Brazil,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+7,590,43950009,43950100,2002-06-03,2002,Japan,Niigata,Niigata Stadium Big Swan,32239.0,Groups,Croatia,CRO,Mexico,MEX,0,0,0,1,0,1,Mexico,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+6,578,8787,1028,1998-07-11,1998,France,Paris,Parc des Princes,45500.0,Third place,Netherlands,NED,Croatia,CRO,1,2,0,0,1,2,Croatia,2.0,1.0,0.0,0.0,2.0,1.0,Third place,Third place,5.0,5.0,5.0

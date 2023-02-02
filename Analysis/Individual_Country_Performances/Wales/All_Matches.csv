@@ -1,0 +1,6 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,104,1407,220,1958-06-08,1958,Sweden,Sandviken,Jarnvallen,15343.0,Groups,Hungary,HUN,Wales,WAL,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+1,110,1418,220,1958-06-11,1958,Sweden,Solna,Rasunda Stadium,15150.0,Groups,Mexico,MEX,Wales,WAL,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+2,117,1438,220,1958-06-15,1958,Sweden,Solna,Rasunda Stadium,30287.0,Groups,Sweden,SWE,Wales,WAL,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+3,127,1408,220,1958-06-17,1958,Sweden,Solna,Rasunda Stadium,2823.0,Groups,Wales,WAL,Hungary,HUN,0,1,2,0,2,1,Wales,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+4,128,1345,221,1958-06-19,1958,Sweden,Gothenburg,Nya Ullevi,25923.0,Quarterfinals,Brazil,BRA,Wales,WAL,0,0,1,0,1,0,Brazil,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0

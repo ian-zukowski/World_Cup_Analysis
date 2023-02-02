@@ -1,0 +1,5 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Iran_result_value
+9,784,300186505,255931,2014-06-16,2014,Brazil,Curitiba,Arena da Baixada,39081.0,Groups,Iran,IRN,Nigeria,NGA,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+6,651,97410007,97410100,2006-06-11,2006,Germany,Nuremberg,Franken-Stadion,41000.0,Groups,Mexico,MEX,Iran,IRN,1,1,2,0,3,1,Mexico,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+3,527,8735,1014,1998-06-14,1998,France,Saint-Étienne,Stade Geoffroy Guichard,30600.0,Groups,Yugoslavia,YUG,Iran,IRN,0,0,1,0,1,0,Yugoslavia,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+0,277,2388,278,1978-06-03,1978,Argentina,Mendoza,San Martin,33431.0,Groups,Netherlands,NED,Iran,IRN,1,0,2,0,3,0,Netherlands,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0

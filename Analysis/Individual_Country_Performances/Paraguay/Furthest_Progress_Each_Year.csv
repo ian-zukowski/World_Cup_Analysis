@@ -1,0 +1,9 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Paraguay_result_value
+26,767,300061506,249718,2010-07-03,2010,South Africa,Johannesburg,Ellis Park Stadium,55359.0,Quarterfinals,Paraguay,PAR,Spain,ESP,0,0,0,1,0,1,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+19,647,97410003,97410100,2006-06-10,2006,Germany,Frankfurt am Main,"FIFA World Cup Stadium, Frankfurt",48000.0,Groups,England,ENG,Paraguay,PAR,1,0,0,0,1,0,England,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+18,630,43950049,43950200,2002-06-15,2002,South Korea,Seogwipo,Jeju World Cup Stadium,25176.0,Round of 16,Germany,GER,Paraguay,PAR,0,0,1,0,1,0,Germany,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+14,566,8776,1024,1998-06-28,1998,France,Lens,Stade Felix Bollaert,31800.0,Round of 16,France,FRA,Paraguay,PAR,0,0,1,0,1,0,France,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+10,402,536,309,1986-06-18,1986,Mexico,Mexico City,Estadio Azteca,98728.0,Round of 16,England,ENG,Paraguay,PAR,1,0,2,0,3,0,England,1.0,0.0,2.0,0.0,3.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+4,105,1386,220,1958-06-08,1958,Sweden,Norrköping,Idrottsparken,16518.0,Groups,France,FRA,Paraguay,PAR,2,2,5,1,7,3,France,2.0,2.0,5.0,1.0,7.0,3.0,Groups,Groups,1.0,1.0,1.0
+2,61,1228,208,1950-06-29,1950,Brazil,Curitiba,Durival de Brito,7903.0,Groups,Sweden,SWE,Paraguay,PAR,2,1,0,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+0,7,1097,201,1930-07-17,1930,Uruguay,Montevideo,Parque Central,18306.0,Groups,United States,USA,Paraguay,PAR,2,0,1,0,3,0,United States,2.0,0.0,1.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0

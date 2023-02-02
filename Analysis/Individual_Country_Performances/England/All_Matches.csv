@@ -1,0 +1,63 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,54,1192,208,1950-06-25,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,29703.0,Groups,England,ENG,Chile,CHI,1,0,1,0,2,0,England,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+1,62,1202,208,1950-06-29,1950,Brazil,Belo Horizonte,Independencia,10151.0,Groups,United States,USA,England,ENG,1,0,0,0,1,0,United States,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+2,64,1199,208,1950-07-02,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,74462.0,Groups,Spain,ESP,England,ENG,0,0,1,0,1,0,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+3,81,1240,211,1954-06-17,1954,Switzerland,Basel,St. Jakob,14000.0,Groups,England,ENG,Belgium,BEL,0,0,4,4,4,4,Draw,,,,,,,Groups,Groups,1.0,1.0
+4,89,1263,211,1954-06-20,1954,Switzerland,Berne,Wankdorf Stadium,43500.0,Groups,England,ENG,Switzerland,SUI,1,0,1,0,2,0,England,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+5,93,1264,212,1954-06-26,1954,Switzerland,Basel,St. Jakob,28000.0,Quarterfinals,Uruguay,URU,England,ENG,2,1,2,1,4,2,Uruguay,2.0,1.0,2.0,1.0,4.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0
+6,102,1372,220,1958-06-08,1958,Sweden,Gothenburg,Nya Ullevi,49348.0,Groups,Soviet Union,URS,England,ENG,1,0,1,2,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
+7,109,1339,220,1958-06-11,1958,Sweden,Gothenburg,Nya Ullevi,40895.0,Groups,Brazil,BRA,England,ENG,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+8,123,1327,220,1958-06-15,1958,Sweden,Borås,Ryavallen,15872.0,Groups,England,ENG,Austria,AUT,0,1,2,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
+9,125,1373,220,1958-06-17,1958,Sweden,Gothenburg,Nya Ullevi,23182.0,Groups,Soviet Union,URS,England,ENG,0,0,1,0,1,0,Soviet Union,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+10,142,1490,231,1962-05-31,1962,Chile,Rancagua,Estadio El Teniente-Codelco,7938.0,Groups,Hungary,HUN,England,ENG,1,0,1,1,2,1,Hungary,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+11,146,1450,231,1962-06-02,1962,Chile,Rancagua,Estadio El Teniente-Codelco,9794.0,Groups,England,ENG,Argentina,ARG,2,0,1,1,3,1,England,2.0,0.0,1.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
+12,158,1464,231,1962-06-07,1962,Chile,Rancagua,Estadio El Teniente-Codelco,5700.0,Groups,England,ENG,Bulgaria,BUL,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+13,161,1459,232,1962-06-10,1962,Chile,Viña del Mar,Estadio Sausalito,17736.0,Quarterfinals,Brazil,BRA,England,ENG,1,1,2,0,3,1,Brazil,1.0,1.0,2.0,0.0,3.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
+14,168,1636,238,1966-07-11,1966,England,London,Wembley Stadium,87148.0,Groups,England,ENG,Uruguay,URU,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+15,183,1634,238,1966-07-16,1966,England,London,Wembley Stadium,92570.0,Groups,England,ENG,Mexico,MEX,1,0,1,0,2,0,England,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+16,188,1632,238,1966-07-20,1966,England,London,Wembley Stadium,98270.0,Groups,England,ENG,France,FRA,1,0,1,0,2,0,England,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+17,192,1577,239,1966-07-23,1966,England,London,Wembley Stadium,90584.0,Quarterfinals,England,ENG,Argentina,ARG,0,0,1,0,1,0,England,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+18,197,1635,536,1966-07-26,1966,England,London,Wembley Stadium,94493.0,Semifinals,England,ENG,Portugal,POR,1,0,1,1,2,1,England,1.0,0.0,1.0,1.0,2.0,1.0,Semifinals,Semifinals,4.0,4.0
+19,199,1633,3478,1966-07-30,1966,England,London,Wembley Stadium,96924.0,Finals,England,ENG,West Germany,FRG,0,0,4,2,4,2,England,0.0,0.0,4.0,2.0,4.0,2.0,Champion,Finals,7.0,6.0
+20,203,1812,250,1970-06-02,1970,Mexico,Guadalajara,Jalisco,50560.0,Groups,England,ENG,Romania,ROU,0,0,1,0,1,0,England,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+21,214,1764,250,1970-06-07,1970,Mexico,Guadalajara,Jalisco,66843.0,Groups,Brazil,BRA,England,ENG,0,0,1,0,1,0,Brazil,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+22,222,1813,250,1970-06-11,1970,Mexico,Guadalajara,Jalisco,49292.0,Groups,England,ENG,Czechoslovakia,TCH,0,0,1,0,1,0,England,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+23,225,1811,251,1970-06-14,1970,Mexico,León,Nou Camp - Estadio León,23357.0,Quarterfinals,West Germany,FRG,England,ENG,0,0,3,2,3,2,West Germany,0.0,0.0,3.0,2.0,3.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0
+24,316,878,293,1982-06-16,1982,Spain,Bilbao,San Mames,44172.0,Groups,England,ENG,France,FRA,1,1,2,0,3,1,England,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
+25,328,889,293,1982-06-20,1982,Spain,Bilbao,San Mames,41123.0,Groups,England,ENG,Czechoslovakia,TCH,0,0,2,0,2,0,England,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+26,342,882,293,1982-06-25,1982,Spain,Bilbao,San Mames,39700.0,Groups,England,ENG,Kuwait,KUW,1,0,0,0,1,0,England,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+27,347,879,294,1982-06-29,1982,Spain,Madrid,Santiago Bernabeu,75000.0,Round of 16,West Germany,FRG,England,ENG,0,0,0,0,0,0,Draw,,,,,,,Round of 16,Round of 16,2.0,2.0
+28,355,877,294,1982-07-05,1982,Spain,Madrid,Santiago Bernabeu,75000.0,Round of 16,Spain,ESP,England,ENG,0,0,0,0,0,0,Draw,,,,,,,Round of 16,Round of 16,2.0,2.0
+29,368,538,308,1986-06-03,1986,Mexico,Monterrey,Tecnologico,23000.0,Groups,Portugal,POR,England,ENG,0,0,1,0,1,0,Portugal,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+30,377,533,308,1986-06-06,1986,Mexico,Monterrey,Tecnologico,20200.0,Groups,England,ENG,Morocco,MAR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+31,391,537,308,1986-06-11,1986,Mexico,Monterrey,Tecnologico,22700.0,Groups,England,ENG,Poland,POL,3,0,0,0,3,0,England,3.0,0.0,0.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+32,402,536,309,1986-06-18,1986,Mexico,Mexico City,Estadio Azteca,98728.0,Round of 16,England,ENG,Paraguay,PAR,1,0,2,0,3,0,England,1.0,0.0,2.0,0.0,3.0,0.0,Round of 16,Round of 16,2.0,2.0
+33,407,392,714,1986-06-22,1986,Mexico,Mexico City,Estadio Azteca,114580.0,Quarterfinals,Argentina,ARG,England,ENG,0,0,2,1,2,1,Argentina,0.0,0.0,2.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
+34,420,161,322,1990-06-11,1990,Italy,Cagliari,Sant Elia,35238.0,Groups,England,ENG,Republic of Ireland,IRL,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+35,432,160,322,1990-06-16,1990,Italy,Cagliari,Sant Elia,35267.0,Groups,England,ENG,Netherlands,NED,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+36,447,150,322,1990-06-21,1990,Italy,Cagliari,Sant Elia,34959.0,Groups,England,ENG,Egypt,EGY,0,0,1,0,1,0,England,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+37,455,55,323,1990-06-26,1990,Italy,Bologna,Renato Dall Ara,34520.0,Round of 16,England,ENG,Belgium,BEL,0,0,1,0,1,0,England,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
+38,459,103,751,1990-07-01,1990,Italy,Naples,San Paolo,55205.0,Quarterfinals,England,ENG,Cameroon,CMR,0,0,3,2,3,2,England,0.0,0.0,3.0,2.0,3.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0
+39,461,159,3464,1990-07-04,1990,Italy,Turin,Stadio delle Alpi,62628.0,Semifinals,West Germany,FRG,England,ENG,0,0,1,1,1,1,West Germany,0.0,0.0,1.0,1.0,1.0,1.0,Semifinals,Semifinals,4.0,4.0
+40,462,162,3463,1990-07-07,1990,Italy,Bari,Stadio San Nicola,51426.0,Third place,Italy,ITA,England,ENG,0,0,2,1,2,1,Italy,0.0,0.0,2.0,1.0,2.0,1.0,Third place,Third place,5.0,5.0
+41,529,8740,1014,1998-06-15,1998,France,Marseille,Stade Vélodrome,55000.0,Groups,England,ENG,Tunisia,TUN,1,0,1,0,2,0,England,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+42,547,8756,1014,1998-06-22,1998,France,Toulouse,Stade Municipal,33500.0,Groups,Romania,ROU,England,ENG,0,0,2,1,2,1,Romania,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+43,563,8770,1014,1998-06-26,1998,France,Lens,Stade Felix Bollaert,38100.0,Groups,Colombia,COL,England,ENG,0,2,0,0,0,2,England,2.0,0.0,0.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+44,571,8779,1024,1998-06-30,1998,France,Saint-Étienne,Stade Geoffroy Guichard,30600.0,Round of 16,Argentina,ARG,England,ENG,0,0,2,2,2,2,Argentina,0.0,0.0,2.0,2.0,2.0,2.0,Round of 16,Round of 16,2.0,2.0
+45,586,43950005,43950100,2002-06-02,2002,Japan,Saitama,Saitama Stadium 2002,52721.0,Groups,England,ENG,Sweden,SWE,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+46,601,43950023,43950100,2002-06-07,2002,Japan,Sapporo,Sapporo Dome,35927.0,Groups,Argentina,ARG,England,ENG,0,1,0,0,0,1,England,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+47,618,43950038,43950100,2002-06-12,2002,Japan,Osaka,Osaka Nagai Stadium,44864.0,Groups,Nigeria,NGA,England,ENG,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+48,629,43950050,43950200,2002-06-15,2002,Japan,Niigata,Niigata Stadium Big Swan,40582.0,Round of 16,Denmark,DEN,England,ENG,0,3,0,0,0,3,England,3.0,0.0,0.0,0.0,3.0,0.0,Round of 16,Round of 16,2.0,2.0
+49,637,43950057,43950300,2002-06-21,2002,Japan,Fukuroi,Shizuoka Stadium Ecopa,47436.0,Quarterfinals,England,ENG,Brazil,BRA,1,1,0,1,1,2,Brazil,1.0,1.0,1.0,0.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
+50,647,97410003,97410100,2006-06-10,2006,Germany,Frankfurt am Main,"FIFA World Cup Stadium, Frankfurt",48000.0,Groups,England,ENG,Paraguay,PAR,1,0,0,0,1,0,England,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+51,663,97410019,97410100,2006-06-15,2006,Germany,Nuremberg,Franken-Stadion,41000.0,Groups,England,ENG,Trinidad and Tobago,TRI,0,0,2,0,2,0,England,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+52,678,97410035,97410100,2006-06-20,2006,Germany,Cologne,"FIFA World Cup Stadium, Cologne",45000.0,Groups,Sweden,SWE,England,ENG,0,1,2,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
+53,694,97410051,97410200,2006-06-25,2006,Germany,Stuttgart,Gottlieb-Daimler-Stadion,52000.0,Round of 16,England,ENG,Ecuador,ECU,0,0,1,0,1,0,England,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
+54,702,97410059,97410300,2006-07-01,2006,Germany,Gelsenkirchen,"FIFA World Cup Stadium, Gelsenkirchen",52000.0,Quarterfinals,England,ENG,Portugal,POR,0,0,0,0,0,0,Portugal,0.0,0.0,0.0,0.0,0.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+55,712,300061466,249722,2010-06-12,2010,South Africa,Rustenburg,Royal Bafokeng Sports Palace,38646.0,Groups,England,ENG,United States,USA,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+56,730,300061464,249722,2010-06-18,2010,South Africa,Cape Town,Cape Town Stadium,64100.0,Groups,England,ENG,Algeria,ALG,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+57,744,300061462,249722,2010-06-23,2010,South Africa,Port Elizabeth,Port Elizabeth Stadium,36893.0,Groups,Slovenia,SVN,England,ENG,0,1,0,0,0,1,England,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+58,758,300061501,249717,2010-06-27,2010,South Africa,Bloemfontein,Free State Stadium,40510.0,Round of 16,Germany,GER,England,ENG,2,1,2,0,4,1,Germany,2.0,1.0,2.0,0.0,4.0,1.0,Round of 16,Round of 16,2.0,2.0
+59,778,300186513,255931,2014-06-14,2014,Brazil,Manaus,Arena Amazonia,39800.0,Groups,England,ENG,Italy,ITA,1,1,0,1,1,2,Italy,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+60,793,300186486,255931,2014-06-19,2014,Brazil,São Paulo,Arena de Sao Paulo,62575.0,Groups,Uruguay,URU,England,ENG,1,0,1,1,2,1,Uruguay,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+61,809,300186484,255931,2014-06-24,2014,Brazil,Belo Horizonte,Estadio Mineirao,57823.0,Groups,Costa Rica,CRC,England,ENG,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0

@@ -1,0 +1,10 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,649,97410005,97410100,2006-06-10,2006,Germany,Hamburg,"FIFA World Cup Stadium, Hamburg",49480.0,Groups,Argentina,ARG,Cote d'Ivoire,CIV,2,0,0,1,2,1,Argentina,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+1,666,97410022,97410100,2006-06-16,2006,Germany,Stuttgart,Gottlieb-Daimler-Stadion,52000.0,Groups,Netherlands,NED,Cote d'Ivoire,CIV,2,1,0,0,2,1,Netherlands,2.0,1.0,0.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+2,683,97410038,97410100,2006-06-21,2006,Germany,Munich,"FIFA World Cup Stadium, Munich",66000.0,Groups,Cote d'Ivoire,CIV,Serbia,SCG,1,2,2,0,3,2,Cote d'Ivoire,1.0,2.0,2.0,0.0,3.0,2.0,Groups,Groups,1.0,1.0
+3,720,300061489,249722,2010-06-15,2010,South Africa,Port Elizabeth,Port Elizabeth Stadium,37034.0,Groups,Cote d'Ivoire,CIV,Portugal,POR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
+4,736,300061488,249722,2010-06-20,2010,South Africa,Johannesburg,Soccer City Stadium,84455.0,Groups,Brazil,BRA,Cote d'Ivoire,CIV,1,0,2,1,3,1,Brazil,1.0,0.0,2.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
+5,753,300061486,249722,2010-06-25,2010,South Africa,Nelspruit,Mbombela Stadium,34763.0,Groups,North Korea,PRK,Cote d'Ivoire,CIV,0,2,0,1,0,3,Cote d'Ivoire,2.0,0.0,1.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+6,779,300186507,255931,2014-06-14,2014,Brazil,Recife,Arena Pernambuco,40267.0,Groups,Cote d'Ivoire,CIV,Japan,JPN,0,1,2,0,2,1,Cote d'Ivoire,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+7,792,300186468,255931,2014-06-19,2014,Brazil,Brasília,Estadio Nacional,68748.0,Groups,Colombia,COL,Cote d'Ivoire,CIV,0,0,2,1,2,1,Colombia,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+8,811,300186455,255931,2014-06-24,2014,Brazil,Fortaleza,Estadio Castelao,59095.0,Groups,Greece,GRE,Cote d'Ivoire,CIV,1,0,1,1,2,1,Greece,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0

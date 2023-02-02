@@ -1,0 +1,30 @@
+,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
+0,18,1104,204,1934-05-27,1934,Italy,Turin,Stadio Benito Mussolini,16000.0,Groups,Austria,AUT,France,FRA,0,0,3,2,3,2,Austria,0.0,0.0,3.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0
+1,29,1106,418,1934-05-31,1934,Italy,Bologna,Littorale,23000.0,Quarterfinals,Austria,AUT,Hungary,HUN,1,0,1,1,2,1,Austria,1.0,0.0,1.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
+2,31,1107,3492,1934-06-03,1934,Italy,Milan,San Siro,35000.0,Semifinals,Italy,ITA,Austria,AUT,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Semifinals,Semifinals,4.0,4.0
+3,33,1105,3491,1934-06-07,1934,Italy,Naples,Giorgio Ascarelli,7000.0,Third place,Germany,GER,Austria,AUT,3,1,0,1,3,2,Germany,3.0,1.0,0.0,1.0,3.0,2.0,Third place,Third place,5.0,5.0
+4,76,1236,211,1954-06-16,1954,Switzerland,Zürich,Hardturm,25000.0,Groups,Austria,AUT,Scotland,SCO,1,0,0,0,1,0,Austria,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+5,84,1238,211,1954-06-19,1954,Switzerland,Zürich,Hardturm,26000.0,Groups,Austria,AUT,Czechoslovakia,TCH,4,0,1,0,5,0,Austria,4.0,0.0,1.0,0.0,5.0,0.0,Groups,Groups,1.0,1.0
+6,94,1237,212,1954-06-26,1954,Switzerland,Lausanne,La Pontaise,35000.0,Quarterfinals,Austria,AUT,Switzerland,SUI,5,4,2,1,7,5,Austria,5.0,4.0,2.0,1.0,7.0,5.0,Quarterfinals,Quarterfinals,3.0,3.0
+7,97,1233,462,1954-06-30,1954,Switzerland,Basel,St. Jakob,58000.0,Semifinals,West Germany,FRG,Austria,AUT,1,0,5,1,6,1,West Germany,1.0,0.0,5.0,1.0,6.0,1.0,Semifinals,Semifinals,4.0,4.0
+8,99,1239,3485,1954-07-03,1954,Switzerland,Zürich,Hardturm,32000.0,Third place,Austria,AUT,Uruguay,URU,1,1,2,0,3,1,Austria,1.0,1.0,2.0,0.0,3.0,1.0,Third place,Third place,5.0,5.0
+9,107,1326,220,1958-06-08,1958,Sweden,Uddevalla,Rimnersvallen,17788.0,Groups,Brazil,BRA,Austria,AUT,1,0,2,0,3,0,Brazil,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+10,113,1332,220,1958-06-11,1958,Sweden,Borås,Ryavallen,21239.0,Groups,Soviet Union,URS,Austria,AUT,1,0,1,0,2,0,Soviet Union,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+11,123,1327,220,1958-06-15,1958,Sweden,Borås,Ryavallen,15872.0,Groups,England,ENG,Austria,AUT,0,1,2,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
+12,275,2216,278,1978-06-03,1978,Argentina,Buenos Aires,Jose Amalfitani,40841.0,Groups,Austria,AUT,Spain,ESP,1,1,1,0,2,1,Austria,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
+13,284,2224,278,1978-06-07,1978,Argentina,Buenos Aires,Jose Amalfitani,41424.0,Groups,Austria,AUT,Sweden,SWE,1,0,0,0,1,0,Austria,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+14,291,2215,278,1978-06-11,1978,Argentina,Mar del Plata,Estadio José María Minella,35221.0,Groups,Brazil,BRA,Austria,AUT,1,0,0,0,1,0,Brazil,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+15,296,2220,279,1978-06-14,1978,Argentina,Córdoba,Estadio Olímpico Cordoba,25050.0,Round of 16,Netherlands,NED,Austria,AUT,3,0,2,1,5,1,Netherlands,3.0,0.0,2.0,1.0,5.0,1.0,Round of 16,Round of 16,2.0,2.0
+16,300,2221,279,1978-06-18,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,66695.0,Round of 16,Italy,ITA,Austria,AUT,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
+17,304,2217,279,1978-06-21,1978,Argentina,Córdoba,Estadio Olímpico Cordoba,38318.0,Round of 16,Austria,AUT,West Germany,FRG,0,1,3,1,3,2,Austria,0.0,1.0,3.0,1.0,3.0,2.0,Round of 16,Round of 16,2.0,2.0
+18,318,764,293,1982-06-17,1982,Spain,Oviedo,Carlos Tartiere,22500.0,Groups,Chile,CHI,Austria,AUT,0,1,0,0,0,1,Austria,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+19,330,739,293,1982-06-21,1982,Spain,Oviedo,Carlos Tartiere,22000.0,Groups,Algeria,ALG,Austria,AUT,0,0,0,2,0,2,Austria,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
+20,341,770,293,1982-06-25,1982,Spain,Gijón,El Molinon,41000.0,Groups,West Germany,FRG,Austria,AUT,1,0,0,0,1,0,West Germany,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+21,344,767,294,1982-06-28,1982,Spain,Madrid,Vicente Calderon,37000.0,Round of 16,Austria,AUT,France,FRA,0,1,0,0,0,1,France,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
+22,348,771,294,1982-07-01,1982,Spain,Madrid,Vicente Calderon,20000.0,Round of 16,Austria,AUT,Northern Ireland,NIR,0,1,2,1,2,2,Draw,,,,,,,Round of 16,Round of 16,2.0,2.0
+23,415,42,322,1990-06-09,1990,Italy,Rome,Stadio Olimpico,73303.0,Groups,Italy,ITA,Austria,AUT,0,0,1,0,1,0,Italy,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+24,428,43,322,1990-06-15,1990,Italy,Florence,Comunale,38962.0,Groups,Austria,AUT,Czechoslovakia,TCH,0,1,0,0,0,1,Czechoslovakia,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
+25,441,48,322,1990-06-19,1990,Italy,Florence,Comunale,34857.0,Groups,Austria,AUT,United States,USA,0,0,2,1,2,1,Austria,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
+26,519,8727,1014,1998-06-11,1998,France,Toulouse,Stade Municipal,33500.0,Groups,Cameroon,CMR,Austria,AUT,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+27,534,8743,1014,1998-06-17,1998,France,Saint-Étienne,Stade Geoffroy Guichard,30600.0,Groups,Chile,CHI,Austria,AUT,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+28,548,8757,1014,1998-06-23,1998,France,Saint-Denis,Stade de France,80000.0,Groups,Italy,ITA,Austria,AUT,0,0,2,1,2,1,Italy,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
