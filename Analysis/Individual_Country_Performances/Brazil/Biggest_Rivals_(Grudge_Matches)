@@ -1,9 +1,7 @@
 Opponent,Wins,Matches,Win %
-France,1,4,25.00%
-Yugoslavia,1,4,25.00%
-Netherlands,2,6,33.33%
-Argentina,2,4,50.00%
-Czechoslovakia,3,5,60.00%
-Italy,3,5,60.00%
-Spain,3,5,60.00%
-Sweden,5,7,71.43%
+France,1.0,4,25.00%
+Netherlands,2.0,6,33.33%
+Yugoslavia,2.0,4,50.00%
+Italy,3.0,5,60.00%
+Argentina,2.5,4,62.50%
+Spain,3.5,5,70.00%

@@ -1,15 +1,15 @@
 Opponent,Wins,Matches,Win %
-Greece,2,2,100.0
-China PR,1,1,100.0
-Italy,1,1,100.0
-Scotland,1,1,100.0
-Sweden,1,1,100.0
-Uruguay,1,1,100.0
-Brazil,0,2,0.0
-Netherlands,0,2,0.0
-Czechoslovakia,0,1,0.0
-Ecuador,0,1,0.0
-England,0,1,0.0
-Germany,0,1,0.0
-Poland,0,1,0.0
-Turkey,0,1,0.0
+Greece,2.0,2,100.0
+China PR,1.0,1,100.0
+Italy,1.0,1,100.0
+Scotland,1.0,1,100.0
+Sweden,1.0,1,100.0
+Uruguay,1.0,1,100.0
+England,0.5,1,50.0
+Turkey,0.5,1,50.0
+Brazil,0.0,2,0.0
+Netherlands,0.0,2,0.0
+Czechoslovakia,0.0,1,0.0
+Ecuador,0.0,1,0.0
+Germany,0.0,1,0.0
+Poland,0.0,1,0.0

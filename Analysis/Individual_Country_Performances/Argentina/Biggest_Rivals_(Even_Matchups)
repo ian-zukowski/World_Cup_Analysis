@@ -1,10 +1,13 @@
 Opponent,Wins,Matches,Win %
-Uruguay,1,2,50.00%
-Poland,1,2,50.00%
-Netherlands,3,6,50.00%
-England,2,5,40.00%
-Bulgaria,2,3,66.67%
-Hungary,2,3,66.67%
-Belgium,3,4,75.00%
-Brazil,1,4,25.00%
-West Germany,1,4,25.00%
+Uruguay,1.0,2,50.00%
+Poland,1.0,2,50.00%
+East Germany,0.5,1,50.00%
+Netherlands,3.5,6,58.33%
+Italy,2.0,5,40.00%
+England,2.0,5,40.00%
+Brazil,1.5,4,37.50%
+West Germany,1.5,4,37.50%
+Bulgaria,2.0,3,66.67%
+Sweden,0.5,2,25.00%
+Romania,0.5,2,25.00%
+Belgium,3.0,4,75.00%

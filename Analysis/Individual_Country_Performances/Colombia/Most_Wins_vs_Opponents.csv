@@ -1,16 +1,16 @@
 Opponent,Wins,Matches,Win %
-Cote d'Ivoire,1,1,100.0
-Greece,1,1,100.0
-Japan,1,1,100.0
-Switzerland,1,1,100.0
-Tunisia,1,1,100.0
-United Arab Emirates,1,1,100.0
-Uruguay,2,3,66.66666666666666
-Brazil,0,2,0.0
-Romania,0,2,0.0
-Yugoslavia,0,2,0.0
-Cameroon,0,1,0.0
-England,0,1,0.0
-Soviet Union,0,1,0.0
-United States,0,1,0.0
-West Germany,0,1,0.0
+Cote d'Ivoire,1.0,1,100.0
+Greece,1.0,1,100.0
+Japan,1.0,1,100.0
+Switzerland,1.0,1,100.0
+Tunisia,1.0,1,100.0
+United Arab Emirates,1.0,1,100.0
+Uruguay,2.0,3,66.66666666666666
+Soviet Union,0.5,1,50.0
+West Germany,0.5,1,50.0
+Brazil,0.0,2,0.0
+Romania,0.0,2,0.0
+Yugoslavia,0.0,2,0.0
+Cameroon,0.0,1,0.0
+England,0.0,1,0.0
+United States,0.0,1,0.0

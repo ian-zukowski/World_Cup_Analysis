@@ -1,12 +1,12 @@
 Opponent,Wins,Matches,Win %
-Romania,1,1,100.0
-Saudi Arabia,1,1,100.0
-Italy,1,2,50.0
-Netherlands,0,2,0.0
-Cameroon,0,1,0.0
-Egypt,0,1,0.0
-England,0,1,0.0
-Germany,0,1,0.0
-Mexico,0,1,0.0
-Norway,0,1,0.0
-Spain,0,1,0.0
+Romania,1.0,1,100.0
+Saudi Arabia,1.0,1,100.0
+Italy,1.0,2,50.0
+Cameroon,0.5,1,50.0
+Egypt,0.5,1,50.0
+England,0.5,1,50.0
+Germany,0.5,1,50.0
+Norway,0.5,1,50.0
+Netherlands,0.5,2,25.0
+Mexico,0.0,1,0.0
+Spain,0.0,1,0.0

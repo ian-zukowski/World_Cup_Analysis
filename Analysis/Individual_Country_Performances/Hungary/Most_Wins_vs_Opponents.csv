@@ -1,23 +1,23 @@
 Opponent,Wins,Matches,Win %
-Brazil,2,2,100.0
-Bulgaria,2,2,100.0
-Canada,1,1,100.0
-Dutch West Indies,1,1,100.0
-Egypt,1,1,100.0
-El Salvador,1,1,100.0
-England,1,1,100.0
-Mexico,1,1,100.0
-South Korea,1,1,100.0
-Switzerland,1,1,100.0
-Uruguay,1,1,100.0
-Sweden,1,2,50.0
-West Germany,1,2,50.0
-Argentina,0,3,0.0
-France,0,2,0.0
-Italy,0,2,0.0
-Soviet Union,0,2,0.0
-Wales,0,2,0.0
-Austria,0,1,0.0
-Belgium,0,1,0.0
-Czechoslovakia,0,1,0.0
-Portugal,0,1,0.0
+Brazil,2.0,2,100.0
+Bulgaria,2.0,2,100.0
+Canada,1.0,1,100.0
+Dutch West Indies,1.0,1,100.0
+Egypt,1.0,1,100.0
+El Salvador,1.0,1,100.0
+England,1.0,1,100.0
+Mexico,1.0,1,100.0
+South Korea,1.0,1,100.0
+Switzerland,1.0,1,100.0
+Uruguay,1.0,1,100.0
+Sweden,1.0,2,50.0
+West Germany,1.0,2,50.0
+Belgium,0.5,1,50.0
+Wales,0.5,2,25.0
+Argentina,0.5,3,16.666666666666664
+France,0.0,2,0.0
+Italy,0.0,2,0.0
+Soviet Union,0.0,2,0.0
+Austria,0.0,1,0.0
+Czechoslovakia,0.0,1,0.0
+Portugal,0.0,1,0.0

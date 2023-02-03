@@ -1,13 +1,13 @@
 Opponent,Wins,Matches,Win %
-Mexico,1,1,100.0
-Belgium,0,1,0.0
-Colombia,0,1,0.0
-England,0,1,0.0
-Japan,0,1,0.0
-Poland,0,1,0.0
-Romania,0,1,0.0
-Russia,0,1,0.0
-Saudi Arabia,0,1,0.0
-Spain,0,1,0.0
-Ukraine,0,1,0.0
-West Germany,0,1,0.0
+Mexico,1.0,1,100.0
+Belgium,0.5,1,50.0
+Romania,0.5,1,50.0
+Saudi Arabia,0.5,1,50.0
+West Germany,0.5,1,50.0
+Colombia,0.0,1,0.0
+England,0.0,1,0.0
+Japan,0.0,1,0.0
+Poland,0.0,1,0.0
+Russia,0.0,1,0.0
+Spain,0.0,1,0.0
+Ukraine,0.0,1,0.0

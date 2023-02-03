@@ -1,14 +1,14 @@
 Opponent,Wins,Matches,Win %
-Cameroon,1,1,100.0
-Germany,1,1,100.0
-Italy,1,1,100.0
-Jamaica,1,1,100.0
-Netherlands,1,1,100.0
-Romania,1,1,100.0
-Japan,1,2,50.0
-Brazil,0,2,0.0
-Mexico,0,2,0.0
-Argentina,0,1,0.0
-Australia,0,1,0.0
-Ecuador,0,1,0.0
-France,0,1,0.0
+Cameroon,1.0,1,100.0
+Germany,1.0,1,100.0
+Italy,1.0,1,100.0
+Jamaica,1.0,1,100.0
+Netherlands,1.0,1,100.0
+Romania,1.0,1,100.0
+Japan,1.5,2,75.0
+Australia,0.5,1,50.0
+Brazil,0.0,2,0.0
+Mexico,0.0,2,0.0
+Argentina,0.0,1,0.0
+Ecuador,0.0,1,0.0
+France,0.0,1,0.0

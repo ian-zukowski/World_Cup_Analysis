@@ -1,21 +1,21 @@
 Opponent,Wins,Matches,Win %
-Iraq,1,1,100.0
-Japan,1,1,100.0
-Nigeria,1,1,100.0
-Scotland,1,1,100.0
-Slovakia,1,1,100.0
-Slovenia,1,1,100.0
-Trinidad and Tobago,1,1,100.0
-Belgium,1,2,50.0
-Spain,0,3,0.0
-England,0,2,0.0
-France,0,2,0.0
-Italy,0,2,0.0
-Sweden,0,2,0.0
-Bulgaria,0,1,0.0
-Germany,0,1,0.0
-Mexico,0,1,0.0
-New Zealand,0,1,0.0
-South Africa,0,1,0.0
-United States,0,1,0.0
-Yugoslavia,0,1,0.0
+Iraq,1.0,1,100.0
+Japan,1.0,1,100.0
+Nigeria,1.0,1,100.0
+Scotland,1.0,1,100.0
+Slovakia,1.0,1,100.0
+Slovenia,1.0,1,100.0
+Trinidad and Tobago,1.0,1,100.0
+Belgium,1.5,2,75.0
+Bulgaria,0.5,1,50.0
+Mexico,0.5,1,50.0
+New Zealand,0.5,1,50.0
+South Africa,0.5,1,50.0
+Yugoslavia,0.5,1,50.0
+Italy,0.5,2,25.0
+Sweden,0.5,2,25.0
+Spain,0.5,3,16.666666666666664
+England,0.0,2,0.0
+France,0.0,2,0.0
+Germany,0.0,1,0.0
+United States,0.0,1,0.0
