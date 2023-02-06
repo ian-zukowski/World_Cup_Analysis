@@ -1,0 +1,33 @@
+location,Match Count,Average Goals Seen,Total Goals Seen
+"Palermo, Italy",3,0.0,0.0
+"Vigo, Spain",3,0.0,0.0
+"Eskilstuna, Sweden",1,0.0,0.0
+"Cagliari, Italy",3,0.3333333333333333,1.0
+"Zaragoza, Spain",3,0.3333333333333333,1.0
+"Saitama, Japan",4,0.5,2.0
+"Busan, South Korea",3,0.6666666666666666,2.0
+"Borås, Sweden",2,1.0,2.0
+"Incheon, South Korea",3,1.0,3.0
+"Osaka, Japan",3,1.0,3.0
+"Ōita, Japan",3,1.0,3.0
+"Cologne, Germany",5,1.0,5.0
+"Monterrey, Mexico",8,1.125,9.0
+"Natal, Brazil",4,1.25,5.0
+"Polokwane, South Africa",4,1.25,5.0
+"Kashima, Japan",3,1.3333333333333333,4.0
+"Middlesbrough, England",3,1.3333333333333333,4.0
+"Niigata, Japan",3,1.3333333333333333,4.0
+"Rifu, Japan",3,1.3333333333333333,4.0
+"Valencia, Spain",3,1.3333333333333333,4.0
+"Rustenburg, South Africa",6,1.3333333333333333,8.0
+"Saint-Étienne, France",6,1.3333333333333333,8.0
+"Daegu, South Korea",4,1.5,6.0
+"Montpellier, France",6,1.5,9.0
+"Kaiserslautern, Germany",5,1.6,8.0
+"Leipzig, Germany",5,1.6,8.0
+"Washington, United States",5,1.6,8.0
+"Seoul, South Korea",3,1.6666666666666667,5.0
+"Udine, Italy",3,1.6666666666666667,5.0
+"Valladolid, Spain",3,1.6666666666666667,5.0
+"Nelspruit, South Africa",4,1.75,7.0
+"Yokohama, Japan",4,1.75,7.0
