@@ -41,10 +41,10 @@ Charts detailing these trends can be found by clicking the link below.
 ![Average Score Graphs](Analysis/Year-to-Year/). 
 
 
+### 2. Which country had the best performance while acting as host for that year's World Cup?
+There are several countries who have won the World Cup while also acting as the host country. These nations are Brazil, Uruguay, England, Argentina, and Italy. Sweden almost made this esteemed list, but sadly lost in their final match. 
 
-
-### 2. 
-
+![Host Results](Analysis/Country_Comparisons/README_images/2_Best_Results_as_Host.png)
 
 ### 3. 
 
