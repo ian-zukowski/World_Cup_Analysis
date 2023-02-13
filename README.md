@@ -32,7 +32,7 @@ PostgreSQL . . .
 
 ### 1. Have goals generally increased or decreased from cup-to-cup? Do they generally increase or decrease at different stages of the tournament?
 
-1a. To answer the first question, it appears goals have trended downwards each year, with a peak in 1950 as can be seen ![[here](Analysis/Year-to-Year/Average_Scores_by_Year.png)](here).
+1a. To answer the first question, it appears goals have trended downwards each year, with a peak in 1950 as can be seen ![[Analysis/Year-to-Year/Average_Scores_by_Year.png](here).
 
 
 
