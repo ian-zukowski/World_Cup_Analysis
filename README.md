@@ -56,7 +56,7 @@ The easier question to answer is to state that the worst cities to attend a Worl
 More extensive lists of city results can be found at the links below.
 
 
-[Least Goals](Analysis/Country_Comparisons/Host_Data/Least_Exciting_Host_Cities_(Average_Goals).csv)
+[Least Goals](Analysis/Country_Comparisons/Host_Data/Least_Exciting_Host_Cities_(Average_Goals).csv) |
 [Most Goals](Analysis/Country_Comparisons/Host_Data/Most_Exciting_Host_Cities_(Average_Goals).csv)
 
 
