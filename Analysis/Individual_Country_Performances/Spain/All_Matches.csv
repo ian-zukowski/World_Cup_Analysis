@@ -1,60 +1,60 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
-0,23,1111,204,1934-05-27,1934,Italy,Genoa,Luigi Ferraris,21000.0,Groups,Spain,ESP,Brazil,BRA,3,0,0,1,3,1,Spain,3.0,0.0,0.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
-1,28,1122,418,1934-05-31,1934,Italy,Florence,Giovanni Berta,35000.0,Quarterfinals,Italy,ITA,Spain,ESP,0,0,1,1,1,1,Draw,,,,,,,Quarterfinals,Quarterfinals,3.0,3.0
-2,30,1123,418,1934-06-01,1934,Italy,Florence,Giovanni Berta,43000.0,Quarterfinals,Italy,ITA,Spain,ESP,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-3,55,1208,208,1950-06-25,1950,Brazil,Curitiba,Durival de Brito,9511.0,Groups,Spain,ESP,United States,USA,0,1,3,0,3,1,Spain,0.0,1.0,3.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-4,60,1193,208,1950-06-29,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,19790.0,Groups,Spain,ESP,Chile,CHI,2,0,0,0,2,0,Spain,2.0,0.0,0.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-5,64,1199,208,1950-07-02,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,74462.0,Groups,Spain,ESP,England,ENG,0,0,1,0,1,0,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-6,69,1207,209,1950-07-09,1950,Brazil,São Paulo,Pacaembu,44802.0,Finals,Uruguay,URU,Spain,ESP,1,2,1,0,2,2,Draw,,,,,,,Champion,Finals,7.0,6.0
-7,71,1186,209,1950-07-13,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,152772.0,Finals,Brazil,BRA,Spain,ESP,3,0,3,1,6,1,Brazil,3.0,0.0,3.0,1.0,6.0,1.0,,,,
-8,73,1206,209,1950-07-16,1950,Brazil,São Paulo,Pacaembu,11227.0,Finals,Sweden,SWE,Spain,ESP,2,0,1,1,3,1,Sweden,2.0,0.0,1.0,1.0,3.0,1.0,,,,
-9,141,1498,231,1962-05-31,1962,Chile,Viña del Mar,Estadio Sausalito,12700.0,Groups,Czechoslovakia,TCH,Spain,ESP,0,0,1,0,1,0,Czechoslovakia,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-10,149,1497,231,1962-06-03,1962,Chile,Viña del Mar,Estadio Sausalito,11875.0,Groups,Spain,ESP,Mexico,MEX,0,0,1,0,1,0,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-11,153,1460,231,1962-06-06,1962,Chile,Viña del Mar,Estadio Sausalito,18715.0,Groups,Brazil,BRA,Spain,ESP,0,1,2,0,2,1,Brazil,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-12,174,1578,238,1966-07-13,1966,England,Birmingham,Villa Park,42738.0,Groups,Argentina,ARG,Spain,ESP,0,0,2,1,2,1,Argentina,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-13,177,1641,238,1966-07-15,1966,England,Sheffield,Hillsborough,32028.0,Groups,Spain,ESP,Switzerland,SUI,0,1,2,0,2,1,Spain,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-14,190,1637,238,1966-07-20,1966,England,Birmingham,Villa Park,42187.0,Groups,West Germany,FRG,Spain,ESP,1,1,1,0,2,1,West Germany,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-15,275,2216,278,1978-06-03,1978,Argentina,Buenos Aires,Jose Amalfitani,40841.0,Groups,Austria,AUT,Spain,ESP,1,1,1,0,2,1,Austria,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-16,283,2246,278,1978-06-07,1978,Argentina,Mar del Plata,Estadio José María Minella,34771.0,Groups,Brazil,BRA,Spain,ESP,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-17,292,2337,278,1978-06-11,1978,Argentina,Buenos Aires,Jose Amalfitani,42132.0,Groups,Spain,ESP,Sweden,SWE,0,0,1,0,1,0,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-18,317,901,293,1982-06-16,1982,Spain,Valencia,Luis Casanova,49562.0,Groups,Spain,ESP,Honduras,HON,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-19,329,903,293,1982-06-20,1982,Spain,Valencia,Luis Casanova,48000.0,Groups,Spain,ESP,Yugoslavia,YUG,1,1,1,0,2,1,Spain,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-20,343,902,293,1982-06-25,1982,Spain,Valencia,Luis Casanova,49562.0,Groups,Northern Ireland,NIR,Spain,ESP,0,0,1,0,1,0,Northern Ireland,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-21,351,900,294,1982-07-02,1982,Spain,Madrid,Santiago Bernabeu,90089.0,Round of 16,West Germany,FRG,Spain,ESP,0,0,2,1,2,1,West Germany,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
-22,355,877,294,1982-07-05,1982,Spain,Madrid,Santiago Bernabeu,75000.0,Round of 16,Spain,ESP,England,ENG,0,0,0,0,0,0,Draw,,,,,,,Round of 16,Round of 16,2.0,2.0
-23,362,439,308,1986-06-01,1986,Mexico,Guadalajara,Jalisco,35748.0,Groups,Spain,ESP,Brazil,BRA,0,0,0,1,0,1,Brazil,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-24,378,551,308,1986-06-07,1986,Mexico,Guadalajara,Tres de Marzo,28000.0,Groups,Northern Ireland,NIR,Spain,ESP,0,2,1,0,1,2,Spain,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-25,393,378,308,1986-06-12,1986,Mexico,Monterrey,Tecnologico,23980.0,Groups,Algeria,ALG,Spain,ESP,0,1,0,2,0,3,Spain,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-26,403,511,309,1986-06-18,1986,Mexico,Querétaro,Estadio Corregidora,38500.0,Round of 16,Denmark,DEN,Spain,ESP,1,1,0,4,1,5,Spain,1.0,1.0,4.0,0.0,5.0,1.0,Round of 16,Round of 16,2.0,2.0
-27,406,421,714,1986-06-22,1986,Mexico,Puebla,Cuauhtemoc,45000.0,Quarterfinals,Spain,ESP,Belgium,BEL,0,0,1,1,1,1,Belgium,0.0,0.0,1.0,1.0,1.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
-28,423,180,322,1990-06-13,1990,Italy,Udine,Dacia Arena,35713.0,Groups,Uruguay,URU,Spain,ESP,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-29,434,175,322,1990-06-17,1990,Italy,Udine,Dacia Arena,32733.0,Groups,South Korea,KOR,Spain,ESP,1,1,0,2,1,3,Spain,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-30,445,56,322,1990-06-21,1990,Italy,Verona,Marc Antonio Bentegodi,35950.0,Groups,Belgium,BEL,Spain,ESP,1,2,0,0,1,2,Spain,2.0,1.0,0.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-31,454,181,323,1990-06-26,1990,Italy,Verona,Marc Antonio Bentegodi,35500.0,Round of 16,Spain,ESP,Yugoslavia,YUG,0,0,1,2,1,2,Yugoslavia,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
-32,464,3050,337,1994-06-17,1994,United States,Dallas,Cotton Bowl,56247.0,Groups,Spain,ESP,South Korea,KOR,0,0,2,2,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
-33,476,3060,337,1994-06-21,1994,United States,Chicago,Soldier Field,63113.0,Groups,Germany,GER,Spain,ESP,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-34,491,3075,337,1994-06-27,1994,United States,Chicago,Soldier Field,63089.0,Groups,Bolivia,BOL,Spain,ESP,0,1,1,2,1,3,Spain,1.0,0.0,2.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
-35,501,3086,338,1994-07-02,1994,United States,Washington,RFK Stadium,53121.0,Round of 16,Spain,ESP,Switzerland,SUI,1,0,2,0,3,0,Spain,1.0,0.0,2.0,0.0,3.0,0.0,Round of 16,Round of 16,2.0,2.0
-36,508,3097,796,1994-07-09,1994,United States,Foxborough,Foxboro Stadium,53400.0,Quarterfinals,Italy,ITA,Spain,ESP,1,0,1,1,2,1,Italy,1.0,0.0,1.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
-37,523,8731,1014,1998-06-13,1998,France,Nantes,La Beaujoire,35500.0,Groups,Spain,ESP,Nigeria,NGA,1,1,1,2,2,3,Nigeria,1.0,1.0,2.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0
-38,539,8748,1014,1998-06-19,1998,France,Saint-Étienne,Stade Geoffroy Guichard,30600.0,Groups,Spain,ESP,Paraguay,PAR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-39,554,8761,1014,1998-06-24,1998,France,Lens,Stade Felix Bollaert,38100.0,Groups,Spain,ESP,Bulgaria,BUL,2,0,4,1,6,1,Spain,2.0,0.0,4.0,1.0,6.0,1.0,Groups,Groups,1.0,1.0
-40,587,43950008,43950100,2002-06-02,2002,South Korea,Gwangju,Gwangju World Cup Stadium,28598.0,Groups,Spain,ESP,Slovenia,SVN,1,0,2,1,3,1,Spain,1.0,0.0,2.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
-41,602,43950022,43950100,2002-06-07,2002,South Korea,Jeonju,Jeonju World Cup Stadium,24000.0,Groups,Spain,ESP,Paraguay,PAR,0,1,3,0,3,1,Spain,0.0,1.0,3.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-42,614,97410031,97410100,2006-06-19,2006,Germany,Stuttgart,Gottlieb-Daimler-Stadion,52000.0,Groups,Spain,ESP,Tunisia,TUN,0,1,3,0,3,1,Spain,0.0,1.0,3.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-43,620,43950039,43950100,2002-06-12,2002,South Korea,Daejeon,Daejeon World Cup Stadium,31024.0,Groups,South Africa,RSA,Spain,ESP,1,2,1,1,2,3,Spain,2.0,1.0,1.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0
-44,631,43950052,43950200,2002-06-16,2002,South Korea,Suwon,Suwon World Cup Stadium,38926.0,Round of 16,Spain,ESP,Republic of Ireland,IRL,0,0,1,1,1,1,Spain,0.0,0.0,1.0,1.0,1.0,1.0,Round of 16,Round of 16,2.0,2.0
-45,640,43950059,43950300,2002-06-22,2002,South Korea,Gwangju,Gwangju World Cup Stadium,42114.0,Quarterfinals,Spain,ESP,South Korea,KOR,0,0,0,0,0,0,South Korea,0.0,0.0,0.0,0.0,0.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-46,659,97410015,97410100,2006-06-14,2006,Germany,Leipzig,Zentralstadion,43000.0,Groups,Spain,ESP,Ukraine,UKR,2,0,2,0,4,0,Spain,2.0,0.0,2.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
-47,689,97410047,97410100,2006-06-23,2006,Germany,Kaiserslautern,Fritz-Walter-Stadion,46000.0,Groups,Saudi Arabia,KSA,Spain,ESP,0,1,0,0,0,1,Spain,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-48,699,97410056,97410200,2006-06-27,2006,Germany,Hanover,"FIFA World Cup Stadium, Hanover",43000.0,Round of 16,Spain,ESP,France,FRA,1,1,0,2,1,3,France,1.0,1.0,2.0,0.0,3.0,1.0,Round of 16,Round of 16,2.0,2.0
-49,723,300111112,249722,2010-06-16,2010,South Africa,Durban,Durban Stadium,62453.0,Groups,Spain,ESP,Switzerland,SUI,0,0,0,1,0,1,Switzerland,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-50,739,300061494,249722,2010-06-21,2010,South Africa,Johannesburg,Ellis Park Stadium,54386.0,Groups,Spain,ESP,Honduras,HON,1,0,1,0,2,0,Spain,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-51,754,300061491,249722,2010-06-25,2010,South Africa,Pretoria,Loftus Versfeld Stadium,41958.0,Groups,Chile,CHI,Spain,ESP,0,2,1,0,1,2,Spain,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-52,763,300061498,249717,2010-06-29,2010,South Africa,Cape Town,Cape Town Stadium,62955.0,Round of 16,Spain,ESP,Portugal,POR,0,0,1,0,1,0,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
-53,767,300061506,249718,2010-07-03,2010,South Africa,Johannesburg,Ellis Park Stadium,55359.0,Quarterfinals,Paraguay,PAR,Spain,ESP,0,0,0,1,0,1,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-54,769,300111114,249719,2010-07-07,2010,South Africa,Durban,Durban Stadium,60960.0,Semifinals,Germany,GER,Spain,ESP,0,0,0,1,0,1,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Semifinals,Semifinals,4.0,4.0
-55,771,300061509,249721,2010-07-11,2010,South Africa,Johannesburg,Soccer City Stadium,84490.0,Finals,Netherlands,NED,Spain,ESP,0,0,0,1,0,1,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Finals,Champion,6.0,7.0
-56,774,300186510,255931,2014-06-13,2014,Brazil,Salvador,Arena Fonte Nova,48173.0,Groups,Spain,ESP,Netherlands,NED,1,1,0,4,1,5,Netherlands,1.0,1.0,4.0,0.0,5.0,1.0,Groups,Groups,1.0,1.0
-57,790,300186498,255931,2014-06-18,2014,Brazil,Rio de Janeiro,Estadio do Maracana,74101.0,Groups,Spain,ESP,Chile,CHI,0,2,0,0,0,2,Chile,2.0,0.0,0.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-58,804,300186467,255931,2014-06-23,2014,Brazil,Curitiba,Arena da Baixada,39375.0,Groups,Australia,AUS,Spain,ESP,0,1,0,2,0,3,Spain,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Spain_result_value
+0,0,23,1111,204,1934-05-27,1934,Italy,Genoa,Luigi Ferraris,21000.0,Groups,Spain,ESP,Brazil,BRA,3,0,0,1,3,1,Spain,3.0,0.0,0.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+1,1,28,1122,418,1934-05-31,1934,Italy,Florence,Giovanni Berta,35000.0,Quarterfinals,Italy,ITA,Spain,ESP,0,0,1,1,1,1,Draw,,,,,,,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+2,2,30,1123,418,1934-06-01,1934,Italy,Florence,Giovanni Berta,43000.0,Quarterfinals,Italy,ITA,Spain,ESP,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+3,3,55,1208,208,1950-06-25,1950,Brazil,Curitiba,Durival de Brito,9511.0,Groups,Spain,ESP,United States,USA,0,1,3,0,3,1,Spain,0.0,1.0,3.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+4,4,60,1193,208,1950-06-29,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,19790.0,Groups,Spain,ESP,Chile,CHI,2,0,0,0,2,0,Spain,2.0,0.0,0.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+5,5,64,1199,208,1950-07-02,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,74462.0,Groups,Spain,ESP,England,ENG,0,0,1,0,1,0,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+6,6,69,1207,209,1950-07-09,1950,Brazil,São Paulo,Pacaembu,44802.0,Finals,Uruguay,URU,Spain,ESP,1,2,1,0,2,2,Draw,,,,,,,Champion,Finals,7.0,6.0,6.0
+7,7,71,1186,209,1950-07-13,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,152772.0,Finals,Brazil,BRA,Spain,ESP,3,0,3,1,6,1,Brazil,3.0,0.0,3.0,1.0,6.0,1.0,,,,,
+8,8,73,1206,209,1950-07-16,1950,Brazil,São Paulo,Pacaembu,11227.0,Finals,Sweden,SWE,Spain,ESP,2,0,1,1,3,1,Sweden,2.0,0.0,1.0,1.0,3.0,1.0,,,,,
+9,9,141,1498,231,1962-05-31,1962,Chile,Viña del Mar,Estadio Sausalito,12700.0,Groups,Czechoslovakia,TCH,Spain,ESP,0,0,1,0,1,0,Czechoslovakia,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+10,10,149,1497,231,1962-06-03,1962,Chile,Viña del Mar,Estadio Sausalito,11875.0,Groups,Spain,ESP,Mexico,MEX,0,0,1,0,1,0,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+11,11,153,1460,231,1962-06-06,1962,Chile,Viña del Mar,Estadio Sausalito,18715.0,Groups,Brazil,BRA,Spain,ESP,0,1,2,0,2,1,Brazil,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+12,12,174,1578,238,1966-07-13,1966,England,Birmingham,Villa Park,42738.0,Groups,Argentina,ARG,Spain,ESP,0,0,2,1,2,1,Argentina,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+13,13,177,1641,238,1966-07-15,1966,England,Sheffield,Hillsborough,32028.0,Groups,Spain,ESP,Switzerland,SUI,0,1,2,0,2,1,Spain,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+14,14,190,1637,238,1966-07-20,1966,England,Birmingham,Villa Park,42187.0,Groups,West Germany,FRG,Spain,ESP,1,1,1,0,2,1,West Germany,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+15,15,275,2216,278,1978-06-03,1978,Argentina,Buenos Aires,Jose Amalfitani,40841.0,Groups,Austria,AUT,Spain,ESP,1,1,1,0,2,1,Austria,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+16,16,283,2246,278,1978-06-07,1978,Argentina,Mar del Plata,Estadio José María Minella,34771.0,Groups,Brazil,BRA,Spain,ESP,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+17,17,292,2337,278,1978-06-11,1978,Argentina,Buenos Aires,Jose Amalfitani,42132.0,Groups,Spain,ESP,Sweden,SWE,0,0,1,0,1,0,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+18,18,317,901,293,1982-06-16,1982,Spain,Valencia,Luis Casanova,49562.0,Groups,Spain,ESP,Honduras,HON,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+19,19,329,903,293,1982-06-20,1982,Spain,Valencia,Luis Casanova,48000.0,Groups,Spain,ESP,Yugoslavia,YUG,1,1,1,0,2,1,Spain,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+20,20,343,902,293,1982-06-25,1982,Spain,Valencia,Luis Casanova,49562.0,Groups,Northern Ireland,NIR,Spain,ESP,0,0,1,0,1,0,Northern Ireland,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+21,21,351,900,294,1982-07-02,1982,Spain,Madrid,Santiago Bernabeu,90089.0,Round of 16,West Germany,FRG,Spain,ESP,0,0,2,1,2,1,West Germany,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+22,22,355,877,294,1982-07-05,1982,Spain,Madrid,Santiago Bernabeu,75000.0,Round of 16,Spain,ESP,England,ENG,0,0,0,0,0,0,Draw,,,,,,,Round of 16,Round of 16,2.0,2.0,2.0
+23,23,362,439,308,1986-06-01,1986,Mexico,Guadalajara,Jalisco,35748.0,Groups,Spain,ESP,Brazil,BRA,0,0,0,1,0,1,Brazil,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+24,24,378,551,308,1986-06-07,1986,Mexico,Guadalajara,Tres de Marzo,28000.0,Groups,Northern Ireland,NIR,Spain,ESP,0,2,1,0,1,2,Spain,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+25,25,393,378,308,1986-06-12,1986,Mexico,Monterrey,Tecnologico,23980.0,Groups,Algeria,ALG,Spain,ESP,0,1,0,2,0,3,Spain,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+26,26,403,511,309,1986-06-18,1986,Mexico,Querétaro,Estadio Corregidora,38500.0,Round of 16,Denmark,DEN,Spain,ESP,1,1,0,4,1,5,Spain,1.0,1.0,4.0,0.0,5.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+27,27,406,421,714,1986-06-22,1986,Mexico,Puebla,Cuauhtemoc,45000.0,Quarterfinals,Spain,ESP,Belgium,BEL,0,0,1,1,1,1,Belgium,0.0,0.0,1.0,1.0,1.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+28,28,423,180,322,1990-06-13,1990,Italy,Udine,Dacia Arena,35713.0,Groups,Uruguay,URU,Spain,ESP,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+29,29,434,175,322,1990-06-17,1990,Italy,Udine,Dacia Arena,32733.0,Groups,South Korea,KOR,Spain,ESP,1,1,0,2,1,3,Spain,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+30,30,445,56,322,1990-06-21,1990,Italy,Verona,Marc Antonio Bentegodi,35950.0,Groups,Belgium,BEL,Spain,ESP,1,2,0,0,1,2,Spain,2.0,1.0,0.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+31,31,454,181,323,1990-06-26,1990,Italy,Verona,Marc Antonio Bentegodi,35500.0,Round of 16,Spain,ESP,Yugoslavia,YUG,0,0,1,2,1,2,Yugoslavia,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+32,32,464,3050,337,1994-06-17,1994,United States,Dallas,Cotton Bowl,56247.0,Groups,Spain,ESP,South Korea,KOR,0,0,2,2,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+33,33,476,3060,337,1994-06-21,1994,United States,Chicago,Soldier Field,63113.0,Groups,Germany,GER,Spain,ESP,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+34,34,491,3075,337,1994-06-27,1994,United States,Chicago,Soldier Field,63089.0,Groups,Bolivia,BOL,Spain,ESP,0,1,1,2,1,3,Spain,1.0,0.0,2.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+35,35,501,3086,338,1994-07-02,1994,United States,Washington,RFK Stadium,53121.0,Round of 16,Spain,ESP,Switzerland,SUI,1,0,2,0,3,0,Spain,1.0,0.0,2.0,0.0,3.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+36,36,508,3097,796,1994-07-09,1994,United States,Foxborough,Foxboro Stadium,53400.0,Quarterfinals,Italy,ITA,Spain,ESP,1,0,1,1,2,1,Italy,1.0,0.0,1.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+37,37,523,8731,1014,1998-06-13,1998,France,Nantes,La Beaujoire,35500.0,Groups,Spain,ESP,Nigeria,NGA,1,1,1,2,2,3,Nigeria,1.0,1.0,2.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
+38,38,539,8748,1014,1998-06-19,1998,France,Saint-Étienne,Stade Geoffroy Guichard,30600.0,Groups,Spain,ESP,Paraguay,PAR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+39,39,554,8761,1014,1998-06-24,1998,France,Lens,Stade Felix Bollaert,38100.0,Groups,Spain,ESP,Bulgaria,BUL,2,0,4,1,6,1,Spain,2.0,0.0,4.0,1.0,6.0,1.0,Groups,Groups,1.0,1.0,1.0
+40,40,587,43950008,43950100,2002-06-02,2002,South Korea,Gwangju,Gwangju World Cup Stadium,28598.0,Groups,Spain,ESP,Slovenia,SVN,1,0,2,1,3,1,Spain,1.0,0.0,2.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+41,41,602,43950022,43950100,2002-06-07,2002,South Korea,Jeonju,Jeonju World Cup Stadium,24000.0,Groups,Spain,ESP,Paraguay,PAR,0,1,3,0,3,1,Spain,0.0,1.0,3.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+42,42,614,97410031,97410100,2006-06-19,2006,Germany,Stuttgart,Gottlieb-Daimler-Stadion,52000.0,Groups,Spain,ESP,Tunisia,TUN,0,1,3,0,3,1,Spain,0.0,1.0,3.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+43,43,620,43950039,43950100,2002-06-12,2002,South Korea,Daejeon,Daejeon World Cup Stadium,31024.0,Groups,South Africa,RSA,Spain,ESP,1,2,1,1,2,3,Spain,2.0,1.0,1.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
+44,44,631,43950052,43950200,2002-06-16,2002,South Korea,Suwon,Suwon World Cup Stadium,38926.0,Round of 16,Spain,ESP,Republic of Ireland,IRL,0,0,1,1,1,1,Spain,0.0,0.0,1.0,1.0,1.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+45,45,640,43950059,43950300,2002-06-22,2002,South Korea,Gwangju,Gwangju World Cup Stadium,42114.0,Quarterfinals,Spain,ESP,South Korea,KOR,0,0,0,0,0,0,South Korea,0.0,0.0,0.0,0.0,0.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+46,46,659,97410015,97410100,2006-06-14,2006,Germany,Leipzig,Zentralstadion,43000.0,Groups,Spain,ESP,Ukraine,UKR,2,0,2,0,4,0,Spain,2.0,0.0,2.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0,1.0
+47,47,689,97410047,97410100,2006-06-23,2006,Germany,Kaiserslautern,Fritz-Walter-Stadion,46000.0,Groups,Saudi Arabia,KSA,Spain,ESP,0,1,0,0,0,1,Spain,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+48,48,699,97410056,97410200,2006-06-27,2006,Germany,Hanover,"FIFA World Cup Stadium, Hanover",43000.0,Round of 16,Spain,ESP,France,FRA,1,1,0,2,1,3,France,1.0,1.0,2.0,0.0,3.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+49,49,723,300111112,249722,2010-06-16,2010,South Africa,Durban,Durban Stadium,62453.0,Groups,Spain,ESP,Switzerland,SUI,0,0,0,1,0,1,Switzerland,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+50,50,739,300061494,249722,2010-06-21,2010,South Africa,Johannesburg,Ellis Park Stadium,54386.0,Groups,Spain,ESP,Honduras,HON,1,0,1,0,2,0,Spain,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+51,51,754,300061491,249722,2010-06-25,2010,South Africa,Pretoria,Loftus Versfeld Stadium,41958.0,Groups,Chile,CHI,Spain,ESP,0,2,1,0,1,2,Spain,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+52,52,763,300061498,249717,2010-06-29,2010,South Africa,Cape Town,Cape Town Stadium,62955.0,Round of 16,Spain,ESP,Portugal,POR,0,0,1,0,1,0,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+53,53,767,300061506,249718,2010-07-03,2010,South Africa,Johannesburg,Ellis Park Stadium,55359.0,Quarterfinals,Paraguay,PAR,Spain,ESP,0,0,0,1,0,1,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+54,54,769,300111114,249719,2010-07-07,2010,South Africa,Durban,Durban Stadium,60960.0,Semifinals,Germany,GER,Spain,ESP,0,0,0,1,0,1,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Semifinals,Semifinals,4.0,4.0,4.0
+55,55,771,300061509,249721,2010-07-11,2010,South Africa,Johannesburg,Soccer City Stadium,84490.0,Finals,Netherlands,NED,Spain,ESP,0,0,0,1,0,1,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Finals,Champion,6.0,7.0,7.0
+56,56,774,300186510,255931,2014-06-13,2014,Brazil,Salvador,Arena Fonte Nova,48173.0,Groups,Spain,ESP,Netherlands,NED,1,1,0,4,1,5,Netherlands,1.0,1.0,4.0,0.0,5.0,1.0,Groups,Groups,1.0,1.0,1.0
+57,57,790,300186498,255931,2014-06-18,2014,Brazil,Rio de Janeiro,Estadio do Maracana,74101.0,Groups,Spain,ESP,Chile,CHI,0,2,0,0,0,2,Chile,2.0,0.0,0.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+58,58,804,300186467,255931,2014-06-23,2014,Brazil,Curitiba,Arena da Baixada,39375.0,Groups,Australia,AUS,Spain,ESP,0,1,0,2,0,3,Spain,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0

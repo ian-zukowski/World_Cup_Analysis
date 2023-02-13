@@ -1,10 +1,10 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
-0,473,3057,337,1994-06-20,1994,United States,Palo Alto,Stanford Stadium,81061.0,Groups,Brazil,BRA,Russia,RUS,1,0,1,0,2,0,Brazil,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-1,482,3068,337,1994-06-24,1994,United States,Pontiac,Pontiac Silverdome,71528.0,Groups,Sweden,SWE,Russia,RUS,1,1,2,0,3,1,Sweden,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-2,495,3079,337,1994-06-28,1994,United States,Palo Alto,Stanford Stadium,74914.0,Groups,Russia,RUS,Cameroon,CMR,3,0,3,1,6,1,Russia,3.0,0.0,3.0,1.0,6.0,1.0,Groups,Groups,1.0,1.0
-3,594,43950015,43950100,2002-06-05,2002,Japan,Kobe,Kobe Wing Stadium,30957.0,Groups,Russia,RUS,Tunisia,TUN,0,0,2,0,2,0,Russia,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-4,607,43950029,43950100,2002-06-09,2002,Japan,Yokohama,International Stadium Yokohama,66108.0,Groups,Japan,JPN,Russia,RUS,0,0,1,0,1,0,Japan,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-5,628,43950046,43950100,2002-06-14,2002,Japan,Fukuroi,Shizuoka Stadium Ecopa,46640.0,Groups,Belgium,BEL,Russia,RUS,1,0,2,2,3,2,Belgium,1.0,0.0,2.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0
-6,788,300186499,255931,2014-06-17,2014,Brazil,Cuiabá,Arena Pantanal,37603.0,Groups,Russia,RUS,South Korea,KOR,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-7,801,300186481,255931,2014-06-22,2014,Brazil,Rio de Janeiro,Estadio do Maracana,73819.0,Groups,Belgium,BEL,Russia,RUS,0,0,1,0,1,0,Belgium,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-8,819,300186506,255931,2014-06-26,2014,Brazil,Curitiba,Arena da Baixada,39311.0,Groups,Algeria,ALG,Russia,RUS,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Russia_result_value
+0,0,473,3057,337,1994-06-20,1994,United States,Palo Alto,Stanford Stadium,81061.0,Groups,Brazil,BRA,Russia,RUS,1,0,1,0,2,0,Brazil,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+1,1,482,3068,337,1994-06-24,1994,United States,Pontiac,Pontiac Silverdome,71528.0,Groups,Sweden,SWE,Russia,RUS,1,1,2,0,3,1,Sweden,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+2,2,495,3079,337,1994-06-28,1994,United States,Palo Alto,Stanford Stadium,74914.0,Groups,Russia,RUS,Cameroon,CMR,3,0,3,1,6,1,Russia,3.0,0.0,3.0,1.0,6.0,1.0,Groups,Groups,1.0,1.0,1.0
+3,3,594,43950015,43950100,2002-06-05,2002,Japan,Kobe,Kobe Wing Stadium,30957.0,Groups,Russia,RUS,Tunisia,TUN,0,0,2,0,2,0,Russia,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+4,4,607,43950029,43950100,2002-06-09,2002,Japan,Yokohama,International Stadium Yokohama,66108.0,Groups,Japan,JPN,Russia,RUS,0,0,1,0,1,0,Japan,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+5,5,628,43950046,43950100,2002-06-14,2002,Japan,Fukuroi,Shizuoka Stadium Ecopa,46640.0,Groups,Belgium,BEL,Russia,RUS,1,0,2,2,3,2,Belgium,1.0,0.0,2.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
+6,6,788,300186499,255931,2014-06-17,2014,Brazil,Cuiabá,Arena Pantanal,37603.0,Groups,Russia,RUS,South Korea,KOR,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+7,7,801,300186481,255931,2014-06-22,2014,Brazil,Rio de Janeiro,Estadio do Maracana,73819.0,Groups,Belgium,BEL,Russia,RUS,0,0,1,0,1,0,Belgium,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+8,8,819,300186506,255931,2014-06-26,2014,Brazil,Curitiba,Arena da Baixada,39311.0,Groups,Algeria,ALG,Russia,RUS,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0

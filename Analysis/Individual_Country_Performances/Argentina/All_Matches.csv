@@ -1,82 +1,82 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
-0,4,1085,201,1930-07-15,1930,Uruguay,Montevideo,Parque Central,23409.0,Groups,Argentina,ARG,France,FRA,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-1,10,1086,201,1930-07-19,1930,Uruguay,Montevideo,Estadio Centenario,42100.0,Groups,Argentina,ARG,Mexico,MEX,3,1,3,2,6,3,Argentina,3.0,1.0,3.0,2.0,6.0,3.0,Groups,Groups,1.0,1.0
-2,14,1084,201,1930-07-22,1930,Uruguay,Montevideo,Estadio Centenario,41459.0,Groups,Argentina,ARG,Chile,CHI,2,1,1,0,3,1,Argentina,2.0,1.0,1.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-3,15,1088,202,1930-07-26,1930,Uruguay,Montevideo,Estadio Centenario,72886.0,Semifinals,Argentina,ARG,United States,USA,1,0,5,1,6,1,Argentina,1.0,0.0,5.0,1.0,6.0,1.0,Semifinals,Semifinals,4.0,4.0
-4,17,1087,405,1930-07-30,1930,Uruguay,Montevideo,Estadio Centenario,68346.0,Finals,Uruguay,URU,Argentina,ARG,1,2,3,0,4,2,Uruguay,1.0,2.0,3.0,0.0,4.0,2.0,Champion,Finals,7.0,6.0
-5,21,1102,204,1934-05-27,1934,Italy,Bologna,Littorale,14000.0,Groups,Sweden,SWE,Argentina,ARG,1,1,2,1,3,2,Sweden,1.0,1.0,2.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0
-6,103,1323,220,1958-06-08,1958,Sweden,Malmö,Malmo Stadion,31156.0,Groups,Argentina,ARG,West Germany,FRG,1,2,0,1,1,3,West Germany,2.0,1.0,1.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-7,115,1324,220,1958-06-11,1958,Sweden,Halmstad,Orjans Vall,14174.0,Groups,Argentina,ARG,Northern Ireland,NIR,1,1,2,0,3,1,Argentina,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-8,124,1325,220,1958-06-15,1958,Sweden,Helsingborg,Olympia Stadium,16418.0,Groups,Czechoslovakia,TCH,Argentina,ARG,3,0,3,1,6,1,Czechoslovakia,3.0,0.0,3.0,1.0,6.0,1.0,Groups,Groups,1.0,1.0
-9,138,1447,231,1962-05-30,1962,Chile,Rancagua,Estadio El Teniente-Codelco,7134.0,Groups,Argentina,ARG,Bulgaria,BUL,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-10,146,1450,231,1962-06-02,1962,Chile,Rancagua,Estadio El Teniente-Codelco,9794.0,Groups,England,ENG,Argentina,ARG,2,0,1,1,3,1,England,2.0,0.0,1.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
-11,154,1451,231,1962-06-06,1962,Chile,Rancagua,Estadio El Teniente-Codelco,7945.0,Groups,Hungary,HUN,Argentina,ARG,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-12,174,1578,238,1966-07-13,1966,England,Birmingham,Villa Park,42738.0,Groups,Argentina,ARG,Spain,ESP,0,0,2,1,2,1,Argentina,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-13,181,1579,238,1966-07-16,1966,England,Birmingham,Villa Park,46587.0,Groups,West Germany,FRG,Argentina,ARG,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-14,185,1582,238,1966-07-19,1966,England,Sheffield,Hillsborough,32127.0,Groups,Argentina,ARG,Switzerland,SUI,0,0,2,0,2,0,Argentina,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-15,192,1577,239,1966-07-23,1966,England,London,Wembley Stadium,90584.0,Quarterfinals,England,ENG,Argentina,ARG,0,0,1,0,1,0,England,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-16,239,1952,262,1974-06-15,1974,Germany,Stuttgart,Neckarstadion,32700.0,Groups,Poland,POL,Argentina,ARG,2,0,1,2,3,2,Poland,2.0,0.0,1.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0
-17,247,1949,262,1974-06-19,1974,Germany,Stuttgart,Neckarstadion,70100.0,Groups,Argentina,ARG,Italy,ITA,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-18,253,1947,262,1974-06-23,1974,Germany,Munich,Olympiastadion,25900.0,Groups,Argentina,ARG,Haiti,HAI,2,0,2,1,4,1,Argentina,2.0,0.0,2.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0
-19,258,1948,263,1974-06-26,1974,Germany,Gelsenkirchen,Parkstadion,56548.0,Round of 16,Netherlands,NED,Argentina,ARG,2,0,2,0,4,0,Netherlands,2.0,0.0,2.0,0.0,4.0,0.0,Round of 16,Round of 16,2.0,2.0
-20,260,1945,263,1974-06-30,1974,Germany,Hanover,Niedersachsenstadion,39400.0,Round of 16,Argentina,ARG,Brazil,BRA,1,1,0,1,1,2,Brazil,1.0,1.0,1.0,0.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
-21,266,1946,263,1974-07-03,1974,Germany,Gelsenkirchen,Parkstadion,54254.0,Round of 16,Argentina,ARG,East Germany,GDR,1,1,0,0,1,1,Draw,,,,,,,Round of 16,Round of 16,2.0,2.0
-22,273,2199,278,1978-06-02,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,71615.0,Groups,Argentina,ARG,Hungary,HUN,1,1,1,0,2,1,Argentina,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-23,282,2197,278,1978-06-06,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,71666.0,Groups,Argentina,ARG,France,FRA,1,0,1,1,2,1,Argentina,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-24,290,2200,278,1978-06-10,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,71712.0,Groups,Italy,ITA,Argentina,ARG,0,0,1,0,1,0,Italy,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-25,298,2202,279,1978-06-14,1978,Argentina,Rosario,Arroyito - Estadio Dr. Lisandro de la Torre,37091.0,Round of 16,Argentina,ARG,Poland,POL,1,0,1,0,2,0,Argentina,1.0,0.0,1.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0
-26,302,2196,279,1978-06-18,1978,Argentina,Rosario,Arroyito - Estadio Dr. Lisandro de la Torre,37326.0,Round of 16,Argentina,ARG,Brazil,BRA,0,0,0,0,0,0,Draw,,,,,,,Round of 16,Round of 16,2.0,2.0
-27,306,2201,279,1978-06-21,1978,Argentina,Rosario,Arroyito - Estadio Dr. Lisandro de la Torre,37315.0,Round of 16,Argentina,ARG,Peru,PER,2,0,4,0,6,0,Argentina,2.0,0.0,4.0,0.0,6.0,0.0,Round of 16,Round of 16,2.0,2.0
-28,308,2198,639,1978-06-25,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,71483.0,Finals,Argentina,ARG,Netherlands,NED,0,0,3,1,3,1,Argentina,0.0,0.0,3.0,1.0,3.0,1.0,Champion,Finals,7.0,6.0
-29,309,749,293,1982-06-13,1982,Spain,Barcelona,Camp Nou,95000.0,Groups,Argentina,ARG,Belgium,BEL,0,0,0,1,0,1,Belgium,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-30,322,752,293,1982-06-18,1982,Spain,Alicante,Jose Rico Perez,32093.0,Groups,Argentina,ARG,Hungary,HUN,2,0,2,1,4,1,Argentina,2.0,0.0,2.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0
-31,337,751,293,1982-06-23,1982,Spain,Alicante,Jose Rico Perez,32500.0,Groups,Argentina,ARG,El Salvador,SLV,1,0,1,0,2,0,Argentina,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-32,346,753,294,1982-06-29,1982,Spain,Barcelona,Sarria,43000.0,Round of 16,Italy,ITA,Argentina,ARG,0,0,2,1,2,1,Italy,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
-33,350,750,294,1982-07-02,1982,Spain,Barcelona,Sarria,44000.0,Round of 16,Argentina,ARG,Brazil,BRA,0,1,1,2,1,3,Brazil,1.0,0.0,2.0,1.0,3.0,1.0,Round of 16,Round of 16,2.0,2.0
-34,364,395,308,1986-06-02,1986,Mexico,Mexico City,Estadio Olímpico Universitario,60000.0,Groups,Argentina,ARG,South Korea,KOR,2,0,1,1,3,1,Argentina,2.0,0.0,1.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
-35,372,394,308,1986-06-05,1986,Mexico,Puebla,Cuauhtemoc,32000.0,Groups,Italy,ITA,Argentina,ARG,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-36,387,389,308,1986-06-10,1986,Mexico,Mexico City,Estadio Olímpico Universitario,65000.0,Groups,Argentina,ARG,Bulgaria,BUL,1,0,1,0,2,0,Argentina,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-37,398,398,309,1986-06-16,1986,Mexico,Puebla,Cuauhtemoc,26000.0,Round of 16,Argentina,ARG,Uruguay,URU,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
-38,407,392,714,1986-06-22,1986,Mexico,Mexico City,Estadio Azteca,114580.0,Quarterfinals,Argentina,ARG,England,ENG,0,0,2,1,2,1,Argentina,0.0,0.0,2.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
-39,409,388,3469,1986-06-25,1986,Mexico,Mexico City,Estadio Azteca,114500.0,Semifinals,Argentina,ARG,Belgium,BEL,0,0,2,0,2,0,Argentina,0.0,0.0,2.0,0.0,2.0,0.0,Semifinals,Semifinals,4.0,4.0
-40,411,393,3467,1986-06-29,1986,Mexico,Mexico City,Estadio Azteca,114600.0,Finals,Argentina,ARG,West Germany,FRG,1,0,2,2,3,2,Argentina,1.0,0.0,2.0,2.0,3.0,2.0,Champion,Finals,7.0,6.0
-41,412,26,322,1990-06-08,1990,Italy,Milan,Giuseppe Meazza,73780.0,Groups,Argentina,ARG,Cameroon,CMR,0,0,0,1,0,1,Cameroon,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-42,424,30,322,1990-06-13,1990,Italy,Naples,San Paolo,55759.0,Groups,Argentina,ARG,Soviet Union,URS,1,0,1,0,2,0,Argentina,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-43,436,29,322,1990-06-18,1990,Italy,Naples,San Paolo,52733.0,Groups,Argentina,ARG,Romania,ROU,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-44,450,25,323,1990-06-24,1990,Italy,Turin,Stadio delle Alpi,61381.0,Round of 16,Brazil,BRA,Argentina,ARG,0,0,0,1,0,1,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
-45,456,31,751,1990-06-30,1990,Italy,Florence,Comunale,38971.0,Quarterfinals,Yugoslavia,YUG,Argentina,ARG,0,0,0,0,0,0,Argentina,0.0,0.0,0.0,0.0,0.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-46,460,28,3464,1990-07-03,1990,Italy,Naples,San Paolo,59978.0,Semifinals,Italy,ITA,Argentina,ARG,0,0,1,1,1,1,Argentina,0.0,0.0,1.0,1.0,1.0,1.0,Semifinals,Semifinals,4.0,4.0
-47,463,27,3462,1990-07-08,1990,Italy,Rome,Stadio Olimpico,73603.0,Finals,West Germany,FRG,Argentina,ARG,0,0,1,0,1,0,West Germany,0.0,0.0,1.0,0.0,1.0,0.0,Champion,Finals,7.0,6.0
-48,474,3059,337,1994-06-21,1994,United States,Foxborough,Foxboro Stadium,54456.0,Groups,Argentina,ARG,Greece,GRE,2,0,2,0,4,0,Argentina,2.0,0.0,2.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
-49,486,3071,337,1994-06-25,1994,United States,Foxborough,Foxboro Stadium,54453.0,Groups,Argentina,ARG,Nigeria,NGA,2,1,0,0,2,1,Argentina,2.0,1.0,0.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-50,499,3084,337,1994-06-30,1994,United States,Dallas,Cotton Bowl,63998.0,Groups,Argentina,ARG,Bulgaria,BUL,0,0,0,2,0,2,Bulgaria,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-51,503,3088,338,1994-07-03,1994,United States,Pasadena,Rose Bowl,90469.0,Round of 16,Romania,ROU,Argentina,ARG,2,1,1,1,3,2,Romania,2.0,1.0,1.0,1.0,3.0,2.0,Round of 16,Round of 16,2.0,2.0
-52,526,8734,1014,1998-06-14,1998,France,Toulouse,Stade Municipal,33500.0,Groups,Argentina,ARG,Japan,JPN,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-53,544,8752,1014,1998-06-21,1998,France,Paris,Parc des Princes,45500.0,Groups,Argentina,ARG,Jamaica,JAM,1,0,4,0,5,0,Argentina,1.0,0.0,4.0,0.0,5.0,0.0,Groups,Groups,1.0,1.0
-54,561,8772,1014,1998-06-26,1998,France,Bordeaux,Stade du Parc Lescure,31800.0,Groups,Argentina,ARG,Croatia,CRO,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-55,571,8779,1024,1998-06-30,1998,France,Saint-Étienne,Stade Geoffroy Guichard,30600.0,Round of 16,Argentina,ARG,England,ENG,0,0,2,2,2,2,Argentina,0.0,0.0,2.0,2.0,2.0,2.0,Round of 16,Round of 16,2.0,2.0
-56,574,8784,1025,1998-07-04,1998,France,Marseille,Stade Vélodrome,55000.0,Quarterfinals,Netherlands,NED,Argentina,ARG,1,1,1,0,2,1,Netherlands,1.0,1.0,1.0,0.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
-57,584,43950007,43950100,2002-06-02,2002,Japan,Kashima,Kashima Stadium,34050.0,Groups,Argentina,ARG,Nigeria,NGA,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-58,601,43950023,43950100,2002-06-07,2002,Japan,Sapporo,Sapporo Dome,35927.0,Groups,Argentina,ARG,England,ENG,0,1,0,0,0,1,England,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-59,617,43950037,43950100,2002-06-12,2002,Japan,Rifu,Miyagi Stadium,45777.0,Groups,Sweden,SWE,Argentina,ARG,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-60,649,97410005,97410100,2006-06-10,2006,Germany,Hamburg,"FIFA World Cup Stadium, Hamburg",49480.0,Groups,Argentina,ARG,Cote d'Ivoire,CIV,2,0,0,1,2,1,Argentina,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-61,665,97410021,97410100,2006-06-16,2006,Germany,Gelsenkirchen,"FIFA World Cup Stadium, Gelsenkirchen",52000.0,Groups,Argentina,ARG,Serbia,SCG,3,0,3,0,6,0,Argentina,3.0,0.0,3.0,0.0,6.0,0.0,Groups,Groups,1.0,1.0
-62,682,97410037,97410100,2006-06-21,2006,Germany,Frankfurt am Main,"FIFA World Cup Stadium, Frankfurt",48000.0,Groups,Netherlands,NED,Argentina,ARG,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-63,693,97410050,97410200,2006-06-24,2006,Germany,Leipzig,Zentralstadion,43000.0,Round of 16,Argentina,ARG,Mexico,MEX,0,0,2,1,2,1,Argentina,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
-64,700,97410057,97410300,2006-06-30,2006,Germany,Berlin,Olympiastadion,72000.0,Quarterfinals,Germany,GER,Argentina,ARG,0,0,1,1,1,1,Germany,0.0,0.0,1.0,1.0,1.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
-65,711,300061460,249722,2010-06-12,2010,South Africa,Johannesburg,Ellis Park Stadium,55686.0,Groups,Argentina,ARG,Nigeria,NGA,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-66,725,300061458,249722,2010-06-17,2010,South Africa,Johannesburg,Soccer City Stadium,82174.0,Groups,Argentina,ARG,South Korea,KOR,2,1,2,0,4,1,Argentina,2.0,1.0,2.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0
-67,743,300061455,249722,2010-06-22,2010,South Africa,Polokwane,Peter Mokaba Stadium,38891.0,Groups,Greece,GRE,Argentina,ARG,0,0,0,2,0,2,Argentina,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-68,759,300061502,249717,2010-06-27,2010,South Africa,Johannesburg,Soccer City Stadium,84377.0,Round of 16,Argentina,ARG,Mexico,MEX,2,0,1,1,3,1,Argentina,2.0,0.0,1.0,1.0,3.0,1.0,Round of 16,Round of 16,2.0,2.0
-69,766,300061505,249718,2010-07-03,2010,South Africa,Cape Town,Cape Town Stadium,64100.0,Quarterfinals,Argentina,ARG,Germany,GER,0,1,0,3,0,4,Germany,1.0,0.0,3.0,0.0,4.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-70,782,300186477,255931,2014-06-15,2014,Brazil,Rio de Janeiro,Estadio do Maracana,74738.0,Groups,Argentina,ARG,Bosnia and Herzegovina,BIH,1,0,1,1,2,1,Argentina,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-71,798,300186466,255931,2014-06-21,2014,Brazil,Belo Horizonte,Estadio Mineirao,57698.0,Groups,Argentina,ARG,Iran,IRN,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-72,812,300186458,255931,2014-06-25,2014,Brazil,Porto Alegre,Estadio Beira-Rio,43285.0,Groups,Nigeria,NGA,Argentina,ARG,1,2,1,1,2,3,Argentina,2.0,1.0,1.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0
-73,828,300186501,255959,2014-07-13,2014,Brazil,Rio de Janeiro,Estadio do Maracana,74738.0,Finals,Germany,GER,Argentina,ARG,0,0,1,0,1,0,Germany,0.0,0.0,1.0,0.0,1.0,0.0,Champion,Finals,7.0,6.0
-74,829,300186490,255955,2014-07-09,2014,Brazil,São Paulo,Arena de Sao Paulo,63267.0,Semifinals,Netherlands,NED,Argentina,ARG,0,0,0,0,0,0,Argentina,0.0,0.0,0.0,0.0,0.0,0.0,Semifinals,Semifinals,4.0,4.0
-75,831,300186504,255953,2014-07-05,2014,Brazil,Brasília,Estadio Nacional,68551.0,Quarterfinals,Argentina,ARG,Belgium,BEL,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-76,834,300186503,255951,2014-07-01,2014,Brazil,São Paulo,Arena de Sao Paulo,63255.0,Round of 16,Argentina,ARG,Switzerland,SUI,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
-77,842,300186503,255951,2014-07-01,2014,Brazil,São Paulo,Arena de Sao Paulo,63255.0,Round of 16,Argentina,ARG,Switzerland,SUI,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
-78,846,300186504,255953,2014-07-05,2014,Brazil,Brasília,Estadio Nacional,68551.0,Quarterfinals,Argentina,ARG,Belgium,BEL,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-79,849,300186490,255955,2014-07-09,2014,Brazil,São Paulo,Arena de Sao Paulo,63267.0,Semifinals,Netherlands,NED,Argentina,ARG,0,0,0,0,0,0,Argentina,0.0,0.0,0.0,0.0,0.0,0.0,Semifinals,Semifinals,4.0,4.0
-80,851,300186501,255959,2014-07-13,2014,Brazil,Rio de Janeiro,Estadio do Maracana,74738.0,Finals,Germany,GER,Argentina,ARG,0,0,1,0,1,0,Germany,0.0,0.0,1.0,0.0,1.0,0.0,Champion,Finals,7.0,6.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Argentina_result_value
+0,0,4,1085,201,1930-07-15,1930,Uruguay,Montevideo,Parque Central,23409.0,Groups,Argentina,ARG,France,FRA,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+1,1,10,1086,201,1930-07-19,1930,Uruguay,Montevideo,Estadio Centenario,42100.0,Groups,Argentina,ARG,Mexico,MEX,3,1,3,2,6,3,Argentina,3.0,1.0,3.0,2.0,6.0,3.0,Groups,Groups,1.0,1.0,1.0
+2,2,14,1084,201,1930-07-22,1930,Uruguay,Montevideo,Estadio Centenario,41459.0,Groups,Argentina,ARG,Chile,CHI,2,1,1,0,3,1,Argentina,2.0,1.0,1.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+3,3,15,1088,202,1930-07-26,1930,Uruguay,Montevideo,Estadio Centenario,72886.0,Semifinals,Argentina,ARG,United States,USA,1,0,5,1,6,1,Argentina,1.0,0.0,5.0,1.0,6.0,1.0,Semifinals,Semifinals,4.0,4.0,4.0
+4,4,17,1087,405,1930-07-30,1930,Uruguay,Montevideo,Estadio Centenario,68346.0,Finals,Uruguay,URU,Argentina,ARG,1,2,3,0,4,2,Uruguay,1.0,2.0,3.0,0.0,4.0,2.0,Champion,Finals,7.0,6.0,6.0
+5,5,21,1102,204,1934-05-27,1934,Italy,Bologna,Littorale,14000.0,Groups,Sweden,SWE,Argentina,ARG,1,1,2,1,3,2,Sweden,1.0,1.0,2.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
+6,6,103,1323,220,1958-06-08,1958,Sweden,Malmö,Malmo Stadion,31156.0,Groups,Argentina,ARG,West Germany,FRG,1,2,0,1,1,3,West Germany,2.0,1.0,1.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+7,7,115,1324,220,1958-06-11,1958,Sweden,Halmstad,Orjans Vall,14174.0,Groups,Argentina,ARG,Northern Ireland,NIR,1,1,2,0,3,1,Argentina,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+8,8,124,1325,220,1958-06-15,1958,Sweden,Helsingborg,Olympia Stadium,16418.0,Groups,Czechoslovakia,TCH,Argentina,ARG,3,0,3,1,6,1,Czechoslovakia,3.0,0.0,3.0,1.0,6.0,1.0,Groups,Groups,1.0,1.0,1.0
+9,9,138,1447,231,1962-05-30,1962,Chile,Rancagua,Estadio El Teniente-Codelco,7134.0,Groups,Argentina,ARG,Bulgaria,BUL,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+10,10,146,1450,231,1962-06-02,1962,Chile,Rancagua,Estadio El Teniente-Codelco,9794.0,Groups,England,ENG,Argentina,ARG,2,0,1,1,3,1,England,2.0,0.0,1.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+11,11,154,1451,231,1962-06-06,1962,Chile,Rancagua,Estadio El Teniente-Codelco,7945.0,Groups,Hungary,HUN,Argentina,ARG,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+12,12,174,1578,238,1966-07-13,1966,England,Birmingham,Villa Park,42738.0,Groups,Argentina,ARG,Spain,ESP,0,0,2,1,2,1,Argentina,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+13,13,181,1579,238,1966-07-16,1966,England,Birmingham,Villa Park,46587.0,Groups,West Germany,FRG,Argentina,ARG,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+14,14,185,1582,238,1966-07-19,1966,England,Sheffield,Hillsborough,32127.0,Groups,Argentina,ARG,Switzerland,SUI,0,0,2,0,2,0,Argentina,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+15,15,192,1577,239,1966-07-23,1966,England,London,Wembley Stadium,90584.0,Quarterfinals,England,ENG,Argentina,ARG,0,0,1,0,1,0,England,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+16,16,239,1952,262,1974-06-15,1974,Germany,Stuttgart,Neckarstadion,32700.0,Groups,Poland,POL,Argentina,ARG,2,0,1,2,3,2,Poland,2.0,0.0,1.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
+17,17,247,1949,262,1974-06-19,1974,Germany,Stuttgart,Neckarstadion,70100.0,Groups,Argentina,ARG,Italy,ITA,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+18,18,253,1947,262,1974-06-23,1974,Germany,Munich,Olympiastadion,25900.0,Groups,Argentina,ARG,Haiti,HAI,2,0,2,1,4,1,Argentina,2.0,0.0,2.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0,1.0
+19,19,258,1948,263,1974-06-26,1974,Germany,Gelsenkirchen,Parkstadion,56548.0,Round of 16,Netherlands,NED,Argentina,ARG,2,0,2,0,4,0,Netherlands,2.0,0.0,2.0,0.0,4.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+20,20,260,1945,263,1974-06-30,1974,Germany,Hanover,Niedersachsenstadion,39400.0,Round of 16,Argentina,ARG,Brazil,BRA,1,1,0,1,1,2,Brazil,1.0,1.0,1.0,0.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+21,21,266,1946,263,1974-07-03,1974,Germany,Gelsenkirchen,Parkstadion,54254.0,Round of 16,Argentina,ARG,East Germany,GDR,1,1,0,0,1,1,Draw,,,,,,,Round of 16,Round of 16,2.0,2.0,2.0
+22,22,273,2199,278,1978-06-02,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,71615.0,Groups,Argentina,ARG,Hungary,HUN,1,1,1,0,2,1,Argentina,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+23,23,282,2197,278,1978-06-06,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,71666.0,Groups,Argentina,ARG,France,FRA,1,0,1,1,2,1,Argentina,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+24,24,290,2200,278,1978-06-10,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,71712.0,Groups,Italy,ITA,Argentina,ARG,0,0,1,0,1,0,Italy,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+25,25,298,2202,279,1978-06-14,1978,Argentina,Rosario,Arroyito - Estadio Dr. Lisandro de la Torre,37091.0,Round of 16,Argentina,ARG,Poland,POL,1,0,1,0,2,0,Argentina,1.0,0.0,1.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+26,26,302,2196,279,1978-06-18,1978,Argentina,Rosario,Arroyito - Estadio Dr. Lisandro de la Torre,37326.0,Round of 16,Argentina,ARG,Brazil,BRA,0,0,0,0,0,0,Draw,,,,,,,Round of 16,Round of 16,2.0,2.0,2.0
+27,27,306,2201,279,1978-06-21,1978,Argentina,Rosario,Arroyito - Estadio Dr. Lisandro de la Torre,37315.0,Round of 16,Argentina,ARG,Peru,PER,2,0,4,0,6,0,Argentina,2.0,0.0,4.0,0.0,6.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+28,28,308,2198,639,1978-06-25,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,71483.0,Finals,Argentina,ARG,Netherlands,NED,0,0,3,1,3,1,Argentina,0.0,0.0,3.0,1.0,3.0,1.0,Champion,Finals,7.0,6.0,7.0
+29,29,309,749,293,1982-06-13,1982,Spain,Barcelona,Camp Nou,95000.0,Groups,Argentina,ARG,Belgium,BEL,0,0,0,1,0,1,Belgium,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+30,30,322,752,293,1982-06-18,1982,Spain,Alicante,Jose Rico Perez,32093.0,Groups,Argentina,ARG,Hungary,HUN,2,0,2,1,4,1,Argentina,2.0,0.0,2.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0,1.0
+31,31,337,751,293,1982-06-23,1982,Spain,Alicante,Jose Rico Perez,32500.0,Groups,Argentina,ARG,El Salvador,SLV,1,0,1,0,2,0,Argentina,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+32,32,346,753,294,1982-06-29,1982,Spain,Barcelona,Sarria,43000.0,Round of 16,Italy,ITA,Argentina,ARG,0,0,2,1,2,1,Italy,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+33,33,350,750,294,1982-07-02,1982,Spain,Barcelona,Sarria,44000.0,Round of 16,Argentina,ARG,Brazil,BRA,0,1,1,2,1,3,Brazil,1.0,0.0,2.0,1.0,3.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+34,34,364,395,308,1986-06-02,1986,Mexico,Mexico City,Estadio Olímpico Universitario,60000.0,Groups,Argentina,ARG,South Korea,KOR,2,0,1,1,3,1,Argentina,2.0,0.0,1.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+35,35,372,394,308,1986-06-05,1986,Mexico,Puebla,Cuauhtemoc,32000.0,Groups,Italy,ITA,Argentina,ARG,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+36,36,387,389,308,1986-06-10,1986,Mexico,Mexico City,Estadio Olímpico Universitario,65000.0,Groups,Argentina,ARG,Bulgaria,BUL,1,0,1,0,2,0,Argentina,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+37,37,398,398,309,1986-06-16,1986,Mexico,Puebla,Cuauhtemoc,26000.0,Round of 16,Argentina,ARG,Uruguay,URU,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+38,38,407,392,714,1986-06-22,1986,Mexico,Mexico City,Estadio Azteca,114580.0,Quarterfinals,Argentina,ARG,England,ENG,0,0,2,1,2,1,Argentina,0.0,0.0,2.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+39,39,409,388,3469,1986-06-25,1986,Mexico,Mexico City,Estadio Azteca,114500.0,Semifinals,Argentina,ARG,Belgium,BEL,0,0,2,0,2,0,Argentina,0.0,0.0,2.0,0.0,2.0,0.0,Semifinals,Semifinals,4.0,4.0,4.0
+40,40,411,393,3467,1986-06-29,1986,Mexico,Mexico City,Estadio Azteca,114600.0,Finals,Argentina,ARG,West Germany,FRG,1,0,2,2,3,2,Argentina,1.0,0.0,2.0,2.0,3.0,2.0,Champion,Finals,7.0,6.0,7.0
+41,41,412,26,322,1990-06-08,1990,Italy,Milan,Giuseppe Meazza,73780.0,Groups,Argentina,ARG,Cameroon,CMR,0,0,0,1,0,1,Cameroon,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+42,42,424,30,322,1990-06-13,1990,Italy,Naples,San Paolo,55759.0,Groups,Argentina,ARG,Soviet Union,URS,1,0,1,0,2,0,Argentina,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+43,43,436,29,322,1990-06-18,1990,Italy,Naples,San Paolo,52733.0,Groups,Argentina,ARG,Romania,ROU,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+44,44,450,25,323,1990-06-24,1990,Italy,Turin,Stadio delle Alpi,61381.0,Round of 16,Brazil,BRA,Argentina,ARG,0,0,0,1,0,1,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+45,45,456,31,751,1990-06-30,1990,Italy,Florence,Comunale,38971.0,Quarterfinals,Yugoslavia,YUG,Argentina,ARG,0,0,0,0,0,0,Argentina,0.0,0.0,0.0,0.0,0.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+46,46,460,28,3464,1990-07-03,1990,Italy,Naples,San Paolo,59978.0,Semifinals,Italy,ITA,Argentina,ARG,0,0,1,1,1,1,Argentina,0.0,0.0,1.0,1.0,1.0,1.0,Semifinals,Semifinals,4.0,4.0,4.0
+47,47,463,27,3462,1990-07-08,1990,Italy,Rome,Stadio Olimpico,73603.0,Finals,West Germany,FRG,Argentina,ARG,0,0,1,0,1,0,West Germany,0.0,0.0,1.0,0.0,1.0,0.0,Champion,Finals,7.0,6.0,6.0
+48,48,474,3059,337,1994-06-21,1994,United States,Foxborough,Foxboro Stadium,54456.0,Groups,Argentina,ARG,Greece,GRE,2,0,2,0,4,0,Argentina,2.0,0.0,2.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0,1.0
+49,49,486,3071,337,1994-06-25,1994,United States,Foxborough,Foxboro Stadium,54453.0,Groups,Argentina,ARG,Nigeria,NGA,2,1,0,0,2,1,Argentina,2.0,1.0,0.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+50,50,499,3084,337,1994-06-30,1994,United States,Dallas,Cotton Bowl,63998.0,Groups,Argentina,ARG,Bulgaria,BUL,0,0,0,2,0,2,Bulgaria,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+51,51,503,3088,338,1994-07-03,1994,United States,Pasadena,Rose Bowl,90469.0,Round of 16,Romania,ROU,Argentina,ARG,2,1,1,1,3,2,Romania,2.0,1.0,1.0,1.0,3.0,2.0,Round of 16,Round of 16,2.0,2.0,2.0
+52,52,526,8734,1014,1998-06-14,1998,France,Toulouse,Stade Municipal,33500.0,Groups,Argentina,ARG,Japan,JPN,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+53,53,544,8752,1014,1998-06-21,1998,France,Paris,Parc des Princes,45500.0,Groups,Argentina,ARG,Jamaica,JAM,1,0,4,0,5,0,Argentina,1.0,0.0,4.0,0.0,5.0,0.0,Groups,Groups,1.0,1.0,1.0
+54,54,561,8772,1014,1998-06-26,1998,France,Bordeaux,Stade du Parc Lescure,31800.0,Groups,Argentina,ARG,Croatia,CRO,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+55,55,571,8779,1024,1998-06-30,1998,France,Saint-Étienne,Stade Geoffroy Guichard,30600.0,Round of 16,Argentina,ARG,England,ENG,0,0,2,2,2,2,Argentina,0.0,0.0,2.0,2.0,2.0,2.0,Round of 16,Round of 16,2.0,2.0,2.0
+56,56,574,8784,1025,1998-07-04,1998,France,Marseille,Stade Vélodrome,55000.0,Quarterfinals,Netherlands,NED,Argentina,ARG,1,1,1,0,2,1,Netherlands,1.0,1.0,1.0,0.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+57,57,584,43950007,43950100,2002-06-02,2002,Japan,Kashima,Kashima Stadium,34050.0,Groups,Argentina,ARG,Nigeria,NGA,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+58,58,601,43950023,43950100,2002-06-07,2002,Japan,Sapporo,Sapporo Dome,35927.0,Groups,Argentina,ARG,England,ENG,0,1,0,0,0,1,England,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+59,59,617,43950037,43950100,2002-06-12,2002,Japan,Rifu,Miyagi Stadium,45777.0,Groups,Sweden,SWE,Argentina,ARG,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+60,60,649,97410005,97410100,2006-06-10,2006,Germany,Hamburg,"FIFA World Cup Stadium, Hamburg",49480.0,Groups,Argentina,ARG,Cote d'Ivoire,CIV,2,0,0,1,2,1,Argentina,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+61,61,665,97410021,97410100,2006-06-16,2006,Germany,Gelsenkirchen,"FIFA World Cup Stadium, Gelsenkirchen",52000.0,Groups,Argentina,ARG,Serbia,SCG,3,0,3,0,6,0,Argentina,3.0,0.0,3.0,0.0,6.0,0.0,Groups,Groups,1.0,1.0,1.0
+62,62,682,97410037,97410100,2006-06-21,2006,Germany,Frankfurt am Main,"FIFA World Cup Stadium, Frankfurt",48000.0,Groups,Netherlands,NED,Argentina,ARG,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+63,63,693,97410050,97410200,2006-06-24,2006,Germany,Leipzig,Zentralstadion,43000.0,Round of 16,Argentina,ARG,Mexico,MEX,0,0,2,1,2,1,Argentina,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+64,64,700,97410057,97410300,2006-06-30,2006,Germany,Berlin,Olympiastadion,72000.0,Quarterfinals,Germany,GER,Argentina,ARG,0,0,1,1,1,1,Germany,0.0,0.0,1.0,1.0,1.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+65,65,711,300061460,249722,2010-06-12,2010,South Africa,Johannesburg,Ellis Park Stadium,55686.0,Groups,Argentina,ARG,Nigeria,NGA,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+66,66,725,300061458,249722,2010-06-17,2010,South Africa,Johannesburg,Soccer City Stadium,82174.0,Groups,Argentina,ARG,South Korea,KOR,2,1,2,0,4,1,Argentina,2.0,1.0,2.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0,1.0
+67,67,743,300061455,249722,2010-06-22,2010,South Africa,Polokwane,Peter Mokaba Stadium,38891.0,Groups,Greece,GRE,Argentina,ARG,0,0,0,2,0,2,Argentina,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+68,68,759,300061502,249717,2010-06-27,2010,South Africa,Johannesburg,Soccer City Stadium,84377.0,Round of 16,Argentina,ARG,Mexico,MEX,2,0,1,1,3,1,Argentina,2.0,0.0,1.0,1.0,3.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+69,69,766,300061505,249718,2010-07-03,2010,South Africa,Cape Town,Cape Town Stadium,64100.0,Quarterfinals,Argentina,ARG,Germany,GER,0,1,0,3,0,4,Germany,1.0,0.0,3.0,0.0,4.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+70,70,782,300186477,255931,2014-06-15,2014,Brazil,Rio de Janeiro,Estadio do Maracana,74738.0,Groups,Argentina,ARG,Bosnia and Herzegovina,BIH,1,0,1,1,2,1,Argentina,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+71,71,798,300186466,255931,2014-06-21,2014,Brazil,Belo Horizonte,Estadio Mineirao,57698.0,Groups,Argentina,ARG,Iran,IRN,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+72,72,812,300186458,255931,2014-06-25,2014,Brazil,Porto Alegre,Estadio Beira-Rio,43285.0,Groups,Nigeria,NGA,Argentina,ARG,1,2,1,1,2,3,Argentina,2.0,1.0,1.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
+73,73,828,300186501,255959,2014-07-13,2014,Brazil,Rio de Janeiro,Estadio do Maracana,74738.0,Finals,Germany,GER,Argentina,ARG,0,0,1,0,1,0,Germany,0.0,0.0,1.0,0.0,1.0,0.0,Champion,Finals,7.0,6.0,6.0
+74,74,829,300186490,255955,2014-07-09,2014,Brazil,São Paulo,Arena de Sao Paulo,63267.0,Semifinals,Netherlands,NED,Argentina,ARG,0,0,0,0,0,0,Argentina,0.0,0.0,0.0,0.0,0.0,0.0,Semifinals,Semifinals,4.0,4.0,4.0
+75,75,831,300186504,255953,2014-07-05,2014,Brazil,Brasília,Estadio Nacional,68551.0,Quarterfinals,Argentina,ARG,Belgium,BEL,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+76,76,834,300186503,255951,2014-07-01,2014,Brazil,São Paulo,Arena de Sao Paulo,63255.0,Round of 16,Argentina,ARG,Switzerland,SUI,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+77,77,842,300186503,255951,2014-07-01,2014,Brazil,São Paulo,Arena de Sao Paulo,63255.0,Round of 16,Argentina,ARG,Switzerland,SUI,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+78,78,846,300186504,255953,2014-07-05,2014,Brazil,Brasília,Estadio Nacional,68551.0,Quarterfinals,Argentina,ARG,Belgium,BEL,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+79,79,849,300186490,255955,2014-07-09,2014,Brazil,São Paulo,Arena de Sao Paulo,63267.0,Semifinals,Netherlands,NED,Argentina,ARG,0,0,0,0,0,0,Argentina,0.0,0.0,0.0,0.0,0.0,0.0,Semifinals,Semifinals,4.0,4.0,4.0
+80,80,851,300186501,255959,2014-07-13,2014,Brazil,Rio de Janeiro,Estadio do Maracana,74738.0,Finals,Germany,GER,Argentina,ARG,0,0,1,0,1,0,Germany,0.0,0.0,1.0,0.0,1.0,0.0,Champion,Finals,7.0,6.0,6.0

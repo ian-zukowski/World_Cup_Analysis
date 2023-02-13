@@ -1,14 +1,14 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
-0,420,161,322,1990-06-11,1990,Italy,Cagliari,Sant Elia,35238.0,Groups,England,ENG,Republic of Ireland,IRL,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-1,433,152,322,1990-06-17,1990,Italy,Palermo,Della Favorita,33288.0,Groups,Republic of Ireland,IRL,Egypt,EGY,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-2,446,228,322,1990-06-21,1990,Italy,Palermo,Della Favorita,33288.0,Groups,Republic of Ireland,IRL,Netherlands,NED,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-3,452,248,323,1990-06-25,1990,Italy,Genoa,Luigi Ferraris,31818.0,Round of 16,Republic of Ireland,IRL,Romania,ROU,0,0,0,0,0,0,Republic of Ireland,0.0,0.0,0.0,0.0,0.0,0.0,Round of 16,Round of 16,2.0,2.0
-4,457,243,751,1990-06-30,1990,Italy,Rome,Stadio Olimpico,73303.0,Quarterfinals,Italy,ITA,Republic of Ireland,IRL,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-5,467,3052,337,1994-06-18,1994,United States,East Rutherford,Giants Stadium,75338.0,Groups,Italy,ITA,Republic of Ireland,IRL,0,1,0,0,0,1,Republic of Ireland,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-6,481,3066,337,1994-06-24,1994,United States,Orlando,Citrus Bowl,60790.0,Groups,Mexico,MEX,Republic of Ireland,IRL,1,0,1,1,2,1,Mexico,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-7,492,3077,337,1994-06-28,1994,United States,East Rutherford,Giants Stadium,72404.0,Groups,Republic of Ireland,IRL,Norway,NOR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-8,504,3089,338,1994-07-04,1994,United States,Orlando,Citrus Bowl,61355.0,Round of 16,Netherlands,NED,Republic of Ireland,IRL,2,0,0,0,2,0,Netherlands,2.0,0.0,0.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0
-9,582,43950002,43950100,2002-06-01,2002,Japan,Niigata,Niigata Stadium Big Swan,33679.0,Groups,Republic of Ireland,IRL,Cameroon,CMR,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-10,596,43950017,43950100,2002-06-05,2002,Japan,Kashima,Kashima Stadium,35854.0,Groups,Germany,GER,Republic of Ireland,IRL,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-11,615,43950036,43950100,2002-06-11,2002,Japan,Yokohama,International Stadium Yokohama,65320.0,Groups,Saudi Arabia,KSA,Republic of Ireland,IRL,0,1,0,2,0,3,Republic of Ireland,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-12,631,43950052,43950200,2002-06-16,2002,South Korea,Suwon,Suwon World Cup Stadium,38926.0,Round of 16,Spain,ESP,Republic of Ireland,IRL,0,0,1,1,1,1,Spain,0.0,0.0,1.0,1.0,1.0,1.0,Round of 16,Round of 16,2.0,2.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Republic of Ireland_result_value
+0,0,420,161,322,1990-06-11,1990,Italy,Cagliari,Sant Elia,35238.0,Groups,England,ENG,Republic of Ireland,IRL,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+1,1,433,152,322,1990-06-17,1990,Italy,Palermo,Della Favorita,33288.0,Groups,Republic of Ireland,IRL,Egypt,EGY,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+2,2,446,228,322,1990-06-21,1990,Italy,Palermo,Della Favorita,33288.0,Groups,Republic of Ireland,IRL,Netherlands,NED,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+3,3,452,248,323,1990-06-25,1990,Italy,Genoa,Luigi Ferraris,31818.0,Round of 16,Republic of Ireland,IRL,Romania,ROU,0,0,0,0,0,0,Republic of Ireland,0.0,0.0,0.0,0.0,0.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+4,4,457,243,751,1990-06-30,1990,Italy,Rome,Stadio Olimpico,73303.0,Quarterfinals,Italy,ITA,Republic of Ireland,IRL,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+5,5,467,3052,337,1994-06-18,1994,United States,East Rutherford,Giants Stadium,75338.0,Groups,Italy,ITA,Republic of Ireland,IRL,0,1,0,0,0,1,Republic of Ireland,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+6,6,481,3066,337,1994-06-24,1994,United States,Orlando,Citrus Bowl,60790.0,Groups,Mexico,MEX,Republic of Ireland,IRL,1,0,1,1,2,1,Mexico,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+7,7,492,3077,337,1994-06-28,1994,United States,East Rutherford,Giants Stadium,72404.0,Groups,Republic of Ireland,IRL,Norway,NOR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+8,8,504,3089,338,1994-07-04,1994,United States,Orlando,Citrus Bowl,61355.0,Round of 16,Netherlands,NED,Republic of Ireland,IRL,2,0,0,0,2,0,Netherlands,2.0,0.0,0.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+9,9,582,43950002,43950100,2002-06-01,2002,Japan,Niigata,Niigata Stadium Big Swan,33679.0,Groups,Republic of Ireland,IRL,Cameroon,CMR,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+10,10,596,43950017,43950100,2002-06-05,2002,Japan,Kashima,Kashima Stadium,35854.0,Groups,Germany,GER,Republic of Ireland,IRL,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+11,11,615,43950036,43950100,2002-06-11,2002,Japan,Yokohama,International Stadium Yokohama,65320.0,Groups,Saudi Arabia,KSA,Republic of Ireland,IRL,0,1,0,2,0,3,Republic of Ireland,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+12,12,631,43950052,43950200,2002-06-16,2002,South Korea,Suwon,Suwon World Cup Stadium,38926.0,Round of 16,Spain,ESP,Republic of Ireland,IRL,0,0,1,1,1,1,Spain,0.0,0.0,1.0,1.0,1.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0

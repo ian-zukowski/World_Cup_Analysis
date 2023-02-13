@@ -1,53 +1,53 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
-0,8,1099,201,1930-07-18,1930,Uruguay,Montevideo,Estadio Centenario,57735.0,Groups,Uruguay,URU,Peru,PER,0,0,1,0,1,0,Uruguay,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-1,13,1100,201,1930-07-21,1930,Uruguay,Montevideo,Estadio Centenario,70022.0,Groups,Uruguay,URU,Romania,ROU,4,0,0,0,4,0,Uruguay,4.0,0.0,0.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
-2,16,1101,202,1930-07-27,1930,Uruguay,Montevideo,Estadio Centenario,79867.0,Semifinals,Uruguay,URU,Yugoslavia,YUG,3,1,3,0,6,1,Uruguay,3.0,1.0,3.0,0.0,6.0,1.0,Semifinals,Semifinals,4.0,4.0
-3,17,1087,405,1930-07-30,1930,Uruguay,Montevideo,Estadio Centenario,68346.0,Finals,Uruguay,URU,Argentina,ARG,1,2,3,0,4,2,Uruguay,1.0,2.0,3.0,0.0,4.0,2.0,Champion,Finals,7.0,6.0
-4,66,1185,208,1950-07-02,1950,Brazil,Belo Horizonte,Independencia,5284.0,Groups,Uruguay,URU,Bolivia,BOL,4,0,4,0,8,0,Uruguay,4.0,0.0,4.0,0.0,8.0,0.0,Groups,Groups,1.0,1.0
-5,69,1207,209,1950-07-09,1950,Brazil,São Paulo,Pacaembu,44802.0,Finals,Uruguay,URU,Spain,ESP,1,2,1,0,2,2,Draw,,,,,,,Champion,Finals,7.0,6.0
-6,72,1231,209,1950-07-13,1950,Brazil,São Paulo,Pacaembu,7987.0,Finals,Uruguay,URU,Sweden,SWE,1,2,2,0,3,2,Uruguay,1.0,2.0,2.0,0.0,3.0,2.0,,,,
-7,74,1190,209,1950-07-16,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,173850.0,Finals,Uruguay,URU,Brazil,BRA,0,0,2,1,2,1,Uruguay,0.0,0.0,2.0,1.0,2.0,1.0,,,,
-8,75,1315,211,1954-06-16,1954,Switzerland,Berne,Wankdorf Stadium,20500.0,Groups,Uruguay,URU,Czechoslovakia,TCH,0,0,2,0,2,0,Uruguay,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-9,83,1313,211,1954-06-19,1954,Switzerland,Basel,St. Jakob,34000.0,Groups,Uruguay,URU,Scotland,SCO,2,0,5,0,7,0,Uruguay,2.0,0.0,5.0,0.0,7.0,0.0,Groups,Groups,1.0,1.0
-10,93,1264,212,1954-06-26,1954,Switzerland,Basel,St. Jakob,28000.0,Quarterfinals,Uruguay,URU,England,ENG,2,1,2,1,4,2,Uruguay,2.0,1.0,2.0,1.0,4.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0
-11,98,1295,462,1954-06-30,1954,Switzerland,Lausanne,La Pontaise,45000.0,Semifinals,Hungary,HUN,Uruguay,URU,0,0,4,2,4,2,Hungary,0.0,0.0,4.0,2.0,4.0,2.0,Semifinals,Semifinals,4.0,4.0
-12,99,1239,3485,1954-07-03,1954,Switzerland,Zürich,Hardturm,32000.0,Third place,Austria,AUT,Uruguay,URU,1,1,2,0,3,1,Austria,1.0,1.0,2.0,0.0,3.0,1.0,Third place,Third place,5.0,5.0
-13,136,1479,231,1962-05-30,1962,Chile,Arica,Carlos Dittborn,7908.0,Groups,Uruguay,URU,Colombia,COL,0,1,2,0,2,1,Uruguay,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-14,144,1564,231,1962-06-02,1962,Chile,Arica,Carlos Dittborn,8829.0,Groups,Yugoslavia,YUG,Uruguay,URU,2,1,1,0,3,1,Yugoslavia,2.0,1.0,1.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-15,152,1562,231,1962-06-06,1962,Chile,Arica,Carlos Dittborn,9973.0,Groups,Soviet Union,URS,Uruguay,URU,1,0,1,1,2,1,Soviet Union,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-16,168,1636,238,1966-07-11,1966,England,London,Wembley Stadium,87148.0,Groups,England,ENG,Uruguay,URU,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-17,176,1653,238,1966-07-15,1966,England,London,White City,45662.0,Groups,Uruguay,URU,France,FRA,2,1,0,0,2,1,Uruguay,2.0,1.0,0.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-18,184,1689,238,1966-07-19,1966,England,London,Wembley Stadium,61112.0,Groups,Uruguay,URU,Mexico,MEX,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-19,193,1660,239,1966-07-23,1966,England,Sheffield,Hillsborough,40007.0,Quarterfinals,West Germany,FRG,Uruguay,URU,1,0,3,0,4,0,West Germany,1.0,0.0,3.0,0.0,4.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-20,201,1881,250,1970-06-02,1970,Mexico,Puebla,Cuauhtemoc,20654.0,Groups,Uruguay,URU,Israel,ISR,1,0,1,0,2,0,Uruguay,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-21,208,1884,250,1970-06-06,1970,Mexico,Puebla,Cuauhtemoc,29968.0,Groups,Uruguay,URU,Italy,ITA,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-22,216,1922,250,1970-06-10,1970,Mexico,Puebla,Cuauhtemoc,18163.0,Groups,Sweden,SWE,Uruguay,URU,0,0,1,0,1,0,Sweden,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-23,227,1925,251,1970-06-14,1970,Mexico,Mexico City,Estadio Azteca,26085.0,Quarterfinals,Uruguay,URU,Soviet Union,URS,0,0,1,0,1,0,Uruguay,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-24,228,1771,569,1970-06-17,1970,Mexico,Guadalajara,Jalisco,51261.0,Semifinals,Brazil,BRA,Uruguay,URU,1,1,2,0,3,1,Brazil,1.0,1.0,2.0,0.0,3.0,1.0,Semifinals,Semifinals,4.0,4.0
-25,230,1843,3477,1970-06-20,1970,Mexico,Mexico City,Estadio Azteca,104403.0,Third place,West Germany,FRG,Uruguay,URU,1,0,0,0,1,0,West Germany,1.0,0.0,0.0,0.0,1.0,0.0,Third place,Third place,5.0,5.0
-26,236,2098,262,1974-06-15,1974,Germany,Hanover,Niedersachsenstadion,55100.0,Groups,Uruguay,URU,Netherlands,NED,0,1,0,1,0,2,Netherlands,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-27,245,1996,262,1974-06-19,1974,Germany,Hanover,Niedersachsenstadion,13400.0,Groups,Bulgaria,BUL,Uruguay,URU,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-28,254,2181,262,1974-06-23,1974,Germany,Düsseldorf,Rheinstadion,28300.0,Groups,Sweden,SWE,Uruguay,URU,0,0,3,0,3,0,Sweden,0.0,0.0,3.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-29,371,585,308,1986-06-04,1986,Mexico,Querétaro,Estadio Corregidora,30500.0,Groups,Uruguay,URU,West Germany,FRG,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-30,382,522,308,1986-06-08,1986,Mexico,Nezahualcóyotl,Neza,26500.0,Groups,Denmark,DEN,Uruguay,URU,2,1,4,0,6,1,Denmark,2.0,1.0,4.0,0.0,6.0,1.0,Groups,Groups,1.0,1.0
-31,394,712,308,1986-06-13,1986,Mexico,Nezahualcóyotl,Neza,20000.0,Groups,Scotland,SCO,Uruguay,URU,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-32,398,398,309,1986-06-16,1986,Mexico,Puebla,Cuauhtemoc,26000.0,Round of 16,Argentina,ARG,Uruguay,URU,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
-33,423,180,322,1990-06-13,1990,Italy,Udine,Dacia Arena,35713.0,Groups,Uruguay,URU,Spain,ESP,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-34,435,66,322,1990-06-17,1990,Italy,Verona,Marc Antonio Bentegodi,33759.0,Groups,Belgium,BEL,Uruguay,URU,2,0,1,1,3,1,Belgium,2.0,0.0,1.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
-35,444,290,322,1990-06-21,1990,Italy,Udine,Friuli,29039.0,Groups,South Korea,KOR,Uruguay,URU,0,0,0,1,0,1,Uruguay,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-36,453,264,323,1990-06-25,1990,Italy,Rome,Stadio Olimpico,73303.0,Round of 16,Italy,ITA,Uruguay,URU,0,0,2,0,2,0,Italy,0.0,0.0,2.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0
-37,581,43950003,43950100,2002-06-01,2002,South Korea,Ulsan,Munsu Football Stadium,30157.0,Groups,Uruguay,URU,Denmark,DEN,0,1,1,1,1,2,Denmark,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-38,599,43950018,43950100,2002-06-06,2002,South Korea,Busan,Busan Asiad Main Stadium,38289.0,Groups,France,FRA,Uruguay,URU,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-39,613,43950034,43950100,2002-06-11,2002,South Korea,Suwon,Suwon World Cup Stadium,33681.0,Groups,Senegal,SEN,Uruguay,URU,3,0,0,3,3,3,Draw,,,,,,,Groups,Groups,1.0,1.0
-40,709,300061453,249722,2010-06-11,2010,South Africa,Cape Town,Cape Town Stadium,64100.0,Groups,Uruguay,URU,France,FRA,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-41,724,300061452,249722,2010-06-16,2010,South Africa,Pretoria,Loftus Versfeld Stadium,42658.0,Groups,South Africa,RSA,Uruguay,URU,0,1,0,2,0,3,Uruguay,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-42,740,300061450,249722,2010-06-22,2010,South Africa,Rustenburg,Royal Bafokeng Sports Palace,33425.0,Groups,Mexico,MEX,Uruguay,URU,0,1,0,0,0,1,Uruguay,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-43,756,300061504,249717,2010-06-26,2010,South Africa,Port Elizabeth,Port Elizabeth Stadium,30597.0,Round of 16,Uruguay,URU,South Korea,KOR,1,0,1,1,2,1,Uruguay,1.0,0.0,1.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
-44,765,300061508,249718,2010-07-02,2010,South Africa,Johannesburg,Soccer City Stadium,84017.0,Quarterfinals,Uruguay,URU,Ghana,GHA,0,0,1,1,1,1,Uruguay,0.0,0.0,1.0,1.0,1.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
-45,768,300061512,249719,2010-07-06,2010,South Africa,Cape Town,Cape Town Stadium,62479.0,Semifinals,Uruguay,URU,Netherlands,NED,1,1,1,2,2,3,Netherlands,1.0,1.0,2.0,1.0,3.0,2.0,Semifinals,Semifinals,4.0,4.0
-46,770,300061510,249720,2010-07-10,2010,South Africa,Port Elizabeth,Port Elizabeth Stadium,36254.0,Third place,Uruguay,URU,Germany,GER,1,1,1,2,2,3,Germany,1.0,1.0,2.0,1.0,3.0,2.0,Third place,Third place,5.0,5.0
-47,777,300186489,255931,2014-06-14,2014,Brazil,Fortaleza,Estadio Castelao,58679.0,Groups,Uruguay,URU,Costa Rica,CRC,1,0,0,3,1,3,Costa Rica,0.0,1.0,3.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-48,793,300186486,255931,2014-06-19,2014,Brazil,São Paulo,Arena de Sao Paulo,62575.0,Groups,Uruguay,URU,England,ENG,1,0,1,1,2,1,Uruguay,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-49,808,300186465,255931,2014-06-24,2014,Brazil,Natal,Estadio das Dunas,39706.0,Groups,Italy,ITA,Uruguay,URU,0,0,0,1,0,1,Uruguay,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-50,821,300186491,255951,2014-06-28,2014,Brazil,Rio de Janeiro,Estadio do Maracana,73804.0,Round of 16,Colombia,COL,Uruguay,URU,1,0,1,0,2,0,Colombia,1.0,0.0,1.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0
-51,837,300186491,255951,2014-06-28,2014,Brazil,Rio de Janeiro,Estadio do Maracana,73804.0,Round of 16,Colombia,COL,Uruguay,URU,1,0,1,0,2,0,Colombia,1.0,0.0,1.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Uruguay_result_value
+0,0,8,1099,201,1930-07-18,1930,Uruguay,Montevideo,Estadio Centenario,57735.0,Groups,Uruguay,URU,Peru,PER,0,0,1,0,1,0,Uruguay,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+1,1,13,1100,201,1930-07-21,1930,Uruguay,Montevideo,Estadio Centenario,70022.0,Groups,Uruguay,URU,Romania,ROU,4,0,0,0,4,0,Uruguay,4.0,0.0,0.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0,1.0
+2,2,16,1101,202,1930-07-27,1930,Uruguay,Montevideo,Estadio Centenario,79867.0,Semifinals,Uruguay,URU,Yugoslavia,YUG,3,1,3,0,6,1,Uruguay,3.0,1.0,3.0,0.0,6.0,1.0,Semifinals,Semifinals,4.0,4.0,4.0
+3,3,17,1087,405,1930-07-30,1930,Uruguay,Montevideo,Estadio Centenario,68346.0,Finals,Uruguay,URU,Argentina,ARG,1,2,3,0,4,2,Uruguay,1.0,2.0,3.0,0.0,4.0,2.0,Champion,Finals,7.0,6.0,7.0
+4,4,66,1185,208,1950-07-02,1950,Brazil,Belo Horizonte,Independencia,5284.0,Groups,Uruguay,URU,Bolivia,BOL,4,0,4,0,8,0,Uruguay,4.0,0.0,4.0,0.0,8.0,0.0,Groups,Groups,1.0,1.0,1.0
+5,5,69,1207,209,1950-07-09,1950,Brazil,São Paulo,Pacaembu,44802.0,Finals,Uruguay,URU,Spain,ESP,1,2,1,0,2,2,Draw,,,,,,,Champion,Finals,7.0,6.0,7.0
+6,6,72,1231,209,1950-07-13,1950,Brazil,São Paulo,Pacaembu,7987.0,Finals,Uruguay,URU,Sweden,SWE,1,2,2,0,3,2,Uruguay,1.0,2.0,2.0,0.0,3.0,2.0,,,,,
+7,7,74,1190,209,1950-07-16,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,173850.0,Finals,Uruguay,URU,Brazil,BRA,0,0,2,1,2,1,Uruguay,0.0,0.0,2.0,1.0,2.0,1.0,,,,,
+8,8,75,1315,211,1954-06-16,1954,Switzerland,Berne,Wankdorf Stadium,20500.0,Groups,Uruguay,URU,Czechoslovakia,TCH,0,0,2,0,2,0,Uruguay,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+9,9,83,1313,211,1954-06-19,1954,Switzerland,Basel,St. Jakob,34000.0,Groups,Uruguay,URU,Scotland,SCO,2,0,5,0,7,0,Uruguay,2.0,0.0,5.0,0.0,7.0,0.0,Groups,Groups,1.0,1.0,1.0
+10,10,93,1264,212,1954-06-26,1954,Switzerland,Basel,St. Jakob,28000.0,Quarterfinals,Uruguay,URU,England,ENG,2,1,2,1,4,2,Uruguay,2.0,1.0,2.0,1.0,4.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+11,11,98,1295,462,1954-06-30,1954,Switzerland,Lausanne,La Pontaise,45000.0,Semifinals,Hungary,HUN,Uruguay,URU,0,0,4,2,4,2,Hungary,0.0,0.0,4.0,2.0,4.0,2.0,Semifinals,Semifinals,4.0,4.0,4.0
+12,12,99,1239,3485,1954-07-03,1954,Switzerland,Zürich,Hardturm,32000.0,Third place,Austria,AUT,Uruguay,URU,1,1,2,0,3,1,Austria,1.0,1.0,2.0,0.0,3.0,1.0,Third place,Third place,5.0,5.0,5.0
+13,13,136,1479,231,1962-05-30,1962,Chile,Arica,Carlos Dittborn,7908.0,Groups,Uruguay,URU,Colombia,COL,0,1,2,0,2,1,Uruguay,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+14,14,144,1564,231,1962-06-02,1962,Chile,Arica,Carlos Dittborn,8829.0,Groups,Yugoslavia,YUG,Uruguay,URU,2,1,1,0,3,1,Yugoslavia,2.0,1.0,1.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+15,15,152,1562,231,1962-06-06,1962,Chile,Arica,Carlos Dittborn,9973.0,Groups,Soviet Union,URS,Uruguay,URU,1,0,1,1,2,1,Soviet Union,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+16,16,168,1636,238,1966-07-11,1966,England,London,Wembley Stadium,87148.0,Groups,England,ENG,Uruguay,URU,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+17,17,176,1653,238,1966-07-15,1966,England,London,White City,45662.0,Groups,Uruguay,URU,France,FRA,2,1,0,0,2,1,Uruguay,2.0,1.0,0.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+18,18,184,1689,238,1966-07-19,1966,England,London,Wembley Stadium,61112.0,Groups,Uruguay,URU,Mexico,MEX,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+19,19,193,1660,239,1966-07-23,1966,England,Sheffield,Hillsborough,40007.0,Quarterfinals,West Germany,FRG,Uruguay,URU,1,0,3,0,4,0,West Germany,1.0,0.0,3.0,0.0,4.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+20,20,201,1881,250,1970-06-02,1970,Mexico,Puebla,Cuauhtemoc,20654.0,Groups,Uruguay,URU,Israel,ISR,1,0,1,0,2,0,Uruguay,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+21,21,208,1884,250,1970-06-06,1970,Mexico,Puebla,Cuauhtemoc,29968.0,Groups,Uruguay,URU,Italy,ITA,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+22,22,216,1922,250,1970-06-10,1970,Mexico,Puebla,Cuauhtemoc,18163.0,Groups,Sweden,SWE,Uruguay,URU,0,0,1,0,1,0,Sweden,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+23,23,227,1925,251,1970-06-14,1970,Mexico,Mexico City,Estadio Azteca,26085.0,Quarterfinals,Uruguay,URU,Soviet Union,URS,0,0,1,0,1,0,Uruguay,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+24,24,228,1771,569,1970-06-17,1970,Mexico,Guadalajara,Jalisco,51261.0,Semifinals,Brazil,BRA,Uruguay,URU,1,1,2,0,3,1,Brazil,1.0,1.0,2.0,0.0,3.0,1.0,Semifinals,Semifinals,4.0,4.0,4.0
+25,25,230,1843,3477,1970-06-20,1970,Mexico,Mexico City,Estadio Azteca,104403.0,Third place,West Germany,FRG,Uruguay,URU,1,0,0,0,1,0,West Germany,1.0,0.0,0.0,0.0,1.0,0.0,Third place,Third place,5.0,5.0,5.0
+26,26,236,2098,262,1974-06-15,1974,Germany,Hanover,Niedersachsenstadion,55100.0,Groups,Uruguay,URU,Netherlands,NED,0,1,0,1,0,2,Netherlands,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+27,27,245,1996,262,1974-06-19,1974,Germany,Hanover,Niedersachsenstadion,13400.0,Groups,Bulgaria,BUL,Uruguay,URU,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+28,28,254,2181,262,1974-06-23,1974,Germany,Düsseldorf,Rheinstadion,28300.0,Groups,Sweden,SWE,Uruguay,URU,0,0,3,0,3,0,Sweden,0.0,0.0,3.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+29,29,371,585,308,1986-06-04,1986,Mexico,Querétaro,Estadio Corregidora,30500.0,Groups,Uruguay,URU,West Germany,FRG,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+30,30,382,522,308,1986-06-08,1986,Mexico,Nezahualcóyotl,Neza,26500.0,Groups,Denmark,DEN,Uruguay,URU,2,1,4,0,6,1,Denmark,2.0,1.0,4.0,0.0,6.0,1.0,Groups,Groups,1.0,1.0,1.0
+31,31,394,712,308,1986-06-13,1986,Mexico,Nezahualcóyotl,Neza,20000.0,Groups,Scotland,SCO,Uruguay,URU,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+32,32,398,398,309,1986-06-16,1986,Mexico,Puebla,Cuauhtemoc,26000.0,Round of 16,Argentina,ARG,Uruguay,URU,1,0,0,0,1,0,Argentina,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+33,33,423,180,322,1990-06-13,1990,Italy,Udine,Dacia Arena,35713.0,Groups,Uruguay,URU,Spain,ESP,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+34,34,435,66,322,1990-06-17,1990,Italy,Verona,Marc Antonio Bentegodi,33759.0,Groups,Belgium,BEL,Uruguay,URU,2,0,1,1,3,1,Belgium,2.0,0.0,1.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+35,35,444,290,322,1990-06-21,1990,Italy,Udine,Friuli,29039.0,Groups,South Korea,KOR,Uruguay,URU,0,0,0,1,0,1,Uruguay,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+36,36,453,264,323,1990-06-25,1990,Italy,Rome,Stadio Olimpico,73303.0,Round of 16,Italy,ITA,Uruguay,URU,0,0,2,0,2,0,Italy,0.0,0.0,2.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+37,37,581,43950003,43950100,2002-06-01,2002,South Korea,Ulsan,Munsu Football Stadium,30157.0,Groups,Uruguay,URU,Denmark,DEN,0,1,1,1,1,2,Denmark,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+38,38,599,43950018,43950100,2002-06-06,2002,South Korea,Busan,Busan Asiad Main Stadium,38289.0,Groups,France,FRA,Uruguay,URU,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+39,39,613,43950034,43950100,2002-06-11,2002,South Korea,Suwon,Suwon World Cup Stadium,33681.0,Groups,Senegal,SEN,Uruguay,URU,3,0,0,3,3,3,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+40,40,709,300061453,249722,2010-06-11,2010,South Africa,Cape Town,Cape Town Stadium,64100.0,Groups,Uruguay,URU,France,FRA,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+41,41,724,300061452,249722,2010-06-16,2010,South Africa,Pretoria,Loftus Versfeld Stadium,42658.0,Groups,South Africa,RSA,Uruguay,URU,0,1,0,2,0,3,Uruguay,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+42,42,740,300061450,249722,2010-06-22,2010,South Africa,Rustenburg,Royal Bafokeng Sports Palace,33425.0,Groups,Mexico,MEX,Uruguay,URU,0,1,0,0,0,1,Uruguay,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+43,43,756,300061504,249717,2010-06-26,2010,South Africa,Port Elizabeth,Port Elizabeth Stadium,30597.0,Round of 16,Uruguay,URU,South Korea,KOR,1,0,1,1,2,1,Uruguay,1.0,0.0,1.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+44,44,765,300061508,249718,2010-07-02,2010,South Africa,Johannesburg,Soccer City Stadium,84017.0,Quarterfinals,Uruguay,URU,Ghana,GHA,0,0,1,1,1,1,Uruguay,0.0,0.0,1.0,1.0,1.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+45,45,768,300061512,249719,2010-07-06,2010,South Africa,Cape Town,Cape Town Stadium,62479.0,Semifinals,Uruguay,URU,Netherlands,NED,1,1,1,2,2,3,Netherlands,1.0,1.0,2.0,1.0,3.0,2.0,Semifinals,Semifinals,4.0,4.0,4.0
+46,46,770,300061510,249720,2010-07-10,2010,South Africa,Port Elizabeth,Port Elizabeth Stadium,36254.0,Third place,Uruguay,URU,Germany,GER,1,1,1,2,2,3,Germany,1.0,1.0,2.0,1.0,3.0,2.0,Third place,Third place,5.0,5.0,5.0
+47,47,777,300186489,255931,2014-06-14,2014,Brazil,Fortaleza,Estadio Castelao,58679.0,Groups,Uruguay,URU,Costa Rica,CRC,1,0,0,3,1,3,Costa Rica,0.0,1.0,3.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+48,48,793,300186486,255931,2014-06-19,2014,Brazil,São Paulo,Arena de Sao Paulo,62575.0,Groups,Uruguay,URU,England,ENG,1,0,1,1,2,1,Uruguay,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+49,49,808,300186465,255931,2014-06-24,2014,Brazil,Natal,Estadio das Dunas,39706.0,Groups,Italy,ITA,Uruguay,URU,0,0,0,1,0,1,Uruguay,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+50,50,821,300186491,255951,2014-06-28,2014,Brazil,Rio de Janeiro,Estadio do Maracana,73804.0,Round of 16,Colombia,COL,Uruguay,URU,1,0,1,0,2,0,Colombia,1.0,0.0,1.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+51,51,837,300186491,255951,2014-06-28,2014,Brazil,Rio de Janeiro,Estadio do Maracana,73804.0,Round of 16,Colombia,COL,Uruguay,URU,1,0,1,0,2,0,Colombia,1.0,0.0,1.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0

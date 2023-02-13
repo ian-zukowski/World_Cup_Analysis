@@ -1,15 +1,15 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,France_result_value
-58,825,300186485,255953,2014-07-04,2014,Brazil,Rio de Janeiro,Estadio do Maracana,74240.0,Quarterfinals,France,FRA,Germany,GER,0,1,0,0,0,1,Germany,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
-51,709,300061453,249722,2010-06-11,2010,South Africa,Cape Town,Cape Town Stadium,64100.0,Groups,Uruguay,URU,France,FRA,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
-50,707,97410064,97410600,2006-07-09,2006,Germany,Berlin,Olympiastadion,69000.0,Finals,Italy,ITA,France,FRA,0,0,1,1,1,1,Italy,0.0,0.0,1.0,1.0,1.0,1.0,Champion,Finals,7.0,6.0,6.0
-41,580,43950001,43950100,2002-05-31,2002,South Korea,Seoul,Seoul World Cup Stadium,62561.0,Groups,France,FRA,Senegal,SEN,0,1,0,0,0,1,Senegal,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
-40,579,8788,1027,1998-07-12,1998,France,Saint-Denis,Stade de France,80000.0,Finals,Brazil,BRA,France,FRA,0,2,0,1,0,3,France,2.0,0.0,1.0,0.0,3.0,0.0,Finals,Champion,6.0,7.0,7.0
-33,410,422,3468,1986-06-28,1986,Mexico,Puebla,Cuauhtemoc,21000.0,Third place,France,FRA,Belgium,BEL,0,0,4,2,4,2,France,0.0,0.0,4.0,2.0,4.0,2.0,Third place,Third place,5.0,5.0,5.0
-26,358,921,676,1982-07-10,1982,Spain,Alicante,Jose Rico Perez,28000.0,Third place,Poland,POL,France,FRA,2,1,1,1,3,2,Poland,2.0,1.0,1.0,1.0,3.0,2.0,Third place,Third place,5.0,5.0,5.0
-17,271,2347,278,1978-06-02,1978,Argentina,Mar del Plata,Estadio José María Minella,42373.0,Groups,Italy,ITA,France,FRA,1,1,1,0,2,1,Italy,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
-14,172,1650,238,1966-07-13,1966,England,London,Wembley Stadium,69237.0,Groups,France,FRA,Mexico,MEX,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
-13,134,1382,3483,1958-06-28,1958,Sweden,Gothenburg,Nya Ullevi,32483.0,Third place,France,FRA,West Germany,FRG,3,1,3,2,6,3,France,3.0,1.0,3.0,2.0,6.0,3.0,Third place,Third place,5.0,5.0,5.0
-6,78,1276,211,1954-06-16,1954,Switzerland,Lausanne,La Pontaise,16000.0,Groups,Yugoslavia,YUG,France,FRA,1,0,0,0,1,0,Yugoslavia,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
-5,47,1164,429,1938-06-12,1938,France,Colombes,Stade Olympique,58455.0,Quarterfinals,Italy,ITA,France,FRA,1,1,2,0,3,1,Italy,1.0,1.0,2.0,0.0,3.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
-3,18,1104,204,1934-05-27,1934,Italy,Turin,Stadio Benito Mussolini,16000.0,Groups,Austria,AUT,France,FRA,0,0,3,2,3,2,Austria,0.0,0.0,3.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
-0,0,1096,201,1930-07-13,1930,Uruguay,Montevideo,Pocitos,4444.0,Groups,France,FRA,Mexico,MEX,3,0,1,1,4,1,France,3.0,0.0,1.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0,1.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,France_result_value
+58,58,825,300186485,255953,2014-07-04,2014,Brazil,Rio de Janeiro,Estadio do Maracana,74240.0,Quarterfinals,France,FRA,Germany,GER,0,1,0,0,0,1,Germany,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+51,51,709,300061453,249722,2010-06-11,2010,South Africa,Cape Town,Cape Town Stadium,64100.0,Groups,Uruguay,URU,France,FRA,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+50,50,707,97410064,97410600,2006-07-09,2006,Germany,Berlin,Olympiastadion,69000.0,Finals,Italy,ITA,France,FRA,0,0,1,1,1,1,Italy,0.0,0.0,1.0,1.0,1.0,1.0,Champion,Finals,7.0,6.0,6.0
+41,41,580,43950001,43950100,2002-05-31,2002,South Korea,Seoul,Seoul World Cup Stadium,62561.0,Groups,France,FRA,Senegal,SEN,0,1,0,0,0,1,Senegal,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+40,40,579,8788,1027,1998-07-12,1998,France,Saint-Denis,Stade de France,80000.0,Finals,Brazil,BRA,France,FRA,0,2,0,1,0,3,France,2.0,0.0,1.0,0.0,3.0,0.0,Finals,Champion,6.0,7.0,7.0
+33,33,410,422,3468,1986-06-28,1986,Mexico,Puebla,Cuauhtemoc,21000.0,Third place,France,FRA,Belgium,BEL,0,0,4,2,4,2,France,0.0,0.0,4.0,2.0,4.0,2.0,Third place,Third place,5.0,5.0,5.0
+26,26,358,921,676,1982-07-10,1982,Spain,Alicante,Jose Rico Perez,28000.0,Third place,Poland,POL,France,FRA,2,1,1,1,3,2,Poland,2.0,1.0,1.0,1.0,3.0,2.0,Third place,Third place,5.0,5.0,5.0
+17,17,271,2347,278,1978-06-02,1978,Argentina,Mar del Plata,Estadio José María Minella,42373.0,Groups,Italy,ITA,France,FRA,1,1,1,0,2,1,Italy,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+14,14,172,1650,238,1966-07-13,1966,England,London,Wembley Stadium,69237.0,Groups,France,FRA,Mexico,MEX,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+13,13,134,1382,3483,1958-06-28,1958,Sweden,Gothenburg,Nya Ullevi,32483.0,Third place,France,FRA,West Germany,FRG,3,1,3,2,6,3,France,3.0,1.0,3.0,2.0,6.0,3.0,Third place,Third place,5.0,5.0,5.0
+6,6,78,1276,211,1954-06-16,1954,Switzerland,Lausanne,La Pontaise,16000.0,Groups,Yugoslavia,YUG,France,FRA,1,0,0,0,1,0,Yugoslavia,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+5,5,47,1164,429,1938-06-12,1938,France,Colombes,Stade Olympique,58455.0,Quarterfinals,Italy,ITA,France,FRA,1,1,2,0,3,1,Italy,1.0,1.0,2.0,0.0,3.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+3,3,18,1104,204,1934-05-27,1934,Italy,Turin,Stadio Benito Mussolini,16000.0,Groups,Austria,AUT,France,FRA,0,0,3,2,3,2,Austria,0.0,0.0,3.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
+0,0,0,1096,201,1930-07-13,1930,Uruguay,Montevideo,Pocitos,4444.0,Groups,France,FRA,Mexico,MEX,3,0,1,1,4,1,France,3.0,0.0,1.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0,1.0

@@ -1,12 +1,12 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
-0,474,3059,337,1994-06-21,1994,United States,Foxborough,Foxboro Stadium,54456.0,Groups,Argentina,ARG,Greece,GRE,2,0,2,0,4,0,Argentina,2.0,0.0,2.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
-1,487,3072,337,1994-06-26,1994,United States,Chicago,Soldier Field,63160.0,Groups,Bulgaria,BUL,Greece,GRE,1,0,3,0,4,0,Bulgaria,1.0,0.0,3.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
-2,498,3083,337,1994-06-30,1994,United States,Foxborough,Foxboro Stadium,53001.0,Groups,Greece,GRE,Nigeria,NGA,0,1,0,1,0,2,Nigeria,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-3,710,300061459,249722,2010-06-12,2010,South Africa,Port Elizabeth,Port Elizabeth Stadium,31513.0,Groups,South Korea,KOR,Greece,GRE,1,0,1,0,2,0,South Korea,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-4,726,300061457,249722,2010-06-17,2010,South Africa,Bloemfontein,Free State Stadium,31593.0,Groups,Greece,GRE,Nigeria,NGA,1,1,1,0,2,1,Greece,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-5,743,300061455,249722,2010-06-22,2010,South Africa,Polokwane,Peter Mokaba Stadium,38891.0,Groups,Greece,GRE,Argentina,ARG,0,0,0,2,0,2,Argentina,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-6,776,300186471,255931,2014-06-14,2014,Brazil,Belo Horizonte,Estadio Mineirao,57174.0,Groups,Colombia,COL,Greece,GRE,1,0,2,0,3,0,Colombia,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-7,794,300186454,255931,2014-06-19,2014,Brazil,Natal,Estadio das Dunas,39485.0,Groups,Japan,JPN,Greece,GRE,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-8,811,300186455,255931,2014-06-24,2014,Brazil,Fortaleza,Estadio Castelao,59095.0,Groups,Greece,GRE,Cote d'Ivoire,CIV,1,0,1,1,2,1,Greece,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-9,833,300186459,255951,2014-06-29,2014,Brazil,Recife,Arena Pernambuco,41242.0,Round of 16,Costa Rica,CRC,Greece,GRE,0,0,1,1,1,1,Costa Rica,0.0,0.0,1.0,1.0,1.0,1.0,Round of 16,Round of 16,2.0,2.0
-10,839,300186459,255951,2014-06-29,2014,Brazil,Recife,Arena Pernambuco,41242.0,Round of 16,Costa Rica,CRC,Greece,GRE,0,0,1,1,1,1,Costa Rica,0.0,0.0,1.0,1.0,1.0,1.0,Round of 16,Round of 16,2.0,2.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Greece_result_value
+0,0,474,3059,337,1994-06-21,1994,United States,Foxborough,Foxboro Stadium,54456.0,Groups,Argentina,ARG,Greece,GRE,2,0,2,0,4,0,Argentina,2.0,0.0,2.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0,1.0
+1,1,487,3072,337,1994-06-26,1994,United States,Chicago,Soldier Field,63160.0,Groups,Bulgaria,BUL,Greece,GRE,1,0,3,0,4,0,Bulgaria,1.0,0.0,3.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0,1.0
+2,2,498,3083,337,1994-06-30,1994,United States,Foxborough,Foxboro Stadium,53001.0,Groups,Greece,GRE,Nigeria,NGA,0,1,0,1,0,2,Nigeria,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+3,3,710,300061459,249722,2010-06-12,2010,South Africa,Port Elizabeth,Port Elizabeth Stadium,31513.0,Groups,South Korea,KOR,Greece,GRE,1,0,1,0,2,0,South Korea,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+4,4,726,300061457,249722,2010-06-17,2010,South Africa,Bloemfontein,Free State Stadium,31593.0,Groups,Greece,GRE,Nigeria,NGA,1,1,1,0,2,1,Greece,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+5,5,743,300061455,249722,2010-06-22,2010,South Africa,Polokwane,Peter Mokaba Stadium,38891.0,Groups,Greece,GRE,Argentina,ARG,0,0,0,2,0,2,Argentina,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+6,6,776,300186471,255931,2014-06-14,2014,Brazil,Belo Horizonte,Estadio Mineirao,57174.0,Groups,Colombia,COL,Greece,GRE,1,0,2,0,3,0,Colombia,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+7,7,794,300186454,255931,2014-06-19,2014,Brazil,Natal,Estadio das Dunas,39485.0,Groups,Japan,JPN,Greece,GRE,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+8,8,811,300186455,255931,2014-06-24,2014,Brazil,Fortaleza,Estadio Castelao,59095.0,Groups,Greece,GRE,Cote d'Ivoire,CIV,1,0,1,1,2,1,Greece,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+9,9,833,300186459,255951,2014-06-29,2014,Brazil,Recife,Arena Pernambuco,41242.0,Round of 16,Costa Rica,CRC,Greece,GRE,0,0,1,1,1,1,Costa Rica,0.0,0.0,1.0,1.0,1.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+10,10,839,300186459,255951,2014-06-29,2014,Brazil,Recife,Arena Pernambuco,41242.0,Round of 16,Costa Rica,CRC,Greece,GRE,0,0,1,1,1,1,Costa Rica,0.0,0.0,1.0,1.0,1.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0

@@ -1,15 +1,15 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Spain_result_value
-56,774,300186510,255931,2014-06-13,2014,Brazil,Salvador,Arena Fonte Nova,48173.0,Groups,Spain,ESP,Netherlands,NED,1,1,0,4,1,5,Netherlands,1.0,1.0,4.0,0.0,5.0,1.0,Groups,Groups,1.0,1.0,1.0
-55,771,300061509,249721,2010-07-11,2010,South Africa,Johannesburg,Soccer City Stadium,84490.0,Finals,Netherlands,NED,Spain,ESP,0,0,0,1,0,1,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Finals,Champion,6.0,7.0,7.0
-48,699,97410056,97410200,2006-06-27,2006,Germany,Hanover,"FIFA World Cup Stadium, Hanover",43000.0,Round of 16,Spain,ESP,France,FRA,1,1,0,2,1,3,France,1.0,1.0,2.0,0.0,3.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
-45,640,43950059,43950300,2002-06-22,2002,South Korea,Gwangju,Gwangju World Cup Stadium,42114.0,Quarterfinals,Spain,ESP,South Korea,KOR,0,0,0,0,0,0,South Korea,0.0,0.0,0.0,0.0,0.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
-37,523,8731,1014,1998-06-13,1998,France,Nantes,La Beaujoire,35500.0,Groups,Spain,ESP,Nigeria,NGA,1,1,1,2,2,3,Nigeria,1.0,1.0,2.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
-36,508,3097,796,1994-07-09,1994,United States,Foxborough,Foxboro Stadium,53400.0,Quarterfinals,Italy,ITA,Spain,ESP,1,0,1,1,2,1,Italy,1.0,0.0,1.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
-31,454,181,323,1990-06-26,1990,Italy,Verona,Marc Antonio Bentegodi,35500.0,Round of 16,Spain,ESP,Yugoslavia,YUG,0,0,1,2,1,2,Yugoslavia,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
-27,406,421,714,1986-06-22,1986,Mexico,Puebla,Cuauhtemoc,45000.0,Quarterfinals,Spain,ESP,Belgium,BEL,0,0,1,1,1,1,Belgium,0.0,0.0,1.0,1.0,1.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
-21,351,900,294,1982-07-02,1982,Spain,Madrid,Santiago Bernabeu,90089.0,Round of 16,West Germany,FRG,Spain,ESP,0,0,2,1,2,1,West Germany,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
-15,275,2216,278,1978-06-03,1978,Argentina,Buenos Aires,Jose Amalfitani,40841.0,Groups,Austria,AUT,Spain,ESP,1,1,1,0,2,1,Austria,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
-12,174,1578,238,1966-07-13,1966,England,Birmingham,Villa Park,42738.0,Groups,Argentina,ARG,Spain,ESP,0,0,2,1,2,1,Argentina,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
-9,141,1498,231,1962-05-31,1962,Chile,Viña del Mar,Estadio Sausalito,12700.0,Groups,Czechoslovakia,TCH,Spain,ESP,0,0,1,0,1,0,Czechoslovakia,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
-6,69,1207,209,1950-07-09,1950,Brazil,São Paulo,Pacaembu,44802.0,Finals,Uruguay,URU,Spain,ESP,1,2,1,0,2,2,Draw,,,,,,,Champion,Finals,7.0,6.0,6.0
-1,28,1122,418,1934-05-31,1934,Italy,Florence,Giovanni Berta,35000.0,Quarterfinals,Italy,ITA,Spain,ESP,0,0,1,1,1,1,Draw,,,,,,,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Spain_result_value
+56,56,774,300186510,255931,2014-06-13,2014,Brazil,Salvador,Arena Fonte Nova,48173.0,Groups,Spain,ESP,Netherlands,NED,1,1,0,4,1,5,Netherlands,1.0,1.0,4.0,0.0,5.0,1.0,Groups,Groups,1.0,1.0,1.0
+55,55,771,300061509,249721,2010-07-11,2010,South Africa,Johannesburg,Soccer City Stadium,84490.0,Finals,Netherlands,NED,Spain,ESP,0,0,0,1,0,1,Spain,0.0,0.0,1.0,0.0,1.0,0.0,Finals,Champion,6.0,7.0,7.0
+48,48,699,97410056,97410200,2006-06-27,2006,Germany,Hanover,"FIFA World Cup Stadium, Hanover",43000.0,Round of 16,Spain,ESP,France,FRA,1,1,0,2,1,3,France,1.0,1.0,2.0,0.0,3.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+45,45,640,43950059,43950300,2002-06-22,2002,South Korea,Gwangju,Gwangju World Cup Stadium,42114.0,Quarterfinals,Spain,ESP,South Korea,KOR,0,0,0,0,0,0,South Korea,0.0,0.0,0.0,0.0,0.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+37,37,523,8731,1014,1998-06-13,1998,France,Nantes,La Beaujoire,35500.0,Groups,Spain,ESP,Nigeria,NGA,1,1,1,2,2,3,Nigeria,1.0,1.0,2.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
+36,36,508,3097,796,1994-07-09,1994,United States,Foxborough,Foxboro Stadium,53400.0,Quarterfinals,Italy,ITA,Spain,ESP,1,0,1,1,2,1,Italy,1.0,0.0,1.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+31,31,454,181,323,1990-06-26,1990,Italy,Verona,Marc Antonio Bentegodi,35500.0,Round of 16,Spain,ESP,Yugoslavia,YUG,0,0,1,2,1,2,Yugoslavia,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+27,27,406,421,714,1986-06-22,1986,Mexico,Puebla,Cuauhtemoc,45000.0,Quarterfinals,Spain,ESP,Belgium,BEL,0,0,1,1,1,1,Belgium,0.0,0.0,1.0,1.0,1.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+21,21,351,900,294,1982-07-02,1982,Spain,Madrid,Santiago Bernabeu,90089.0,Round of 16,West Germany,FRG,Spain,ESP,0,0,2,1,2,1,West Germany,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+15,15,275,2216,278,1978-06-03,1978,Argentina,Buenos Aires,Jose Amalfitani,40841.0,Groups,Austria,AUT,Spain,ESP,1,1,1,0,2,1,Austria,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+12,12,174,1578,238,1966-07-13,1966,England,Birmingham,Villa Park,42738.0,Groups,Argentina,ARG,Spain,ESP,0,0,2,1,2,1,Argentina,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+9,9,141,1498,231,1962-05-31,1962,Chile,Viña del Mar,Estadio Sausalito,12700.0,Groups,Czechoslovakia,TCH,Spain,ESP,0,0,1,0,1,0,Czechoslovakia,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+6,6,69,1207,209,1950-07-09,1950,Brazil,São Paulo,Pacaembu,44802.0,Finals,Uruguay,URU,Spain,ESP,1,2,1,0,2,2,Draw,,,,,,,Champion,Finals,7.0,6.0,6.0
+1,1,28,1122,418,1934-05-31,1934,Italy,Florence,Giovanni Berta,35000.0,Quarterfinals,Italy,ITA,Spain,ESP,0,0,1,1,1,1,Draw,,,,,,,Quarterfinals,Quarterfinals,3.0,3.0,3.0

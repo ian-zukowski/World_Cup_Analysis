@@ -1,8 +1,8 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Cameroon_result_value
-20,773,300186492,255931,2014-06-13,2014,Brazil,Natal,Estadio das Dunas,39216.0,Groups,Mexico,MEX,Cameroon,CMR,0,0,1,0,1,0,Mexico,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
-17,717,300061477,249722,2010-06-14,2010,South Africa,Bloemfontein,Free State Stadium,30620.0,Groups,Japan,JPN,Cameroon,CMR,1,0,0,0,1,0,Japan,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
-14,582,43950002,43950100,2002-06-01,2002,Japan,Niigata,Niigata Stadium Big Swan,33679.0,Groups,Republic of Ireland,IRL,Cameroon,CMR,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
-11,519,8727,1014,1998-06-11,1998,France,Toulouse,Stade Municipal,33500.0,Groups,Cameroon,CMR,Austria,AUT,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
-8,471,3056,337,1994-06-19,1994,United States,Pasadena,Rose Bowl,93194.0,Groups,Cameroon,CMR,Sweden,SWE,1,1,1,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
-7,459,103,751,1990-07-01,1990,Italy,Naples,San Paolo,55205.0,Quarterfinals,England,ENG,Cameroon,CMR,0,0,3,2,3,2,England,0.0,0.0,3.0,2.0,3.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
-0,312,833,293,1982-06-15,1982,Spain,La Coruña,Riazor,11000.0,Groups,Peru,PER,Cameroon,CMR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Cameroon_result_value
+20,20,773,300186492,255931,2014-06-13,2014,Brazil,Natal,Estadio das Dunas,39216.0,Groups,Mexico,MEX,Cameroon,CMR,0,0,1,0,1,0,Mexico,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+17,17,717,300061477,249722,2010-06-14,2010,South Africa,Bloemfontein,Free State Stadium,30620.0,Groups,Japan,JPN,Cameroon,CMR,1,0,0,0,1,0,Japan,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+14,14,582,43950002,43950100,2002-06-01,2002,Japan,Niigata,Niigata Stadium Big Swan,33679.0,Groups,Republic of Ireland,IRL,Cameroon,CMR,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+11,11,519,8727,1014,1998-06-11,1998,France,Toulouse,Stade Municipal,33500.0,Groups,Cameroon,CMR,Austria,AUT,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+8,8,471,3056,337,1994-06-19,1994,United States,Pasadena,Rose Bowl,93194.0,Groups,Cameroon,CMR,Sweden,SWE,1,1,1,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+7,7,459,103,751,1990-07-01,1990,Italy,Naples,San Paolo,55205.0,Quarterfinals,England,ENG,Cameroon,CMR,0,0,3,2,3,2,England,0.0,0.0,3.0,2.0,3.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+0,0,312,833,293,1982-06-15,1982,Spain,La Coruña,Riazor,11000.0,Groups,Peru,PER,Cameroon,CMR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0

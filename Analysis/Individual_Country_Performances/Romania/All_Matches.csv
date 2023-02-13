@@ -1,22 +1,22 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
-0,3,1098,201,1930-07-14,1930,Uruguay,Montevideo,Pocitos,2549.0,Groups,Romania,ROU,Peru,PER,1,0,2,1,3,1,Romania,1.0,0.0,2.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0
-1,13,1100,201,1930-07-21,1930,Uruguay,Montevideo,Estadio Centenario,70022.0,Groups,Uruguay,URU,Romania,ROU,4,0,0,0,4,0,Uruguay,4.0,0.0,0.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
-2,25,1141,204,1934-05-27,1934,Italy,Trieste,Littorio,9000.0,Groups,Czechoslovakia,TCH,Romania,ROU,0,1,2,0,2,1,Czechoslovakia,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-3,38,1156,206,1938-06-05,1938,France,Toulouse,Stade Municipal,7000.0,Groups,Cuba,CUB,Romania,ROU,0,0,3,3,3,3,Draw,,,,,,,Groups,Groups,1.0,1.0
-4,42,1157,206,1938-06-09,1938,France,Toulouse,Stade Municipal,8000.0,Groups,Cuba,CUB,Romania,ROU,0,1,2,0,2,1,Cuba,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-5,203,1812,250,1970-06-02,1970,Mexico,Guadalajara,Jalisco,50560.0,Groups,England,ENG,Romania,ROU,0,0,1,0,1,0,England,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-6,210,1919,250,1970-06-06,1970,Mexico,Guadalajara,Jalisco,56818.0,Groups,Romania,ROU,Czechoslovakia,TCH,0,1,2,0,2,1,Romania,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-7,218,1769,250,1970-06-10,1970,Mexico,Guadalajara,Jalisco,50804.0,Groups,Brazil,BRA,Romania,ROU,2,1,1,1,3,2,Brazil,2.0,1.0,1.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0
-8,413,342,322,1990-06-09,1990,Italy,Bari,Stadio San Nicola,42907.0,Groups,Soviet Union,URS,Romania,ROU,0,1,0,1,0,2,Romania,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-9,425,108,322,1990-06-14,1990,Italy,Bari,Stadio San Nicola,38687.0,Groups,Cameroon,CMR,Romania,ROU,0,0,2,1,2,1,Cameroon,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-10,436,29,322,1990-06-18,1990,Italy,Naples,San Paolo,52733.0,Groups,Argentina,ARG,Romania,ROU,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-11,452,248,323,1990-06-25,1990,Italy,Genoa,Luigi Ferraris,31818.0,Round of 16,Republic of Ireland,IRL,Romania,ROU,0,0,0,0,0,0,Republic of Ireland,0.0,0.0,0.0,0.0,0.0,0.0,Round of 16,Round of 16,2.0,2.0
-12,468,3053,337,1994-06-18,1994,United States,Pasadena,Rose Bowl,91856.0,Groups,Colombia,COL,Romania,ROU,1,2,0,1,1,3,Romania,2.0,1.0,1.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-13,477,3062,337,1994-06-22,1994,United States,Pontiac,Pontiac Silverdome,61428.0,Groups,Romania,ROU,Switzerland,SUI,1,1,0,3,1,4,Switzerland,1.0,1.0,3.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0
-14,488,3073,337,1994-06-26,1994,United States,Pasadena,Rose Bowl,93869.0,Groups,United States,USA,Romania,ROU,0,1,0,0,0,1,Romania,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-15,503,3088,338,1994-07-03,1994,United States,Pasadena,Rose Bowl,90469.0,Round of 16,Romania,ROU,Argentina,ARG,2,1,1,1,3,2,Romania,2.0,1.0,1.0,1.0,3.0,2.0,Round of 16,Round of 16,2.0,2.0
-16,511,3095,796,1994-07-10,1994,United States,Palo Alto,Stanford Stadium,83500.0,Quarterfinals,Romania,ROU,Sweden,SWE,0,0,2,2,2,2,Sweden,0.0,0.0,2.0,2.0,2.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0
-17,530,8739,1014,1998-06-15,1998,France,Lyon,Stade de Gerland,39100.0,Groups,Romania,ROU,Colombia,COL,1,0,0,0,1,0,Romania,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-18,547,8756,1014,1998-06-22,1998,France,Toulouse,Stade Municipal,33500.0,Groups,Romania,ROU,England,ENG,0,0,2,1,2,1,Romania,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-19,562,8769,1014,1998-06-26,1998,France,Saint-Denis,Stade de France,77000.0,Groups,Romania,ROU,Tunisia,TUN,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-20,570,8780,1024,1998-06-30,1998,France,Bordeaux,Stade du Parc Lescure,31800.0,Round of 16,Romania,ROU,Croatia,CRO,0,1,0,0,0,1,Croatia,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Romania_result_value
+0,0,3,1098,201,1930-07-14,1930,Uruguay,Montevideo,Pocitos,2549.0,Groups,Romania,ROU,Peru,PER,1,0,2,1,3,1,Romania,1.0,0.0,2.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+1,1,13,1100,201,1930-07-21,1930,Uruguay,Montevideo,Estadio Centenario,70022.0,Groups,Uruguay,URU,Romania,ROU,4,0,0,0,4,0,Uruguay,4.0,0.0,0.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0,1.0
+2,2,25,1141,204,1934-05-27,1934,Italy,Trieste,Littorio,9000.0,Groups,Czechoslovakia,TCH,Romania,ROU,0,1,2,0,2,1,Czechoslovakia,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+3,3,38,1156,206,1938-06-05,1938,France,Toulouse,Stade Municipal,7000.0,Groups,Cuba,CUB,Romania,ROU,0,0,3,3,3,3,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+4,4,42,1157,206,1938-06-09,1938,France,Toulouse,Stade Municipal,8000.0,Groups,Cuba,CUB,Romania,ROU,0,1,2,0,2,1,Cuba,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+5,5,203,1812,250,1970-06-02,1970,Mexico,Guadalajara,Jalisco,50560.0,Groups,England,ENG,Romania,ROU,0,0,1,0,1,0,England,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+6,6,210,1919,250,1970-06-06,1970,Mexico,Guadalajara,Jalisco,56818.0,Groups,Romania,ROU,Czechoslovakia,TCH,0,1,2,0,2,1,Romania,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+7,7,218,1769,250,1970-06-10,1970,Mexico,Guadalajara,Jalisco,50804.0,Groups,Brazil,BRA,Romania,ROU,2,1,1,1,3,2,Brazil,2.0,1.0,1.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
+8,8,413,342,322,1990-06-09,1990,Italy,Bari,Stadio San Nicola,42907.0,Groups,Soviet Union,URS,Romania,ROU,0,1,0,1,0,2,Romania,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+9,9,425,108,322,1990-06-14,1990,Italy,Bari,Stadio San Nicola,38687.0,Groups,Cameroon,CMR,Romania,ROU,0,0,2,1,2,1,Cameroon,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+10,10,436,29,322,1990-06-18,1990,Italy,Naples,San Paolo,52733.0,Groups,Argentina,ARG,Romania,ROU,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+11,11,452,248,323,1990-06-25,1990,Italy,Genoa,Luigi Ferraris,31818.0,Round of 16,Republic of Ireland,IRL,Romania,ROU,0,0,0,0,0,0,Republic of Ireland,0.0,0.0,0.0,0.0,0.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+12,12,468,3053,337,1994-06-18,1994,United States,Pasadena,Rose Bowl,91856.0,Groups,Colombia,COL,Romania,ROU,1,2,0,1,1,3,Romania,2.0,1.0,1.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+13,13,477,3062,337,1994-06-22,1994,United States,Pontiac,Pontiac Silverdome,61428.0,Groups,Romania,ROU,Switzerland,SUI,1,1,0,3,1,4,Switzerland,1.0,1.0,3.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0,1.0
+14,14,488,3073,337,1994-06-26,1994,United States,Pasadena,Rose Bowl,93869.0,Groups,United States,USA,Romania,ROU,0,1,0,0,0,1,Romania,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+15,15,503,3088,338,1994-07-03,1994,United States,Pasadena,Rose Bowl,90469.0,Round of 16,Romania,ROU,Argentina,ARG,2,1,1,1,3,2,Romania,2.0,1.0,1.0,1.0,3.0,2.0,Round of 16,Round of 16,2.0,2.0,2.0
+16,16,511,3095,796,1994-07-10,1994,United States,Palo Alto,Stanford Stadium,83500.0,Quarterfinals,Romania,ROU,Sweden,SWE,0,0,2,2,2,2,Sweden,0.0,0.0,2.0,2.0,2.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+17,17,530,8739,1014,1998-06-15,1998,France,Lyon,Stade de Gerland,39100.0,Groups,Romania,ROU,Colombia,COL,1,0,0,0,1,0,Romania,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+18,18,547,8756,1014,1998-06-22,1998,France,Toulouse,Stade Municipal,33500.0,Groups,Romania,ROU,England,ENG,0,0,2,1,2,1,Romania,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+19,19,562,8769,1014,1998-06-26,1998,France,Saint-Denis,Stade de France,77000.0,Groups,Romania,ROU,Tunisia,TUN,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+20,20,570,8780,1024,1998-06-30,1998,France,Bordeaux,Stade du Parc Lescure,31800.0,Round of 16,Romania,ROU,Croatia,CRO,0,1,0,0,0,1,Croatia,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0

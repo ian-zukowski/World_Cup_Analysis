@@ -1,24 +1,24 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
-0,312,833,293,1982-06-15,1982,Spain,La Coruña,Riazor,11000.0,Groups,Peru,PER,Cameroon,CMR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-1,324,834,293,1982-06-19,1982,Spain,La Coruña,Riazor,19000.0,Groups,Poland,POL,Cameroon,CMR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-2,336,828,293,1982-06-23,1982,Spain,Vigo,Estadio Municipal de Balaídos,20000.0,Groups,Italy,ITA,Cameroon,CMR,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-3,412,26,322,1990-06-08,1990,Italy,Milan,Giuseppe Meazza,73780.0,Groups,Argentina,ARG,Cameroon,CMR,0,0,0,1,0,1,Cameroon,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-4,425,108,322,1990-06-14,1990,Italy,Bari,Stadio San Nicola,38687.0,Groups,Cameroon,CMR,Romania,ROU,0,0,2,1,2,1,Cameroon,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-5,437,111,322,1990-06-18,1990,Italy,Bari,Stadio San Nicola,37307.0,Groups,Cameroon,CMR,Soviet Union,URS,0,2,0,2,0,4,Soviet Union,2.0,0.0,2.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
-6,448,102,323,1990-06-23,1990,Italy,Naples,San Paolo,50026.0,Round of 16,Cameroon,CMR,Colombia,COL,0,0,2,1,2,1,Cameroon,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0
-7,459,103,751,1990-07-01,1990,Italy,Naples,San Paolo,55205.0,Quarterfinals,England,ENG,Cameroon,CMR,0,0,3,2,3,2,England,0.0,0.0,3.0,2.0,3.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0
-8,471,3056,337,1994-06-19,1994,United States,Pasadena,Rose Bowl,93194.0,Groups,Cameroon,CMR,Sweden,SWE,1,1,1,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
-9,483,3067,337,1994-06-24,1994,United States,Palo Alto,Stanford Stadium,83401.0,Groups,Brazil,BRA,Cameroon,CMR,1,0,2,0,3,0,Brazil,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-10,495,3079,337,1994-06-28,1994,United States,Palo Alto,Stanford Stadium,74914.0,Groups,Russia,RUS,Cameroon,CMR,3,0,3,1,6,1,Russia,3.0,0.0,3.0,1.0,6.0,1.0,Groups,Groups,1.0,1.0
-11,519,8727,1014,1998-06-11,1998,France,Toulouse,Stade Municipal,33500.0,Groups,Cameroon,CMR,Austria,AUT,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-12,535,8744,1014,1998-06-17,1998,France,Montpellier,La Mosson,29800.0,Groups,Italy,ITA,Cameroon,CMR,1,0,2,0,3,0,Italy,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-13,549,8760,1014,1998-06-23,1998,France,Nantes,La Beaujoire,35500.0,Groups,Chile,CHI,Cameroon,CMR,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-14,582,43950002,43950100,2002-06-01,2002,Japan,Niigata,Niigata Stadium Big Swan,33679.0,Groups,Republic of Ireland,IRL,Cameroon,CMR,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-15,598,43950019,43950100,2002-06-06,2002,Japan,Saitama,Saitama Stadium 2002,52328.0,Groups,Cameroon,CMR,Saudi Arabia,KSA,0,0,1,0,1,0,Cameroon,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-16,616,43950035,43950100,2002-06-11,2002,Japan,Fukuroi,Shizuoka Stadium Ecopa,47085.0,Groups,Cameroon,CMR,Germany,GER,0,0,0,2,0,2,Germany,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-17,717,300061477,249722,2010-06-14,2010,South Africa,Bloemfontein,Free State Stadium,30620.0,Groups,Japan,JPN,Cameroon,CMR,1,0,0,0,1,0,Japan,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-18,733,300061475,249722,2010-06-19,2010,South Africa,Pretoria,Loftus Versfeld Stadium,38074.0,Groups,Cameroon,CMR,Denmark,DEN,1,1,0,1,1,2,Denmark,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-19,751,300061473,249722,2010-06-24,2010,South Africa,Cape Town,Cape Town Stadium,63093.0,Groups,Cameroon,CMR,Netherlands,NED,0,1,1,1,1,2,Netherlands,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-20,773,300186492,255931,2014-06-13,2014,Brazil,Natal,Estadio das Dunas,39216.0,Groups,Mexico,MEX,Cameroon,CMR,0,0,1,0,1,0,Mexico,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-21,791,300186453,255931,2014-06-18,2014,Brazil,Manaus,Arena Amazonia,39982.0,Groups,Cameroon,CMR,Croatia,CRO,0,1,0,3,0,4,Croatia,1.0,0.0,3.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
-22,806,300186472,255931,2014-06-23,2014,Brazil,Brasília,Estadio Nacional,69112.0,Groups,Cameroon,CMR,Brazil,BRA,1,2,0,2,1,4,Brazil,2.0,1.0,2.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Cameroon_result_value
+0,0,312,833,293,1982-06-15,1982,Spain,La Coruña,Riazor,11000.0,Groups,Peru,PER,Cameroon,CMR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+1,1,324,834,293,1982-06-19,1982,Spain,La Coruña,Riazor,19000.0,Groups,Poland,POL,Cameroon,CMR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+2,2,336,828,293,1982-06-23,1982,Spain,Vigo,Estadio Municipal de Balaídos,20000.0,Groups,Italy,ITA,Cameroon,CMR,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+3,3,412,26,322,1990-06-08,1990,Italy,Milan,Giuseppe Meazza,73780.0,Groups,Argentina,ARG,Cameroon,CMR,0,0,0,1,0,1,Cameroon,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+4,4,425,108,322,1990-06-14,1990,Italy,Bari,Stadio San Nicola,38687.0,Groups,Cameroon,CMR,Romania,ROU,0,0,2,1,2,1,Cameroon,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+5,5,437,111,322,1990-06-18,1990,Italy,Bari,Stadio San Nicola,37307.0,Groups,Cameroon,CMR,Soviet Union,URS,0,2,0,2,0,4,Soviet Union,2.0,0.0,2.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0,1.0
+6,6,448,102,323,1990-06-23,1990,Italy,Naples,San Paolo,50026.0,Round of 16,Cameroon,CMR,Colombia,COL,0,0,2,1,2,1,Cameroon,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+7,7,459,103,751,1990-07-01,1990,Italy,Naples,San Paolo,55205.0,Quarterfinals,England,ENG,Cameroon,CMR,0,0,3,2,3,2,England,0.0,0.0,3.0,2.0,3.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+8,8,471,3056,337,1994-06-19,1994,United States,Pasadena,Rose Bowl,93194.0,Groups,Cameroon,CMR,Sweden,SWE,1,1,1,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+9,9,483,3067,337,1994-06-24,1994,United States,Palo Alto,Stanford Stadium,83401.0,Groups,Brazil,BRA,Cameroon,CMR,1,0,2,0,3,0,Brazil,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+10,10,495,3079,337,1994-06-28,1994,United States,Palo Alto,Stanford Stadium,74914.0,Groups,Russia,RUS,Cameroon,CMR,3,0,3,1,6,1,Russia,3.0,0.0,3.0,1.0,6.0,1.0,Groups,Groups,1.0,1.0,1.0
+11,11,519,8727,1014,1998-06-11,1998,France,Toulouse,Stade Municipal,33500.0,Groups,Cameroon,CMR,Austria,AUT,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+12,12,535,8744,1014,1998-06-17,1998,France,Montpellier,La Mosson,29800.0,Groups,Italy,ITA,Cameroon,CMR,1,0,2,0,3,0,Italy,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+13,13,549,8760,1014,1998-06-23,1998,France,Nantes,La Beaujoire,35500.0,Groups,Chile,CHI,Cameroon,CMR,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+14,14,582,43950002,43950100,2002-06-01,2002,Japan,Niigata,Niigata Stadium Big Swan,33679.0,Groups,Republic of Ireland,IRL,Cameroon,CMR,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+15,15,598,43950019,43950100,2002-06-06,2002,Japan,Saitama,Saitama Stadium 2002,52328.0,Groups,Cameroon,CMR,Saudi Arabia,KSA,0,0,1,0,1,0,Cameroon,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+16,16,616,43950035,43950100,2002-06-11,2002,Japan,Fukuroi,Shizuoka Stadium Ecopa,47085.0,Groups,Cameroon,CMR,Germany,GER,0,0,0,2,0,2,Germany,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+17,17,717,300061477,249722,2010-06-14,2010,South Africa,Bloemfontein,Free State Stadium,30620.0,Groups,Japan,JPN,Cameroon,CMR,1,0,0,0,1,0,Japan,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+18,18,733,300061475,249722,2010-06-19,2010,South Africa,Pretoria,Loftus Versfeld Stadium,38074.0,Groups,Cameroon,CMR,Denmark,DEN,1,1,0,1,1,2,Denmark,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+19,19,751,300061473,249722,2010-06-24,2010,South Africa,Cape Town,Cape Town Stadium,63093.0,Groups,Cameroon,CMR,Netherlands,NED,0,1,1,1,1,2,Netherlands,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+20,20,773,300186492,255931,2014-06-13,2014,Brazil,Natal,Estadio das Dunas,39216.0,Groups,Mexico,MEX,Cameroon,CMR,0,0,1,0,1,0,Mexico,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+21,21,791,300186453,255931,2014-06-18,2014,Brazil,Manaus,Arena Amazonia,39982.0,Groups,Cameroon,CMR,Croatia,CRO,0,1,0,3,0,4,Croatia,1.0,0.0,3.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0,1.0
+22,22,806,300186472,255931,2014-06-23,2014,Brazil,Brasília,Estadio Nacional,69112.0,Groups,Cameroon,CMR,Brazil,BRA,1,2,0,2,1,4,Brazil,2.0,1.0,2.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0,1.0

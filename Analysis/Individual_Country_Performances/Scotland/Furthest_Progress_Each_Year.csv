@@ -1,9 +1,9 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Scotland_result_value
-20,516,4000,1014,1998-06-10,1998,France,Saint-Denis,Stade de France,80000.0,Groups,Brazil,BRA,Scotland,SCO,1,1,1,0,2,1,Brazil,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
-17,419,127,322,1990-06-11,1990,Italy,Genoa,Luigi Ferraris,30867.0,Groups,Costa Rica,CRC,Scotland,SCO,0,0,1,0,1,0,Costa Rica,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
-14,370,517,308,1986-06-04,1986,Mexico,Nezahualcóyotl,Neza,18000.0,Groups,Scotland,SCO,Denmark,DEN,0,0,0,1,0,1,Denmark,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
-11,314,1051,293,1982-06-15,1982,Spain,Málaga,La Rosaleda,36000.0,Groups,Scotland,SCO,New Zealand,NZL,3,0,2,2,5,2,Scotland,3.0,0.0,2.0,2.0,5.0,2.0,Groups,Groups,1.0,1.0,1.0
-8,276,2451,278,1978-06-03,1978,Argentina,Córdoba,Estadio Olímpico Cordoba,37927.0,Groups,Peru,PER,Scotland,SCO,1,1,2,0,3,1,Peru,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
-5,235,2176,262,1974-06-14,1974,Germany,Dortmund,Westfalenstadion,27000.0,Groups,Zaire,ZAI,Scotland,SCO,0,2,0,0,0,2,Scotland,2.0,0.0,0.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
-2,106,1434,220,1958-06-08,1958,Sweden,Västerås,Arosvallen,9591.0,Groups,Yugoslavia,YUG,Scotland,SCO,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
-0,76,1236,211,1954-06-16,1954,Switzerland,Zürich,Hardturm,25000.0,Groups,Austria,AUT,Scotland,SCO,1,0,0,0,1,0,Austria,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Scotland_result_value
+20,20,516,4000,1014,1998-06-10,1998,France,Saint-Denis,Stade de France,80000.0,Groups,Brazil,BRA,Scotland,SCO,1,1,1,0,2,1,Brazil,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+17,17,419,127,322,1990-06-11,1990,Italy,Genoa,Luigi Ferraris,30867.0,Groups,Costa Rica,CRC,Scotland,SCO,0,0,1,0,1,0,Costa Rica,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+14,14,370,517,308,1986-06-04,1986,Mexico,Nezahualcóyotl,Neza,18000.0,Groups,Scotland,SCO,Denmark,DEN,0,0,0,1,0,1,Denmark,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+11,11,314,1051,293,1982-06-15,1982,Spain,Málaga,La Rosaleda,36000.0,Groups,Scotland,SCO,New Zealand,NZL,3,0,2,2,5,2,Scotland,3.0,0.0,2.0,2.0,5.0,2.0,Groups,Groups,1.0,1.0,1.0
+8,8,276,2451,278,1978-06-03,1978,Argentina,Córdoba,Estadio Olímpico Cordoba,37927.0,Groups,Peru,PER,Scotland,SCO,1,1,2,0,3,1,Peru,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+5,5,235,2176,262,1974-06-14,1974,Germany,Dortmund,Westfalenstadion,27000.0,Groups,Zaire,ZAI,Scotland,SCO,0,2,0,0,0,2,Scotland,2.0,0.0,0.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+2,2,106,1434,220,1958-06-08,1958,Sweden,Västerås,Arosvallen,9591.0,Groups,Yugoslavia,YUG,Scotland,SCO,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+0,0,76,1236,211,1954-06-16,1954,Switzerland,Zürich,Hardturm,25000.0,Groups,Austria,AUT,Scotland,SCO,1,0,0,0,1,0,Austria,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0

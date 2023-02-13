@@ -1,14 +1,14 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
-0,108,1421,220,1958-06-08,1958,Sweden,Halmstad,Orjans Vall,10647.0,Groups,Northern Ireland,NIR,Czechoslovakia,TCH,1,0,0,0,1,0,Northern Ireland,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-1,115,1324,220,1958-06-11,1958,Sweden,Halmstad,Orjans Vall,14174.0,Groups,Argentina,ARG,Northern Ireland,NIR,1,1,2,0,3,1,Argentina,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-2,119,1389,220,1958-06-15,1958,Sweden,Malmö,Malmo Stadion,21990.0,Groups,West Germany,FRG,Northern Ireland,NIR,1,1,1,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
-3,126,1422,220,1958-06-17,1958,Sweden,Malmö,Malmo Stadion,6196.0,Groups,Northern Ireland,NIR,Czechoslovakia,TCH,0,0,2,1,2,1,Northern Ireland,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-4,131,1385,221,1958-06-19,1958,Sweden,Norrköping,Idrottsparken,11800.0,Quarterfinals,France,FRA,Northern Ireland,NIR,1,0,3,0,4,0,France,1.0,0.0,3.0,0.0,4.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-5,320,1044,293,1982-06-17,1982,Spain,Zaragoza,La Romareda,25000.0,Groups,Yugoslavia,YUG,Northern Ireland,NIR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-6,332,959,293,1982-06-21,1982,Spain,Zaragoza,La Romareda,15000.0,Groups,Honduras,HON,Northern Ireland,NIR,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-7,343,902,293,1982-06-25,1982,Spain,Valencia,Luis Casanova,49562.0,Groups,Northern Ireland,NIR,Spain,ESP,0,0,1,0,1,0,Northern Ireland,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-8,348,771,294,1982-07-01,1982,Spain,Madrid,Vicente Calderon,20000.0,Round of 16,Austria,AUT,Northern Ireland,NIR,0,1,2,1,2,2,Draw,,,,,,,Round of 16,Round of 16,2.0,2.0
-9,352,920,294,1982-07-04,1982,Spain,Madrid,Vicente Calderon,37000.0,Round of 16,France,FRA,Northern Ireland,NIR,1,0,3,1,4,1,France,1.0,0.0,3.0,1.0,4.0,1.0,Round of 16,Round of 16,2.0,2.0
-10,366,379,308,1986-06-03,1986,Mexico,Guadalajara,Tres de Marzo,22000.0,Groups,Algeria,ALG,Northern Ireland,NIR,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-11,378,551,308,1986-06-07,1986,Mexico,Guadalajara,Tres de Marzo,28000.0,Groups,Northern Ireland,NIR,Spain,ESP,0,2,1,0,1,2,Spain,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-12,392,441,308,1986-06-12,1986,Mexico,Guadalajara,Jalisco,51000.0,Groups,Northern Ireland,NIR,Brazil,BRA,0,2,0,1,0,3,Brazil,2.0,0.0,1.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Northern Ireland_result_value
+0,0,108,1421,220,1958-06-08,1958,Sweden,Halmstad,Orjans Vall,10647.0,Groups,Northern Ireland,NIR,Czechoslovakia,TCH,1,0,0,0,1,0,Northern Ireland,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+1,1,115,1324,220,1958-06-11,1958,Sweden,Halmstad,Orjans Vall,14174.0,Groups,Argentina,ARG,Northern Ireland,NIR,1,1,2,0,3,1,Argentina,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+2,2,119,1389,220,1958-06-15,1958,Sweden,Malmö,Malmo Stadion,21990.0,Groups,West Germany,FRG,Northern Ireland,NIR,1,1,1,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+3,3,126,1422,220,1958-06-17,1958,Sweden,Malmö,Malmo Stadion,6196.0,Groups,Northern Ireland,NIR,Czechoslovakia,TCH,0,0,2,1,2,1,Northern Ireland,0.0,0.0,2.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+4,4,131,1385,221,1958-06-19,1958,Sweden,Norrköping,Idrottsparken,11800.0,Quarterfinals,France,FRA,Northern Ireland,NIR,1,0,3,0,4,0,France,1.0,0.0,3.0,0.0,4.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+5,5,320,1044,293,1982-06-17,1982,Spain,Zaragoza,La Romareda,25000.0,Groups,Yugoslavia,YUG,Northern Ireland,NIR,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+6,6,332,959,293,1982-06-21,1982,Spain,Zaragoza,La Romareda,15000.0,Groups,Honduras,HON,Northern Ireland,NIR,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+7,7,343,902,293,1982-06-25,1982,Spain,Valencia,Luis Casanova,49562.0,Groups,Northern Ireland,NIR,Spain,ESP,0,0,1,0,1,0,Northern Ireland,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+8,8,348,771,294,1982-07-01,1982,Spain,Madrid,Vicente Calderon,20000.0,Round of 16,Austria,AUT,Northern Ireland,NIR,0,1,2,1,2,2,Draw,,,,,,,Round of 16,Round of 16,2.0,2.0,2.0
+9,9,352,920,294,1982-07-04,1982,Spain,Madrid,Vicente Calderon,37000.0,Round of 16,France,FRA,Northern Ireland,NIR,1,0,3,1,4,1,France,1.0,0.0,3.0,1.0,4.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+10,10,366,379,308,1986-06-03,1986,Mexico,Guadalajara,Tres de Marzo,22000.0,Groups,Algeria,ALG,Northern Ireland,NIR,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+11,11,378,551,308,1986-06-07,1986,Mexico,Guadalajara,Tres de Marzo,28000.0,Groups,Northern Ireland,NIR,Spain,ESP,0,2,1,0,1,2,Spain,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+12,12,392,441,308,1986-06-12,1986,Mexico,Guadalajara,Jalisco,51000.0,Groups,Northern Ireland,NIR,Brazil,BRA,0,2,0,1,0,3,Brazil,2.0,0.0,1.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0

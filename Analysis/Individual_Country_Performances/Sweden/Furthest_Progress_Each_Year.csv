@@ -1,12 +1,12 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Sweden_result_value
-45,692,97410049,97410200,2006-06-24,2006,Germany,Munich,"FIFA World Cup Stadium, Munich",66000.0,Round of 16,Germany,GER,Sweden,SWE,2,0,0,0,2,0,Germany,2.0,0.0,0.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
-41,632,43950051,43950200,2002-06-16,2002,Japan,Ōita,Oita Stadium Big Eye,39747.0,Round of 16,Sweden,SWE,Senegal,SEN,0,0,1,2,1,2,Senegal,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
-37,514,3103,3460,1994-07-16,1994,United States,Pasadena,Rose Bowl,91500.0,Third place,Sweden,SWE,Bulgaria,BUL,4,0,0,0,4,0,Sweden,4.0,0.0,0.0,0.0,4.0,0.0,Third place,Third place,5.0,5.0,5.0
-28,417,75,322,1990-06-10,1990,Italy,Turin,Stadio delle Alpi,62628.0,Groups,Brazil,BRA,Sweden,SWE,1,0,1,1,2,1,Brazil,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
-25,274,2253,278,1978-06-03,1978,Argentina,Mar del Plata,Estadio José María Minella,32569.0,Groups,Sweden,SWE,Brazil,BRA,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
-22,259,2167,263,1974-06-26,1974,Germany,Stuttgart,Neckarstadion,44955.0,Round of 16,Sweden,SWE,Poland,POL,0,1,0,0,0,1,Poland,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
-16,204,1883,250,1970-06-03,1970,Mexico,Toluca,Luis Dosal,13433.0,Groups,Italy,ITA,Sweden,SWE,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
-15,135,1343,3482,1958-06-29,1958,Sweden,Solna,Rasunda Stadium,49737.0,Finals,Brazil,BRA,Sweden,SWE,2,1,3,1,5,2,Brazil,2.0,1.0,3.0,1.0,5.0,2.0,Champion,Finals,7.0,6.0,6.0
-7,70,1189,209,1950-07-09,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,138886.0,Finals,Brazil,BRA,Sweden,SWE,3,0,4,1,7,1,Brazil,3.0,0.0,4.0,1.0,7.0,1.0,Finals,Finals,6.0,6.0,6.0
-4,51,1151,3488,1938-06-19,1938,France,Bordeaux,Stade du Parc Lescure,12000.0,Third place,Brazil,BRA,Sweden,SWE,1,2,3,0,4,2,Brazil,1.0,2.0,3.0,0.0,4.0,2.0,Third place,Third place,5.0,5.0,5.0
-1,27,1129,418,1934-05-31,1934,Italy,Milan,San Siro,3000.0,Quarterfinals,Germany,GER,Sweden,SWE,0,0,2,1,2,1,Germany,0.0,0.0,2.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Sweden_result_value
+45,45,692,97410049,97410200,2006-06-24,2006,Germany,Munich,"FIFA World Cup Stadium, Munich",66000.0,Round of 16,Germany,GER,Sweden,SWE,2,0,0,0,2,0,Germany,2.0,0.0,0.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+41,41,632,43950051,43950200,2002-06-16,2002,Japan,Ōita,Oita Stadium Big Eye,39747.0,Round of 16,Sweden,SWE,Senegal,SEN,0,0,1,2,1,2,Senegal,0.0,0.0,2.0,1.0,2.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+37,37,514,3103,3460,1994-07-16,1994,United States,Pasadena,Rose Bowl,91500.0,Third place,Sweden,SWE,Bulgaria,BUL,4,0,0,0,4,0,Sweden,4.0,0.0,0.0,0.0,4.0,0.0,Third place,Third place,5.0,5.0,5.0
+28,28,417,75,322,1990-06-10,1990,Italy,Turin,Stadio delle Alpi,62628.0,Groups,Brazil,BRA,Sweden,SWE,1,0,1,1,2,1,Brazil,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+25,25,274,2253,278,1978-06-03,1978,Argentina,Mar del Plata,Estadio José María Minella,32569.0,Groups,Sweden,SWE,Brazil,BRA,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+22,22,259,2167,263,1974-06-26,1974,Germany,Stuttgart,Neckarstadion,44955.0,Round of 16,Sweden,SWE,Poland,POL,0,1,0,0,0,1,Poland,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+16,16,204,1883,250,1970-06-03,1970,Mexico,Toluca,Luis Dosal,13433.0,Groups,Italy,ITA,Sweden,SWE,1,0,0,0,1,0,Italy,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+15,15,135,1343,3482,1958-06-29,1958,Sweden,Solna,Rasunda Stadium,49737.0,Finals,Brazil,BRA,Sweden,SWE,2,1,3,1,5,2,Brazil,2.0,1.0,3.0,1.0,5.0,2.0,Champion,Finals,7.0,6.0,6.0
+7,7,70,1189,209,1950-07-09,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,138886.0,Finals,Brazil,BRA,Sweden,SWE,3,0,4,1,7,1,Brazil,3.0,0.0,4.0,1.0,7.0,1.0,Finals,Finals,6.0,6.0,6.0
+4,4,51,1151,3488,1938-06-19,1938,France,Bordeaux,Stade du Parc Lescure,12000.0,Third place,Brazil,BRA,Sweden,SWE,1,2,3,0,4,2,Brazil,1.0,2.0,3.0,0.0,4.0,2.0,Third place,Third place,5.0,5.0,5.0
+1,1,27,1129,418,1934-05-31,1934,Italy,Milan,San Siro,3000.0,Quarterfinals,Germany,GER,Sweden,SWE,0,0,2,1,2,1,Germany,0.0,0.0,2.0,1.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0

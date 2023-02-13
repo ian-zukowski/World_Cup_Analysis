@@ -1,10 +1,10 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
-0,317,901,293,1982-06-16,1982,Spain,Valencia,Luis Casanova,49562.0,Groups,Spain,ESP,Honduras,HON,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-1,332,959,293,1982-06-21,1982,Spain,Zaragoza,La Romareda,15000.0,Groups,Honduras,HON,Northern Ireland,NIR,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-2,340,962,293,1982-06-24,1982,Spain,Zaragoza,La Romareda,25000.0,Groups,Honduras,HON,Yugoslavia,YUG,0,0,0,1,0,1,Yugoslavia,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-3,722,300061495,249722,2010-06-16,2010,South Africa,Nelspruit,Mbombela Stadium,32664.0,Groups,Honduras,HON,Chile,CHI,0,1,0,0,0,1,Chile,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-4,739,300061494,249722,2010-06-21,2010,South Africa,Johannesburg,Ellis Park Stadium,54386.0,Groups,Spain,ESP,Honduras,HON,1,0,1,0,2,0,Spain,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-5,755,300061492,249722,2010-06-25,2010,South Africa,Bloemfontein,Free State Stadium,28042.0,Groups,Switzerland,SUI,Honduras,HON,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-6,781,300186496,255931,2014-06-15,2014,Brazil,Porto Alegre,Estadio Beira-Rio,43012.0,Groups,France,FRA,Honduras,HON,1,0,2,0,3,0,France,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-7,797,300186463,255931,2014-06-20,2014,Brazil,Curitiba,Arena da Baixada,39224.0,Groups,Honduras,HON,Ecuador,ECU,1,1,0,1,1,2,Ecuador,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-8,814,300186482,255931,2014-06-25,2014,Brazil,Manaus,Arena Amazonia,40322.0,Groups,Honduras,HON,Switzerland,SUI,0,2,0,1,0,3,Switzerland,2.0,0.0,1.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Honduras_result_value
+0,0,317,901,293,1982-06-16,1982,Spain,Valencia,Luis Casanova,49562.0,Groups,Spain,ESP,Honduras,HON,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+1,1,332,959,293,1982-06-21,1982,Spain,Zaragoza,La Romareda,15000.0,Groups,Honduras,HON,Northern Ireland,NIR,0,1,1,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+2,2,340,962,293,1982-06-24,1982,Spain,Zaragoza,La Romareda,25000.0,Groups,Honduras,HON,Yugoslavia,YUG,0,0,0,1,0,1,Yugoslavia,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+3,3,722,300061495,249722,2010-06-16,2010,South Africa,Nelspruit,Mbombela Stadium,32664.0,Groups,Honduras,HON,Chile,CHI,0,1,0,0,0,1,Chile,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+4,4,739,300061494,249722,2010-06-21,2010,South Africa,Johannesburg,Ellis Park Stadium,54386.0,Groups,Spain,ESP,Honduras,HON,1,0,1,0,2,0,Spain,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+5,5,755,300061492,249722,2010-06-25,2010,South Africa,Bloemfontein,Free State Stadium,28042.0,Groups,Switzerland,SUI,Honduras,HON,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+6,6,781,300186496,255931,2014-06-15,2014,Brazil,Porto Alegre,Estadio Beira-Rio,43012.0,Groups,France,FRA,Honduras,HON,1,0,2,0,3,0,France,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+7,7,797,300186463,255931,2014-06-20,2014,Brazil,Curitiba,Arena da Baixada,39224.0,Groups,Honduras,HON,Ecuador,ECU,1,1,0,1,1,2,Ecuador,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+8,8,814,300186482,255931,2014-06-25,2014,Brazil,Manaus,Arena Amazonia,40322.0,Groups,Honduras,HON,Switzerland,SUI,0,2,0,1,0,3,Switzerland,2.0,0.0,1.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0

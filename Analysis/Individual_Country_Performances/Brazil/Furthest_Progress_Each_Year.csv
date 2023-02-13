@@ -1,21 +1,21 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Brazil_result_value
-103,827,300186502,255957,2014-07-12,2014,Brazil,Brasília,Estadio Nacional,68034.0,Third place,Brazil,BRA,Netherlands,NED,0,2,0,1,0,3,Netherlands,2.0,0.0,1.0,0.0,3.0,0.0,Third place,Third place,5.0,5.0,5.0
-96,764,300061507,249718,2010-07-02,2010,South Africa,Port Elizabeth,Port Elizabeth Stadium,40186.0,Quarterfinals,Netherlands,NED,Brazil,BRA,0,1,2,0,2,1,Netherlands,0.0,1.0,2.0,0.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
-91,703,97410060,97410300,2006-07-01,2006,Germany,Frankfurt am Main,"FIFA World Cup Stadium, Frankfurt",48000.0,Quarterfinals,Brazil,BRA,France,FRA,0,0,0,1,0,1,France,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
-86,644,43950064,43950600,2002-06-30,2002,Japan,Yokohama,International Stadium Yokohama,69029.0,Finals,Germany,GER,Brazil,BRA,0,0,0,2,0,2,Brazil,0.0,0.0,2.0,0.0,2.0,0.0,Finals,Champion,6.0,7.0,7.0
-79,579,8788,1027,1998-07-12,1998,France,Saint-Denis,Stade de France,80000.0,Finals,Brazil,BRA,France,FRA,0,2,0,1,0,3,France,2.0,0.0,1.0,0.0,3.0,0.0,Finals,Champion,6.0,7.0,6.0
-72,515,3104,3459,1994-07-17,1994,United States,Pasadena,Rose Bowl,94194.0,Finals,Brazil,BRA,Italy,ITA,0,0,0,0,0,0,Brazil,0.0,0.0,0.0,0.0,0.0,0.0,Champion,Finals,7.0,6.0,7.0
-65,450,25,323,1990-06-24,1990,Italy,Turin,Stadio delle Alpi,61381.0,Round of 16,Brazil,BRA,Argentina,ARG,0,0,0,1,0,1,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
-61,404,440,714,1986-06-21,1986,Mexico,Guadalajara,Jalisco,65000.0,Quarterfinals,Brazil,BRA,France,FRA,0,0,1,1,1,1,France,0.0,0.0,1.0,1.0,1.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
-55,350,750,294,1982-07-02,1982,Spain,Barcelona,Sarria,44000.0,Round of 16,Argentina,ARG,Brazil,BRA,0,1,1,2,1,3,Brazil,1.0,0.0,2.0,1.0,3.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
-51,307,2247,280,1978-06-24,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,69659.0,Third place,Brazil,BRA,Italy,ITA,0,1,2,0,2,1,Brazil,0.0,1.0,2.0,0.0,2.0,1.0,Third place,Third place,5.0,5.0,5.0
-44,268,1984,264,1974-07-06,1974,Germany,Munich,Olympiastadion,77100.0,Third place,Brazil,BRA,Poland,POL,0,0,0,1,0,1,Poland,0.0,0.0,1.0,0.0,1.0,0.0,Third place,Third place,5.0,5.0,5.0
-37,231,1765,3476,1970-06-21,1970,Mexico,Mexico City,Estadio Azteca,107412.0,Finals,Brazil,BRA,Italy,ITA,1,1,3,0,4,1,Brazil,1.0,1.0,3.0,0.0,4.0,1.0,Champion,Finals,7.0,6.0,7.0
-29,170,1596,238,1966-07-12,1966,England,Liverpool,Goodison Park,47308.0,Groups,Brazil,BRA,Bulgaria,BUL,1,0,1,0,2,0,Brazil,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
-28,167,1463,3480,1962-06-17,1962,Chile,Santiago,Nacional,68679.0,Finals,Brazil,BRA,Czechoslovakia,TCH,1,1,2,0,3,1,Brazil,1.0,1.0,2.0,0.0,3.0,1.0,Champion,Finals,7.0,6.0,7.0
-22,135,1343,3482,1958-06-29,1958,Sweden,Solna,Rasunda Stadium,49737.0,Finals,Brazil,BRA,Sweden,SWE,2,1,3,1,5,2,Brazil,2.0,1.0,3.0,1.0,5.0,2.0,Champion,Finals,7.0,6.0,7.0
-16,96,1248,212,1954-06-27,1954,Switzerland,Berne,Wankdorf Stadium,40000.0,Quarterfinals,Hungary,HUN,Brazil,BRA,2,1,2,1,4,2,Hungary,2.0,1.0,2.0,1.0,4.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
-11,70,1189,209,1950-07-09,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,138886.0,Finals,Brazil,BRA,Sweden,SWE,3,0,4,1,7,1,Brazil,3.0,0.0,4.0,1.0,7.0,1.0,Finals,Finals,6.0,6.0,6.0
-7,51,1151,3488,1938-06-19,1938,France,Bordeaux,Stade du Parc Lescure,12000.0,Third place,Brazil,BRA,Sweden,SWE,1,2,3,0,4,2,Brazil,1.0,2.0,3.0,0.0,4.0,2.0,Third place,Third place,5.0,5.0,5.0
-2,23,1111,204,1934-05-27,1934,Italy,Genoa,Luigi Ferraris,21000.0,Groups,Spain,ESP,Brazil,BRA,3,0,0,1,3,1,Spain,3.0,0.0,0.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
-0,2,1093,201,1930-07-14,1930,Uruguay,Montevideo,Parque Central,24059.0,Groups,Yugoslavia,YUG,Brazil,BRA,2,0,0,1,2,1,Yugoslavia,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Brazil_result_value
+103,103,827,300186502,255957,2014-07-12,2014,Brazil,Brasília,Estadio Nacional,68034.0,Third place,Brazil,BRA,Netherlands,NED,0,2,0,1,0,3,Netherlands,2.0,0.0,1.0,0.0,3.0,0.0,Third place,Third place,5.0,5.0,5.0
+96,96,764,300061507,249718,2010-07-02,2010,South Africa,Port Elizabeth,Port Elizabeth Stadium,40186.0,Quarterfinals,Netherlands,NED,Brazil,BRA,0,1,2,0,2,1,Netherlands,0.0,1.0,2.0,0.0,2.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+91,91,703,97410060,97410300,2006-07-01,2006,Germany,Frankfurt am Main,"FIFA World Cup Stadium, Frankfurt",48000.0,Quarterfinals,Brazil,BRA,France,FRA,0,0,0,1,0,1,France,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+86,86,644,43950064,43950600,2002-06-30,2002,Japan,Yokohama,International Stadium Yokohama,69029.0,Finals,Germany,GER,Brazil,BRA,0,0,0,2,0,2,Brazil,0.0,0.0,2.0,0.0,2.0,0.0,Finals,Champion,6.0,7.0,7.0
+79,79,579,8788,1027,1998-07-12,1998,France,Saint-Denis,Stade de France,80000.0,Finals,Brazil,BRA,France,FRA,0,2,0,1,0,3,France,2.0,0.0,1.0,0.0,3.0,0.0,Finals,Champion,6.0,7.0,6.0
+72,72,515,3104,3459,1994-07-17,1994,United States,Pasadena,Rose Bowl,94194.0,Finals,Brazil,BRA,Italy,ITA,0,0,0,0,0,0,Brazil,0.0,0.0,0.0,0.0,0.0,0.0,Champion,Finals,7.0,6.0,7.0
+65,65,450,25,323,1990-06-24,1990,Italy,Turin,Stadio delle Alpi,61381.0,Round of 16,Brazil,BRA,Argentina,ARG,0,0,0,1,0,1,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+61,61,404,440,714,1986-06-21,1986,Mexico,Guadalajara,Jalisco,65000.0,Quarterfinals,Brazil,BRA,France,FRA,0,0,1,1,1,1,France,0.0,0.0,1.0,1.0,1.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+55,55,350,750,294,1982-07-02,1982,Spain,Barcelona,Sarria,44000.0,Round of 16,Argentina,ARG,Brazil,BRA,0,1,1,2,1,3,Brazil,1.0,0.0,2.0,1.0,3.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+51,51,307,2247,280,1978-06-24,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,69659.0,Third place,Brazil,BRA,Italy,ITA,0,1,2,0,2,1,Brazil,0.0,1.0,2.0,0.0,2.0,1.0,Third place,Third place,5.0,5.0,5.0
+44,44,268,1984,264,1974-07-06,1974,Germany,Munich,Olympiastadion,77100.0,Third place,Brazil,BRA,Poland,POL,0,0,0,1,0,1,Poland,0.0,0.0,1.0,0.0,1.0,0.0,Third place,Third place,5.0,5.0,5.0
+37,37,231,1765,3476,1970-06-21,1970,Mexico,Mexico City,Estadio Azteca,107412.0,Finals,Brazil,BRA,Italy,ITA,1,1,3,0,4,1,Brazil,1.0,1.0,3.0,0.0,4.0,1.0,Champion,Finals,7.0,6.0,7.0
+29,29,170,1596,238,1966-07-12,1966,England,Liverpool,Goodison Park,47308.0,Groups,Brazil,BRA,Bulgaria,BUL,1,0,1,0,2,0,Brazil,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+28,28,167,1463,3480,1962-06-17,1962,Chile,Santiago,Nacional,68679.0,Finals,Brazil,BRA,Czechoslovakia,TCH,1,1,2,0,3,1,Brazil,1.0,1.0,2.0,0.0,3.0,1.0,Champion,Finals,7.0,6.0,7.0
+22,22,135,1343,3482,1958-06-29,1958,Sweden,Solna,Rasunda Stadium,49737.0,Finals,Brazil,BRA,Sweden,SWE,2,1,3,1,5,2,Brazil,2.0,1.0,3.0,1.0,5.0,2.0,Champion,Finals,7.0,6.0,7.0
+16,16,96,1248,212,1954-06-27,1954,Switzerland,Berne,Wankdorf Stadium,40000.0,Quarterfinals,Hungary,HUN,Brazil,BRA,2,1,2,1,4,2,Hungary,2.0,1.0,2.0,1.0,4.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+11,11,70,1189,209,1950-07-09,1950,Brazil,Rio de Janeiro,Maracanã - Estádio Jornalista Mário Filho,138886.0,Finals,Brazil,BRA,Sweden,SWE,3,0,4,1,7,1,Brazil,3.0,0.0,4.0,1.0,7.0,1.0,Finals,Finals,6.0,6.0,6.0
+7,7,51,1151,3488,1938-06-19,1938,France,Bordeaux,Stade du Parc Lescure,12000.0,Third place,Brazil,BRA,Sweden,SWE,1,2,3,0,4,2,Brazil,1.0,2.0,3.0,0.0,4.0,2.0,Third place,Third place,5.0,5.0,5.0
+2,2,23,1111,204,1934-05-27,1934,Italy,Genoa,Luigi Ferraris,21000.0,Groups,Spain,ESP,Brazil,BRA,3,0,0,1,3,1,Spain,3.0,0.0,0.0,1.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+0,0,2,1093,201,1930-07-14,1930,Uruguay,Montevideo,Parque Central,24059.0,Groups,Yugoslavia,YUG,Brazil,BRA,2,0,0,1,2,1,Yugoslavia,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0

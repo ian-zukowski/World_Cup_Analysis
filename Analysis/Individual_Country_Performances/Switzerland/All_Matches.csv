@@ -1,35 +1,35 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
-0,20,1133,204,1934-05-27,1934,Italy,Milan,San Siro,33000.0,Groups,Switzerland,SUI,Netherlands,NED,2,1,1,1,3,2,Switzerland,2.0,1.0,1.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0
-1,26,1143,418,1934-05-31,1934,Italy,Turin,Stadio Benito Mussolini,12000.0,Quarterfinals,Czechoslovakia,TCH,Switzerland,SUI,1,1,2,1,3,2,Czechoslovakia,1.0,1.0,2.0,1.0,3.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0
-2,35,1165,206,1938-06-04,1938,France,Paris,Parc des Princes,27152.0,Groups,Switzerland,SUI,Germany,GER,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-3,43,1166,206,1938-06-09,1938,France,Paris,Parc des Princes,20025.0,Groups,Switzerland,SUI,Germany,GER,1,2,3,0,4,2,Switzerland,1.0,2.0,3.0,0.0,4.0,2.0,Groups,Groups,1.0,1.0
-4,45,1175,429,1938-06-12,1938,France,Lille,Victor Boucquey,15000.0,Quarterfinals,Hungary,HUN,Switzerland,SUI,1,0,1,0,2,0,Hungary,1.0,0.0,1.0,0.0,2.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-5,57,1230,208,1950-06-25,1950,Brazil,Belo Horizonte,Independencia,7336.0,Groups,Yugoslavia,YUG,Switzerland,SUI,0,0,3,0,3,0,Yugoslavia,0.0,0.0,3.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-6,58,1188,208,1950-06-28,1950,Brazil,São Paulo,Pacaembu,42032.0,Groups,Brazil,BRA,Switzerland,SUI,2,1,0,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0
-7,67,1222,208,1950-07-02,1950,Brazil,Porto Alegre,Eucaliptos,3580.0,Groups,Switzerland,SUI,Mexico,MEX,2,0,0,1,2,1,Switzerland,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-8,82,1300,211,1954-06-17,1954,Switzerland,Lausanne,La Pontaise,43000.0,Groups,Switzerland,SUI,Italy,ITA,1,1,1,0,2,1,Switzerland,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-9,89,1263,211,1954-06-20,1954,Switzerland,Berne,Wankdorf Stadium,43500.0,Groups,England,ENG,Switzerland,SUI,1,0,1,0,2,0,England,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-10,92,1301,211,1954-06-23,1954,Switzerland,Basel,St. Jakob,30000.0,Groups,Switzerland,SUI,Italy,ITA,1,0,3,1,4,1,Switzerland,1.0,0.0,3.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0
-11,94,1237,212,1954-06-26,1954,Switzerland,Lausanne,La Pontaise,35000.0,Quarterfinals,Austria,AUT,Switzerland,SUI,5,4,2,1,7,5,Austria,5.0,4.0,2.0,1.0,7.0,5.0,Quarterfinals,Quarterfinals,3.0,3.0
-12,139,1473,231,1962-05-30,1962,Chile,Santiago,Nacional,65006.0,Groups,Chile,CHI,Switzerland,SUI,1,1,2,0,3,1,Chile,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-13,151,1510,231,1962-06-03,1962,Chile,Santiago,Nacional,64922.0,Groups,West Germany,FRG,Switzerland,SUI,1,0,1,1,2,1,West Germany,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-14,159,1532,231,1962-06-07,1962,Chile,Santiago,Nacional,59828.0,Groups,Italy,ITA,Switzerland,SUI,1,0,2,0,3,0,Italy,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-15,169,1656,238,1966-07-12,1966,England,Sheffield,Hillsborough,36127.0,Groups,West Germany,FRG,Switzerland,SUI,3,0,2,0,5,0,West Germany,3.0,0.0,2.0,0.0,5.0,0.0,Groups,Groups,1.0,1.0
-16,177,1641,238,1966-07-15,1966,England,Sheffield,Hillsborough,32028.0,Groups,Spain,ESP,Switzerland,SUI,0,1,2,0,2,1,Spain,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-17,185,1582,238,1966-07-19,1966,England,Sheffield,Hillsborough,32127.0,Groups,Argentina,ARG,Switzerland,SUI,0,0,2,0,2,0,Argentina,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-18,466,3051,337,1994-06-18,1994,United States,Pontiac,Pontiac Silverdome,73425.0,Groups,United States,USA,Switzerland,SUI,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-19,477,3062,337,1994-06-22,1994,United States,Pontiac,Pontiac Silverdome,61428.0,Groups,Romania,ROU,Switzerland,SUI,1,1,0,3,1,4,Switzerland,1.0,1.0,3.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0
-20,489,3074,337,1994-06-26,1994,United States,Palo Alto,Stanford Stadium,83401.0,Groups,Switzerland,SUI,Colombia,COL,0,1,0,1,0,2,Colombia,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-21,501,3086,338,1994-07-02,1994,United States,Washington,RFK Stadium,53121.0,Round of 16,Spain,ESP,Switzerland,SUI,1,0,2,0,3,0,Spain,1.0,0.0,2.0,0.0,3.0,0.0,Round of 16,Round of 16,2.0,2.0
-22,657,97410013,97410100,2006-06-13,2006,Germany,Stuttgart,Gottlieb-Daimler-Stadion,52000.0,Groups,France,FRA,Switzerland,SUI,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-23,674,97410030,97410100,2006-06-19,2006,Germany,Dortmund,"FIFA World Cup Stadium, Dortmund",65000.0,Groups,Togo,TOG,Switzerland,SUI,0,1,0,1,0,2,Switzerland,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-24,691,97410046,97410100,2006-06-23,2006,Germany,Hanover,"FIFA World Cup Stadium, Hanover",43000.0,Groups,Switzerland,SUI,South Korea,KOR,1,0,1,0,2,0,Switzerland,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-25,697,97410054,97410200,2006-06-26,2006,Germany,Cologne,"FIFA World Cup Stadium, Cologne",45000.0,Round of 16,Switzerland,SUI,Ukraine,UKR,0,0,0,0,0,0,Ukraine,0.0,0.0,0.0,0.0,0.0,0.0,Round of 16,Round of 16,2.0,2.0
-26,723,300111112,249722,2010-06-16,2010,South Africa,Durban,Durban Stadium,62453.0,Groups,Spain,ESP,Switzerland,SUI,0,0,0,1,0,1,Switzerland,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-27,738,300061493,249722,2010-06-21,2010,South Africa,Port Elizabeth,Port Elizabeth Stadium,34872.0,Groups,Chile,CHI,Switzerland,SUI,0,0,1,0,1,0,Chile,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-28,755,300061492,249722,2010-06-25,2010,South Africa,Bloemfontein,Free State Stadium,28042.0,Groups,Switzerland,SUI,Honduras,HON,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-29,780,300186494,255931,2014-06-15,2014,Brazil,Brasília,Estadio Nacional,68351.0,Groups,Switzerland,SUI,Ecuador,ECU,0,1,2,0,2,1,Switzerland,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-30,796,300186514,255931,2014-06-20,2014,Brazil,Salvador,Arena Fonte Nova,51003.0,Groups,Switzerland,SUI,France,FRA,0,3,2,2,2,5,France,3.0,0.0,2.0,2.0,5.0,2.0,Groups,Groups,1.0,1.0
-31,814,300186482,255931,2014-06-25,2014,Brazil,Manaus,Arena Amazonia,40322.0,Groups,Honduras,HON,Switzerland,SUI,0,2,0,1,0,3,Switzerland,2.0,0.0,1.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-32,834,300186503,255951,2014-07-01,2014,Brazil,São Paulo,Arena de Sao Paulo,63255.0,Round of 16,Argentina,ARG,Switzerland,SUI,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
-33,842,300186503,255951,2014-07-01,2014,Brazil,São Paulo,Arena de Sao Paulo,63255.0,Round of 16,Argentina,ARG,Switzerland,SUI,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Switzerland_result_value
+0,0,20,1133,204,1934-05-27,1934,Italy,Milan,San Siro,33000.0,Groups,Switzerland,SUI,Netherlands,NED,2,1,1,1,3,2,Switzerland,2.0,1.0,1.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
+1,1,26,1143,418,1934-05-31,1934,Italy,Turin,Stadio Benito Mussolini,12000.0,Quarterfinals,Czechoslovakia,TCH,Switzerland,SUI,1,1,2,1,3,2,Czechoslovakia,1.0,1.0,2.0,1.0,3.0,2.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+2,2,35,1165,206,1938-06-04,1938,France,Paris,Parc des Princes,27152.0,Groups,Switzerland,SUI,Germany,GER,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+3,3,43,1166,206,1938-06-09,1938,France,Paris,Parc des Princes,20025.0,Groups,Switzerland,SUI,Germany,GER,1,2,3,0,4,2,Switzerland,1.0,2.0,3.0,0.0,4.0,2.0,Groups,Groups,1.0,1.0,1.0
+4,4,45,1175,429,1938-06-12,1938,France,Lille,Victor Boucquey,15000.0,Quarterfinals,Hungary,HUN,Switzerland,SUI,1,0,1,0,2,0,Hungary,1.0,0.0,1.0,0.0,2.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+5,5,57,1230,208,1950-06-25,1950,Brazil,Belo Horizonte,Independencia,7336.0,Groups,Yugoslavia,YUG,Switzerland,SUI,0,0,3,0,3,0,Yugoslavia,0.0,0.0,3.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+6,6,58,1188,208,1950-06-28,1950,Brazil,São Paulo,Pacaembu,42032.0,Groups,Brazil,BRA,Switzerland,SUI,2,1,0,1,2,2,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+7,7,67,1222,208,1950-07-02,1950,Brazil,Porto Alegre,Eucaliptos,3580.0,Groups,Switzerland,SUI,Mexico,MEX,2,0,0,1,2,1,Switzerland,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+8,8,82,1300,211,1954-06-17,1954,Switzerland,Lausanne,La Pontaise,43000.0,Groups,Switzerland,SUI,Italy,ITA,1,1,1,0,2,1,Switzerland,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+9,9,89,1263,211,1954-06-20,1954,Switzerland,Berne,Wankdorf Stadium,43500.0,Groups,England,ENG,Switzerland,SUI,1,0,1,0,2,0,England,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+10,10,92,1301,211,1954-06-23,1954,Switzerland,Basel,St. Jakob,30000.0,Groups,Switzerland,SUI,Italy,ITA,1,0,3,1,4,1,Switzerland,1.0,0.0,3.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0,1.0
+11,11,94,1237,212,1954-06-26,1954,Switzerland,Lausanne,La Pontaise,35000.0,Quarterfinals,Austria,AUT,Switzerland,SUI,5,4,2,1,7,5,Austria,5.0,4.0,2.0,1.0,7.0,5.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+12,12,139,1473,231,1962-05-30,1962,Chile,Santiago,Nacional,65006.0,Groups,Chile,CHI,Switzerland,SUI,1,1,2,0,3,1,Chile,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+13,13,151,1510,231,1962-06-03,1962,Chile,Santiago,Nacional,64922.0,Groups,West Germany,FRG,Switzerland,SUI,1,0,1,1,2,1,West Germany,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+14,14,159,1532,231,1962-06-07,1962,Chile,Santiago,Nacional,59828.0,Groups,Italy,ITA,Switzerland,SUI,1,0,2,0,3,0,Italy,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+15,15,169,1656,238,1966-07-12,1966,England,Sheffield,Hillsborough,36127.0,Groups,West Germany,FRG,Switzerland,SUI,3,0,2,0,5,0,West Germany,3.0,0.0,2.0,0.0,5.0,0.0,Groups,Groups,1.0,1.0,1.0
+16,16,177,1641,238,1966-07-15,1966,England,Sheffield,Hillsborough,32028.0,Groups,Spain,ESP,Switzerland,SUI,0,1,2,0,2,1,Spain,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+17,17,185,1582,238,1966-07-19,1966,England,Sheffield,Hillsborough,32127.0,Groups,Argentina,ARG,Switzerland,SUI,0,0,2,0,2,0,Argentina,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+18,18,466,3051,337,1994-06-18,1994,United States,Pontiac,Pontiac Silverdome,73425.0,Groups,United States,USA,Switzerland,SUI,1,1,0,0,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+19,19,477,3062,337,1994-06-22,1994,United States,Pontiac,Pontiac Silverdome,61428.0,Groups,Romania,ROU,Switzerland,SUI,1,1,0,3,1,4,Switzerland,1.0,1.0,3.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0,1.0
+20,20,489,3074,337,1994-06-26,1994,United States,Palo Alto,Stanford Stadium,83401.0,Groups,Switzerland,SUI,Colombia,COL,0,1,0,1,0,2,Colombia,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+21,21,501,3086,338,1994-07-02,1994,United States,Washington,RFK Stadium,53121.0,Round of 16,Spain,ESP,Switzerland,SUI,1,0,2,0,3,0,Spain,1.0,0.0,2.0,0.0,3.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+22,22,657,97410013,97410100,2006-06-13,2006,Germany,Stuttgart,Gottlieb-Daimler-Stadion,52000.0,Groups,France,FRA,Switzerland,SUI,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+23,23,674,97410030,97410100,2006-06-19,2006,Germany,Dortmund,"FIFA World Cup Stadium, Dortmund",65000.0,Groups,Togo,TOG,Switzerland,SUI,0,1,0,1,0,2,Switzerland,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+24,24,691,97410046,97410100,2006-06-23,2006,Germany,Hanover,"FIFA World Cup Stadium, Hanover",43000.0,Groups,Switzerland,SUI,South Korea,KOR,1,0,1,0,2,0,Switzerland,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+25,25,697,97410054,97410200,2006-06-26,2006,Germany,Cologne,"FIFA World Cup Stadium, Cologne",45000.0,Round of 16,Switzerland,SUI,Ukraine,UKR,0,0,0,0,0,0,Ukraine,0.0,0.0,0.0,0.0,0.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+26,26,723,300111112,249722,2010-06-16,2010,South Africa,Durban,Durban Stadium,62453.0,Groups,Spain,ESP,Switzerland,SUI,0,0,0,1,0,1,Switzerland,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+27,27,738,300061493,249722,2010-06-21,2010,South Africa,Port Elizabeth,Port Elizabeth Stadium,34872.0,Groups,Chile,CHI,Switzerland,SUI,0,0,1,0,1,0,Chile,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+28,28,755,300061492,249722,2010-06-25,2010,South Africa,Bloemfontein,Free State Stadium,28042.0,Groups,Switzerland,SUI,Honduras,HON,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+29,29,780,300186494,255931,2014-06-15,2014,Brazil,Brasília,Estadio Nacional,68351.0,Groups,Switzerland,SUI,Ecuador,ECU,0,1,2,0,2,1,Switzerland,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+30,30,796,300186514,255931,2014-06-20,2014,Brazil,Salvador,Arena Fonte Nova,51003.0,Groups,Switzerland,SUI,France,FRA,0,3,2,2,2,5,France,3.0,0.0,2.0,2.0,5.0,2.0,Groups,Groups,1.0,1.0,1.0
+31,31,814,300186482,255931,2014-06-25,2014,Brazil,Manaus,Arena Amazonia,40322.0,Groups,Honduras,HON,Switzerland,SUI,0,2,0,1,0,3,Switzerland,2.0,0.0,1.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+32,32,834,300186503,255951,2014-07-01,2014,Brazil,São Paulo,Arena de Sao Paulo,63255.0,Round of 16,Argentina,ARG,Switzerland,SUI,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+33,33,842,300186503,255951,2014-07-01,2014,Brazil,São Paulo,Arena de Sao Paulo,63255.0,Round of 16,Argentina,ARG,Switzerland,SUI,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0

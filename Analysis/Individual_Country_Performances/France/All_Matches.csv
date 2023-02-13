@@ -1,62 +1,62 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
-0,0,1096,201,1930-07-13,1930,Uruguay,Montevideo,Pocitos,4444.0,Groups,France,FRA,Mexico,MEX,3,0,1,1,4,1,France,3.0,0.0,1.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0
-1,4,1085,201,1930-07-15,1930,Uruguay,Montevideo,Parque Central,23409.0,Groups,Argentina,ARG,France,FRA,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-2,9,1094,201,1930-07-19,1930,Uruguay,Montevideo,Estadio Centenario,2000.0,Groups,Chile,CHI,France,FRA,0,0,1,0,1,0,Chile,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-3,18,1104,204,1934-05-27,1934,Italy,Turin,Stadio Benito Mussolini,16000.0,Groups,Austria,AUT,France,FRA,0,0,3,2,3,2,Austria,0.0,0.0,3.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0
-4,37,1146,206,1938-06-05,1938,France,Colombes,Stade Olympique,30454.0,Groups,France,FRA,Belgium,BEL,2,1,1,0,3,1,France,2.0,1.0,1.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-5,47,1164,429,1938-06-12,1938,France,Colombes,Stade Olympique,58455.0,Quarterfinals,Italy,ITA,France,FRA,1,1,2,0,3,1,Italy,1.0,1.0,2.0,0.0,3.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
-6,78,1276,211,1954-06-16,1954,Switzerland,Lausanne,La Pontaise,16000.0,Groups,Yugoslavia,YUG,France,FRA,1,0,0,0,1,0,Yugoslavia,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-7,85,1275,211,1954-06-19,1954,Switzerland,Geneva,Charmilles,19000.0,Groups,France,FRA,Mexico,MEX,1,0,2,2,3,2,France,1.0,0.0,2.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0
-8,105,1386,220,1958-06-08,1958,Sweden,Norrköping,Idrottsparken,16518.0,Groups,France,FRA,Paraguay,PAR,2,2,5,1,7,3,France,2.0,2.0,5.0,1.0,7.0,3.0,Groups,Groups,1.0,1.0
-9,112,1388,220,1958-06-11,1958,Sweden,Västerås,Arosvallen,12217.0,Groups,Yugoslavia,YUG,France,FRA,1,1,2,1,3,2,Yugoslavia,1.0,1.0,2.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0
-10,122,1387,220,1958-06-15,1958,Sweden,Örebro,Eyravallen,13554.0,Groups,France,FRA,Scotland,SCO,2,0,0,1,2,1,France,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-11,131,1385,221,1958-06-19,1958,Sweden,Norrköping,Idrottsparken,11800.0,Quarterfinals,France,FRA,Northern Ireland,NIR,1,0,3,0,4,0,France,1.0,0.0,3.0,0.0,4.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-12,133,1340,488,1958-06-24,1958,Sweden,Solna,Rasunda Stadium,27100.0,Semifinals,Brazil,BRA,France,FRA,2,1,3,1,5,2,Brazil,2.0,1.0,3.0,1.0,5.0,2.0,Semifinals,Semifinals,4.0,4.0
-13,134,1382,3483,1958-06-28,1958,Sweden,Gothenburg,Nya Ullevi,32483.0,Third place,France,FRA,West Germany,FRG,3,1,3,2,6,3,France,3.0,1.0,3.0,2.0,6.0,3.0,Third place,Third place,5.0,5.0
-14,172,1650,238,1966-07-13,1966,England,London,Wembley Stadium,69237.0,Groups,France,FRA,Mexico,MEX,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-15,176,1653,238,1966-07-15,1966,England,London,White City,45662.0,Groups,Uruguay,URU,France,FRA,2,1,0,0,2,1,Uruguay,2.0,1.0,0.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-16,188,1632,238,1966-07-20,1966,England,London,Wembley Stadium,98270.0,Groups,England,ENG,France,FRA,1,0,1,0,2,0,England,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-17,271,2347,278,1978-06-02,1978,Argentina,Mar del Plata,Estadio José María Minella,42373.0,Groups,Italy,ITA,France,FRA,1,1,1,0,2,1,Italy,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-18,282,2197,278,1978-06-06,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,71666.0,Groups,Argentina,ARG,France,FRA,1,0,1,1,2,1,Argentina,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-19,287,2344,278,1978-06-10,1978,Argentina,Mar del Plata,Estadio José María Minella,23127.0,Groups,France,FRA,Hungary,HUN,3,1,0,0,3,1,France,3.0,1.0,0.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-20,316,878,293,1982-06-16,1982,Spain,Bilbao,San Mames,44172.0,Groups,England,ENG,France,FRA,1,1,2,0,3,1,England,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0
-21,331,919,293,1982-06-21,1982,Spain,Valladolid,Jose Zorrilla,30043.0,Groups,France,FRA,Kuwait,KUW,2,0,2,1,4,1,France,2.0,0.0,2.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0
-22,339,922,293,1982-06-24,1982,Spain,Valladolid,Jose Zorrilla,28000.0,Groups,France,FRA,Czechoslovakia,TCH,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-23,344,767,294,1982-06-28,1982,Spain,Madrid,Vicente Calderon,37000.0,Round of 16,Austria,AUT,France,FRA,0,1,0,0,0,1,France,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
-24,352,920,294,1982-07-04,1982,Spain,Madrid,Vicente Calderon,37000.0,Round of 16,France,FRA,Northern Ireland,NIR,1,0,3,1,4,1,France,1.0,0.0,3.0,1.0,4.0,1.0,Round of 16,Round of 16,2.0,2.0
-25,357,914,295,1982-07-08,1982,Spain,Seville,Ramon Sanchez Pizjuan,70000.0,Semifinals,West Germany,FRG,France,FRA,0,0,3,3,3,3,West Germany,0.0,0.0,3.0,3.0,3.0,3.0,Semifinals,Semifinals,4.0,4.0
-26,358,921,676,1982-07-10,1982,Spain,Alicante,Jose Rico Perez,28000.0,Third place,Poland,POL,France,FRA,2,1,1,1,3,2,Poland,2.0,1.0,1.0,1.0,3.0,2.0,Third place,Third place,5.0,5.0
-27,361,468,308,1986-06-01,1986,Mexico,León,Nou Camp - Estadio León,65500.0,Groups,Canada,CAN,France,FRA,0,0,0,1,0,1,France,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-28,373,571,308,1986-06-05,1986,Mexico,León,Nou Camp - Estadio León,36540.0,Groups,France,FRA,Soviet Union,URS,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-29,384,567,308,1986-06-09,1986,Mexico,León,Nou Camp - Estadio León,31420.0,Groups,Hungary,HUN,France,FRA,0,1,0,2,0,3,France,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-30,400,568,309,1986-06-17,1986,Mexico,Mexico City,Estadio Olímpico Universitario,70000.0,Round of 16,Italy,ITA,France,FRA,0,1,0,1,0,2,France,1.0,0.0,1.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0
-31,404,440,714,1986-06-21,1986,Mexico,Guadalajara,Jalisco,65000.0,Quarterfinals,Brazil,BRA,France,FRA,0,0,1,1,1,1,France,0.0,0.0,1.0,1.0,1.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0
-32,408,564,3469,1986-06-25,1986,Mexico,Guadalajara,Jalisco,45000.0,Semifinals,France,FRA,West Germany,FRG,0,1,0,1,0,2,West Germany,1.0,0.0,1.0,0.0,2.0,0.0,Semifinals,Semifinals,4.0,4.0
-33,410,422,3468,1986-06-28,1986,Mexico,Puebla,Cuauhtemoc,21000.0,Third place,France,FRA,Belgium,BEL,0,0,4,2,4,2,France,0.0,0.0,4.0,2.0,4.0,2.0,Third place,Third place,5.0,5.0
-34,522,8730,1014,1998-06-12,1998,France,Marseille,Stade Vélodrome,55000.0,Groups,France,FRA,South Africa,RSA,1,0,2,0,3,0,France,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-35,537,8745,1014,1998-06-18,1998,France,Saint-Denis,Stade de France,80000.0,Groups,France,FRA,Saudi Arabia,KSA,1,0,3,0,4,0,France,1.0,0.0,3.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0
-36,552,8762,1014,1998-06-24,1998,France,Lyon,Stade de Gerland,39100.0,Groups,France,FRA,Denmark,DEN,1,1,1,0,2,1,France,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-37,566,8776,1024,1998-06-28,1998,France,Lens,Stade Felix Bollaert,31800.0,Round of 16,France,FRA,Paraguay,PAR,0,0,1,0,1,0,France,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
-38,572,8781,1025,1998-07-03,1998,France,Saint-Denis,Stade de France,77000.0,Quarterfinals,Italy,ITA,France,FRA,0,0,0,0,0,0,France,0.0,0.0,0.0,0.0,0.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-39,577,8786,1026,1998-07-08,1998,France,Saint-Denis,Stade de France,76000.0,Semifinals,France,FRA,Croatia,CRO,0,0,2,1,2,1,France,0.0,0.0,2.0,1.0,2.0,1.0,Semifinals,Semifinals,4.0,4.0
-40,579,8788,1027,1998-07-12,1998,France,Saint-Denis,Stade de France,80000.0,Finals,Brazil,BRA,France,FRA,0,2,0,1,0,3,France,2.0,0.0,1.0,0.0,3.0,0.0,Finals,Champion,6.0,7.0
-41,580,43950001,43950100,2002-05-31,2002,South Korea,Seoul,Seoul World Cup Stadium,62561.0,Groups,France,FRA,Senegal,SEN,0,1,0,0,0,1,Senegal,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0
-42,599,43950018,43950100,2002-06-06,2002,South Korea,Busan,Busan Asiad Main Stadium,38289.0,Groups,France,FRA,Uruguay,URU,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-43,612,43950033,43950100,2002-06-11,2002,South Korea,Incheon,Incheon Football Stadium,48100.0,Groups,Denmark,DEN,France,FRA,1,0,1,0,2,0,Denmark,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-44,657,97410013,97410100,2006-06-13,2006,Germany,Stuttgart,Gottlieb-Daimler-Stadion,52000.0,Groups,France,FRA,Switzerland,SUI,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-45,673,97410029,97410100,2006-06-18,2006,Germany,Leipzig,Zentralstadion,43000.0,Groups,France,FRA,South Korea,KOR,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-46,690,97410045,97410100,2006-06-23,2006,Germany,Cologne,"FIFA World Cup Stadium, Cologne",45000.0,Groups,Togo,TOG,France,FRA,0,0,0,2,0,2,France,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-47,699,97410056,97410200,2006-06-27,2006,Germany,Hanover,"FIFA World Cup Stadium, Hanover",43000.0,Round of 16,Spain,ESP,France,FRA,1,1,0,2,1,3,France,1.0,1.0,2.0,0.0,3.0,1.0,Round of 16,Round of 16,2.0,2.0
-48,703,97410060,97410300,2006-07-01,2006,Germany,Frankfurt am Main,"FIFA World Cup Stadium, Frankfurt",48000.0,Quarterfinals,Brazil,BRA,France,FRA,0,0,0,1,0,1,France,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-49,705,97410062,97410400,2006-07-05,2006,Germany,Munich,"FIFA World Cup Stadium, Munich",66000.0,Semifinals,Portugal,POR,France,FRA,0,1,0,0,0,1,France,1.0,0.0,0.0,0.0,1.0,0.0,Semifinals,Semifinals,4.0,4.0
-50,707,97410064,97410600,2006-07-09,2006,Germany,Berlin,Olympiastadion,69000.0,Finals,Italy,ITA,France,FRA,0,0,1,1,1,1,Italy,0.0,0.0,1.0,1.0,1.0,1.0,Champion,Finals,7.0,6.0
-51,709,300061453,249722,2010-06-11,2010,South Africa,Cape Town,Cape Town Stadium,64100.0,Groups,Uruguay,URU,France,FRA,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-52,727,300061451,249722,2010-06-17,2010,South Africa,Polokwane,Peter Mokaba Stadium,35370.0,Groups,France,FRA,Mexico,MEX,0,0,0,2,0,2,Mexico,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0
-53,741,300061449,249722,2010-06-22,2010,South Africa,Bloemfontein,Free State Stadium,39415.0,Groups,France,FRA,South Africa,RSA,0,2,1,0,1,2,South Africa,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0
-54,781,300186496,255931,2014-06-15,2014,Brazil,Porto Alegre,Estadio Beira-Rio,43012.0,Groups,France,FRA,Honduras,HON,1,0,2,0,3,0,France,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-55,796,300186514,255931,2014-06-20,2014,Brazil,Salvador,Arena Fonte Nova,51003.0,Groups,Switzerland,SUI,France,FRA,0,3,2,2,2,5,France,3.0,0.0,2.0,2.0,5.0,2.0,Groups,Groups,1.0,1.0
-56,815,300186515,255931,2014-06-25,2014,Brazil,Rio de Janeiro,Estadio do Maracana,73749.0,Groups,Ecuador,ECU,France,FRA,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0
-57,822,300186462,255951,2014-06-30,2014,Brazil,Brasília,Estadio Nacional,67882.0,Round of 16,France,FRA,Nigeria,NGA,0,0,2,0,2,0,France,0.0,0.0,2.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0
-58,825,300186485,255953,2014-07-04,2014,Brazil,Rio de Janeiro,Estadio do Maracana,74240.0,Quarterfinals,France,FRA,Germany,GER,0,1,0,0,0,1,Germany,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-59,840,300186462,255951,2014-06-30,2014,Brazil,Brasília,Estadio Nacional,67882.0,Round of 16,France,FRA,Nigeria,NGA,0,0,2,0,2,0,France,0.0,0.0,2.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0
-60,844,300186485,255953,2014-07-04,2014,Brazil,Rio de Janeiro,Estadio do Maracana,74240.0,Quarterfinals,France,FRA,Germany,GER,0,1,0,0,0,1,Germany,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,France_result_value
+0,0,0,1096,201,1930-07-13,1930,Uruguay,Montevideo,Pocitos,4444.0,Groups,France,FRA,Mexico,MEX,3,0,1,1,4,1,France,3.0,0.0,1.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0,1.0
+1,1,4,1085,201,1930-07-15,1930,Uruguay,Montevideo,Parque Central,23409.0,Groups,Argentina,ARG,France,FRA,0,0,1,0,1,0,Argentina,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+2,2,9,1094,201,1930-07-19,1930,Uruguay,Montevideo,Estadio Centenario,2000.0,Groups,Chile,CHI,France,FRA,0,0,1,0,1,0,Chile,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+3,3,18,1104,204,1934-05-27,1934,Italy,Turin,Stadio Benito Mussolini,16000.0,Groups,Austria,AUT,France,FRA,0,0,3,2,3,2,Austria,0.0,0.0,3.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
+4,4,37,1146,206,1938-06-05,1938,France,Colombes,Stade Olympique,30454.0,Groups,France,FRA,Belgium,BEL,2,1,1,0,3,1,France,2.0,1.0,1.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+5,5,47,1164,429,1938-06-12,1938,France,Colombes,Stade Olympique,58455.0,Quarterfinals,Italy,ITA,France,FRA,1,1,2,0,3,1,Italy,1.0,1.0,2.0,0.0,3.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+6,6,78,1276,211,1954-06-16,1954,Switzerland,Lausanne,La Pontaise,16000.0,Groups,Yugoslavia,YUG,France,FRA,1,0,0,0,1,0,Yugoslavia,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+7,7,85,1275,211,1954-06-19,1954,Switzerland,Geneva,Charmilles,19000.0,Groups,France,FRA,Mexico,MEX,1,0,2,2,3,2,France,1.0,0.0,2.0,2.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
+8,8,105,1386,220,1958-06-08,1958,Sweden,Norrköping,Idrottsparken,16518.0,Groups,France,FRA,Paraguay,PAR,2,2,5,1,7,3,France,2.0,2.0,5.0,1.0,7.0,3.0,Groups,Groups,1.0,1.0,1.0
+9,9,112,1388,220,1958-06-11,1958,Sweden,Västerås,Arosvallen,12217.0,Groups,Yugoslavia,YUG,France,FRA,1,1,2,1,3,2,Yugoslavia,1.0,1.0,2.0,1.0,3.0,2.0,Groups,Groups,1.0,1.0,1.0
+10,10,122,1387,220,1958-06-15,1958,Sweden,Örebro,Eyravallen,13554.0,Groups,France,FRA,Scotland,SCO,2,0,0,1,2,1,France,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+11,11,131,1385,221,1958-06-19,1958,Sweden,Norrköping,Idrottsparken,11800.0,Quarterfinals,France,FRA,Northern Ireland,NIR,1,0,3,0,4,0,France,1.0,0.0,3.0,0.0,4.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+12,12,133,1340,488,1958-06-24,1958,Sweden,Solna,Rasunda Stadium,27100.0,Semifinals,Brazil,BRA,France,FRA,2,1,3,1,5,2,Brazil,2.0,1.0,3.0,1.0,5.0,2.0,Semifinals,Semifinals,4.0,4.0,4.0
+13,13,134,1382,3483,1958-06-28,1958,Sweden,Gothenburg,Nya Ullevi,32483.0,Third place,France,FRA,West Germany,FRG,3,1,3,2,6,3,France,3.0,1.0,3.0,2.0,6.0,3.0,Third place,Third place,5.0,5.0,5.0
+14,14,172,1650,238,1966-07-13,1966,England,London,Wembley Stadium,69237.0,Groups,France,FRA,Mexico,MEX,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+15,15,176,1653,238,1966-07-15,1966,England,London,White City,45662.0,Groups,Uruguay,URU,France,FRA,2,1,0,0,2,1,Uruguay,2.0,1.0,0.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+16,16,188,1632,238,1966-07-20,1966,England,London,Wembley Stadium,98270.0,Groups,England,ENG,France,FRA,1,0,1,0,2,0,England,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+17,17,271,2347,278,1978-06-02,1978,Argentina,Mar del Plata,Estadio José María Minella,42373.0,Groups,Italy,ITA,France,FRA,1,1,1,0,2,1,Italy,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+18,18,282,2197,278,1978-06-06,1978,Argentina,Buenos Aires,El Monumental - Estadio Monumental Antonio Vespuci,71666.0,Groups,Argentina,ARG,France,FRA,1,0,1,1,2,1,Argentina,1.0,0.0,1.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+19,19,287,2344,278,1978-06-10,1978,Argentina,Mar del Plata,Estadio José María Minella,23127.0,Groups,France,FRA,Hungary,HUN,3,1,0,0,3,1,France,3.0,1.0,0.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+20,20,316,878,293,1982-06-16,1982,Spain,Bilbao,San Mames,44172.0,Groups,England,ENG,France,FRA,1,1,2,0,3,1,England,1.0,1.0,2.0,0.0,3.0,1.0,Groups,Groups,1.0,1.0,1.0
+21,21,331,919,293,1982-06-21,1982,Spain,Valladolid,Jose Zorrilla,30043.0,Groups,France,FRA,Kuwait,KUW,2,0,2,1,4,1,France,2.0,0.0,2.0,1.0,4.0,1.0,Groups,Groups,1.0,1.0,1.0
+22,22,339,922,293,1982-06-24,1982,Spain,Valladolid,Jose Zorrilla,28000.0,Groups,France,FRA,Czechoslovakia,TCH,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+23,23,344,767,294,1982-06-28,1982,Spain,Madrid,Vicente Calderon,37000.0,Round of 16,Austria,AUT,France,FRA,0,1,0,0,0,1,France,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+24,24,352,920,294,1982-07-04,1982,Spain,Madrid,Vicente Calderon,37000.0,Round of 16,France,FRA,Northern Ireland,NIR,1,0,3,1,4,1,France,1.0,0.0,3.0,1.0,4.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+25,25,357,914,295,1982-07-08,1982,Spain,Seville,Ramon Sanchez Pizjuan,70000.0,Semifinals,West Germany,FRG,France,FRA,0,0,3,3,3,3,West Germany,0.0,0.0,3.0,3.0,3.0,3.0,Semifinals,Semifinals,4.0,4.0,4.0
+26,26,358,921,676,1982-07-10,1982,Spain,Alicante,Jose Rico Perez,28000.0,Third place,Poland,POL,France,FRA,2,1,1,1,3,2,Poland,2.0,1.0,1.0,1.0,3.0,2.0,Third place,Third place,5.0,5.0,5.0
+27,27,361,468,308,1986-06-01,1986,Mexico,León,Nou Camp - Estadio León,65500.0,Groups,Canada,CAN,France,FRA,0,0,0,1,0,1,France,0.0,0.0,1.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+28,28,373,571,308,1986-06-05,1986,Mexico,León,Nou Camp - Estadio León,36540.0,Groups,France,FRA,Soviet Union,URS,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+29,29,384,567,308,1986-06-09,1986,Mexico,León,Nou Camp - Estadio León,31420.0,Groups,Hungary,HUN,France,FRA,0,1,0,2,0,3,France,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+30,30,400,568,309,1986-06-17,1986,Mexico,Mexico City,Estadio Olímpico Universitario,70000.0,Round of 16,Italy,ITA,France,FRA,0,1,0,1,0,2,France,1.0,0.0,1.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+31,31,404,440,714,1986-06-21,1986,Mexico,Guadalajara,Jalisco,65000.0,Quarterfinals,Brazil,BRA,France,FRA,0,0,1,1,1,1,France,0.0,0.0,1.0,1.0,1.0,1.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+32,32,408,564,3469,1986-06-25,1986,Mexico,Guadalajara,Jalisco,45000.0,Semifinals,France,FRA,West Germany,FRG,0,1,0,1,0,2,West Germany,1.0,0.0,1.0,0.0,2.0,0.0,Semifinals,Semifinals,4.0,4.0,4.0
+33,33,410,422,3468,1986-06-28,1986,Mexico,Puebla,Cuauhtemoc,21000.0,Third place,France,FRA,Belgium,BEL,0,0,4,2,4,2,France,0.0,0.0,4.0,2.0,4.0,2.0,Third place,Third place,5.0,5.0,5.0
+34,34,522,8730,1014,1998-06-12,1998,France,Marseille,Stade Vélodrome,55000.0,Groups,France,FRA,South Africa,RSA,1,0,2,0,3,0,France,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+35,35,537,8745,1014,1998-06-18,1998,France,Saint-Denis,Stade de France,80000.0,Groups,France,FRA,Saudi Arabia,KSA,1,0,3,0,4,0,France,1.0,0.0,3.0,0.0,4.0,0.0,Groups,Groups,1.0,1.0,1.0
+36,36,552,8762,1014,1998-06-24,1998,France,Lyon,Stade de Gerland,39100.0,Groups,France,FRA,Denmark,DEN,1,1,1,0,2,1,France,1.0,1.0,1.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+37,37,566,8776,1024,1998-06-28,1998,France,Lens,Stade Felix Bollaert,31800.0,Round of 16,France,FRA,Paraguay,PAR,0,0,1,0,1,0,France,0.0,0.0,1.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+38,38,572,8781,1025,1998-07-03,1998,France,Saint-Denis,Stade de France,77000.0,Quarterfinals,Italy,ITA,France,FRA,0,0,0,0,0,0,France,0.0,0.0,0.0,0.0,0.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+39,39,577,8786,1026,1998-07-08,1998,France,Saint-Denis,Stade de France,76000.0,Semifinals,France,FRA,Croatia,CRO,0,0,2,1,2,1,France,0.0,0.0,2.0,1.0,2.0,1.0,Semifinals,Semifinals,4.0,4.0,4.0
+40,40,579,8788,1027,1998-07-12,1998,France,Saint-Denis,Stade de France,80000.0,Finals,Brazil,BRA,France,FRA,0,2,0,1,0,3,France,2.0,0.0,1.0,0.0,3.0,0.0,Finals,Champion,6.0,7.0,7.0
+41,41,580,43950001,43950100,2002-05-31,2002,South Korea,Seoul,Seoul World Cup Stadium,62561.0,Groups,France,FRA,Senegal,SEN,0,1,0,0,0,1,Senegal,1.0,0.0,0.0,0.0,1.0,0.0,Groups,Groups,1.0,1.0,1.0
+42,42,599,43950018,43950100,2002-06-06,2002,South Korea,Busan,Busan Asiad Main Stadium,38289.0,Groups,France,FRA,Uruguay,URU,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+43,43,612,43950033,43950100,2002-06-11,2002,South Korea,Incheon,Incheon Football Stadium,48100.0,Groups,Denmark,DEN,France,FRA,1,0,1,0,2,0,Denmark,1.0,0.0,1.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+44,44,657,97410013,97410100,2006-06-13,2006,Germany,Stuttgart,Gottlieb-Daimler-Stadion,52000.0,Groups,France,FRA,Switzerland,SUI,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+45,45,673,97410029,97410100,2006-06-18,2006,Germany,Leipzig,Zentralstadion,43000.0,Groups,France,FRA,South Korea,KOR,1,0,0,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+46,46,690,97410045,97410100,2006-06-23,2006,Germany,Cologne,"FIFA World Cup Stadium, Cologne",45000.0,Groups,Togo,TOG,France,FRA,0,0,0,2,0,2,France,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+47,47,699,97410056,97410200,2006-06-27,2006,Germany,Hanover,"FIFA World Cup Stadium, Hanover",43000.0,Round of 16,Spain,ESP,France,FRA,1,1,0,2,1,3,France,1.0,1.0,2.0,0.0,3.0,1.0,Round of 16,Round of 16,2.0,2.0,2.0
+48,48,703,97410060,97410300,2006-07-01,2006,Germany,Frankfurt am Main,"FIFA World Cup Stadium, Frankfurt",48000.0,Quarterfinals,Brazil,BRA,France,FRA,0,0,0,1,0,1,France,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+49,49,705,97410062,97410400,2006-07-05,2006,Germany,Munich,"FIFA World Cup Stadium, Munich",66000.0,Semifinals,Portugal,POR,France,FRA,0,1,0,0,0,1,France,1.0,0.0,0.0,0.0,1.0,0.0,Semifinals,Semifinals,4.0,4.0,4.0
+50,50,707,97410064,97410600,2006-07-09,2006,Germany,Berlin,Olympiastadion,69000.0,Finals,Italy,ITA,France,FRA,0,0,1,1,1,1,Italy,0.0,0.0,1.0,1.0,1.0,1.0,Champion,Finals,7.0,6.0,6.0
+51,51,709,300061453,249722,2010-06-11,2010,South Africa,Cape Town,Cape Town Stadium,64100.0,Groups,Uruguay,URU,France,FRA,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+52,52,727,300061451,249722,2010-06-17,2010,South Africa,Polokwane,Peter Mokaba Stadium,35370.0,Groups,France,FRA,Mexico,MEX,0,0,0,2,0,2,Mexico,0.0,0.0,2.0,0.0,2.0,0.0,Groups,Groups,1.0,1.0,1.0
+53,53,741,300061449,249722,2010-06-22,2010,South Africa,Bloemfontein,Free State Stadium,39415.0,Groups,France,FRA,South Africa,RSA,0,2,1,0,1,2,South Africa,2.0,0.0,0.0,1.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+54,54,781,300186496,255931,2014-06-15,2014,Brazil,Porto Alegre,Estadio Beira-Rio,43012.0,Groups,France,FRA,Honduras,HON,1,0,2,0,3,0,France,1.0,0.0,2.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+55,55,796,300186514,255931,2014-06-20,2014,Brazil,Salvador,Arena Fonte Nova,51003.0,Groups,Switzerland,SUI,France,FRA,0,3,2,2,2,5,France,3.0,0.0,2.0,2.0,5.0,2.0,Groups,Groups,1.0,1.0,1.0
+56,56,815,300186515,255931,2014-06-25,2014,Brazil,Rio de Janeiro,Estadio do Maracana,73749.0,Groups,Ecuador,ECU,France,FRA,0,0,0,0,0,0,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+57,57,822,300186462,255951,2014-06-30,2014,Brazil,Brasília,Estadio Nacional,67882.0,Round of 16,France,FRA,Nigeria,NGA,0,0,2,0,2,0,France,0.0,0.0,2.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+58,58,825,300186485,255953,2014-07-04,2014,Brazil,Rio de Janeiro,Estadio do Maracana,74240.0,Quarterfinals,France,FRA,Germany,GER,0,1,0,0,0,1,Germany,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+59,59,840,300186462,255951,2014-06-30,2014,Brazil,Brasília,Estadio Nacional,67882.0,Round of 16,France,FRA,Nigeria,NGA,0,0,2,0,2,0,France,0.0,0.0,2.0,0.0,2.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+60,60,844,300186485,255953,2014-07-04,2014,Brazil,Rio de Janeiro,Estadio do Maracana,74240.0,Quarterfinals,France,FRA,Germany,GER,0,1,0,0,0,1,Germany,1.0,0.0,0.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0

@@ -1,11 +1,11 @@
-,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value
-0,79,1283,211,1954-06-17,1954,Switzerland,Berne,Wankdorf Stadium,28000.0,Groups,West Germany,FRG,Turkey,TUR,1,1,3,0,4,1,West Germany,1.0,1.0,3.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0
-1,88,1304,211,1954-06-20,1954,Switzerland,Geneva,Charmilles,4000.0,Groups,Turkey,TUR,South Korea,KOR,4,0,3,0,7,0,Turkey,4.0,0.0,3.0,0.0,7.0,0.0,Groups,Groups,1.0,1.0
-2,91,1284,211,1954-06-23,1954,Switzerland,Zürich,Hardturm,17000.0,Groups,West Germany,FRG,Turkey,TUR,3,1,4,1,7,2,West Germany,3.0,1.0,4.0,1.0,7.0,2.0,Groups,Groups,1.0,1.0
-3,588,43950010,43950100,2002-06-03,2002,South Korea,Ulsan,Munsu Football Stadium,33842.0,Groups,Brazil,BRA,Turkey,TUR,0,1,2,0,2,1,Brazil,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0
-4,606,43950028,43950100,2002-06-09,2002,South Korea,Incheon,Incheon Football Stadium,42299.0,Groups,Costa Rica,CRC,Turkey,TUR,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0
-5,622,43950042,43950100,2002-06-13,2002,South Korea,Seoul,Seoul World Cup Stadium,43605.0,Groups,Turkey,TUR,China PR,CHN,2,0,1,0,3,0,Turkey,2.0,0.0,1.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0
-6,635,43950055,43950200,2002-06-18,2002,Japan,Rifu,Miyagi Stadium,45666.0,Round of 16,Japan,JPN,Turkey,TUR,0,1,0,0,0,1,Turkey,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0
-7,639,43950060,43950300,2002-06-22,2002,Japan,Osaka,Osaka Nagai Stadium,44233.0,Quarterfinals,Senegal,SEN,Turkey,TUR,0,0,0,1,0,1,Turkey,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0
-8,642,43950062,43950400,2002-06-26,2002,Japan,Saitama,Saitama Stadium 2002,61058.0,Semifinals,Brazil,BRA,Turkey,TUR,0,0,1,0,1,0,Brazil,0.0,0.0,1.0,0.0,1.0,0.0,Semifinals,Semifinals,4.0,4.0
-9,643,43950063,43950500,2002-06-29,2002,South Korea,Daegu,Daegu World Cup Stadium,63483.0,Third place,South Korea,KOR,Turkey,TUR,1,3,1,0,2,3,Turkey,3.0,1.0,0.0,1.0,3.0,2.0,Third place,Third place,5.0,5.0
+,level_0,index,matchID,roundID,match_date,year,country,city,stadium,attendance,stage,home_name,home_init,away_name,away_init,home_score_half1,away_score_half1,home_score_half2,away_score_half2,home_score_final,away_score_final,winner,winning_score_half1,losing_score_half1,winning_score_half2,losing_score_half2,winning_score_final,losing_score_final,home_result,away_result,home_result_value,away_result_value,Turkey_result_value
+0,0,79,1283,211,1954-06-17,1954,Switzerland,Berne,Wankdorf Stadium,28000.0,Groups,West Germany,FRG,Turkey,TUR,1,1,3,0,4,1,West Germany,1.0,1.0,3.0,0.0,4.0,1.0,Groups,Groups,1.0,1.0,1.0
+1,1,88,1304,211,1954-06-20,1954,Switzerland,Geneva,Charmilles,4000.0,Groups,Turkey,TUR,South Korea,KOR,4,0,3,0,7,0,Turkey,4.0,0.0,3.0,0.0,7.0,0.0,Groups,Groups,1.0,1.0,1.0
+2,2,91,1284,211,1954-06-23,1954,Switzerland,Zürich,Hardturm,17000.0,Groups,West Germany,FRG,Turkey,TUR,3,1,4,1,7,2,West Germany,3.0,1.0,4.0,1.0,7.0,2.0,Groups,Groups,1.0,1.0,1.0
+3,3,588,43950010,43950100,2002-06-03,2002,South Korea,Ulsan,Munsu Football Stadium,33842.0,Groups,Brazil,BRA,Turkey,TUR,0,1,2,0,2,1,Brazil,0.0,1.0,2.0,0.0,2.0,1.0,Groups,Groups,1.0,1.0,1.0
+4,4,606,43950028,43950100,2002-06-09,2002,South Korea,Incheon,Incheon Football Stadium,42299.0,Groups,Costa Rica,CRC,Turkey,TUR,0,0,1,1,1,1,Draw,,,,,,,Groups,Groups,1.0,1.0,1.0
+5,5,622,43950042,43950100,2002-06-13,2002,South Korea,Seoul,Seoul World Cup Stadium,43605.0,Groups,Turkey,TUR,China PR,CHN,2,0,1,0,3,0,Turkey,2.0,0.0,1.0,0.0,3.0,0.0,Groups,Groups,1.0,1.0,1.0
+6,6,635,43950055,43950200,2002-06-18,2002,Japan,Rifu,Miyagi Stadium,45666.0,Round of 16,Japan,JPN,Turkey,TUR,0,1,0,0,0,1,Turkey,1.0,0.0,0.0,0.0,1.0,0.0,Round of 16,Round of 16,2.0,2.0,2.0
+7,7,639,43950060,43950300,2002-06-22,2002,Japan,Osaka,Osaka Nagai Stadium,44233.0,Quarterfinals,Senegal,SEN,Turkey,TUR,0,0,0,1,0,1,Turkey,0.0,0.0,1.0,0.0,1.0,0.0,Quarterfinals,Quarterfinals,3.0,3.0,3.0
+8,8,642,43950062,43950400,2002-06-26,2002,Japan,Saitama,Saitama Stadium 2002,61058.0,Semifinals,Brazil,BRA,Turkey,TUR,0,0,1,0,1,0,Brazil,0.0,0.0,1.0,0.0,1.0,0.0,Semifinals,Semifinals,4.0,4.0,4.0
+9,9,643,43950063,43950500,2002-06-29,2002,South Korea,Daegu,Daegu World Cup Stadium,63483.0,Third place,South Korea,KOR,Turkey,TUR,1,3,1,0,2,3,Turkey,3.0,1.0,0.0,1.0,3.0,2.0,Third place,Third place,5.0,5.0,5.0
