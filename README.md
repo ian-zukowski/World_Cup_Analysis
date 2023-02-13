@@ -38,7 +38,7 @@ PostgreSQL . . .
 
 Charts detailing these trends can be found by clicking the link below.
 
-![[Average Score Graphs](Analysis/Year-to-Year/). 
+![Average Score Graphs](Analysis/Year-to-Year/). 
 
 
 
